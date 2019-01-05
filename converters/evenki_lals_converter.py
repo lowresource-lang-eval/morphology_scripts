@@ -26,41 +26,67 @@ CONLL_DET = "DET"
 CONLL_OTHER = "X"
 
 
-POS_CONVERSION = {u'сущ':'N', u'гл':'V', u'кол.числ':'Card', u'прил':'Adj', u'нареч':'Adv',
-                  u'част':u'Part'}
+POS_CONVERSION = {'n': CONLL_NOUN,
+                  'adj' : CONLL_ADJ,
+                  'v' : CONLL_VERB,
+                  'adv' : CONLL_ADV,
+                  'cardnum': CONLL_NUM,
+                  'pro' : CONLL_PRON,
+                  'pers' : CONLL_PRON,
+                  'pro-adj': CONLL_DET,
+                  'SLIP' : CONLL_OTHER,
+                  'interj' : CONLL_INTJ,
+                  'advlizer' : CONLL_VERB,
+                  'conn' : CONLL_SCONJ,
+                  '[нрзб]' : CONLL_OTHER,
+                  '???' : CONLL_OTHER,
+                  'prt' : CONLL_OTHER}
 
 """
 applies conll format conversion to all eaf files in a folder
 """
 def convert_folder_conll(folder_name, output_filename, filenames_filter=None):
+    with open('D:/Projects/morphology_scripts/data/log.txt', 'w', encoding='utf-8') as fout:
+        fout.write('')
     file_num = 0
     bad_files = []
+    num_tokens = 0
+    num_sentences = 0
     with open(output_filename, 'w', encoding='utf-8') as fout:
         for filename in os.listdir(folder_name):
             print("=========" + filename + "==============")
             if eaf_utils.is_eaf(filename) and((not filenames_filter) or (filename in filenames_filter)):
                 try:
-                    convert_file_conll(os.path.join(folder_name, filename), fout)
+                    file_num_tokens, file_num_sentences  = convert_file_conll(os.path.join(folder_name, filename), fout)
                     file_num += 1
+                    num_tokens += file_num_tokens
+                    num_sentences += file_num_sentences
                 except Exception as e:
                     print(e)
                     bad_files.append((filename, e))
     print("%s files converted" % file_num)
-    return bad_files
+    return bad_files, num_tokens, num_sentences
 
 """
 converts eaf files from the http://siberian-lang.srcc.msu.ru project
 to the format specified at <TODO>
 """
 def convert_file_conll(filename, fout):
+    total_num_sentences = 0
+    num_tokens = 0
     text_data = eaf_utils.get_text_data(filename, EVENKI_LANGUAGE_CODE)
     if not text_data:
         raise Exception("Empty filename: %s" % filename)
     for sentence_num, text_data_sentence in enumerate(text_data):
+        if not text_data_sentence['morphology']:
+            continue
+        total_num_sentences += 1
         if sentence_num > 0:
             fout.write(CONLL_NEW_LINE)
         write_comment_data(text_data_sentence, fout)
-        write_all_tokens_data(text_data_sentence, fout, filename)
+        num_sentence_tokens = write_all_tokens_data(text_data_sentence, fout, filename)
+        num_tokens += num_sentence_tokens
+    return num_tokens, total_num_sentences
 
 """
 creates metadata comment lines
@@ -74,10 +100,9 @@ creates the token table for CONLL
 """
 def write_all_tokens_data(text_data_sentence, fout, filename):
     morph_data = text_data_sentence['morphology']
-    if not morph_data:
-        raise Exception("Empty morphology: %s" % filename)
     for token_id, morph_data_token in enumerate(morph_data):
         write_token_data(token_id, morph_data_token, filename, fout)
+    return len(morph_data)
 
 
 def write_token_data(token_id, morph_data_token, filename, fout):
@@ -91,6 +116,10 @@ def write_token_data(token_id, morph_data_token, filename, fout):
     output_line += get_lemma(morph_data_token)
     output_line += CONLL_DELIMITER
     #UPOS
+
+    if morph_data_token['token'] == 'gawkī':
+        test_debug = 5
+
     output_line += processPOS(morph_data_token['pos'], morph_data_token['analysis'], filename)
     output_line += CONLL_DELIMITER
     #XPOS
@@ -132,10 +161,17 @@ def processPOS(pos, analysis, filename):
 def guessPOS(analysis, filename):
     pos = None
     first_gloss = normalize_gloss(analysis[0]['gloss'])
+    first_fon = analysis[0]['fon']
     if first_gloss.strip() == '':
         return CONLL_OTHER
+    if language_utils.is_slip_unknown(first_gloss):
+        return CONLL_OTHER
+    if language_utils.is_noun_negation(first_fon, first_gloss):
+        return CONLL_NOUN
 
     possible_pos_set = language_utils.get_russian_pos_set(first_gloss)
+    if language_utils.is_interjection_translation(first_gloss):
+        return CONLL_INTJ
     if language_utils.is_proper_noun_translation(first_gloss):
         return CONLL_PROPER
     if language_utils.is_c_conjunction_translation(first_gloss):
@@ -148,24 +184,24 @@ def guessPOS(analysis, filename):
         return CONLL_ADV
     if language_utils.is_determiner_translation(first_gloss, analysis):
         return CONLL_DET
-    if language_utils.is_pronoun_translation(first_gloss):
+    if language_utils.is_pronoun_translation(first_fon, first_gloss):
         return CONLL_PRON
     if language_utils.is_adjective_translation(possible_pos_set):
         return CONLL_ADJ
 
-
-    for analysis_part in analysis:
-        gloss = normalize_gloss(analysis_part['gloss'])
-        if language_utils.is_slip(gloss):
-            return CONLL_OTHER
-        if language_utils.is_verb_gloss(gloss):
-            return CONLL_VERB
-        if language_utils.is_adjective_gloss(gloss):
-            return CONLL_ADJ
-        if language_utils.is_adverb_gloss(gloss):
-            return CONLL_ADV
-        if language_utils.is_noun_gloss(gloss):
-            return CONLL_NOUN
+    if len(analysis) > 1:
+        for analysis_part in analysis[1:]:
+            gloss = normalize_gloss(analysis_part['gloss'])
+            if language_utils.is_slip(gloss):
+                return CONLL_OTHER
+            if language_utils.is_verb_gloss(gloss):
+                return CONLL_VERB
+            if language_utils.is_adjective_gloss(gloss):
+                return CONLL_ADJ
+            if language_utils.is_adverb_gloss(gloss):
+                return CONLL_ADV
+            if language_utils.is_noun_gloss(gloss):
+                return CONLL_NOUN
     if pos is None:
         with open('D:/Projects/morphology_scripts/data/log.txt', 'a', encoding='utf-8') as fout:
             fout.write("FILENAME %s ATTENTION %s " % (filename, analysis) + '\r\n')
@@ -182,10 +218,12 @@ def normalize_gloss(gloss):
     return gloss.strip('-').split('{')[0].split('[')[0]
 
 
-bad_files = convert_folder_conll("D:/ForElan/ForSIL_CORPUS/evenki_texts_corpus_05112018",
+bad_files, num_tokens, num_sentences = convert_folder_conll("D:/ForElan/ForSIL_CORPUS/evenki_texts_corpus_05112018",
                    "D:/Projects/morphology_scripts/data/test.txt",
-                    ['2007_Ekonda_Pankagir_LAv_transliterated.eaf_new.eaf']
+                    []
                      )
 
 for filename, e in bad_files:
     print("%s:%s" % (filename, e))
+
+print("Total tokens: %s. Total sentences: %s" % (num_tokens, num_sentences))

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*
 __author__ = "gisly"
 
+import re
 import pymorphy2
 morph = pymorphy2.MorphAnalyzer()
 
@@ -72,14 +73,85 @@ GLOSSES_NOUN_PREFIXES = ['NMLZ', 'DATLOC', 'LOCALL', 'ACC', 'ACCIN', 'ABL', 'ALL
                          'PROL',
                          'COLL', 'FAM',
                          'INDPS',
-                         'DEADREL'
+                         'DEADREL',
                          ]
 
-GLOSSES_PROPER_PREFIXES = ['HYDR.NAME']
+GLOSSES_PROPER_PREFIXES = ['HYDR.NAME', 'GEOGR']
 GLOSSES_SLIP = ['SLIP', 'hes', 'HES', '?', 'нрзб']
 
 NEGATIVE_ROOTS = ['āči', 'āčin', 'ači', 'ačin',
                           'āśi', 'āśin', 'aśi', 'aśin']
+
+
+BAD_CHARACTERS = '[ˀ∅Øø…\?\-\.,\*]'
+
+REGEX_ADDITIONAL_INFO = '(.)((\[|\(|{).+?(\]|\)|}))'
+REGEX_NOT_LAST_CHARACTER = '=(.)'
+
+FON_REPLACEMENTS = {
+                    BAD_CHARACTERS : '',
+                    REGEX_ADDITIONAL_INFO : (lambda x: x.group(1)),
+                    REGEX_NOT_LAST_CHARACTER : (lambda x: x.group(1)),
+                    'ɒ' : 'o',
+                    'ɔ' : 'o',
+                    'ε' : 'e',
+                    'č' : 't͡ʃ',
+                    'd\'': 'ď',
+                    'd’' : 'd',
+                    '\u01EF' : 'ď',
+                    't\'' : 'ť',
+                    't’' : 'ť',
+                    'ń' : 'ɲ',
+                    'n\u0301': 'ɲ',
+                    'n\'' : 'ɲ',
+                    'n’' : 'ɲ',
+                    'l’' : 'l',
+                    'ĺ' : 'l',
+                    'ľ' : 'l',
+                    'ŕ' : 'r',
+                    's’' : 'ś',
+                    's\'' : 'ś',
+                    'š' : 'ʃ',
+                    'ž' : 'ʒ',
+                    'ɣ' : 'γ',
+                    'χ' : 'x',
+                    'ʍ' : 'f',
+                    '{*}' : '',
+                    '\/.+': '',
+                    '[:̄̅]' : 'ː',
+
+                    'ā' : 'aː',
+                    'ă' : 'a',
+                    'ē' : 'eː',
+                    'í' : 'iː',
+                    'ī' : 'iː',
+                    'ō' : 'oː',
+                    'ū' : 'uː',
+                    'y' : 'i',
+                    'ɨ' : 'i',
+                    'ǝ' : 'ə',
+                    'ɵ' : 'ə',
+                    'ә' : 'ə',
+                    }
+
+FON_REPLACEMENTS_STAGE_2 = {
+                        "'" : '',
+                        '’' : '',
+                        "\u0301" : '',
+                        "[\[\]]": ''
+                            }
+DERIVATIVE_GLOSSES = ['ATTEN',
+                      'DIM',
+                      'CHILD', 'COVER', 'DAY', 'DEADREL', 'DER', 'DEST.FAG',
+                       'EQT', 'EVERY', 'FAG', 'FAKE', 'GEOGR', 'INDEF',
+                      'ONOM', 'PEJOR', 'PELT', 'PEOPLE',
+                      'PREDEST', 'PRGRN', 'QUANT', 'REDIS', 'RESID',
+                      'ROOM', 'RYTHM', 'SIDE'
+                      ]
+DERIVATIVE_GLOSS_PREFIXES = ['ADVZ', 'ADBLZ', 'ADJ', 'ATR', 'ADVR', 'AUG', 'INTER', 'NDEF',
+                             'NMLZ', 'NMNLZ', 'VBLZ', 'VERB']
+
+GLOSSES_TO_REPLACE = dict()
 
 def get_russian_pos_set(russian_word):
     return set([p.tag.POS for p in morph.parse(russian_word)])
@@ -157,9 +229,53 @@ def has_prefix(gloss, PREFIX_LIST):
             return True
     return False
 
+def is_cyrillic(token):
+    return re.findall(r'[ЁёА-Яа-я]', token) != []
+
+def is_cyrillic_only(token):
+    return re.match(r'[ЁёА-Яа-я]+$', token) is not None
+
+def normalize_glosses(analysis):
+    normalized_glosses = [analysis[0]['gloss']]
+    for analysis_part in analysis[1:]:
+        gloss = analysis_part['gloss'].strip('-')
+        normalized_glosses.append(normalize_gloss(gloss))
+    return normalized_glosses
+
+def normalize_gloss(gloss):
+    if is_cyrillic_only(gloss):
+        return gloss
+    gloss = gloss.upper()
+    gloss = gloss.replace('[SLIP]', '.SLIP')
+    gloss = re.sub('\(([ЁёА-Яа-я]+).+?\)', '', gloss)
+    gloss = re.sub('\[([ЁёА-Яа-я]+).+?\]', '', gloss)
+    gloss = re.sub('[\[\]\-=\?\\\]', '', gloss)
+    gloss = re.sub('{(\*)+}', '', gloss)
+
+
+    if gloss in GLOSSES_TO_REPLACE:
+        return GLOSSES_TO_REPLACE[gloss]
+    return gloss
+
+def normalize_token(token):
+    token = token.lower()
+    token = make_replacements(token, FON_REPLACEMENTS)
+    token = make_replacements(token, FON_REPLACEMENTS_STAGE_2)
+    return token
+
+def make_replacements(token, replacement_dict):
+    for replacement_pair in replacement_dict.items():
+        token = re.sub(replacement_pair[0], replacement_pair[1], token)
+    return token
+
+def is_derivative(gloss):
+    normalized_gloss = normalize_gloss(gloss)
+    return normalized_gloss in DERIVATIVE_GLOSSES or \
+           has_prefix(normalized_gloss, DERIVATIVE_GLOSS_PREFIXES)
+
 
 def main():
-    print(get_russian_pos_set('отсутствующий'))
+    print(normalize_gloss('PNEG[SLIP]'))
 
 
 if __name__ == '__main__':

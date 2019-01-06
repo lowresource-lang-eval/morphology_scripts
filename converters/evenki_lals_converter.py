@@ -6,6 +6,7 @@ import os
 import language_utils
 import eaf_utils
 
+
 EVENKI_LANGUAGE_CODE = "ev"
 
 CONLL_DELIMITER = '\t'
@@ -41,6 +42,10 @@ POS_CONVERSION = {'n': CONLL_NOUN,
                   '[нрзб]' : CONLL_OTHER,
                   '???' : CONLL_OTHER,
                   'prt' : CONLL_OTHER}
+
+
+FON_SET = set()
+GLOSSES = dict()
 
 """
 applies conll format conversion to all eaf files in a folder
@@ -78,11 +83,12 @@ def convert_file_conll(filename, fout):
     if not text_data:
         raise Exception("Empty filename: %s" % filename)
     for sentence_num, text_data_sentence in enumerate(text_data):
-        if not text_data_sentence['morphology']:
+        if not text_data_sentence['morphology'] or \
+                has_cyrillic(text_data_sentence['morphology']):
             continue
-        total_num_sentences += 1
         if sentence_num > 0:
             fout.write(CONLL_NEW_LINE)
+        total_num_sentences += 1
         write_comment_data(text_data_sentence, fout)
         num_sentence_tokens = write_all_tokens_data(text_data_sentence, fout, filename)
         num_tokens += num_sentence_tokens
@@ -100,27 +106,42 @@ creates the token table for CONLL
 """
 def write_all_tokens_data(text_data_sentence, fout, filename):
     morph_data = text_data_sentence['morphology']
+
     for token_id, morph_data_token in enumerate(morph_data):
         write_token_data(token_id, morph_data_token, filename, fout)
     return len(morph_data)
 
 
 def write_token_data(token_id, morph_data_token, filename, fout):
+    token = language_utils.normalize_token(morph_data_token['token'])
+    normalized_glosses = language_utils.normalize_glosses(morph_data_token['analysis'])
+
+    if len(normalized_glosses) > 1:
+        base_filename = os.path.basename(filename)
+        for normalized_gloss in normalized_glosses[1:]:
+            if normalized_gloss in GLOSSES:
+                GLOSSES[normalized_gloss].add(base_filename)
+            else:
+                GLOSSES[normalized_gloss] = {base_filename}
+
+    if token == '':
+        return
     #ID
     output_line = str(token_id + 1)
     output_line += CONLL_DELIMITER
     #FORM
-    output_line += morph_data_token['token']
+    output_line += token
     output_line += CONLL_DELIMITER
+
+    for symbol in token:
+        FON_SET.add(symbol)
+
     #LEMMA
-    output_line += get_lemma(morph_data_token)
+    output_line += get_lemma(morph_data_token, normalized_glosses)
     output_line += CONLL_DELIMITER
     #UPOS
-
-    if morph_data_token['token'] == 'gawkī':
-        test_debug = 5
-
-    output_line += processPOS(morph_data_token['pos'], morph_data_token['analysis'], filename)
+    output_line += processPOS(morph_data_token['pos'], morph_data_token['analysis'],
+                              normalized_glosses, filename)
     output_line += CONLL_DELIMITER
     #XPOS
     output_line += CONLL_UNAVAILABLE
@@ -144,8 +165,18 @@ def write_token_data(token_id, morph_data_token, filename, fout):
     fout.write(output_line + CONLL_NEW_LINE)
 
 
-def get_lemma(morph_data_token):
-    return morph_data_token['analysis'][0]['fon']
+def get_lemma(morph_data_token, normalized_glosses):
+    lemma = morph_data_token['analysis'][0]['fon']
+    for i in range(1, len(normalized_glosses)):
+        analysis = morph_data_token['analysis'][i]
+        gloss_normalized = normalized_glosses[i]
+        if language_utils.is_derivative(gloss_normalized):
+            lemma += analysis['fon'].strip('-')
+        else:
+            pass
+            #break
+
+    return language_utils.normalize_token(lemma)
 
 
 def generate_features(morph_data_token):
@@ -153,14 +184,14 @@ def generate_features(morph_data_token):
     return ""
 
 
-def processPOS(pos, analysis, filename):
+def processPOS(pos, analysis, normalized_glosses, filename):
     if pos:
         return encodePOS(pos)
-    return guessPOS(analysis, filename)
+    return guessPOS(analysis, normalized_glosses, filename)
 
-def guessPOS(analysis, filename):
+def guessPOS(analysis, normalized_glosses, filename):
     pos = None
-    first_gloss = normalize_gloss(analysis[0]['gloss'])
+    first_gloss = normalize_gloss(normalized_glosses[0])
     first_fon = analysis[0]['fon']
     if first_gloss.strip() == '':
         return CONLL_OTHER
@@ -190,8 +221,9 @@ def guessPOS(analysis, filename):
         return CONLL_ADJ
 
     if len(analysis) > 1:
-        for analysis_part in analysis[1:]:
-            gloss = normalize_gloss(analysis_part['gloss'])
+        for i in range(1, len(analysis)):
+            analysis_part = analysis[i]
+            gloss = normalized_glosses[i]
             if language_utils.is_slip(gloss):
                 return CONLL_OTHER
             if language_utils.is_verb_gloss(gloss):
@@ -203,8 +235,8 @@ def guessPOS(analysis, filename):
             if language_utils.is_noun_gloss(gloss):
                 return CONLL_NOUN
     if pos is None:
-        with open('D:/Projects/morphology_scripts/data/log.txt', 'a', encoding='utf-8') as fout:
-            fout.write("FILENAME %s ATTENTION %s " % (filename, analysis) + '\r\n')
+        """with open('D:/Projects/morphology_scripts/data/log.txt', 'a', encoding='utf-8') as fout:
+            fout.write("FILENAME %s ATTENTION %s " % (filename, analysis) + '\r\n')"""
         return CONLL_NOUN
     return pos
 
@@ -213,6 +245,14 @@ def encodePOS(inner_POS):
     if inner_POS in POS_CONVERSION:
         return POS_CONVERSION[inner_POS]
     raise Exception("no such pos:" + inner_POS)
+
+def has_cyrillic(morph_data):
+    for morph_data_token in morph_data:
+        if language_utils.is_cyrillic(morph_data_token['token']):
+            return True
+    return False
+
+
 
 def normalize_gloss(gloss):
     return gloss.strip('-').split('{')[0].split('[')[0]
@@ -227,3 +267,9 @@ for filename, e in bad_files:
     print("%s:%s" % (filename, e))
 
 print("Total tokens: %s. Total sentences: %s" % (num_tokens, num_sentences))
+
+print(sorted(list(FON_SET)))
+sorted_glosses = sorted(list(GLOSSES.keys()))
+for gloss in sorted_glosses:
+    filename_set = GLOSSES[gloss]
+    print(gloss, '\t', ';'.join(sorted(list(filename_set))))

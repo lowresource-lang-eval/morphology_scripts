@@ -101,6 +101,8 @@ def get_analysis(root, fon_word, tier_num, fon_token, translation):
         if glossValue is None:
             raise Exception(
                 'No gloss element for fonWord %s with id: %s, sentence: %s' % (fon_word_id, fon_token, translation))
+
+
         analysis.append({'fon': fon_value, 'gloss': glossValue})
     return analysis
 
@@ -159,9 +161,6 @@ def get_gloss_by_id(root, annotation_id, tier_num):
     return root.find(GLOSS_XPATH % tier_num + "[@" +
                      ANNOTATION_REF_ATTRIBUTE +
                      "='" + annotation_id + "']")
-
-
-
 
 
 def is_eaf(filename):

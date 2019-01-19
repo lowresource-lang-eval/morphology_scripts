@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*
 __author__ = "gisly"
 import os
+import traceback
+
 
 import language_utils
 import eaf_utils
@@ -11,7 +13,7 @@ EVENKI_LANGUAGE_CODE = "ev"
 
 CONLL_DELIMITER = '\t'
 CONLL_NEW_LINE = '\n'
-CONLL_UNAVAILABLE = '_'
+CONLL_NO_VALUE = '_'
 
 CONLL_NOUN = "NOUN"
 CONLL_PROPER = "PROPN"
@@ -25,7 +27,7 @@ CONLL_NUM = "NUM"
 CONLL_ADV = "ADV"
 CONLL_DET = "DET"
 CONLL_OTHER = "X"
-
+CONLL_PARTICLE = "PART"
 
 POS_CONVERSION = {'n': CONLL_NOUN,
                   'adj' : CONLL_ADJ,
@@ -46,28 +48,34 @@ POS_CONVERSION = {'n': CONLL_NOUN,
 
 FON_SET = set()
 GLOSSES = dict()
+CODE_SWITCHING = set()
 
-"""
-applies conll format conversion to all eaf files in a folder
-"""
+FEATURE_TABLE = None
+FEATURE_FILENAME = "../resources/feature_table.csv"
+
+
 def convert_folder_conll(folder_name, output_filename, filenames_filter=None):
-    with open('D:/Projects/morphology_scripts/data/log.txt', 'w', encoding='utf-8') as fout:
+    #TODO: remove this logging
+    with open('log.txt', 'w', encoding='utf-8') as fout:
         fout.write('')
+
     file_num = 0
     bad_files = []
     num_tokens = 0
     num_sentences = 0
     with open(output_filename, 'w', encoding='utf-8') as fout:
         for filename in os.listdir(folder_name):
-            print("=========" + filename + "==============")
-            if eaf_utils.is_eaf(filename) and((not filenames_filter) or (filename in filenames_filter)):
+            if eaf_utils.is_eaf(filename) and \
+                    ((not filenames_filter) or (filename in filenames_filter)):
                 try:
-                    file_num_tokens, file_num_sentences  = convert_file_conll(os.path.join(folder_name, filename), fout)
+                    print("=======", filename, "==============")
+                    file_num_tokens, file_num_sentences = convert_file_conll(os.path.join(folder_name, filename), fout)
                     file_num += 1
                     num_tokens += file_num_tokens
                     num_sentences += file_num_sentences
                 except Exception as e:
                     print(e)
+                    traceback.print_exc()
                     bad_files.append((filename, e))
     print("%s files converted" % file_num)
     return bad_files, num_tokens, num_sentences
@@ -106,15 +114,38 @@ creates the token table for CONLL
 """
 def write_all_tokens_data(text_data_sentence, fout, filename):
     morph_data = text_data_sentence['morphology']
-
-    for token_id, morph_data_token in enumerate(morph_data):
-        write_token_data(token_id, morph_data_token, filename, fout)
+    token_id = 0
+    for morph_data_token in morph_data:
+        token_id = write_token_data(token_id, morph_data_token, filename, fout)
     return len(morph_data)
 
 
 def write_token_data(token_id, morph_data_token, filename, fout):
-    token = language_utils.normalize_token(morph_data_token['token'])
-    normalized_glosses = language_utils.normalize_glosses(morph_data_token['analysis'])
+    tokens_data = normalize_tokens(morph_data_token)
+    num_tokens = len(tokens_data)
+    for token_data in tokens_data:
+        token_number = generate_number(token_id, token_data['is_multiword'], num_tokens)
+
+        write_single_token_data(token_number, token_data,
+                                filename, fout)
+        if not token_data['is_multiword']:
+            token_id += 1
+    return token_id
+
+
+def generate_number(token_id, is_multiword, num_tokens):
+    starting_num = token_id + 1
+    if is_multiword:
+        return str(starting_num) + "-" + str(starting_num + num_tokens - 2)
+    return str(starting_num)
+
+def write_single_token_data(token_number, tokens_data,
+                            filename, fout):
+    normalized_glosses = tokens_data['normalized_glosses']
+    normalized_token = tokens_data['normalized_token']
+    normalized_lemma = tokens_data['normalized_lemma']
+    normalized_pos = tokens_data['normalized_pos']
+    normalized_features = tokens_data['normalized_features']
 
     if len(normalized_glosses) > 1:
         base_filename = os.path.basename(filename)
@@ -124,80 +155,222 @@ def write_token_data(token_id, morph_data_token, filename, fout):
             else:
                 GLOSSES[normalized_gloss] = {base_filename}
 
-    if token == '':
-        return
+
     #ID
-    output_line = str(token_id + 1)
+    output_line = token_number
     output_line += CONLL_DELIMITER
     #FORM
-    output_line += token
+    output_line += normalized_token
     output_line += CONLL_DELIMITER
 
-    for symbol in token:
+    for symbol in normalized_token:
         FON_SET.add(symbol)
 
     #LEMMA
-    output_line += get_lemma(morph_data_token, normalized_glosses)
+    output_line += normalized_lemma
     output_line += CONLL_DELIMITER
     #UPOS
-    output_line += processPOS(morph_data_token['pos'], morph_data_token['analysis'],
-                              normalized_glosses, filename)
+    output_line += normalized_pos
     output_line += CONLL_DELIMITER
     #XPOS
-    output_line += CONLL_UNAVAILABLE
+    output_line += CONLL_NO_VALUE
     output_line += CONLL_DELIMITER
     #FEATS
-    output_line += generate_features(morph_data_token)
+    output_line += normalized_features
     output_line += CONLL_DELIMITER
     #HEAD
-    output_line += CONLL_UNAVAILABLE
+    output_line += CONLL_NO_VALUE
     output_line += CONLL_DELIMITER
     #DEPREL
-    output_line += CONLL_UNAVAILABLE
+    output_line += CONLL_NO_VALUE
     output_line += CONLL_DELIMITER
     #DEPS
-    output_line += CONLL_UNAVAILABLE
+    output_line += CONLL_NO_VALUE
     output_line += CONLL_DELIMITER
     #MISC
-    output_line += CONLL_UNAVAILABLE
+    output_line += CONLL_NO_VALUE
     output_line += CONLL_DELIMITER
 
     fout.write(output_line + CONLL_NEW_LINE)
 
 
-def get_lemma(morph_data_token, normalized_glosses):
-    lemma = morph_data_token['analysis'][0]['fon']
-    for i in range(1, len(normalized_glosses)):
+def normalize_tokens(morph_data_token):
+    tokens_data = []
+
+    if morph_data_token['token'] == 'nalnətčuØ':
+        debug_test1 = 1
+
+    multiword, normalized_tokens = language_utils.normalize_tokens(morph_data_token)
+    if multiword != '':
+        tokens_data.append({'normalized_token' : multiword,
+                            'normalized_glosses' : [],
+                            'normalized_lemma' : CONLL_NO_VALUE,
+                            'normalized_pos' : CONLL_NO_VALUE,
+                            'normalized_features' : CONLL_NO_VALUE,
+                            'is_multiword': True})
+    
+    for normalized_token_glosses in normalized_tokens:
+        starting_index = normalized_token_glosses['starting_index']
+        normalized_token = normalized_token_glosses['normalized_token']
+        normalized_glosses = normalized_token_glosses['normalized_glosses']
+        normalized_lemma = get_lemma(starting_index, morph_data_token, normalized_glosses)
+
+        normalized_pos = processPOS(morph_data_token['pos'],
+                                    morph_data_token['analysis'][starting_index]['fon'],
+                                  normalized_token,
+                                  normalized_glosses)
+        normalized_features = normalize_features(get_features(morph_data_token, normalized_pos, normalized_glosses))
+        tokens_data.append({'normalized_token' : normalized_token,
+                            'normalized_glosses' : normalized_glosses,
+                            'normalized_lemma' : normalized_lemma,
+                            'normalized_pos' : normalized_pos,
+                            'normalized_features' : normalized_features,
+                            'is_multiword' : False})
+    return tokens_data
+
+
+def get_lemma(starting_index, morph_data_token, normalized_glosses):
+    lemma = morph_data_token['analysis'][starting_index]['fon']
+    for i in range(starting_index + 1, len(normalized_glosses)):
         analysis = morph_data_token['analysis'][i]
         gloss_normalized = normalized_glosses[i]
         if language_utils.is_derivative(gloss_normalized):
             lemma += analysis['fon'].strip('-')
         else:
-            pass
-            #break
+            break
 
     return language_utils.normalize_token(lemma)
 
 
-def generate_features(morph_data_token):
-    #TODO
-    return ""
+def get_features(morph_data_token, normalized_pos, normalized_glosses):
+    if FEATURE_TABLE is None:
+        read_feature_table()
+    feature_list = []
+    for normalized_gloss in normalized_glosses:
+        if language_utils.is_slip_unknown(normalized_gloss):
+            return []
+        if normalized_gloss.startswith('?') or normalized_gloss.endswith('?'):
+            return []
+        if language_utils.is_cyrillic(normalized_gloss) \
+                or normalized_gloss == '':
+            continue
+
+        if normalized_gloss.endswith('.PL'):
+            normalized_gloss = 'PL'
+        feature_key = normalized_pos + "#" + normalized_gloss
+        if feature_key in FEATURE_TABLE:
+            feature_list += FEATURE_TABLE[feature_key]
+        else:
+            feature_key_all = "ALL#" + normalized_gloss
+            if feature_key_all in FEATURE_TABLE:
+                feature_list += FEATURE_TABLE[feature_key_all]
+            else:
+                print("BAD:====" + feature_key + ":" + str(morph_data_token))
+    feature_list = add_default_features(feature_list, normalized_pos)
+    feature_list = modify_features(feature_list, normalized_pos, morph_data_token['analysis'][0]['fon'])
+    feature_list = list(set(feature_list))
+    return feature_list
 
 
-def processPOS(pos, analysis, normalized_glosses, filename):
+def modify_features(feature_list, normalized_pos, stem):
+    if normalized_pos != CONLL_VERB:
+        return feature_list
+    is_imperfective = False
+    is_non_futurum = False
+    for feature_key, feature_value in feature_list:
+        if is_imperfective_feature(feature_key, feature_value):
+            is_imperfective = True
+        elif is_non_futurum_feature(feature_key, feature_value):
+            is_non_futurum = True
+
+    if is_non_futurum:
+        if is_imperfective:
+            feature_list.remove(('Tense', 'Nfut'))
+            feature_list.remove(('Aspect', 'Imp'))
+            feature_list.append(('Tense', 'Prs'))
+        elif stem == 'bi':
+            feature_list.remove(('Tense', 'Nfut'))
+            feature_list.append(('Tense', 'Prs'))
+        else:
+            feature_list.remove(('Tense', 'Nfut'))
+            feature_list.append(('Tense', 'Past'))
+
+    return feature_list
+
+
+def add_default_features(feature_list, normalized_pos):
+    if normalized_pos in [CONLL_NOUN, CONLL_PROPER]:
+        return add_default_features_nominal(feature_list)
+    if normalized_pos in [CONLL_VERB]:
+        return add_default_features_verbal(feature_list)
+    return feature_list
+
+def add_default_features_nominal(feature_list):
+    is_singular = True
+    is_nominative = True
+    for feature_key, feature_value in feature_list:
+        if is_nominative and is_non_nominative_case_feature(feature_key, feature_value):
+            is_nominative = False
+        if is_singular and is_non_singular_feature(feature_key, feature_value):
+            is_singular = False
+    if is_singular:
+        feature_list.append(('Number', 'Sing'))
+    if is_nominative:
+        feature_list.append(('Case', 'Nom'))
+    return feature_list
+
+def add_default_features_verbal(feature_list):
+    is_indicative = True
+    is_finite = True
+    for feature_key, feature_value in feature_list:
+        if is_indicative and is_non_indicative_feature(feature_key, feature_value):
+            is_indicative = False
+        if is_finite and is_non_finite_feature(feature_key, feature_value):
+            is_finite = False
+    if is_indicative and is_finite:
+        feature_list.append(('Mood', 'Ind'))
+        feature_list.append(('VerbForm', 'Fin'))
+    return feature_list
+
+def is_non_nominative_case_feature(feature_key, feature_value):
+    return feature_key == 'Case' and feature_value != 'Nom'
+
+def is_non_singular_feature(feature_key, feature_value):
+    return feature_key == 'Number' and feature_value != 'Sing'
+
+def is_non_indicative_feature(feature_key, feature_value):
+    return feature_key == 'Mood' and feature_value != 'Ind'
+
+def is_non_finite_feature(feature_key, feature_value):
+    return feature_key == 'VerbForm' and feature_value != 'Fin'
+
+def is_imperfective_feature(feature_key, feature_value):
+    return feature_key == 'Aspect' and feature_value == 'Imp'
+
+def is_non_futurum_feature(feature_key, feature_value):
+    return feature_key == 'Tense' and feature_value == 'Nfut'
+
+def processPOS(pos, normalized_token, first_fon, normalized_glosses):
     if pos:
         return encodePOS(pos)
-    return guessPOS(analysis, normalized_glosses, filename)
+    return guessPOS(normalized_token, first_fon, normalized_glosses)
 
-def guessPOS(analysis, normalized_glosses, filename):
-    pos = None
+def guessPOS(normalized_token, first_fon, normalized_glosses):
     first_gloss = normalize_gloss(normalized_glosses[0])
-    first_fon = analysis[0]['fon']
+
+    if first_gloss == 'FOC':
+        return CONLL_PARTICLE
     if first_gloss.strip() == '':
         return CONLL_OTHER
     if language_utils.is_slip_unknown(first_gloss):
         return CONLL_OTHER
     if language_utils.is_noun_negation(first_fon, first_gloss):
+        return CONLL_VERB
+    if language_utils.is_special_verbal_form(first_gloss):
+        return CONLL_VERB
+    if language_utils.is_personal_pronoun(first_gloss):
+        return CONLL_PRON
+    if language_utils.is_special_noun_stem(first_gloss):
         return CONLL_NOUN
 
     possible_pos_set = language_utils.get_russian_pos_set(first_gloss)
@@ -209,20 +382,24 @@ def guessPOS(analysis, normalized_glosses, filename):
         return CONLL_CCONJ
     if language_utils.is_s_conjunction_translation(first_gloss):
         return CONLL_SCONJ
-    if language_utils.is_numeric_translation(first_gloss):
-        return CONLL_NUM
-    if language_utils.is_adverb_translation(first_gloss, possible_pos_set):
-        return CONLL_ADV
-    if language_utils.is_determiner_translation(first_gloss, analysis):
+
+
+    if language_utils.is_determiner_translation(first_gloss, normalized_glosses):
         return CONLL_DET
     if language_utils.is_pronoun_translation(first_fon, first_gloss):
         return CONLL_PRON
-    if language_utils.is_adjective_translation(possible_pos_set):
-        return CONLL_ADJ
+    if language_utils.is_code_switching(normalized_token, normalized_glosses):
+        CODE_SWITCHING.add(normalized_token)
+        return CONLL_OTHER
 
-    if len(analysis) > 1:
-        for i in range(1, len(analysis)):
-            analysis_part = analysis[i]
+
+    # there cannot be a verb without any morphemes
+    # so a single-stem verb must be a SLIP
+    if language_utils.is_verb_gloss(first_gloss) and len(normalized_glosses) == 1:
+        return CONLL_OTHER
+
+    if len(normalized_glosses) > 1:
+        for i in range(1, len(normalized_glosses)):
             gloss = normalized_glosses[i]
             if language_utils.is_slip(gloss):
                 return CONLL_OTHER
@@ -234,11 +411,15 @@ def guessPOS(analysis, normalized_glosses, filename):
                 return CONLL_ADV
             if language_utils.is_noun_gloss(gloss):
                 return CONLL_NOUN
-    if pos is None:
-        """with open('D:/Projects/morphology_scripts/data/log.txt', 'a', encoding='utf-8') as fout:
-            fout.write("FILENAME %s ATTENTION %s " % (filename, analysis) + '\r\n')"""
-        return CONLL_NOUN
-    return pos
+    if language_utils.is_adjective_translation(possible_pos_set, normalized_glosses):
+        return CONLL_ADJ
+
+    if language_utils.is_adverb_translation(first_gloss, possible_pos_set):
+        return CONLL_ADV
+    if language_utils.is_numeric_translation(first_gloss):
+        return CONLL_NUM
+
+    return CONLL_NOUN
 
 
 def encodePOS(inner_POS):
@@ -257,8 +438,38 @@ def has_cyrillic(morph_data):
 def normalize_gloss(gloss):
     return gloss.strip('-').split('{')[0].split('[')[0]
 
+def normalize_features(features):
+    features_sorted = sorted(features, key = lambda x: x[0])
+    feature_string = ""
+    for feature in features_sorted:
+        if feature[0] == "-":
+            continue
+        feature_string += "|" + feature[0] + "=" + feature[1]
+    return feature_string.strip("|")
 
-bad_files, num_tokens, num_sentences = convert_folder_conll("D:/ForElan/ForSIL_CORPUS/evenki_texts_corpus_05112018",
+
+def read_feature_table():
+    global FEATURE_TABLE
+    FEATURE_TABLE = dict()
+    with open(FEATURE_FILENAME, "r", encoding="utf-8") as fin:
+        for line in fin:
+            line_parts = line.strip().split("\t")
+            feature_key = line_parts[0].strip() + "#" + line_parts[1].strip()
+            feature_parts = line_parts[2].strip().split("|")
+            feature_list = []
+            for feature_part in feature_parts:
+                feature_part_split = feature_part.split("=")
+                if len(feature_part_split) < 2:
+                    feature_list.append(("-", "-"))
+                else:
+                    feature_list.append((feature_part_split[0], feature_part_split[1]))
+            FEATURE_TABLE[feature_key] = feature_list
+
+
+
+
+bad_files, num_tokens, num_sentences = convert_folder_conll(
+    "D:/ForElan/ForSIL_CORPUS/evenki_texts_corpus_05112018",
                    "D:/Projects/morphology_scripts/data/test.txt",
                     []
                      )
@@ -266,9 +477,11 @@ bad_files, num_tokens, num_sentences = convert_folder_conll("D:/ForElan/ForSIL_C
 for filename, e in bad_files:
     print("%s:%s" % (filename, e))
 
+
 print("Total tokens: %s. Total sentences: %s" % (num_tokens, num_sentences))
 
-print(sorted(list(FON_SET)))
+print('\r\n'.join(sorted(list(FON_SET))))
+print('\r\n'.join(sorted(list(CODE_SWITCHING))))
 sorted_glosses = sorted(list(GLOSSES.keys()))
 for gloss in sorted_glosses:
     filename_set = GLOSSES[gloss]

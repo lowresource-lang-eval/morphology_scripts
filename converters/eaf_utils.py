@@ -4,8 +4,6 @@ __author__ = "gisly"
 
 import xml.etree.ElementTree as ET
 
-
-
 GLOSS_XPATH = ".//TIER[@TIER_ID='gl%s']/ANNOTATION/REF_ANNOTATION"
 FON_XPATH = ".//TIER[@TIER_ID='fon%s']/ANNOTATION/REF_ANNOTATION"
 POS_XPATH = ".//TIER[@TIER_ID='pos%s']/ANNOTATION/REF_ANNOTATION"
@@ -15,7 +13,6 @@ FONWORD2_XPATH = ".//TIER[@TIER_ID='fonWord2']/ANNOTATION/REF_ANNOTATION"
 RUS_XPATH = ".//TIER[@TIER_ID='rus%s']/ANNOTATION/REF_ANNOTATION"
 LANGUAGE_XPATH = ".//TIER[@TIER_ID='%s']/ANNOTATION/ALIGNABLE_ANNOTATION"
 
-
 ANNOTATION_VALUE_XPATH = '/ANNOTATION_VALUE'
 
 ANNOTATION_REF_ATTRIBUTE = 'ANNOTATION_REF'
@@ -23,7 +20,14 @@ ANNOTATION_ID_ATTRIBUTE = 'ANNOTATION_ID'
 
 EAF_EXTENSION = '.eaf'
 
+
 def get_text_data(filename, language_code):
+    """
+
+    :param filename: EAF filename
+    :param language_code: the code with corresponds with the main tier in the XML document
+    :return: a dictionary containing sentences, their translations and the interlinearization data
+    """
     root = get_root(filename)
     tier_nums_sentences = get_sentences(root, language_code)
     text_data = []
@@ -32,11 +36,9 @@ def get_text_data(filename, language_code):
             text_data_sentence = dict()
             text_data_sentence['sentence'] = get_annotation_value_from_element(sentence)
             translation = get_translation_by_sentence(root, sentence, tier_num)
+            if translation is None:
+                continue
             text_data_sentence['translation'] = translation
-
-            if translation == 'Потом этот человек зашел в один чум.':
-                test_debug = 9
-
             text_data_sentence['morphology'] = get_tokens_by_sentence(root, sentence, tier_num,
                                                                       translation, filename)
             text_data.append(text_data_sentence)
@@ -48,11 +50,12 @@ def get_sentences(root, language_code):
     sentences = root.findall(language_xpath_with_code)
     if sentences:
         return [('', sentences)]
-    #extra logic for dialogues
+    # extra logic for dialogues
     language_xpath_with_code1 = LANGUAGE_XPATH % (language_code + '1')
     language_xpath_with_code2 = LANGUAGE_XPATH % (language_code + '2')
     return [('1', root.findall(language_xpath_with_code1)),
             ('2', root.findall(language_xpath_with_code2))]
+
 
 def get_tokens_by_sentence(root, sentence, tier_num, translation, filename):
     sentence_id = get_element_id(sentence)
@@ -73,7 +76,7 @@ def get_translation_by_sentence(root, sentence, tier_num):
     sentence_id = get_element_id(sentence)
     return get_annotation_value_from_element(root.find(RUS_XPATH % tier_num + "[@" +
                                                        ANNOTATION_REF_ATTRIBUTE +
-                                                   "='" + sentence_id + "']"))
+                                                       "='" + sentence_id + "']"), is_ignore=True)
 
 
 def get_analysis(root, fon_word, tier_num, fon_token, translation):
@@ -102,7 +105,6 @@ def get_analysis(root, fon_word, tier_num, fon_token, translation):
             raise Exception(
                 'No gloss element for fonWord %s with id: %s, sentence: %s' % (fon_word_id, fon_token, translation))
 
-
         analysis.append({'fon': fon_value, 'gloss': glossValue})
     return analysis
 
@@ -115,19 +117,17 @@ def determinePOS(root, fon_word, tier_num, analysis, filename):
     return get_annotation_value_from_element(pos_element)
 
 
-
-
-
 def get_root(filename):
     tree = ET.parse(filename)
     return tree.getroot()
 
 
-
-def get_annotation_value_from_element(element, translation=None):
+def get_annotation_value_from_element(element, translation=None, is_ignore=False):
     element_text = element.find('.' + ANNOTATION_VALUE_XPATH).text
     if element_text:
         return element_text.strip()
+    if is_ignore:
+        return None
     error_text = 'Empty element found: %s' % element.attrib
     if translation is not None:
         error_text += ' for sentence %s' % translation
@@ -148,7 +148,6 @@ def get_fons_by_id(root, annotation_id, tier_num):
     return root.findall(FON_XPATH % tier_num + "[@" +
                         ANNOTATION_REF_ATTRIBUTE +
                         "='" + annotation_id + "']")
-
 
 
 def get_pos_by_id(root, annotation_id, tier_num):

@@ -112,7 +112,7 @@
 #Амӣя лаӈилвэр одяпкӣл, а бу дундэвэ дюгудиӈнэрэвун.;Родители пасти делают, а мы землю таскали.
 1	amiːja	amiː	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 2	laŋilwər	laŋi	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-3	oďapkiːl	o	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+3	oďapkiːl	o	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 4	a	a	INTJ	_	_	_	_	_	_
 5	bu	bu	PRON	_	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 6	dundəwə	dundə	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -859,7 +859,7 @@
 
 #2005_Poligus_Khadonchina_LR2.eaf_new.eaf:33
 #Нуӈанӈылин еще, тар Трофимӈил бичо̄тын акнилин.;У него еще, у того Трофима старшие братья были.
-1	nuŋaŋilin	nuŋa	PRON	_	Case=Nom|Number=Sing|Number=Plur|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_
+1	nuŋaŋilin	nuŋa	PRON	_	Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_
 2	jeʃo	jeʃo	ADV	_	_	_	_	_	_
 3	tar	tar	DET	_	_	_	_	_	_
 4	trofimŋil	trofim	PROPN	_	Case=Nom|Number=Plur|Poss=Yes	_	_	_	_
@@ -1881,7 +1881,7 @@
 #Этыркэ̅н Һаңкэлэе ōдяпкӣ. Ну вот и всё;Муж санки делает. Ну вот и всё
 1	ətirkoːn	ətirkoːn	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	haŋkələjə	haŋkə	NOUN	_	Case=Acc|Number=Plur|PossNumber=Sing|Reflex=Yes	_	_	_	_
-3	oːďapkiː	oː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+3	oːďapkiː	oː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 4	nu	nu	INTJ	_	_	_	_	_	_
 5	vot	vot	INTJ	_	_	_	_	_	_
 6	i	i	CCONJ	_	_	_	_	_	_
@@ -1894,7 +1894,7 @@
 3	rəboti	rəboti	X	_	_	_	_	_	_
 4	əleɲi	əleɲi	X	_	_	_	_	_	_
 5	ubiga	ubiga	X	_	_	_	_	_	_
-6	tuksaďipkiːl	tuksa	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+6	tuksaďipkiːl	tuksa	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 7	palatkaldi	palatka	NOUN	_	Case=Ins|Number=Plur	_	_	_	_
 8	inďəŋnərəwun	in	VERB	_	Aspect=Hab|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_
 9	palatkəl	palatkə	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -1916,7 +1916,7 @@
 1	kəpkanilwəl	kəpkani	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 2	tawuŋnərə	tawu	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	oldolo	oldo	NOUN	_	Case=Par|Number=Plur	_	_	_	_
-4	waːďəpkiːl	waː	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+4	waːďəpkiːl	waː	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 5	rejsəjə	rejsə	NOUN	_	Case=Par|Number=Sing	_	_	_	_
 6	waːŋnərəwun	waː	VERB	_	Aspect=Hab|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 
@@ -2441,7 +2441,7 @@
 
 #2007_Chirinda_Eldogir_Valentina_FM10_transliterated.eaf:36
 #Ала̄тчефкӣл.;Ждут.
-1	alaːtťəfkiːl	alaːt	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+1	alaːtťəfkiːl	alaːt	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM10_transliterated.eaf:38
 #hэлэ дэги hувулин эпет умӯнуптэ дюдӯн.;Вот все птицы опять собрались у него дома.
@@ -2662,7 +2662,7 @@
 1	tarit	tari	DET	_	Case=Ins	_	_	_	_
 2	ta	ta	PART	_	_	_	_	_	_
 3	əduː	əduː	ADV	_	_	_	_	_	_
-4	biďəfkiːl	bi	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+4	biďəfkiːl	bi	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 5	tuγəɲiːwə	tuγəɲiː	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 6	ďantakiːl	ďantakiː	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 7	tawər	ta	DET	_	Number=Plur	_	_	_	_
@@ -2775,7 +2775,7 @@
 
 #2007_Chirinda_Eldogir_Valentina_FM10_transliterated.eaf:118
 #Тугэдефкӣл эдӯ.;Зимуют здесь.
-1	tugəďəfkiːl	tugə	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+1	tugəďəfkiːl	tugə	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 2	əduː	əduː	ADV	_	_	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM1_transliterated.eaf:4
@@ -2785,7 +2785,7 @@
 2	ɲikəśo	ɲikə	VERB	_	VerbForm=Part	_	_	_	_
 3	dəː	dəː	PART	_	_	_	_	_	_
 4	həwəkiːnun	həwəkiː	PROPN	_	Case=Com|Number=Sing	_	_	_	_
-5	girkiːlaďəfkiː	girkiːla	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+5	girkiːlaďəfkiː	girkiːla	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 6	biśo	bi	VERB	_	VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM1_transliterated.eaf:5
@@ -2808,7 +2808,7 @@
 2	hələ	hələ	INTJ	_	_	_	_	_	_
 3	aŋilduk	aŋi	PRON	_	Case=Abl|Number=Plur	_	_	_	_
 4	śitalduk	śita	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
-5	oďafkiː	o	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+5	oďafkiː	o	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 6	biśə	bi	VERB	_	VerbForm=Part	_	_	_	_
 7	bəjəlbə	bəjə	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 
@@ -2898,22 +2898,22 @@
 2	həwəkiː	həwəkiː	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 3	eːkun	eːkun	PRON	_	_	_	_	_	_
 4	eːkurba	eːku	PRON	_	Case=Acc|Number=Plur	_	_	_	_
-5	oďafkiː	o	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+5	oďafkiː	o	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 6	ə	ə	X	_	_	_	_	_	_
 7	əlba	ə	PRON	_	Case=Acc|Number=Plur	_	_	_	_
-8	hawalďafkiː	hawal	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+8	hawalďafkiː	hawal	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM1_transliterated.eaf:38
 #«hэвэкӣ hэлэ аӈилба одявкӣ.;«Бог-то этих самых делает.
 1	həwəkiː	həwəkiː	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	hələ	hələ	INTJ	_	_	_	_	_	_
 3	aŋilba	aŋi	PRON	_	Case=Acc|Number=Plur	_	_	_	_
-4	oďafkiː	o	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+4	oďafkiː	o	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM1_transliterated.eaf:39
 #Бэелба одявкӣ ситадук.;Делает людей из глины.
 1	bəjəlba	bəjə	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-2	oďafkiː	o	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+2	oďafkiː	o	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 3	śitaduk	śita	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM1_transliterated.eaf:40
@@ -3504,7 +3504,7 @@
 #hēӈан мӯдӯ билдэн.;Налим в воде остался.
 1	heːŋan	heːŋan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	muːduː	muː	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-3	bildən	bi	VERB	_	Mood=Ind|Number=Sing|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_
+3	bildən	bi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM7_transliterated.eaf:28
 #hēӈаса̄н-кэ кэтэ туӈэртыкиндӯ бивкӣ.;Налимчиков-то много на каждом мелководье бывает.
@@ -3939,7 +3939,7 @@
 #Аӈилӣн тогон тылпэhудевкӣ угӣскӣ.;Вдоль этого пламя прыгает наверх.
 1	aŋiliːn	aŋi	PRON	_	Case=Per|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 2	toγon	toγo	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
-3	tilpəhuďəwkiː	tilpə	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+3	tilpəhuďəwkiː	tilpə	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 4	ugiːskiː	ugiːskiː	ADV	_	_	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM8_transliterated.eaf:91
@@ -4305,7 +4305,7 @@
 #Албаса нуӈартыкӣтын яӈудями.;Он не мог с ними разговаривать.
 1	albasa	alba	VERB	_	VerbForm=Part	_	_	_	_
 2	bə	bə	X	_	_	_	_	_	_
-3	nuŋartikiːtin	nuŋa	PRON	_	Case=All|Case=Nom|Number=Sing|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_
+3	nuŋartikiːtin	nuŋa	PRON	_	Case=All|Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_
 4	jaŋuďami	jaŋu	VERB	_	Aspect=Imp|VerbForm=Conv	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk10_transliterated.eaf:15
@@ -4346,12 +4346,12 @@
 #2007_Chirinda_Eldogir_Valentina_FSk10_transliterated.eaf:28
 #Гакса̄ӈилтын локусадявкӣл.;Юкола их висит.
 1	gaksaːŋiltin	gaksaː	NOUN	_	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
-2	lokusaďafkiːl	loku	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+2	lokusaďafkiːl	loku	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk10_transliterated.eaf:29
 #Улдэӈилтын локусадявкӣл тулӣло̄.;Мясо их висит на улице.
 1	uldəŋiltin	uldə	NOUN	_	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
-2	lokusaďafkiːl	loku	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+2	lokusaďafkiːl	loku	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 3	tuliːloː	tuliːloː	ADV	_	_	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk10_transliterated.eaf:32
@@ -4388,7 +4388,7 @@
 #2007_Chirinda_Eldogir_Valentina_FSk10_transliterated.eaf:48
 #Тоготын hиӈкэрӣдевкӣ hэлэ бисё.;Вот огонь у них трещит.
 1	toγotin	toγo	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
-2	hiŋkəriːďəfkiː	hiŋkəriː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+2	hiŋkəriːďəfkiː	hiŋkəriː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 3	hələ	hələ	INTJ	_	_	_	_	_	_
 4	biśo	bi	VERB	_	VerbForm=Part	_	_	_	_
 
@@ -4397,7 +4397,7 @@
 1	tar	tar	PRON	_	_	_	_	_	_
 2	toγowər	toγo	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 3	hiŋkəriːďəriːwan	hiŋkəriː	VERB	_	Aspect=Imp|Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3|VerbForm=Part	_	_	_	_
-4	gunďəfkiːl	gun	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+4	gunďəfkiːl	gun	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 5	biśol	bi	VERB	_	Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk10_transliterated.eaf:50
@@ -4416,7 +4416,7 @@
 5	toγotin	toγo	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
 6	hiŋkəfkiː	hiŋkəfkiː	X	_	_	_	_	_	_
 7	biśo	bi	VERB	_	VerbForm=Part	_	_	_	_
-8	hiŋkəriːďəfkiː	hiŋkəriː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+8	hiŋkəriːďəfkiː	hiŋkəriː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk10_transliterated.eaf:54
 #Эвкӣл эйдэрэ.;Не замечают.
@@ -4929,7 +4929,7 @@
 #Толӣ бэел гиркудявкӣл бисел эрупчул дылӣ.;Тогда по тайге ходили плохие люди.
 1	toliː	toliː	ADV	_	_	_	_	_	_
 2	bəjəl	bəjə	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-3	girkuďafkiːl	girku	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+3	girkuďafkiːl	girku	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 4	biśəl	bi	VERB	_	Number=Plur|VerbForm=Part	_	_	_	_
 5	ərupt͡ʃul	ərupt͡ʃu	ADJ	_	Number=Plur	_	_	_	_
 6	diliː	diliː	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -4989,7 +4989,7 @@
 #2007_Chirinda_Eldogir_Valentina_FSk3_transliterated.eaf:21
 #Ēкука̄рвинун итыга̄дявкӣ до̄нин дюкчака̄нми, до̄нин туксанда̄и.;Собирает внутри чума вещички, чтобы убежать
 1	eːkukaːrwinun	eːkukaː	PRON	_	Case=Com|Number=Plur|Reflex=Yes	_	_	_	_
-2	itigaːďawkiː	itigaː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+2	itigaːďawkiː	itigaː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 3	ďi	ďi	X	_	_	_	_	_	_
 4	doːnin	doː	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 5	ďu	ďu	X	_	_	_	_	_	_
@@ -5166,13 +5166,13 @@
 #2007_Chirinda_Eldogir_Valentina_FSk6_transliterated.eaf:17
 #Элба-вал девдевкӣл-hинчэ делум миттук, миттӯ энэл борӣрэ.;Вроде что-то едят тайком от нас, а с нами не делятся.
 1	əlbawal	ə	PRON	_	Case=Acc|Definite=Ind|Number=Plur	_	_	_	_
-2	ďəwďəfkiːlhint͡ʃə	ďəw	VERB	_	Aspect=Imp|Aspect=Hab|Mood=Pot|Number=Plur|VerbForm=Part	_	_	_	_
+2	ďəwďəfkiːlhint͡ʃə	ďəw	VERB	_	Aspect=Hab|Aspect=Imp|Mood=Pot|Number=Plur|VerbForm=Part	_	_	_	_
 3	ďəlum	ďəlum	ADJ	_	_	_	_	_	_
 4	mittuk	mit	PRON	_	Case=Abl|Clusivity=In|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 5-6	mittuː	_	_	_	_	_	_	_	_
 5	mit	mit	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 6	tuː	tuː	PART	_	_	_	_	_	_
-7	ənəl	ə	VERB	_	Mood=Imp|Number=Sing|Number=Plur|PersonNum=2	_	_	_	_
+7	ənəl	ə	VERB	_	Mood=Imp|Number=Plur|PersonNum=2	_	_	_	_
 8	boriːrə	boriː	VERB	_	VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk6_transliterated.eaf:21
@@ -5236,7 +5236,7 @@
 4	hərgiːgit	hərgiː	NOUN	_	Case=Ela|Number=Sing	_	_	_	_
 5	uriːďanəl	uriː	VERB	_	Aspect=Imp|Number=Plur|VerbForm=Conv	_	_	_	_
 6	tawər	ta	DET	_	Number=Plur	_	_	_	_
-7	ďəwďəfkiːl	ďəw	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+7	ďəwďəfkiːl	ďəw	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 8	aŋilwa	aŋi	PRON	_	Case=Acc|Number=Plur	_	_	_	_
 9	homoːtiː	homoːtiː	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	uldəlwon	uldə	NOUN	_	Case=Acc|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
@@ -5322,8 +5322,8 @@
 #2007_Chirinda_Eldogir_Valentina_FSk6_transliterated.eaf:59
 #Эбэко̄н тэлидевкӣ, олгӣдявкӣ.;Бабушка мясо сушит.
 1	əbəkoːn	əbəkoː	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
-2	təliďəfkiː	təli	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
-3	olgiːďafkiː	olgiː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+2	təliďəfkiː	təli	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
+3	olgiːďafkiː	olgiː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk6_transliterated.eaf:61
 #Тар hэлэ тар нимокилтын бисёл — тар бидектӯвэр бимниhэл.;А вот соседи были — на том же месте остались.
@@ -5717,7 +5717,7 @@
 #Тар аhӣ hимула̄дявкӣ.;Та женщина молчит.
 1	tar	tar	DET	_	_	_	_	_	_
 2	ahiː	ahiː	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	himulaːďafkiː	himulaː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+3	himulaːďafkiː	himulaː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk7_transliterated.eaf:46
 #«Эсе̄в эва-да̄ одяра», — гундевкӣ.;Говорит: «Я ничего не делала».
@@ -5726,7 +5726,7 @@
 2	əwa	ə	PRON	_	Case=Acc	_	_	_	_
 3	daː	daː	PART	_	_	_	_	_	_
 4	oďara	o	VERB	_	Aspect=Imp|VerbForm=Part	_	_	_	_
-5	gunďəfkiː	gun	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+5	gunďəfkiː	gun	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk7_transliterated.eaf:48
 #Тэгэттэн, тэгэттэн-дэ̄.;Сидела, сидела.
@@ -6060,7 +6060,7 @@
 4	ənə	ə	VERB	_	VerbForm=Conv	_	_	_	_
 5	ɲikərə	ɲikə	VERB	_	VerbForm=Part	_	_	_	_
 6	tirgaɲiːwa	tirgaɲiː	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-7	aːďəfkiː	aː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+7	aːďəfkiː	aː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 8	bihində	bi	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Nfut|Tense=Prs|VerbForm=Fin	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk7_transliterated.eaf:144
@@ -6220,7 +6220,7 @@
 #Нуӈан тэвлӣдевкӣ бисё, Сарсикан тарэ.;Он собирал ягоды, этот Сарсикан.
 1	nuŋan	nuŋan	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	təwloːhəś	təwloːhəś	X	_	_	_	_	_	_
-3	təwliːďəfkiː	təwliː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+3	təwliːďəfkiː	təwliː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 4	biśo	bi	VERB	_	VerbForm=Part	_	_	_	_
 5	kom=	kom=	X	_	_	_	_	_	_
 6	sarśikan	sarśikan	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -6336,7 +6336,7 @@
 6	taγasa	taγa	VERB	_	VerbForm=Part	_	_	_	_
 7	hələ	hələ	INTJ	_	_	_	_	_	_
 8	ďəpďəŋoːw	ďəp	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_
-9	nuŋajawan	nuŋa	PRON	_	Case=Acc|Case=Nom|Number=Sing|Number=Plur|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_
+9	nuŋajawan	nuŋa	PRON	_	Case=Acc|Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_
 10	gunďənə	gun	VERB	_	Aspect=Imp|VerbForm=Conv	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk8_transliterated.eaf:42
@@ -6712,7 +6712,7 @@
 
 #2007_Chirinda_Eldogir_Valentina_FSk8_transliterated.eaf:138
 #hутэлгэлӣвон ва̄сим», — гусё.;Поубивал вместе с детьми», — сказал.
-1	hutəlgəliːwon	hutə	NOUN	_	Case=Com|Case=Acc|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
+1	hutəlgəliːwon	hutə	NOUN	_	Case=Acc|Case=Com|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 2	waːśim	waː	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 3	guśo	gu	VERB	_	VerbForm=Part	_	_	_	_
 
@@ -6755,7 +6755,7 @@
 1	amintin	amin	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
 2	waːttən	waː	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	hutəlgəliːwə	hutə	NOUN	_	Case=Acc|Case=Com|Number=Plur	_	_	_	_
-4	moːrgəliwan	moː	PRON	_	Case=Com|Case=Acc|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3|Reflex=Yes	_	_	_	_
+4	moːrgəliwan	moː	PRON	_	Case=Acc|Case=Com|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3|Reflex=Yes	_	_	_	_
 5	komojəwa	komojə	PROPN	_	Case=Acc|Number=Sing	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk9_transliterated.eaf:2
@@ -6936,7 +6936,7 @@
 1	hutəlwi	hutə	NOUN	_	Case=Acc|Number=Plur|PossNumber=Sing|Reflex=Yes	_	_	_	_
 2	ďəwdoːtin	ďəw	VERB	_	Mood=Prp|Number=Plur|Person=3|VerbForm=Conv	_	_	_	_
 3	tar	tar	DET	_	_	_	_	_	_
-4	ďuguďəfkiː	ďugu	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+4	ďuguďəfkiː	ďugu	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 5	biśo	bi	VERB	_	VerbForm=Part	_	_	_	_
 6	tar	tar	DET	_	_	_	_	_	_
 7	kiŋgit	kiŋgit	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -7058,7 +7058,7 @@
 3	təgəminin	təgəminin	ADV	_	_	_	_	_	_
 4	əpet	əpet	ADV	_	_	_	_	_	_
 5	tirgaɲiːtikin	tirgaɲiːtikin	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	girkuďafkiː	girku	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+6	girkuďafkiː	girku	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 7	təgəminin	təgəminin	ADV	_	_	_	_	_	_
 8	əpet	əpet	ADV	_	_	_	_	_	_
 9	huruśo	huru	VERB	_	VerbForm=Part	_	_	_	_
@@ -7161,7 +7161,7 @@
 
 #2007_Chirinda_Eldogir_Valentina_FSk9_transliterated.eaf:102
 #Дэгивувко̄ндесё бисё, ойитын укканэм.;Заставлял нести по воздуху, сидя верхом.
-1	dəgiwufkoːnďəśo	dəgi	VERB	_	Aspect=Imp|VerbForm=Part|Voice=Caus|Voice=Cau	_	_	_	_
+1	dəgiwufkoːnďəśo	dəgi	VERB	_	Aspect=Imp|VerbForm=Part|Voice=Cau|Voice=Caus	_	_	_	_
 2	biśo	bi	VERB	_	VerbForm=Part	_	_	_	_
 3	ojitin	oji	ADV	_	Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
 4	ukkanəm	uk	VERB	_	VerbForm=Conv	_	_	_	_
@@ -7604,7 +7604,7 @@
 #Хо̄т кэгэ̄динэл гиркӯдяфкӣл бисёл.;Сильно мучаясь, ездили.
 1	hoːt	hoːt	ADV	_	_	_	_	_	_
 2	kəγəːďinəl	kəγəː	VERB	_	Aspect=Imp|Number=Plur|VerbForm=Conv	_	_	_	_
-3	girkuːďafkiːl	girkuː	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+3	girkuːďafkiːl	girkuː	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 4	biśol	bi	VERB	_	Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:80
@@ -7633,7 +7633,7 @@
 #Амӣ хэрэкэт адилитчафкӣ.;Отец отдельно рыбачил.
 1	amiː	amiː	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	hərəkət	hərəkət	ADV	_	_	_	_	_	_
-3	adilitt͡ʃafkiː	adilit	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+3	adilitt͡ʃafkiː	adilit	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:88
 #Тарилба хэлэ колхозтӯ сдава̄сифкӣл.;Вот это все [рыбу] в колхоз сдавали.
@@ -7905,16 +7905,16 @@
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:143
 #Амӣнан бултадифкӣ.;С отцом охотился.
 1	amiːnan	amiː	NOUN	_	Case=Com|Number=Sing	_	_	_	_
-2	bultaďifkiː	bulta	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+2	bultaďifkiː	bulta	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:144
 #Амӣнин адилитчафкӣ-тэ нуңан бултадифкӣ булталвэ.;Отец рыбачит, а он охотится на зверей.
 1	amiːnin	amiːni	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 2-3	aďilitt͡ʃafkiːtə	_	_	_	_	_	_	_	_
-2	aďilitt͡ʃafkiː	aďilit	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+2	aďilitt͡ʃafkiː	aďilit	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 3	tə	tə	PART	_	_	_	_	_	_
 4	nuŋan	nuŋan	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-5	bultaďifkiː	bulta	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+5	bultaďifkiː	bulta	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 6	bultalwə	bulta	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:147
@@ -7983,7 +7983,7 @@
 2	monin	moni	PRON	_	Poss=Yes|PossNumber=Sing|PossPerson=3|Reflex=Yes	_	_	_	_
 3	adililwə	adili	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 4	təti	təti	X	_	_	_	_	_	_
-5	tətiwďəfkiː	təti	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part|Voice=Caus	_	_	_	_
+5	tətiwďəfkiː	təti	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part|Voice=Caus	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:166
 #Амаскӣ-ка илмакта биңэхӣйи кэтэ адилва тэтивсо̄н бэелдӯ элдӯ.;Раньше, молодым когда был, много сетей насадил людям всяким [=этим самым].
@@ -8055,7 +8055,7 @@
 #Ңалэлин луху хавалмӯдяфкӣл.;Руки все.время хотят работать.
 1	ŋaləlin	ŋalə	NOUN	_	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 2	luhu	luhu	ADV	_	_	_	_	_	_
-3	hawalmuːďafkiːl	hawal	VERB	_	Aspect=Imp|Aspect=Hab|Mood=Des|Number=Plur|VerbForm=Part	_	_	_	_
+3	hawalmuːďafkiːl	hawal	VERB	_	Aspect=Hab|Aspect=Imp|Mood=Des|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:180
 #Бӣ о̄галба ӣлдэ̄кивэ о̄галба мэ̄нңӣдяфкӣ дагӣф тэгэттенэ.;Когда я камысы выделываю, камысы мнет, сидя рядом.
@@ -8063,7 +8063,7 @@
 2	oːγalba	oːγa	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 3	iːldəːkiwə	iː	VERB	_	Number=Sing|Person=1|VerbForm=Conv	_	_	_	_
 4	oːγalba	oːγa	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-5	məːnŋiːďafkiː	məːnŋiː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+5	məːnŋiːďafkiː	məːnŋiː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 6	dagiːf	dagiː	ADJ	_	Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_
 7	təγətťənə	təγə	VERB	_	Aspect=Imp|VerbForm=Conv	_	_	_	_
 
@@ -8146,7 +8146,7 @@
 1	turuduk	turu	PROPN	_	Case=Abl|Number=Sing	_	_	_	_
 2	tar	tar	DET	_	_	_	_	_	_
 3	saːskiː	saːskiː	ADV	_	_	_	_	_	_
-4	uŋďəfkiːl	uŋ	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+4	uŋďəfkiːl	uŋ	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:212
 #Эвко̄ энэливрэ бисё то̄лӣ.;Нельзя лениться было тогда.
@@ -8205,7 +8205,7 @@
 #Тарэ тар тэтивдефкӣ амакагисинми.;Он насаживает, как дедушка.
 1	tarə	tarə	DET	_	_	_	_	_	_
 2	tar	tar	DET	_	_	_	_	_	_
-3	tətiwďəfkiː	təti	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part|Voice=Caus	_	_	_	_
+3	tətiwďəfkiː	təti	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part|Voice=Caus	_	_	_	_
 4	amakagiśinmi	amaka	NOUN	_	Case=Nom|Degree=Cmp|Number=Sing|Reflex=Yes	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR1.eaf_new.eaf:227
@@ -8686,7 +8686,7 @@
 3	tapďana	tap	VERB	_	Aspect=Imp|VerbForm=Conv	_	_	_	_
 4	biralduk	bira	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
 5	əlduk	ə	PRON	_	Case=Abl|Number=Plur	_	_	_	_
-6	olgiːďafkiː	olgiː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+6	olgiːďafkiː	olgiː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_LR2Ev.eaf_new.eaf:117
 #Тар hэгды hава бисё̄н, тарэ экспэдициявэ эксэктэвкӣ... эксектэдякӣ, дюганӣдӯ ңанмактанда, орорбо этэетчэктын.;Это большая работа была — эту экспедицию возить, комаров полно, когда они [родители] оленей пасли.
@@ -8954,7 +8954,7 @@
 
 #2007_Ekonda_Khutokogir_Grigoriy_LAv.eaf_new.eaf:0
 #Раньше, эвэдыт, да? эвэдыт.;Раньше... по-
-#эвенкийски, да? По-эвенкийски.
+эвенкийски, да? По-эвенкийски.
 1	raɲʃə	raɲʃə	ADV	_	_	_	_	_	_
 2	əwədit	əwədit	ADJ	_	_	_	_	_	_
 3	da	da	X	_	_	_	_	_	_
@@ -9333,7 +9333,7 @@
 1	tuγ	tuγ	ADV	_	_	_	_	_	_
 2	oronmi	oron	NOUN	_	Case=Acc|Number=Sing|PossNumber=Sing|Reflex=Yes	_	_	_	_
 3-4	irgiďəfkiːtoː	_	_	_	_	_	_	_	_
-3	irgiďəfkiː	irgi	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+3	irgiďəfkiː	irgi	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 4	toː	toː	PART	_	_	_	_	_	_
 5	oronmi	oron	NOUN	_	Case=Nom|Number=Sing|Reflex=Yes	_	_	_	_
 6	irgiwdoːn	irgi	VERB	_	Mood=Prp|Number=Sing|Person=3|VerbForm=Conv|Voice=Pass	_	_	_	_
@@ -9529,7 +9529,7 @@
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:20
 #Гурустявкӣл Турудук эла̄.;Возили грузы из Туры сюда.
-1	gurusťafkiːl	gurus	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+1	gurusťafkiːl	gurus	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 2	turuduk	turu	PROPN	_	Case=Abl|Number=Sing	_	_	_	_
 3	əlaː	əlaː	ADV	_	_	_	_	_	_
 
@@ -9760,7 +9760,7 @@
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:93
 #Бутчэвкӣл.;Поумирали.
-1	butt͡ʃəwkiːl	bu	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+1	butt͡ʃəwkiːl	bu	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:94
 #Бутнэл, манавса̄тын.;Умирая, закончились.
@@ -9858,7 +9858,7 @@
 #Тар мо̄ӈӣлдивэр кэгэдяпкӣл: опо-ко, кэгэмай-ко.;Со своей [одеждой] мучились: мокро, тяжело.
 1	tar	tar	DET	_	_	_	_	_	_
 2	moːŋiːlďiwər	moː	NOUN	_	Case=Ins|Number=Plur|Poss=Yes	_	_	_	_
-3	kəγəďapkiːl	kəγə	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+3	kəγəďapkiːl	kəγə	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 4-5	opoko	_	_	_	_	_	_	_	_
 4	opo	opo	ADJ	_	_	_	_	_	_
 5	ko	ko	PART	_	_	_	_	_	_
@@ -9873,7 +9873,7 @@
 2	ahaktərə	aha	VERB	_	Mood=Imp|Number=Sing|PersonNum=1|VerbForm=Part	_	_	_	_
 3	ka	ka	PART	_	_	_	_	_	_
 4	huktildəŋoːtin	hukti	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
-5	hokoriːwďəŋoːtin	hokoriː	VERB	_	Mood=Ind|Number=Sing|Number=Plur|Person=3|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_
+5	hokoriːwďəŋoːtin	hokoriː	VERB	_	Mood=Ind|Number=Plur|Person=1|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
 6-7	ororko	_	_	_	_	_	_	_	_
 6	oror	oro	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 7	ko	ko	PART	_	_	_	_	_	_
@@ -10036,7 +10036,7 @@
 #Туг никэвкӣл, биӈкӣтын.;Так они жили.
 1	tug	tug	ADV	_	_	_	_	_	_
 2	ɲikəfkiːl	ɲikə	VERB	_	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
-3	biŋkiːtin	bi	PRON	_	Aspect=Iter|Case=Nom|Number=Sing|Number=Plur|Person=3|Person=1|PronType=Prs|Tense=Past	_	_	_	_
+3	biŋkiːtin	bi	VERB	_	Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:176
 #Тадук он индерэ...;Потом как жили...
@@ -10083,13 +10083,13 @@
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:190
 #Тарнун яӈудявкӣл нуӈартын.;С ней они разговаривали.
 1	tarnun	tar	DET	_	Case=Com	_	_	_	_
-2	jaŋuďafkiːl	jaŋu	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+2	jaŋuďafkiːl	jaŋu	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 3	nuŋartin	nuŋartin	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:192
 #Нуӈа-риктэлтын яӈудявкӣл.;Только они говорили.
-1	nuŋariktəltin	nuŋa	PRON	_	Case=Nom|Number=Sing|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_
-2	jaŋuďafkiːl	jaŋu	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+1	nuŋariktəltin	nuŋa	PRON	_	Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_
+2	jaŋuďafkiːl	jaŋu	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:193
 #Нюӈун.;Шесть.
@@ -10244,7 +10244,7 @@
 #Голэ минӈӣ-гу ута̄лэ?;Голэ разве мой раньше?
 1	golə	golə	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	mun	mun	X	_	_	_	_	_	_
-3	minŋiːgu	min	PRON	_	Case=Nom|Number=Sing|Person=1|Poss=Yes|PronType=Prs|PronType=Int	_	_	_	_
+3	minŋiːgu	min	PRON	_	Case=Nom|Number=Sing|Person=1|Poss=Yes|PronType=Int|PronType=Prs	_	_	_	_
 4	utaːlə	utaːlə	ADV	_	_	_	_	_	_
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:236
@@ -10757,7 +10757,7 @@
 1	əbəj	əbəj	INTJ	_	_	_	_	_	_
 2	eːkun	eːkun	PRON	_	_	_	_	_	_
 3	babajkəl	babajkə	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-4	bildən	bi	VERB	_	Mood=Ind|Number=Sing|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_
+4	bildən	bi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:396
 #Эчэ̄в hа̄рэ би бабайкава тарэ.;Не знаю я этого медведя.
@@ -10774,7 +10774,7 @@
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:400
 #Гиркудяпкӣл.;Ходили.
-1	girkuďapkiːl	girku	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+1	girkuďapkiːl	girku	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:404
 #Идӯ ноноптыдӯ балдынды, идӯ балдыса, идӯ индеса?;Где ты сначала родилась, где родилась, где жила?
@@ -11297,7 +11297,7 @@
 1-2	tartə	_	_	_	_	_	_	_	_
 1	tar	tar	DET	_	_	_	_	_	_
 2	tə	tə	PART	_	_	_	_	_	_
-3	dukusəďəwkiːl	duku	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+3	dukusəďəwkiːl	duku	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:591
 #Анты-кэ эвӣвун биӈкӣн?;Какие игры были?
@@ -11830,7 +11830,7 @@
 #Тэр эӈнэко̄рвэ нуӈардула̄тын тастяса̄вун, оhотникилдӯ буттотын, булта̄мнилдӯ.;Тех телят мы к ним гнали, чтобы они раздали охотникам, охотникам.
 1	tər	tər	DET	_	_	_	_	_	_
 2	əŋnəkoːrwə	əŋnəkoː	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-3	nuŋardulaːtin	nuŋa	PRON	_	Case=Lat|Case=Nom|Number=Sing|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_
+3	nuŋardulaːtin	nuŋa	PRON	_	Case=Lat|Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_
 4	tasťasaːwun	tas	VERB	_	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 5	ohotnikilduː	ohotniki	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 6	buttotin	bu	VERB	_	Mood=Prp|Number=Plur|Person=3|VerbForm=Conv	_	_	_	_
@@ -12074,10 +12074,10 @@
 #hутакандукин эрэ лукӣлин бикиттуктын, микчандерэкин, лукӣлин бурусо.;Когда он прыгал, его стрелы упали из его мешка, из места, где они были.
 1	hutakandukin	hutakan	NOUN	_	Case=Abl|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 2	ərə	ərə	DET	_	_	_	_	_	_
-3	lukiːlin	lukiː	VERB	_	Mood=Ind|Number=Sing|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_
+3	lukiːlin	lukiː	NOUN	_	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 4	bikittuktin	bikit	NOUN	_	Case=Abl|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
 5	mikt͡ʃanďərəkin	mikt͡ʃan	VERB	_	Aspect=Imp|Number=Sing|Person=3|VerbForm=Conv	_	_	_	_
-6	lukiːlin	lukiː	VERB	_	Mood=Ind|Number=Sing|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_
+6	lukiːlin	lukiː	NOUN	_	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 7	buruso	buru	VERB	_	VerbForm=Part	_	_	_	_
 
 #2007_Ekonda_Udygir_Viktor_FSk3_transliterated.eaf:11
@@ -12201,7 +12201,7 @@
 
 #2007_Ekonda_Udygir_Viktor_FSk3_transliterated.eaf:43
 #Туксактадявкӣ, эвӣдяна.;Бегает, играя.
-1	tuksaktaďawkiː	tuksa	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+1	tuksaktaďawkiː	tuksa	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 2	əwiːďana	əwiː	VERB	_	Aspect=Imp|VerbForm=Conv	_	_	_	_
 
 #2007_Ekonda_Udygir_Viktor_FSk3_transliterated.eaf:44
@@ -12382,7 +12382,7 @@
 
 #2007_Ekonda_Udygir_Viktor_FSk3_transliterated.eaf:97
 #Ганатма̄тчэвкӣл.;Долго стрелялись.
-1	ganatmaːtt͡ʃəfkiːl	ganat	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part|Voice=Rcp	_	_	_	_
+1	ganatmaːtt͡ʃəfkiːl	ganat	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part|Voice=Rcp	_	_	_	_
 
 #2007_Ekonda_Udygir_Viktor_FSk3_transliterated.eaf:98
 #Тадук-тэ тар hо̄ӈматын тоже ва̄рэн.;Потом он этого их главного тоже убил.
@@ -12406,7 +12406,7 @@
 #2007_Ekonda_Udygir_Viktor_FSk3_transliterated.eaf:101
 #Горово̄ бидевкӣл.;Долго они жили.
 1	gorowoː	goro	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-2	biďəfkiːl	bi	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+2	biďəfkiːl	bi	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Ekonda_Udygir_Viktor_FSk3_transliterated.eaf:102
 #Тадук инденэ, бултавэ-до̄, эвкӣ hуларэ нӣвэ-до̄.;Потом, живя, он не оставлял никакой добычи после себя.
@@ -12608,7 +12608,7 @@
 1	bi	bi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	gunďəm	gun	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_
 3	eːkunmə	eːkun	PRON	_	Case=Acc	_	_	_	_
-4	goγoďəwkiːl	goγo	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+4	goγoďəwkiːl	goγo	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 5	tug	tug	ADV	_	_	_	_	_	_
 
 #2007_Mutoray_Dmitriev_LO1.eaf_new.eaf:19
@@ -12948,7 +12948,7 @@
 6	it͡ʃəm	it͡ʃə	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 7	onə	onə	ADV	_	_	_	_	_	_
 8	onə	onə	ADV	_	_	_	_	_	_
-9	t͡ʃokt͡ʃəpkiːl	t͡ʃok	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+9	t͡ʃokt͡ʃəpkiːl	t͡ʃok	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 10	t͡ʃaŋitpə	t͡ʃaŋit	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 11	hom=	hom=	X	_	_	_	_	_	_
 12	t͡ʃaŋitpə	t͡ʃaŋit	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -13501,7 +13501,7 @@
 #2007_Strelka_Andreeva_LR6_1_transliterated.eaf:87
 #Нямасалвун акчудяпкӣл.;Важенки вырываются.
 1	ɲamasalwun	ɲamasal	NOUN	_	Case=Nom|Clusivity=Ex|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=1	_	_	_	_
-2	akt͡ʃuďapkiːl	akt͡ʃu	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+2	akt͡ʃuďapkiːl	akt͡ʃu	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2007_Strelka_Andreeva_LR6_1_transliterated.eaf:88
 #hуктыммэт век нулгӣрэв.;Ехали все время бегом.
@@ -13825,7 +13825,7 @@
 #Да тугӣ ӈэнэдепкӣ бодон, ве̄к орорво это элбэтчэнэ-на эмэhэнилдук.;Так жизнь его идет, все время оленей от пришельцев [волков] защищает.
 1	da	da	X	_	_	_	_	_	_
 2	tugi	tugi	ADV	_	_	_	_	_	_
-3	ŋənəďəpkiː	ŋənə	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+3	ŋənəďəpkiː	ŋənə	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 4	bodon	bodo	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 5	weːk	weːk	ADV	_	_	_	_	_	_
 6	ororwo	oro	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
@@ -14612,7 +14612,7 @@
 #2007_Strelka_Andreev_LR3_transliterated.eaf:147
 #Ичэтчэпкӣ... ичэвупкӣл тугэ аямамат урэ шандулӣн.;Смотрит... видны хорошо вдоль подножья горы.
 1	it͡ʃət	it͡ʃət	X	_	_	_	_	_	_
-2	it͡ʃətt͡ʃəpkiː	it͡ʃə	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+2	it͡ʃətt͡ʃəpkiː	it͡ʃə	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 3	it͡ʃəw	it͡ʃəw	X	_	_	_	_	_	_
 4	it͡ʃəwupkiːl	it͡ʃə	VERB	_	Aspect=Hab|Number=Plur|VerbForm=Part|Voice=Pass	_	_	_	_
 5	tuγə	tuγə	ADV	_	_	_	_	_	_
@@ -14642,7 +14642,7 @@
 5	haktirduː	haktir	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 6	dəː	dəː	PART	_	_	_	_	_	_
 7	bəjə	bəjə	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-8	ŋənəďəwkiː	ŋənə	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+8	ŋənəďəwkiː	ŋənə	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2007_Strelka_Andreev_LR3_transliterated.eaf:155
 #Тадӯ тэгэтчэлим та̄кача̄ндӯ, дэрӯмкӣчэденэ.;Там я стал сидеть на бревнышке, отдыхая.
@@ -15751,7 +15751,7 @@
 1	tak	tak	X	_	_	_	_	_	_
 2	tə	tə	PART	_	_	_	_	_	_
 3	hawajawi	hawa	NOUN	_	Case=Par|Number=Sing|Reflex=Yes	_	_	_	_
-4	gələktədəwkiː	gələktə	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+4	gələktədəwkiː	gələktə	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2008_Kislokan_Sidorov_Konstantin_LAvPart1.eaf_new.eaf:121
 #Тук-ты бидерэв.;Так живем.
@@ -15902,7 +15902,7 @@
 2	kətə	kətə	ADV	_	_	_	_	_	_
 3	hutot͡ʃil	hutot͡ʃi	ADJ	_	Number=Plur	_	_	_	_
 4	bit͡ʃoːtin	bi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-5	nuŋanŋilin	nuŋan	PRON	_	Case=Nom|Number=Sing|Number=Plur|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_
+5	nuŋanŋilin	nuŋan	PRON	_	Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_
 6	an	an	X	_	_	_	_	_	_
 7	antilin	antil	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 8	aminnunin	amin	NOUN	_	Case=Com|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
@@ -15971,7 +15971,7 @@
 3-4	ororwokə	_	_	_	_	_	_	_	_
 3	ororwo	oro	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 4	kə	kə	PART	_	_	_	_	_	_
-5	kikt͡ʃafkiːl	kik	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+5	kikt͡ʃafkiːl	kik	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2008_Kislokan_Udygir_Valentina_LR1.eaf_new.eaf:19
 #Уринэңнэрэв.;Останавливаемся на однодневную стоянку.
@@ -16033,7 +16033,7 @@
 #2008_Kislokan_Udygir_Valentina_LR1.eaf_new.eaf:39
 #Шаду[видимо, оговорка вместо "таду"] бидефкӣ.;Там она была.
 1	ʃadu	ʃadu	ADV	_	_	_	_	_	_
-2	biďəfkiː	bi	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+2	biďəfkiː	bi	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2008_Kislokan_Udygir_Valentina_LR1.eaf_new.eaf:40
 #Энӣңэhэ hавалкирэ бисо̄н аhӣ олон-да.;Покойная мать была работящая женщина и мастерица.
@@ -16739,7 +16739,7 @@
 #2008_Tura_Lapuko_FB_transliterated.eaf:14
 #Ēкунмал hуктыпдяпкӣ.;Кто-то скачет.
 1	eːkunmal	eːkunmal	PRON	_	Definite=Ind	_	_	_	_
-2	huktipďapkiː	hukti	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part|Voice=Caus	_	_	_	_
+2	huktipďapkiː	hukti	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part|Voice=Caus	_	_	_	_
 
 #2008_Tura_Lapuko_FB_transliterated.eaf:17
 #Би гуним:;Подумала:
@@ -16874,7 +16874,7 @@
 #2008_Tura_Lapuko_LR3_transliterated.eaf:8
 #Тарилдӯ эмэпчо̄тын аӈидук... гэрбӣлтын бичо̄тын тарэ бэел «враги народа».;На них привезли из этого самого, назывались эти люди «враги народа».
 1	tarilduː	tari	DET	_	Case=Dat|Number=Plur	_	_	_	_
-2	əməpt͡ʃoːtin	əmə	VERB	_	Clusivity=In|Mood=Ind|Number=Plur|Person=3|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
+2	əməpt͡ʃoːtin	əmə	VERB	_	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	aŋiduk	aŋi	PRON	_	Case=Abl	_	_	_	_
 4	gərbiːltin	gərbiː	NOUN	_	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
 5	bit͡ʃoːtin	bi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -17552,7 +17552,7 @@
 2	nuŋartin	nuŋartin	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	ərə	ə	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	tarə	tarə	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-5	minduliː	min	PRON	_	Case=Per|Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
+5	minduliː	min	PRON	_	Case=Nom|Case=Per|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 6	jaŋurə	jaŋu	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	_	_	_	_
 
 #2008_Tutonchany_Khukochar_Danil_LR_transliterated.eaf:24
@@ -17805,8 +17805,8 @@
 4	bəjəŋmi	bəjə	NOUN	_	Case=Nom|Number=Sing|Reflex=Yes	_	_	_	_
 5	it͡ʃədəːji	it͡ʃə	VERB	_	Mood=Prp|Reflex=Yes|VerbForm=Conv	_	_	_	_
 6	tarə	tarə	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-7	gaďawkiːwa	ga	VERB	_	Aspect=Imp|Aspect=Hab|Case=Acc|VerbForm=Part	_	_	_	_
-8	uriːhinďawkiːwa	uriːhin	VERB	_	Aspect=Imp|Aspect=Hab|Case=Acc|VerbForm=Part	_	_	_	_
+7	gaďawkiːwa	ga	VERB	_	Aspect=Hab|Aspect=Imp|Case=Acc|VerbForm=Part	_	_	_	_
+8	uriːhinďawkiːwa	uriːhin	VERB	_	Aspect=Hab|Aspect=Imp|Case=Acc|VerbForm=Part	_	_	_	_
 
 #2008_Tutonchany_Pankagir_FSk_transliterated.eaf:43
 #Тарэ свадьбалчал.;Стали играть свадьбу.
@@ -17854,7 +17854,7 @@
 2	beːdɲij	beːdɲij	ADJ	_	_	_	_	_	_
 3	onməl	onməl	ADV	_	Definite=Ind	_	_	_	_
 4	taduː	taduː	ADV	_	_	_	_	_	_
-5	girkutt͡ʃawkiː	girku	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+5	girkutt͡ʃawkiː	girku	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2008_Tutonchany_Pankagir_FSk_transliterated.eaf:61
 #И вот эти, которые аӈил, тэтыгэ̄лэн бӯсё тарэ богатый...;И вот эти одежды, которые дал тот богатый...
@@ -17928,7 +17928,7 @@
 3	tar	tar	DET	_	_	_	_	_	_
 4	ahiːn	ahiː	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 5	tar	tar	DET	_	_	_	_	_	_
-6	buďəpkiː	bu	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+6	buďəpkiː	bu	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 7	maleɲko	maleɲko	X	_	_	_	_	_	_
 8	goda	goda	X	_	_	_	_	_	_
 9	tri	tri	X	_	_	_	_	_	_
@@ -17940,7 +17940,7 @@
 15	ələ	ələ	INTJ	_	_	_	_	_	_
 16	katoraja	katoraja	X	_	_	_	_	_	_
 17	bal	bal	X	_	_	_	_	_	_
-18	aruďafkiː	aru	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+18	aruďafkiː	aru	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2008_Tutonchany_Pankagir_FSk_transliterated.eaf:75
 #Так и жить начали всё.;Так и жить начали всё.
@@ -18296,7 +18296,7 @@
 16	i	i	CCONJ	_	_	_	_	_	_
 17	prosto	prosto	X	_	_	_	_	_	_
 18	jiďat	jiďat	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-19	dəwdəwkiːl	dəw	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+19	dəwdəwkiːl	dəw	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 20	tarə	tarə	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 21	hu	hu	X	_	_	_	_	_	_
 22	hunil	hunil	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -18376,7 +18376,7 @@
 1	patom	patom	X	_	_	_	_	_	_
 2	ələ	ələ	INTJ	_	_	_	_	_	_
 3	aŋiliwkiːl	aŋi	PRON	_	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
-4	ikondəwkiːl	ikon	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+4	ikondəwkiːl	ikon	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 5	tawər	ta	DET	_	Number=Plur	_	_	_	_
 6	fśo	fśo	ADJ	_	_	_	_	_	_
 7	tsəlij	tsəlij	ADJ	_	_	_	_	_	_
@@ -18394,11 +18394,11 @@
 #hигипкӣл, иридявкӣл hуӈтудӯ дюдӯ, тарэ дюгудёвкил гэла̄-дэ, где они сидят.;Обдирают, варят в другом чуме, таскают во второй, где они сидят.
 1	higipkiːl	higi	VERB	_	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
 2	hame	hame	X	_	_	_	_	_	_
-3	iridawkiːl	iri	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+3	iridawkiːl	iri	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 4	huŋtuduː	huŋtu	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	duduː	du	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 6	tare	tare	DET	_	_	_	_	_	_
-7	dugudowkiːl	dugu	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+7	dugudowkiːl	dugu	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 8-9	gelaːdəː	_	_	_	_	_	_	_	_
 8	gelaː	ge	NOUN	_	Case=Lat|Number=Sing	_	_	_	_
 9	dəː	dəː	PART	_	_	_	_	_	_
@@ -18473,7 +18473,7 @@
 #Та̄дӯ элэ икондевкӣл.;Тогда вот поют.
 1	taːduː	taːduː	ADV	_	_	_	_	_	_
 2	ələ	ələ	INTJ	_	_	_	_	_	_
-3	ikondəwkiːl	ikon	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+3	ikondəwkiːl	ikon	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2008_Tutonchany_Pankagir_LR1_transliterated.eaf_new.eaf:86
 #А потом они тарэ амкинмэ, вот это амкин вот это все время уйдевкӣл hераӈилдук, hераӈилдук, чтобы нуӈартын адатын, эдотын hалдяттэ.;А потом они этот полог все время завязывают за жерди, чтобы они спали, не стеснялись.
@@ -18491,7 +18491,7 @@
 12	eto	eto	PRON	_	_	_	_	_	_
 13	fśo	fśo	ADJ	_	_	_	_	_	_
 14	vrema	vrema	X	_	_	_	_	_	_
-15	ujdəwkiːl	uj	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+15	ujdəwkiːl	uj	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 16	həraŋilduk	həraŋi	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
 17	həraŋilduk	həraŋi	NOUN	_	Case=Abl|Number=Plur	_	_	_	_
 18	stobi	stobi	SCONJ	_	_	_	_	_	_
@@ -18513,7 +18513,7 @@
 9	fśo	fśo	ADJ	_	_	_	_	_	_
 10	vrema	vrema	X	_	_	_	_	_	_
 11	aŋiwkiːl	aŋi	PRON	_	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
-12	ujdəwkiːl	uj	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+12	ujdəwkiːl	uj	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 13	paka	paka	SCONJ	_	_	_	_	_	_
 
 #2008_Tutonchany_Pankagir_LR1_transliterated.eaf_new.eaf:88
@@ -18528,7 +18528,7 @@
 2	əsə	ə	VERB	_	VerbForm=Part	_	_	_	_
 3	bi	bi	X	_	_	_	_	_	_
 4	bəjəl	bəjəl	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-5	bidəwkiːl	bi	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+5	bidəwkiːl	bi	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 6	i	i	CCONJ	_	_	_	_	_	_
 7	fśo	fśo	ADJ	_	_	_	_	_	_
 8	əwkiːl	ə	VERB	_	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
@@ -18577,7 +18577,7 @@
 
 #2008_Tutonchany_Pankagir_LR1_transliterated.eaf_new.eaf:101
 #Тэгэтчэвкӣл тарэ, этэсолэтын-дэ, тэгэтнэ туг, аӈдатын, эдо̄тын hалдяттэ мортэкинмэр.;Сидят, когда закончили, сидят так, чтобы те не стеснялись друг друга.
-1	təgətt͡ʃəwkiːl	təgə	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+1	təgətt͡ʃəwkiːl	təgə	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 2	tarə	tarə	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 3-4	ətəsolətində	_	_	_	_	_	_	_	_
 3	ətəsolətin	ətə	VERB	_	Number=Plur|Person=3|VerbForm=Conv	_	_	_	_
@@ -18608,7 +18608,7 @@
 6	gil	gil	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	aha	aha	X	_	_	_	_	_	_
 8	taːduː	taːduː	ADV	_	_	_	_	_	_
-9	dəpdəwkiːl	dəp	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+9	dəpdəwkiːl	dəp	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 10	luhu	luhu	ADV	_	_	_	_	_	_
 
 #2008_Tutonchany_Pankagir_LR1_transliterated.eaf_new.eaf:105
@@ -18921,7 +18921,7 @@
 #2008_Tutonchany_Uvachan_Inna_LAv1.eaf_new.eaf:28
 #kuŋaka-r-wi usit-ča-pkī-l;Дети учатся.
 1	kuŋakarwi	kuŋaka	NOUN	_	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_
-2	usitt͡ʃapkiːl	usit	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+2	usitt͡ʃapkiːl	usit	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2008_Tutonchany_Uvachan_Inna_LAv1.eaf_new.eaf:33
 #taduk huruda= huru-d’ə-n možət turu-lā;Потом, может, в Туру поедет.
@@ -19081,7 +19081,7 @@
 #a-ŋkī-= a-d’i-ŋkī-tin min-ŋī-l aŋi-l-wi bratja s'ostri;Спали мои эти, братья, сестры.
 1	aŋkiː	aŋkiː	X	_	_	_	_	_	_
 2	adiŋkiːtin	a	VERB	_	Aspect=Imp|Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-3	minŋiːl	min	PRON	_	Case=Nom|Number=Sing|Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
+3	minŋiːl	min	PRON	_	Case=Nom|Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 4	aŋilwi	aŋi	PRON	_	Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_
 5	bratja	bratja	X	_	_	_	_	_	_
 6	śostri	śostri	X	_	_	_	_	_	_
@@ -19789,7 +19789,7 @@
 1	a	a	INTJ	_	_	_	_	_	_
 2	nuŋartin	nuŋartin	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	taduː	taduː	ADV	_	_	_	_	_	_
-4	bidəpkiːl	bi	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+4	bidəpkiːl	bi	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 5	tuganiːwə	tuganiː	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 6	aŋə	aŋə	PRON	_	_	_	_	_	_
 7	tuganiːwə	tuganiː	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -22002,7 +22002,7 @@
 1	ərtikiː	ər	DET	_	Case=All	_	_	_	_
 2	amutkaːn	amutkaːn	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	həgdiŋə	həgdiŋə	ADJ	_	_	_	_	_	_
-4	it͡ʃəbďəpkiː	it͡ʃə	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part|Voice=Pass	_	_	_	_
+4	it͡ʃəbďəpkiː	it͡ʃə	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part|Voice=Pass	_	_	_	_
 
 #2011_Hantayskoye_Ozero_Yeryomina_Lyubov_LR_transliterated.eaf:47
 #Та̄ла̄, наверное, биркэ.;Там [=туда, в ту сторону], наверное, был.
@@ -22080,7 +22080,7 @@
 #Валектӯ тар уриндяпкӣл бичол.;В Вальке останавливались на один день.
 1	waloktuː	walok	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
 2	tar	tar	DET	_	_	_	_	_	_
-3	urinďapkiːl	urin	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+3	urinďapkiːl	urin	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 4	bit͡ʃol	bi	VERB	_	Number=Plur|VerbForm=Part	_	_	_	_
 
 #2011_Hantayskoye_Ozero_Yeryomina_Lyubov_LR_transliterated.eaf:73
@@ -22106,7 +22106,7 @@
 2	dəː	dəː	PART	_	_	_	_	_	_
 3	nawerna	nawerna	X	_	_	_	_	_	_
 4	tar	tar	DET	_	_	_	_	_	_
-5	ujutt͡ʃəŋnərkəl	uju	VERB	_	Aspect=Imp|Aspect=Hab|Mood=Pot|Number=Plur|Person=3	_	_	_	_
+5	ujutt͡ʃəŋnərkəl	uju	VERB	_	Aspect=Hab|Aspect=Imp|Mood=Pot|Number=Plur|Person=3	_	_	_	_
 6	ororwə	oro	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 
 #2011_Hantayskoye_Ozero_Yeryomina_Lyubov_LR_transliterated.eaf:76
@@ -22371,7 +22371,7 @@
 #2011_Hantayskoye_Ozero_Yeryomina_Lyubov_LR_transliterated.eaf:136
 #Таритпэр ӈо̄лэсилден".;Вот этого она станет бояться"
 1	taritpər	tari	DET	_	Number=Plur	_	_	_	_
-2	ŋoːləśilďən	ŋoːlə	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_
+2	ŋoːləśilďən	ŋoːlə	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
 
 #2011_Hantayskoye_Ozero_Yeryomina_Lyubov_LR_transliterated.eaf:137
 #Брезент-то светлый же.;Брезент-то светлый же.
@@ -22689,7 +22689,7 @@
 1	bit͡ʃoːtin	bi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 2	nuŋarduː	nuŋarduː	X	_	_	_	_	_	_
 3	nuŋarduːtin	nuŋar	PRON	_	Case=Dat|Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_
-4	nuŋarduːn	nuŋa	PRON	_	Case=Dat|Case=Nom|Number=Sing|Number=Plur|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_
+4	nuŋarduːn	nuŋa	PRON	_	Case=Dat|Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_
 5	bit͡ʃoːtin	bi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 6	kətə	kətə	ADV	_	_	_	_	_	_
 7	aŋaďakaːr	aŋaďakaː	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -22816,7 +22816,7 @@
 #Ну нуӈан тыкулдэн и давай тукса̄hинэн;Он рассердился и давай бежать.
 1	nu	nu	INTJ	_	_	_	_	_	_
 2	nuŋan	nuŋan	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-3	tikuldən	tiku	VERB	_	Mood=Ind|Number=Sing|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+3	tikuldən	tiku	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	i	i	CCONJ	_	_	_	_	_	_
 5	dawaj	dawaj	X	_	_	_	_	_	_
 6	tuksaːhinən	tuksaː	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -23814,7 +23814,7 @@
 #2014_Yukta_UdygirVP3_transliterated.eaf:4
 #Нуӈартын ӈэнэдепкӣл чулук-чулук-чулук.;Они ходили: чулук-чулук-чулук.
 1	nuŋartin	nuŋartin	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_
-2	ŋənəďəpkiːl	ŋənə	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+2	ŋənəďəpkiːl	ŋənə	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 3	t͡ʃuluk	t͡ʃuluk	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	t͡ʃuluk	t͡ʃuluk	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	t͡ʃuluk	t͡ʃuluk	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -23827,7 +23827,7 @@
 
 #2014_Yukta_UdygirVP3_transliterated.eaf:8
 #Тэтчэвкӣ.;Одевается.
-1	tətt͡ʃəfkiː	tət	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+1	tətt͡ʃəfkiː	tət	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2014_Yukta_UdygirVP3_transliterated.eaf:9
 #Нуӈартын до̄лча̄дерэ:;Они слушают:
@@ -23836,7 +23836,7 @@
 
 #2014_Yukta_UdygirVP3_transliterated.eaf:17
 #hавалдяпкӣн олдяча̄н-кэ.;Стал-то работать.
-1	hawalďapkiːn	hawal	VERB	_	Aspect=Imp|Aspect=Hab|Poss=Yes|PossNumber=Sing|PossPerson=3|VerbForm=Part	_	_	_	_
+1	hawalďapkiːn	hawal	VERB	_	Aspect=Hab|Aspect=Imp|Poss=Yes|PossNumber=Sing|PossPerson=3|VerbForm=Part	_	_	_	_
 2-3	olďat͡ʃaːnkə	_	_	_	_	_	_	_	_
 2	olďat͡ʃaːn	o	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	kə	kə	PART	_	_	_	_	_	_
@@ -23919,7 +23919,7 @@
 1	nuŋan	nuŋan	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	girkuďərən	girku	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_
 3	moːlwə	moː	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
-4	it͡ʃətt͡ʃəfkiː	it͡ʃə	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+4	it͡ʃətt͡ʃəfkiː	it͡ʃə	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2014_Yukta_UdygirVP3_transliterated.eaf:40
 #«Ēда мо̄лвэ эӈнэннэ токторо?»;«Почему дрова не рубишь?»
@@ -24157,7 +24157,7 @@
 
 #2014_Yukta_UdygirVP_LO_transliterated.eaf:37
 #hукулэ̄девкӣ.;Лежит.
-1	hukuləːďəfkiː	hukuləː	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+1	hukuləːďəfkiː	hukuləː	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2014_Yukta_UdygirVP_LO_transliterated.eaf:38
 #Нуӈан пэктырэ̄рэн.;Он выстрелил.
@@ -24201,7 +24201,7 @@
 #Тэгэминун ниhӯнэ̄hинэм-нун дядянунми.;Назавтра поехал отвозить тушу с дядей.
 1	təgəminun	təgəminun	VERB	_	Mood=Ind|VerbForm=Fin	_	_	_	_
 2-3	ɲihuːnəːhinəmnun	_	_	_	_	_	_	_	_
-2	ɲihuːnəːhinəm	ɲihuːnəː	VERB	_	Mood=Ind|Number=Sing|Number=Plur|Person=3|Person=1|VerbForm=Fin	_	_	_	_
+2	ɲihuːnəːhinəm	ɲihuːnəː	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 3	nun	nun	PART	_	_	_	_	_	_
 4	ďaďanunmi	ďaďa	NOUN	_	Case=Com|Number=Sing|Reflex=Yes	_	_	_	_
 
@@ -24274,7 +24274,7 @@
 1	əː	əː	INTJ	_	_	_	_	_	_
 2	ŋinakir	ŋinaki	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 3	taduk	taduk	ADV	_	_	_	_	_	_
-4	art͡ʃamkaďafkiː	art͡ʃamka	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+4	art͡ʃamkaďafkiː	art͡ʃamka	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #2014_Yukta_UdygirVP_LO_transliterated.eaf:80
 #Дядяв ёкэллэн:;Дядя закричал:
@@ -24434,7 +24434,7 @@
 #2016_Yerbogachyon_Egorova_NG_LR2_transliterated.eaf:35
 #Аhал тэгэтчэпкӣл.;Женщины сидят.
 1	ahal	aha	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-2	təγətt͡ʃəpkiːl	təγə	VERB	_	Aspect=Imp|Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_
+2	təγətt͡ʃəpkiːl	təγə	VERB	_	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_
 
 #2016_Yerbogachyon_Egorova_NG_LR2_transliterated.eaf:38
 #Ичэттэв, о̄н ēдерэн-дэ̄.;Посмотрели, как он делает-то.
@@ -25080,7 +25080,7 @@
 #Arch_Lebedeva_1952_Tutonchany_Khutokogir_Momondo.eaf:27
 #«hакиндукин урискэл».;«От печени вытащи».
 1	hakindukin	hakin	NOUN	_	Case=Abl|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
-2	uriskəl	uri	VERB	_	Mood=Imp|Number=Sing|Number=Plur|Person=2|PersonNum=2	_	_	_	_
+2	uriskəl	uri	VERB	_	Mood=Imp|Number=Sing|PersonNum=2	_	_	_	_
 
 #Arch_Lebedeva_1952_Tutonchany_Khutokogir_Momondo.eaf:29
 #«Эда hакимдеро́ран?»;«Почему печень дрогнула?»
@@ -25777,7 +25777,7 @@
 #24;После него его чулугды навьючивает.
 1	amardun	amar	NOUN	_	Case=Dat|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
 2	śulugdiŋin	śulugdi	PROPN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_
-3	namaďapki	nama	VERB	_	Aspect=Imp|Aspect=Hab|VerbForm=Part	_	_	_	_
+3	namaďapki	nama	VERB	_	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_
 
 #Arch_Levedeva_1952_Tutonchany_Yalogir_Chulugdy.eaf:25
 #26;Детей его сажает лицами назад.
@@ -25886,7 +25886,7 @@
 #12;Отец Лопоко закричал, чтобы внизу подстерегали их, чтобы казалось, что много людей.
 1	amintin	amin	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
 2	lopokol	lopoko	PROPN	_	Case=Nom|Number=Plur	_	_	_	_
-3	jəːkəllən	jəːkə	VERB	_	Mood=Ind|Number=Sing|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+3	jəːkəllən	jəːkə	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	əďittin	əďi	NOUN	_	Case=Ins|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_
 5	tigistəːtin	tigi	VERB	_	Mood=Prp|Number=Plur|Person=3|VerbForm=Conv	_	_	_	_
 6	t͡ʃtop	t͡ʃtop	SCONJ	_	_	_	_	_	_

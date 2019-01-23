@@ -5821,7 +5821,7 @@
 
 #2007_Chirinda_Eldogir_Valentina_FSk7_transliterated.eaf:74
 #Тумнисав тадук.;Потом оплевала.
-1	tumɲiśaːw	tumɲi	VERB	_	Number=Sing|Person=1|VerbForm=Part	_	_	_	_
+1	tumɲiśaːw	tumɲi	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 2	taduk	taduk	ADV	_	_	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FSk7_transliterated.eaf:78
@@ -8954,7 +8954,7 @@
 
 #2007_Ekonda_Khutokogir_Grigoriy_LAv.eaf_new.eaf:0
 #Раньше, эвэдыт, да? эвэдыт.;Раньше... по-
-эвенкийски, да? По-эвенкийски.
+#эвенкийски, да? По-эвенкийски.
 1	raɲʃə	raɲʃə	ADV	_	_	_	_	_	_
 2	əwədit	əwədit	ADJ	_	_	_	_	_	_
 3	da	da	X	_	_	_	_	_	_

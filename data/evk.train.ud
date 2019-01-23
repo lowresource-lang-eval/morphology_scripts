@@ -3512,7 +3512,7 @@
 1	heːŋasaːn	heːŋasaːn	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	kə	kə	PART	_	_	_	_	_	_
 3	kətə	kətə	ADV	_	_	_	_	_	_
-4	tuŋərtikinduː	tuŋərtikin	ADV	_	Case=Dat	_	_	_	_
+4	tuŋərtikinduː	tuŋərtikin	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	bifkiː	bi	VERB	_	Aspect=Hab|VerbForm=Part	_	_	_	_
 
 #2007_Chirinda_Eldogir_Valentina_FM7_transliterated.eaf:29
@@ -16970,7 +16970,7 @@
 
 #2008_Tura_Lapuko_LR3_transliterated.eaf:33
 #Анӈанӣтыкин нуӈартын отличникил бичо̄тын.;Ежегодно они были отличниками.
-1	anŋaɲiːtikin	anŋaɲiːtikin	ADV	_	_	_	_	_	_
+1	anŋaɲiːtikin	anŋaɲiːtikin	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	nuŋartin	nuŋartin	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	bi	bi	X	_	_	_	_	_	_
 4	atlisnikil	atlisniki	NOUN	_	Case=Nom|Number=Plur	_	_	_	_

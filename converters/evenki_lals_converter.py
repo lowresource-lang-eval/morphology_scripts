@@ -3,7 +3,7 @@
 __author__ = "gisly"
 import os
 import traceback
-
+import random
 
 import language_utils
 import eaf_utils
@@ -54,60 +54,168 @@ FEATURE_TABLE = None
 FEATURE_FILENAME = "../resources/feature_table.csv"
 
 
-def convert_folder_conll(folder_name, output_filename, filenames_filter=None):
-    #TODO: remove this logging
-    with open('log.txt', 'w', encoding='utf-8') as fout:
-        fout.write('')
-
+def convert_folder_conll(folder_name, output_filename_train, output_filename_test,
+                         filenames_restriction,
+                         filenames_filter=None):
     file_num = 0
     bad_files = []
     num_tokens = 0
     num_sentences = 0
-    with open(output_filename, 'w', encoding='utf-8') as fout:
-        for filename in os.listdir(folder_name):
-            if eaf_utils.is_eaf(filename) and \
-                    ((not filenames_filter) or (filename in filenames_filter)):
-                try:
-                    print("=======", filename, "==============")
-                    file_num_tokens, file_num_sentences = convert_file_conll(os.path.join(folder_name, filename), fout)
-                    file_num += 1
-                    num_tokens += file_num_tokens
-                    num_sentences += file_num_sentences
-                except Exception as e:
-                    print(e)
-                    traceback.print_exc()
-                    bad_files.append((filename, e))
+    with open(output_filename_train, 'w', encoding='utf-8', newline='') as fout_train:
+        with open(output_filename_test, 'w', encoding='utf-8', newline='') as fout_test:
+            for filename in os.listdir(folder_name):
+                if eaf_utils.is_eaf(filename) and \
+                    (len(filenames_restriction) == 0 or filename in filenames_restriction):
+                    try:
+                        print("=======", filename, "==============")
+
+                        file_num_tokens, file_num_sentences = \
+                            convert_file_conll(os.path.join(folder_name, filename),
+                                               filenames_filter,
+                                               fout_train, fout_test)
+                        file_num += 1
+                        num_tokens += file_num_tokens
+                        num_sentences += file_num_sentences
+                    except Exception as e:
+                        print(e)
+                        traceback.print_exc()
+                        bad_files.append((filename, e))
     print("%s files converted" % file_num)
     return bad_files, num_tokens, num_sentences
 
 """
 converts eaf files from the http://siberian-lang.srcc.msu.ru project
-to the format specified at <TODO>
+to the format specified at https://lowresource-lang-eval.github.io
 """
-def convert_file_conll(filename, fout):
+def convert_file_conll(filename, filenames_filter,
+                       fout_train, fout_test):
     total_num_sentences = 0
     num_tokens = 0
     text_data = eaf_utils.get_text_data(filename, EVENKI_LANGUAGE_CODE)
     if not text_data:
         raise Exception("Empty filename: %s" % filename)
+
+
     for sentence_num, text_data_sentence in enumerate(text_data):
         if not text_data_sentence['morphology'] or \
                 has_cyrillic(text_data_sentence['morphology']):
             continue
-        if sentence_num > 0:
-            fout.write(CONLL_NEW_LINE)
+        base_filename = os.path.basename(filename)
+        if base_filename in filenames_filter and sentence_num in filenames_filter[base_filename]:
+            continue
+        if random.random() > 0.35:
+            fout = fout_train
+        else:
+            fout = fout_test
+        """if base_filename in filenames_filter and sentence_num in filenames_filter[base_filename]:
+            fout = fout_train
+        else:
+            fout = fout_test"""
+        fout.write(CONLL_NEW_LINE)
         total_num_sentences += 1
-        write_comment_data(text_data_sentence, fout)
+        write_comment_data(filename, sentence_num, text_data_sentence, fout)
         num_sentence_tokens = write_all_tokens_data(text_data_sentence, fout, filename)
         num_tokens += num_sentence_tokens
     return num_tokens, total_num_sentences
 
+def convert_folder_morpheme(folder_name, output_filename_train, output_filename_test,
+                         filenames_restriction,
+                         filenames_filter=None):
+    file_num = 0
+    bad_files = []
+    num_tokens = 0
+    num_sentences = 0
+    with open(output_filename_train, 'w', encoding='utf-8', newline='') as fout_train:
+        with open(output_filename_test, 'w', encoding='utf-8', newline='') as fout_test:
+            for filename in os.listdir(folder_name):
+                if eaf_utils.is_eaf(filename) and \
+                    (len(filenames_restriction) == 0 or filename in filenames_restriction):
+                    try:
+                        print("=======", filename, "==============")
+
+                        file_num_tokens, file_num_sentences = \
+                            convert_file_morpheme(os.path.join(folder_name, filename),
+                                               filenames_filter,
+                                               fout_train, fout_test)
+                        file_num += 1
+                        num_tokens += file_num_tokens
+                        num_sentences += file_num_sentences
+                    except Exception as e:
+                        print(e)
+                        traceback.print_exc()
+                        bad_files.append((filename, e))
+    print("%s files converted" % file_num)
+    return bad_files, num_tokens, num_sentences
+
+
+def convert_file_morpheme(filename, filenames_filter,
+                       fout_train, fout_test):
+    total_num_sentences = 0
+    num_tokens = 0
+    text_data = eaf_utils.get_text_data(filename, EVENKI_LANGUAGE_CODE)
+    if not text_data:
+        raise Exception("Empty filename: %s" % filename)
+
+
+    for sentence_num, text_data_sentence in enumerate(text_data):
+        if not text_data_sentence['morphology'] or \
+                has_cyrillic(text_data_sentence['morphology']):
+            continue
+        base_filename = os.path.basename(filename)
+        if base_filename in filenames_filter and sentence_num in filenames_filter[base_filename]:
+            fout = fout_train
+        else:
+            fout = fout_test
+        """if random.random() > 0.1:
+            fout = fout_train
+        else:
+            fout = fout_test"""
+
+        fout.write(CONLL_NEW_LINE)
+        total_num_sentences += 1
+        num_sentence_tokens = write_all_tokens_data_morpheme(text_data_sentence, fout, filename)
+        num_tokens += num_sentence_tokens
+    return num_tokens, total_num_sentences
+
+def write_all_tokens_data_morpheme(text_data_sentence, fout, filename):
+    morph_data = text_data_sentence['morphology']
+    for morph_data_token in morph_data:
+        write_token_data_morpheme(morph_data_token, filename, fout)
+    return len(morph_data)
+
+def write_token_data_morpheme(morph_data_token, filename, fout):
+    tokens_data = normalize_tokens(morph_data_token)
+    part_word = ''
+    part_analysis = ''
+    for token_data in tokens_data:
+        if token_data['is_multiword']:
+            continue
+        part_word += token_data['normalized_token']
+        normalized_morpheme = token_data['normalized_morphemes'][0]
+
+        part_analysis += normalized_morpheme + ' '
+        for i in range(1, len(token_data['normalized_glosses'])):
+            normalized_morpheme = token_data['normalized_morphemes'][i]
+            if normalized_morpheme == '':
+                continue
+            normalized_gloss = token_data['normalized_glosses'][i]
+            if normalized_gloss in GLOSSES:
+                GLOSSES[normalized_gloss].add(filename)
+            else:
+                GLOSSES[normalized_gloss] = {filename}
+            part_analysis += normalized_morpheme + '_' + normalized_gloss + ' '
+    fout.write(part_word + '\t' + part_analysis.strip() + '\r\n')
+
+
 """
 creates metadata comment lines
 """
-def write_comment_data(text_data_sentence, fout):
-    #TODO
-    pass
+def write_comment_data(filename, sentence_num, text_data_sentence, fout):
+    fout.write("#%s:%s\n" % (os.path.basename(filename), sentence_num))
+    sentence_text = text_data_sentence['sentence'].replace("\n", "#")
+    sentence_translation = text_data_sentence['translation'].replace("\n", "\n#")
+    fout.write("#%s;%s\n" % (sentence_text,
+                             sentence_translation))
 
 """
 creates the token table for CONLL
@@ -176,6 +284,8 @@ def write_single_token_data(token_number, tokens_data,
     output_line += CONLL_NO_VALUE
     output_line += CONLL_DELIMITER
     #FEATS
+    if normalized_features == '':
+        normalized_features = CONLL_NO_VALUE
     output_line += normalized_features
     output_line += CONLL_DELIMITER
     #HEAD
@@ -189,7 +299,7 @@ def write_single_token_data(token_number, tokens_data,
     output_line += CONLL_DELIMITER
     #MISC
     output_line += CONLL_NO_VALUE
-    output_line += CONLL_DELIMITER
+
 
     fout.write(output_line + CONLL_NEW_LINE)
 
@@ -197,7 +307,7 @@ def write_single_token_data(token_number, tokens_data,
 def normalize_tokens(morph_data_token):
     tokens_data = []
 
-    if morph_data_token['token'] == 'nalnətčuØ':
+    if morph_data_token['token'] == 'ənəl':
         debug_test1 = 1
 
     multiword, normalized_tokens = language_utils.normalize_tokens(morph_data_token)
@@ -207,13 +317,17 @@ def normalize_tokens(morph_data_token):
                             'normalized_lemma' : CONLL_NO_VALUE,
                             'normalized_pos' : CONLL_NO_VALUE,
                             'normalized_features' : CONLL_NO_VALUE,
+                            'normalized_morphemes' : CONLL_NO_VALUE,
                             'is_multiword': True})
     
     for normalized_token_glosses in normalized_tokens:
         starting_index = normalized_token_glosses['starting_index']
         normalized_token = normalized_token_glosses['normalized_token']
         normalized_glosses = normalized_token_glosses['normalized_glosses']
+        normalized_morphemes = normalized_token_glosses['normalized_morphemes']
+
         normalized_lemma = get_lemma(starting_index, morph_data_token, normalized_glosses)
+
 
         normalized_pos = processPOS(morph_data_token['pos'],
                                     morph_data_token['analysis'][starting_index]['fon'],
@@ -222,6 +336,7 @@ def normalize_tokens(morph_data_token):
         normalized_features = normalize_features(get_features(morph_data_token, normalized_pos, normalized_glosses))
         tokens_data.append({'normalized_token' : normalized_token,
                             'normalized_glosses' : normalized_glosses,
+                            'normalized_morphemes' : normalized_morphemes,
                             'normalized_lemma' : normalized_lemma,
                             'normalized_pos' : normalized_pos,
                             'normalized_features' : normalized_features,
@@ -273,15 +388,22 @@ def get_features(morph_data_token, normalized_pos, normalized_glosses):
 
 
 def modify_features(feature_list, normalized_pos, stem):
-    if normalized_pos != CONLL_VERB:
-        return feature_list
+
+
+
     is_imperfective = False
     is_non_futurum = False
+    is_singular = False
+    is_plural = False
     for feature_key, feature_value in feature_list:
-        if is_imperfective_feature(feature_key, feature_value):
+        if normalized_pos == CONLL_VERB and is_imperfective_feature(feature_key, feature_value):
             is_imperfective = True
-        elif is_non_futurum_feature(feature_key, feature_value):
+        elif normalized_pos == CONLL_VERB and is_non_futurum_feature(feature_key, feature_value):
             is_non_futurum = True
+        elif is_non_singular_feature(feature_key, feature_value):
+            is_plural = True
+        elif is_singular_feature(feature_key, feature_value):
+            is_singular = True
 
     if is_non_futurum:
         if is_imperfective:
@@ -295,11 +417,14 @@ def modify_features(feature_list, normalized_pos, stem):
             feature_list.remove(('Tense', 'Nfut'))
             feature_list.append(('Tense', 'Past'))
 
+    if is_plural and is_singular:
+        feature_list.remove(('Number', 'Sing'))
+
     return feature_list
 
 
 def add_default_features(feature_list, normalized_pos):
-    if normalized_pos in [CONLL_NOUN, CONLL_PROPER]:
+    if normalized_pos in [CONLL_NOUN, CONLL_PROPER, CONLL_PRON]:
         return add_default_features_nominal(feature_list)
     if normalized_pos in [CONLL_VERB]:
         return add_default_features_verbal(feature_list)
@@ -337,6 +462,9 @@ def is_non_nominative_case_feature(feature_key, feature_value):
 
 def is_non_singular_feature(feature_key, feature_value):
     return feature_key == 'Number' and feature_value != 'Sing'
+
+def is_singular_feature(feature_key, feature_value):
+    return feature_key == 'Number' and feature_value == 'Sing'
 
 def is_non_indicative_feature(feature_key, feature_value):
     return feature_key == 'Mood' and feature_value != 'Ind'
@@ -439,7 +567,7 @@ def normalize_gloss(gloss):
     return gloss.strip('-').split('{')[0].split('[')[0]
 
 def normalize_features(features):
-    features_sorted = sorted(features, key = lambda x: x[0])
+    features_sorted = sorted(features, key = lambda x: x[0] + '#' + x[1])
     feature_string = ""
     for feature in features_sorted:
         if feature[0] == "-":
@@ -465,13 +593,32 @@ def read_feature_table():
                     feature_list.append((feature_part_split[0], feature_part_split[1]))
             FEATURE_TABLE[feature_key] = feature_list
 
+def read_file_sentence_ids(filename):
+    file_sentence_dict = dict()
+    with open(filename, "r", encoding="utf-8") as fin:
+        for line in fin:
+            if (line.startswith("#19") or line.startswith("#20") or line.startswith("#Arch")):
+                file_sentence = line.strip().split(':')
+                if len(file_sentence) < 2:
+                    continue
+                if file_sentence[1] == '':
+                    continue
+                filename = file_sentence[0].strip("#")
+                sentence_num = int(file_sentence[1])
+                if filename in file_sentence_dict:
+                    file_sentence_dict[filename].append(sentence_num)
+                else:
+                    file_sentence_dict[filename] = [sentence_num]
+    return file_sentence_dict
 
+file_sentence_dict = read_file_sentence_ids("D:\Projects\morphology_scripts\data\\train.txt")
 
-
-bad_files, num_tokens, num_sentences = convert_folder_conll(
+bad_files, num_tokens, num_sentences = convert_folder_morpheme(
     "D:/ForElan/ForSIL_CORPUS/evenki_texts_corpus_05112018",
-                   "D:/Projects/morphology_scripts/data/test.txt",
-                    []
+"D:/Projects/morphology_scripts/data/train_morph2.txt",
+                   "D:/Projects/morphology_scripts/data/test_morph2.txt",
+    [],
+                    file_sentence_dict
                      )
 
 for filename, e in bad_files:

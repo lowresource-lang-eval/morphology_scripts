@@ -89,13 +89,14 @@ GLOSSES_VERBAL = ['COMIT',
 GLOSSES_VERBAL_PREFIXES = ['VBLZ', 'CV', 'IMPER']
 GLOSSES_ADJ_PREFIXES = ['ADJ', 'ATR', 'EQT',
                         'сильный(о.проявлении.качества)']
-GLOSSES_ADV_PREFIXES = ['ADVZ', 'EVERY']
+GLOSSES_ADV_PREFIXES = ['ADVZ', ]
 GLOSSES_NOUN_PREFIXES = ['NMLZ', 'DATLOC', 'LOCALL', 'ACC', 'ACCIN', 'ABL', 'ALL',
                          'INSTR', 'COM', 'VOC', 'COM.FAM', 'LOCDIR', 'ELAT',
                          'PROL',
                          'COLL', 'FAM',
                          'INDPS',
                          'DEADREL',
+
                          ]
 
 GLOSSES_PROPER_PREFIXES = ['HYDR.NAME', 'GEOGR']
@@ -353,6 +354,7 @@ def normalize_tokens(morph_data_token):
     current_multiword = ''
     current_token = ''
     current_glosses = []
+    current_morphemes = []
     for i in range(len(morph_data_token['analysis'])):
         normalized_fon = normalize_token(morph_data_token['analysis'][i]['fon'])
         normalized_gloss = normalize_gloss(morph_data_token['analysis'][i]['gloss'])
@@ -360,19 +362,23 @@ def normalize_tokens(morph_data_token):
             current_multiword = current_token
             tokens.append({'normalized_token' : current_token,
                            'normalized_glosses' : current_glosses,
+                           'normalized_morphemes' : current_morphemes,
                            'starting_index' : starting_index})
             current_token = normalized_fon
             current_glosses = [normalized_gloss]
+            current_morphemes = [normalized_fon]
             starting_index = i
         else:
             current_token += normalized_fon
             current_glosses.append(normalized_gloss)
+            current_morphemes.append(normalized_fon)
 
         if current_multiword != '':
             current_multiword += normalized_fon
     if current_token != '':
         tokens.append({'normalized_token': current_token,
                        'normalized_glosses': current_glosses,
+                       'normalized_morphemes' : current_morphemes,
                        'starting_index': starting_index})
     return current_multiword, tokens
 

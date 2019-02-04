@@ -611,25 +611,31 @@ def read_file_sentence_ids(filename):
                     file_sentence_dict[filename] = [sentence_num]
     return file_sentence_dict
 
-file_sentence_dict = read_file_sentence_ids("D:\Projects\morphology_scripts\data\\train.txt")
-
-bad_files, num_tokens, num_sentences = convert_folder_morpheme(
-    "D:/ForElan/ForSIL_CORPUS/evenki_texts_corpus_05112018",
-"D:/Projects/morphology_scripts/data/train_morph2.txt",
-                   "D:/Projects/morphology_scripts/data/test_morph2.txt",
-    [],
-                    file_sentence_dict
-                     )
-
-for filename, e in bad_files:
-    print("%s:%s" % (filename, e))
 
 
-print("Total tokens: %s. Total sentences: %s" % (num_tokens, num_sentences))
+def main():
+    file_sentence_dict = read_file_sentence_ids("D:\Projects\morphology_scripts\data\\train.txt")
 
-print('\r\n'.join(sorted(list(FON_SET))))
-print('\r\n'.join(sorted(list(CODE_SWITCHING))))
-sorted_glosses = sorted(list(GLOSSES.keys()))
-for gloss in sorted_glosses:
-    filename_set = GLOSSES[gloss]
-    print(gloss, '\t', ';'.join(sorted(list(filename_set))))
+    bad_files, num_tokens, num_sentences = convert_folder_morpheme(
+        "D:/ForElan/ForSIL_CORPUS/evenki_texts_corpus_05112018",
+        "D:/Projects/morphology_scripts/data/train_morph2.txt",
+        "D:/Projects/morphology_scripts/data/test_morph2.txt",
+        [],
+        file_sentence_dict
+    )
+
+    for filename, e in bad_files:
+        print("%s:%s" % (filename, e))
+
+    print("Total tokens: %s. Total sentences: %s" % (num_tokens, num_sentences))
+
+    print('\r\n'.join(sorted(list(FON_SET))))
+    print('\r\n'.join(sorted(list(CODE_SWITCHING))))
+    sorted_glosses = sorted(list(GLOSSES.keys()))
+    for gloss in sorted_glosses:
+        filename_set = GLOSSES[gloss]
+        print(gloss, '\t', ';'.join(sorted(list(filename_set))))
+
+if __name__ == '__main__':
+    main()
+

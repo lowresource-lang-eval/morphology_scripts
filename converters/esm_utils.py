@@ -17,7 +17,7 @@ def get_text_data(filename):
     root = get_root(filename)
     sentence_borders = get_sentence_borders(root)
     words_split_morphemes = get_tier_data(root, 'mb')
-    glosses = get_tier_data(root, 'ge')
+    glosses = get_tier_data(root, 'gr')
     parts_of_speech = get_tier_data(root, 'ps')
     text_data = []
     for sentence_border in sentence_borders:
@@ -39,10 +39,18 @@ def get_tokens_by_sentence(words_split_morphemes,
     morph_data = []
     for i in range(sentence_start, sentence_end):
         morph_data_word = dict()
-        morph_data_word['token'] = words_split_morphemes[i]
-        morph_data_word['analysis'] = glosses[i]
-        morph_data_word['pos'] = parts_of_speech[i]
-        morph_data.append(morph_data_word)
+        #a russian word has no analysis
+        if i in words_split_morphemes:
+            morph_data_word['token'] = words_split_morphemes[i]
+            if not i in glosses:
+                morph_data_word['analysis'] = ''
+            else:
+                morph_data_word['analysis'] = glosses[i]
+            if not i in parts_of_speech:
+                morph_data_word['pos'] = 'UNKN'
+            else:
+                morph_data_word['pos'] = parts_of_speech[i]
+            morph_data.append(morph_data_word)
     return morph_data
 
 def get_sentence_borders(root):
@@ -76,8 +84,3 @@ def get_tier(root, tier_name):
 def get_event_number(event_code):
     return int(event_code.split('T')[-1])
 
-text_data = get_text_data('D:/Projects/2019/LowResourceSharedTask/selkup/flk/'
-              'BAG_1964_ItjaMousetrapped_flk/BAG_1964_ItjaMousetrapped_flk.exb')
-
-for sentence in text_data:
-    print(sentence)

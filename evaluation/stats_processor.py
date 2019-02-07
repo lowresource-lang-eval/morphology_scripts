@@ -21,6 +21,9 @@ def check_conll_file(filename):
 
             word_form = line_parts[1]
             word_lemma = line_parts[2]
+            if word_lemma == '_':
+                print(line)
+
             for word_char in word_form:
                 unique_letters.add(word_char)
             for word_char in word_lemma:

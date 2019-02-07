@@ -1,0 +1,55 @@
+POS	GLOSS	CONLL
+ALL	1DU	Person=1|Number=Dual
+ALL	1PL	Person=1|Number=Plur
+ALL	1SG	Person=1|Number=Sing
+ALL	2DU	Person=2|Number=Dual
+ALL	2PL	Person=2|Number=Plur
+ALL	2SG	Person=2|Number=Sing
+ALL	3DU	Person=3|Number=Dual
+ALL	3PL	Person=3|Number=Plur
+ALL	3SG	Person=3|Number=Sing
+ALL	ABL	Case=Abl
+ALL	ACC	Case=Acc
+ALL	ADESS/ADES adessive case	Case=Ade
+ALL	ALL	Case=All
+ALL	AUD	-
+ALL	CAR	-
+ALL	CO	-
+ALL	COLL	Number=Coll
+ALL	COM	Case=Com
+ALL	COND	Mood=Cnd
+ALL	CONJ	-
+ALL	COR	Case=Equ
+ALL	CVB	VerbForm=Conv
+ALL	DU	Number=Dual
+ALL	EL	Case=Ela
+ALL	EP	-
+ALL	FUT	Tense=Fut
+ALL	GEN	Case=Gen
+ALL	HORT	Mood=Imp
+ALL	ILL	Case=Ill
+ALL	ILL2	Case=Ill
+ALL	IMP	Mood=Imp
+ALL	INF	VerbForm=Inf
+ALL	INFER	-
+ALL	INSTR	Case=Instr
+ALL	INSTR2	Case=Instr
+ALL	LOC	Case=Loc
+ALL	NOM	Case=Nom
+ALL	O	-
+ALL	OBL	-
+ALL	OPT	Mood=Opt
+ALL	ORD	NumType=Ord
+ALL	PL	Number=Plur
+ALL	PROL	Case=Pro
+ALL	PST	Tense=Past
+ALL	PST.NAR past narrative tense	Tense=Past
+ALL	PTCP.CAR caritive participle	VerbForm=Part
+ALL	PTCP.DEST destinative participle	VerbForm=Part
+ALL	PTCP.PRS present participle	VerbForm=Part
+ALL	PTCP.PST past participle	VerbForm=Part
+ALL	S	-
+ALL	SUBJ	Mood=Subj
+ALL	SUP	VerbForm=Sup
+ALL	TRL	Case=Tra
+ALL	VOC	Case=Voc

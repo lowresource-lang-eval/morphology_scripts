@@ -358,8 +358,9 @@ def get_lemma(starting_index, morph_data_token, normalized_glosses):
 
 
 def get_features(morph_data_token, normalized_pos, normalized_glosses):
+    global FEATURE_TABLE
     if FEATURE_TABLE is None:
-        read_feature_table()
+        FEATURE_TABLE = read_feature_table(FEATURE_FILENAME)
     feature_list = []
     for normalized_gloss in normalized_glosses:
         if language_utils.is_slip_unknown(normalized_gloss):
@@ -576,10 +577,11 @@ def normalize_features(features):
     return feature_string.strip("|")
 
 
-def read_feature_table():
-    global FEATURE_TABLE
-    FEATURE_TABLE = dict()
-    with open(FEATURE_FILENAME, "r", encoding="utf-8") as fin:
+def read_feature_table(filename):
+    feature_table = dict()
+    if not os.path.exists(filename):
+        raise Exception("File %s cannot be found" % filename)
+    with open(filename, "r", encoding="utf-8") as fin:
         for line in fin:
             line_parts = line.strip().split("\t")
             feature_key = line_parts[0].strip() + "#" + line_parts[1].strip()
@@ -591,7 +593,8 @@ def read_feature_table():
                     feature_list.append(("-", "-"))
                 else:
                     feature_list.append((feature_part_split[0], feature_part_split[1]))
-            FEATURE_TABLE[feature_key] = feature_list
+                    feature_table[feature_key] = feature_list
+    return feature_table
 
 def read_file_sentence_ids(filename):
     file_sentence_dict = dict()

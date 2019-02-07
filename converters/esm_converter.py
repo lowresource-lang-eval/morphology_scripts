@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*
 __author__ = "gisly"
 from converters import esm_utils
-from converters.evenki_lals_converter import write_single_token_data
-
+from converters.evenki_lals_converter import write_single_token_data, read_feature_table
 
 import os
 import sys
@@ -63,9 +62,54 @@ POS_CONVERSION = {'%%' : CONLL_OTHER,
                      'qv' : CONLL_VERB,
                      'v' : CONLL_VERB
                   }
-DERIVATIVE_GLOSSES = ['TODO']
+DERIVATIVE_GLOSSES = ['ABST',
+'ACTN',
+'ADJZ',
+'ADVZ',
+'ATTEN',
+'AUGM',
+'CAP',
+'CAUS',
+'DEB',
+'DECAUS',
+'DEF',
+'DETR',
+'DIM',
+'DRV',
+'DUR',
+'EMPH',
+
+'FRQ',
+'HAB',
+'INCH',
+'INDEF',
+'INSTRN',
+'INTENS',
+'INTERJ',
+'ITER.NUM',
+'MOM',
+'MULO',
+'MULS',
+'MULT',
+'NEG',
+'NEG.EX',
+'NMLZ',
+'PROPR',
+'QUEST',
+'RES',
+'RFL',
+'SNGL',
+'TEMPN',
+'TEN.UNIT ',
+'TR',
+'TRF',
+'US',
+'VBLZ', ]
 
 POSES = set()
+
+FEATURE_TABLE = None
+FEATURE_FILENAME = "D:/Projects/morphology_scripts/resources/feature_table_selk.csv"
 
 
 def convert_folder_conll(folder_name, output_filename_train, output_filename_test,
@@ -96,7 +140,7 @@ def convert_folder_conll(folder_name, output_filename_train, output_filename_tes
                             print(e)
                             traceback.print_exc()
                             bad_files.append((filename, e))
-                            return
+                            break
     print("%s files converted" % file_num)
     return bad_files, num_tokens, num_sentences
 
@@ -170,7 +214,7 @@ def normalize_token(morph_data_token):
     normalized_glosses = normalize_glosses(morph_data_token['analysis'])
     normalized_lemma = get_lemma(normalized_morphemes, normalized_glosses)
     normalized_pos = normalize_pos(morph_data_token['pos'])
-    normalized_features = normalize_features(get_features(morph_data_token))
+    normalized_features = normalize_features(get_features(morph_data_token, normalized_pos, normalized_glosses))
 
     return {'normalized_token': normalized_token,
                             'normalized_glosses': normalized_glosses,
@@ -200,10 +244,11 @@ def normalize_morphemes(morphemes):
 
 def normalize_glosses(glosses):
     gloss_parts = glosses.split('-')
+    gloss_parts_normalized = []
     for gloss_part in gloss_parts:
-        if '.' in gloss_part:
-            print(gloss_part)
-    return gloss_parts
+        for gloss_part_minor in gloss_part.split('.'):
+            gloss_parts_normalized.append(gloss_part_minor)
+    return gloss_parts_normalized
 
 
 def normalize_pos(pos):
@@ -211,12 +256,40 @@ def normalize_pos(pos):
     return POS_CONVERSION[pos]
 
 
-def get_features(morph_data_token):
-    return []
+def get_features(morph_data_token, normalized_pos, normalized_glosses):
+    global FEATURE_TABLE
+    if FEATURE_TABLE is None:
+        FEATURE_TABLE = read_feature_table(FEATURE_FILENAME)
+    feature_list = []
+
+    for normalized_gloss in normalized_glosses:
+        print(normalized_gloss)
+
+        if normalized_gloss.endswith('.PL'):
+            normalized_gloss = 'PL'
+        feature_key = normalized_pos + "#" + normalized_gloss
+        if feature_key in FEATURE_TABLE:
+            feature_list += FEATURE_TABLE[feature_key]
+        else:
+            feature_key_all = "ALL#" + normalized_gloss
+            if feature_key_all in FEATURE_TABLE:
+                feature_list += FEATURE_TABLE[feature_key_all]
+            else:
+                print("BAD:====" + feature_key + ":" + str(morph_data_token))
+    """feature_list = add_default_features(feature_list, normalized_pos)
+    feature_list = modify_features(feature_list, normalized_pos, morph_data_token['analysis'][0]['fon'])"""
+    feature_list = list(set(feature_list))
+    return feature_list
 
 
-def normalize_features(param):
-    return 'TODO'
+def normalize_features(features):
+    features_sorted = sorted(features, key = lambda x: x[0] + '#' + x[1])
+    feature_string = ""
+    for feature in features_sorted:
+        if feature[0] == "-":
+            continue
+        feature_string += "|" + feature[0] + "=" + feature[1]
+    return feature_string.strip("|")
 
 
 def is_derivative(gloss):

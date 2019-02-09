@@ -306,10 +306,6 @@ def write_single_token_data(token_number, tokens_data,
 
 def normalize_tokens(morph_data_token):
     tokens_data = []
-
-    if morph_data_token['token'] == 'ənəl':
-        debug_test1 = 1
-
     multiword, normalized_tokens = language_utils.normalize_tokens(morph_data_token)
     if multiword != '':
         tokens_data.append({'normalized_token' : multiword,

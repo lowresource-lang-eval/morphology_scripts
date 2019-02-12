@@ -1,8 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*
 __author__ = "gisly"
-from converters import esm_utils
-from converters.evenki_lals_converter import write_single_token_data, read_feature_table
+from converters import esm_utils, language_utils
+from converters.evenki_lals_converter import write_single_token_data, read_feature_table, add_default_features, \
+    read_file_sentence_ids
 
 import os
 import sys
@@ -10,7 +11,7 @@ import sys
 import traceback
 import random
 
-RANDOM_THRESHOLD = 0
+RANDOM_THRESHOLD = 0.25
 
 CONLL_DELIMITER = '\t'
 CONLL_NEW_LINE = '\n'
@@ -36,24 +37,25 @@ POS_CONVERSION = {'%%' : CONLL_OTHER,
                   'adj' : CONLL_ADJ,
                   'adv' : CONLL_ADV,
                   'clit' : CONLL_PARTICLE,
-                  #TODO:?
+
                   'conj' : CONLL_CCONJ,
                   'dem' : CONLL_DET,
                   'emph' : CONLL_PRON,
                   'emphpers' : CONLL_PRON,
-                  #TODO:?
+
                   'expl' : CONLL_INTJ,
                   'interj' : CONLL_INTJ,
-                  #TODO:?
+
                   'interrog' : CONLL_PRON,
                     'n' : CONLL_NOUN,
-                  #TODO
+
                      'np:G' : CONLL_NOUN,
                      'nprop' : CONLL_PROPER,
                      'num' : CONLL_NUM,
                      'pers' : CONLL_PRON,
                      'pp' : CONLL_ADP,
-                  #TODO
+                  'prep' : CONLL_ADP,
+
                      'preverb' : CONLL_ADV,
                      'pro' : CONLL_PRON,
                      'ptcl' : CONLL_PARTICLE,
@@ -107,6 +109,7 @@ DERIVATIVE_GLOSSES = ['ABST',
 'VBLZ', ]
 
 POSES = set()
+BAD_GLOSSES = set()
 
 FEATURE_TABLE = None
 FEATURE_FILENAME = "D:/Projects/morphology_scripts/resources/feature_table_selk.csv"
@@ -208,10 +211,10 @@ def write_token_data(token_id, morph_data_token, filename, fout):
 
 
 
-def normalize_token(morph_data_token):
+def normalize_token(morph_data_token, is_split_by_dot = True):
     normalized_token = normalize_wordform(morph_data_token['token'])
     normalized_morphemes = normalize_morphemes(morph_data_token['token'])
-    normalized_glosses = normalize_glosses(morph_data_token['analysis'])
+    normalized_glosses = normalize_glosses(morph_data_token['analysis'], is_split_by_dot)
     normalized_lemma = get_lemma(normalized_morphemes, normalized_glosses)
     normalized_pos = normalize_pos(morph_data_token['pos'])
     normalized_features = normalize_features(get_features(morph_data_token, normalized_pos, normalized_glosses))
@@ -242,12 +245,15 @@ def get_lemma(morphemes, glosses):
 def normalize_morphemes(morphemes):
     return morphemes.split('-')
 
-def normalize_glosses(glosses):
+def normalize_glosses(glosses, is_split_by_dots = True):
     gloss_parts = glosses.split('-')
     gloss_parts_normalized = []
     for gloss_part in gloss_parts:
-        for gloss_part_minor in gloss_part.split('.'):
-            gloss_parts_normalized.append(gloss_part_minor)
+        if is_split_by_dots:
+            for gloss_part_minor in gloss_part.split('.'):
+                gloss_parts_normalized.append(gloss_part_minor)
+        else:
+            gloss_parts_normalized.append(gloss_part)
     return gloss_parts_normalized
 
 
@@ -257,16 +263,21 @@ def normalize_pos(pos):
 
 
 def get_features(morph_data_token, normalized_pos, normalized_glosses):
+    global BAD_GLOSSES
     global FEATURE_TABLE
     if FEATURE_TABLE is None:
         FEATURE_TABLE = read_feature_table(FEATURE_FILENAME)
     feature_list = []
-
+    gloss_arr = []
     for normalized_gloss in normalized_glosses:
-        print(normalized_gloss)
-
         if normalized_gloss.endswith('.PL'):
-            normalized_gloss = 'PL'
+            gloss_arr.append('PL')
+            gloss_arr.append(normalized_gloss.split('.')[0])
+        else:
+            gloss_arr.append(normalized_gloss)
+
+    for normalized_gloss in gloss_arr:
+        normalized_gloss = normalized_gloss.strip('[').strip(']').strip()
         feature_key = normalized_pos + "#" + normalized_gloss
         if feature_key in FEATURE_TABLE:
             feature_list += FEATURE_TABLE[feature_key]
@@ -275,9 +286,10 @@ def get_features(morph_data_token, normalized_pos, normalized_glosses):
             if feature_key_all in FEATURE_TABLE:
                 feature_list += FEATURE_TABLE[feature_key_all]
             else:
-                print("BAD:====" + feature_key + ":" + str(morph_data_token))
-    """feature_list = add_default_features(feature_list, normalized_pos)
-    feature_list = modify_features(feature_list, normalized_pos, morph_data_token['analysis'][0]['fon'])"""
+                BAD_GLOSSES.add(normalized_gloss)
+
+    feature_list = add_default_features(feature_list, normalized_pos)
+    """feature_list = modify_features(feature_list, normalized_pos, morph_data_token['analysis'][0]['fon'])"""
     feature_list = list(set(feature_list))
     return feature_list
 
@@ -343,7 +355,7 @@ def convert_file_morpheme(filename, filenames_filter,
             fout = fout_train
         else:
             fout = fout_test
-        """if random.random() > 0.1:
+        """if random.random() > RANDOM_THRESHOLD:
             fout = fout_train
         else:
             fout = fout_test"""
@@ -361,73 +373,43 @@ def write_all_tokens_data_morpheme(text_data_sentence, fout, filename):
     return len(morph_data)
 
 def write_token_data_morpheme(morph_data_token, filename, fout):
-    tokens_data = normalize_tokens(morph_data_token)
+    token_data = normalize_token(morph_data_token, False)
     part_word = ''
     part_analysis = ''
-    for token_data in tokens_data:
-        if token_data['is_multiword']:
-            continue
-        part_word += token_data['normalized_token']
-        normalized_morpheme = token_data['normalized_morphemes'][0]
+    part_word += token_data['normalized_token']
+    normalized_morpheme = token_data['normalized_morphemes'][0]
 
-        part_analysis += normalized_morpheme + ' '
-        for i in range(1, len(token_data['normalized_glosses'])):
-            normalized_morpheme = token_data['normalized_morphemes'][i]
-            if normalized_morpheme == '':
-                continue
-            normalized_gloss = token_data['normalized_glosses'][i]
-            
-            part_analysis += normalized_morpheme + '_' + normalized_gloss + ' '
+    part_analysis += normalized_morpheme + ' '
+    for i in range(1, len(token_data['normalized_glosses'])):
+        normalized_morpheme = token_data['normalized_morphemes'][i]
+        if normalized_morpheme == '':
+            continue
+        normalized_gloss = token_data['normalized_glosses'][i]
+
+        part_analysis += normalized_morpheme + '_' + normalized_gloss + ' '
     fout.write(part_word + '\t' + part_analysis.strip() + '\r\n')
 
 
 def normalize_tokens(morph_data_token):
-    tokens_data = []
-    multiword, normalized_tokens = language_utils.normalize_tokens(morph_data_token)
-    if multiword != '':
-        tokens_data.append({'normalized_token': multiword,
-                            'normalized_glosses': [],
-                            'normalized_lemma': CONLL_NO_VALUE,
-                            'normalized_pos': CONLL_NO_VALUE,
-                            'normalized_features': CONLL_NO_VALUE,
-                            'normalized_morphemes': CONLL_NO_VALUE,
-                            'is_multiword': True})
-
-    for normalized_token_glosses in normalized_tokens:
-        starting_index = normalized_token_glosses['starting_index']
-        normalized_token = normalized_token_glosses['normalized_token']
-        normalized_glosses = normalized_token_glosses['normalized_glosses']
-        normalized_morphemes = normalized_token_glosses['normalized_morphemes']
-
-        normalized_lemma = get_lemma(starting_index, morph_data_token, normalized_glosses)
-
-        normalized_pos = normalize_pos(morph_data_token['pos'])
-        normalized_features = normalize_features(get_features(morph_data_token, normalized_pos, normalized_glosses))
-        tokens_data.append({'normalized_token': normalized_token,
-                            'normalized_glosses': normalized_glosses,
-                            'normalized_morphemes': normalized_morphemes,
-                            'normalized_lemma': normalized_lemma,
-                            'normalized_pos': normalized_pos,
-                            'normalized_features': normalized_features,
-                            'is_multiword': False})
-    return tokens_data
+    return [normalize_token(token) for token in morph_data_token]
 
 def main():
+    file_sentence_dict = read_file_sentence_ids("D://Projects//morphology_scripts//converters//train_selk.txt")
     if len(sys.argv) < 4:
         print("usage: esm_converter.py <folder> <train_file> <test_file>")
         return
-    bad_files, num_tokens, num_sentences = convert_folder_conll(
+    bad_files, num_tokens, num_sentences = convert_folder_morpheme(
         sys.argv[1],
         sys.argv[2],
         sys.argv[3],
         [],
-        dict()
+        file_sentence_dict
     )
 
     for filename, e in bad_files:
         print("%s:%s" % (filename, e))
     print("Total tokens: %s. Total sentences: %s" % (num_tokens, num_sentences))
-
+    #print(sorted(list(BAD_GLOSSES)))
 
 
 if __name__ == '__main__':

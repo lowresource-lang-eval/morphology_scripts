@@ -8,9 +8,14 @@ ALL	2SG	Person=2|Number=Sing
 ALL	3DU	Person=3|Number=Dual
 ALL	3PL	Person=3|Number=Plur
 ALL	3SG	Person=3|Number=Sing
+ALL	2/3DU	Number=Dual
+ALL	2/3PL	Number=Plur
+ALL	2/3SG	Number=Sing
+ALL	we	Person=1|Number=Plur
 ALL	ABL	Case=Abl
 ALL	ACC	Case=Acc
-ALL	ADESS/ADES adessive case	Case=Ade
+ALL	ADESS	Case=Ade
+ALL	ADES	Case=Ade
 ALL	ALL	Case=All
 ALL	AUD	-
 ALL	CAR	-
@@ -21,6 +26,7 @@ ALL	COND	Mood=Cnd
 ALL	CONJ	-
 ALL	COR	Case=Equ
 ALL	CVB	VerbForm=Conv
+ALL	DAT	Case=Dat
 ALL	DU	Number=Dual
 ALL	EL	Case=Ela
 ALL	EP	-

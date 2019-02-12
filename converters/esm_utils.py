@@ -57,13 +57,18 @@ def get_sentence_borders(root):
     events = []
     sentence_tier = get_tier(root, 'ts')
     translation_tier = get_tier(root, 'fr')
-    for index, event in enumerate(sentence_tier):
+    index = 0
+    for event in sentence_tier:
+        if event.text.startswith('((NOISE))'):
+            continue
+
         event_time = (get_event_number(event.attrib['start']),
                        get_event_number(event.attrib['end']))
         event = {'time' : event_time,
                  'sentence' : event.text,
                  'translation' : translation_tier[index].text}
         events.append(event)
+        index += 1
     return events
 
 def get_tier_data(root, tier_name):

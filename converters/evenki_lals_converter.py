@@ -579,6 +579,7 @@ def read_feature_table(filename):
         raise Exception("File %s cannot be found" % filename)
     with open(filename, "r", encoding="utf-8") as fin:
         for line in fin:
+            print(line)
             line_parts = line.strip().split("\t")
             feature_key = line_parts[0].strip() + "#" + line_parts[1].strip()
             feature_parts = line_parts[2].strip().split("|")
@@ -596,7 +597,7 @@ def read_file_sentence_ids(filename):
     file_sentence_dict = dict()
     with open(filename, "r", encoding="utf-8") as fin:
         for line in fin:
-            if (line.startswith("#19") or line.startswith("#20") or line.startswith("#Arch")):
+            if (line.startswith("#19") or line.startswith("#20") or line.startswith("#Arch")) or ".exb" in line:
                 file_sentence = line.strip().split(':')
                 if len(file_sentence) < 2:
                     continue

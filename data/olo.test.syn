@@ -1,0 +1,1330 @@
+nosta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+koskettua	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+suuri	ADJ	Number=Sing|Case=Par
+keldaine	ADJ	Number=Sing|Case=Par
+painua	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kilo	NOUN	Number=Sing|Case=Gen
+moine	ADJ	Number=Sing|Case=Nom
+jygei	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kymmene	NUM	Number=Sing|Case=Gen
+minuuttu	NOUN	Number=Sing|Case=Gen
+minä	PRON	Number=Sing|Case=Nom
+
+mieli	NOUN	Number=Sing|Case=Par
+myö	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+elätti	NOUN	Number=Plur|Case=Nom
+
+liipukku	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tämä	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+suvi	NOUN	Number=Sing|Case=Nom
+
+ruadua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+myö	PRON	Number=Sing|Case=Gen
+varat	NOUN	Number=Plur|Case=Nom
+ruveta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+äijy	ADJ	Number=Sing|Case=Nom
+
+tulla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+lähtie	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+myö	PRON	Number=Sing|Case=Nom
+kai	PRON	Number=Sing|Case=Nom
+meččy	NOUN	Number=Sing|Case=Ill
+vago	NOUN	Number=Plur|Case=Par
+kirjaimikko	NOUN	Number=Sing|Case=Par
+kyly	NOUN	Number=Sing|Case=Par
+kajoi	NOUN	Number=Plur|Case=Par
+čyöttö	NOUN	Number=Plur|Case=Par
+lugu	NOUN	Number=Plur|Case=Par
+järvi	NOUN	Number=Sing|Case=Par
+myö	PRON	Number=Sing|Case=Nom
+died’oi	NOUN	Number=Sing|Case=Gen
+kudai	PRON	Number=Sing|Case=Nom
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kylä	NOUN	Number=Sing|Case=Nom
+myö	PRON	Number=Sing|Case=Gen
+pieni	ADJ	Number=Sing|Case=Nom
+kodi	NOUN	Number=Sing|Case=Nom
+seizuo	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+niken	PRON	Number=Sing|Case=Nom
+
+minä	PRON	Number=Sing|Case=Nom
+igävöijä	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+muamo	NOUN	Number=Sing|Case=Par
+soittua	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+vezi	NOUN	Number=Sing|Case=Nom
+puhtas	ADJ	Number=Sing|Case=Nom
+nägy	NOUN	Number=Sing|Case=Par
+myö	PRON	Number=Sing|Case=Gen
+ilmu	NOUN	Number=Sing|Case=Par
+
+
+mužikku	NOUN	Number=Sing|Case=Nom
+
+hyö	PRON	Number=Plur|Case=Gen
+andua	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+sanuo	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+brihaččuine	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+roija	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+atkal	NOUN	Number=Sing|Case=Nom
+
+seiččie	NUM	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+koiru	NOUN	Number=Sing|Case=Nom
+kaži	NOUN	Number=Sing|Case=Par
+vediä	VERB	VebForm=Inf|InfForm=1
+
+poigu	NOUN	Number=Sing|Case=Gen
+ižändy	NOUN	Number=Sing|Case=Gen
+
+aidu	NOUN	Number=Sing|Case=Gen
+mi	PRON	Number=Sing|Case=Par
+
+kattua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+elos	NOUN	Number=Sing|Case=Nom
+toine	NUM	Number=Sing|Case=Nom
+
+andua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+vakustua	VERB	VebForm=Inf|InfForm=1
+tulla	VERB	VebForm=Inf|InfForm=1
+kielastua	VERB	VebForm=Inf|InfForm=1
+
+minä	PRON	Number=Sing|Case=Gen
+kuvata	VERB	VebForm=Inf|InfForm=1
+kehno	NOUN	Number=Sing|Case=Par
+ukata	VERB	VebForm=Inf|InfForm=1
+
+brihačču	NOUN	Number=Sing|Case=Nom
+minä	PRON	Number=Sing|Case=Nom
+jagua	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+kabju	NOUN	Number=Sing|Case=Gen
+
+matkata	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+matkata	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+suari	NOUN	Number=Sing|Case=Gen
+poigu	NOUN	Number=Sing|Case=Nom
+
+mučoi	NOUN	Number=Sing|Case=Gen
+mučoi	NOUN	Number=Sing|Case=Nom
+roija	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mužikku	NOUN	Number=Sing|Case=Nom
+
+akku	NOUN	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Nom
+
+siä	NOUN	Number=Sing|Case=Nom
+
+minä	PRON	Number=Sing|Case=Nom
+naija	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+zavodu	NOUN	Number=Sing|Case=Nom
+
+pal’l’u	NOUN	Number=Sing|Case=Nom
+korvoi	NOUN	Number=Sing|Case=Nom
+
+
+akku	NOUN	Number=Sing|Case=Nom
+maijot	NOUN	Number=Plur|Case=Nom
+
+kivi	NOUN	Number=Sing|Case=Gen
+aittu	NOUN	Number=Sing|Case=Gen
+
+mennä	VERB	VebForm=Inf|InfForm=1
+
+bohattu	NOUN	Number=Sing|Case=Nom
+sizär	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+armas	ADJ	Number=Sing|Case=Nom
+terveh	ADJ	Number=Sing|Case=Nom
+akku	NOUN	Number=Sing|Case=Nom
+
+
+kurgi	NOUN	Number=Sing|Case=Nom
+kärgi	NOUN	Number=Sing|Case=Nom
+harmai	ADJ	Number=Sing|Case=Nom
+harakku	NOUN	Number=Sing|Case=Nom
+
+nosta	VERB	VebForm=Inf|InfForm=1
+
+se	PRON	Number=Sing|Case=Nom
+muamo	NOUN	Number=Sing|Case=Nom
+kudai	PRON	Number=Sing|Case=Nom
+lapsi	ADJ	Number=Sing|Case=Gen
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+se	PRON	Number=Sing|Case=Nom
+muamo	NOUN	Number=Sing|Case=Nom
+kudai	PRON	Number=Sing|Case=Nom
+vačču	NOUN	Number=Sing|Case=Gen
+
+gost’u	NOUN	Number=Sing|Case=Par
+taguine	NOUN	Number=Sing|Case=Par
+
+ruado	NOUN	Number=Sing|Case=Gen
+paha	ADJ	Number=Sing|Case=Nom
+kai	PRON	Number=Sing|Case=Nom
+
+kala	NOUN	Number=Sing|Case=Nom
+
+ken	PRON	Number=Sing|Case=Nom
+griba	NOUN	Number=Sing|Case=Gen
+
+lašku	NOUN	Number=Sing|Case=Gen
+sluavu	NOUN	Number=Sing|Case=Nom
+paha	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+piä	NOUN	Number=Sing|Case=Nom
+veičči	NOUN	Number=Sing|Case=Nom
+piä	NOUN	Number=Sing|Case=Nom
+
+mi	PRON	Number=Sing|Case=Par
+herru	NOUN	Number=Sing|Case=Par
+se	PRON	Number=Sing|Case=Par
+saldattu	NOUN	Number=Sing|Case=Par
+
+
+lapsi	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+sada	NUM	Number=Sing|Case=Nom
+rubl’u	NOUN	Number=Sing|Case=Par
+sanomatoi	NOUN	Number=Sing|Case=Nom
+hinnatoi	ADJ	Number=Sing|Case=Nom
+
+kai	PRON	Number=Sing|Case=Gen
+karju	ADJ	Number=Sing|Case=Gen
+
+
+
+kai	PRON	Number=Plur|Case=Par
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+sana	NOUN	Number=Sing|Case=Par
+
+tunnustuo	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+toine	NUM	Number=Sing|Case=Nom
+toine	NUM	Number=Sing|Case=Gen
+
+siä	NOUN	Number=Sing|Case=Nom
+moine	ADJ	Number=Sing|Case=Nom
+čomaine	NOUN	Number=Sing|Case=Nom
+
+neče	PRON	Number=Sing|Case=Nom
+
+sinä	PRON	Number=Sing|Case=Nom
+
+reboi	NOUN	Number=Sing|Case=Nom
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+passibo	NOUN	Number=Sing|Case=Nom
+passibo	NOUN	Number=Sing|Case=Nom
+
+armas	ADJ	Number=Sing|Case=Nom
+kallis	ADJ	Number=Sing|Case=Nom
+sinä	PRON	Number=Sing|Case=Nom
+sinä	PRON	Number=Sing|Case=Gen
+
+matkata	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+matkata	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kala	NOUN	Number=Sing|Case=Par
+
+sildu	NOUN	Number=Sing|Case=Gen
+
+oppie	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+kallis	ADJ	Number=Sing|Case=Par
+naine	NOUN	Number=Sing|Case=Par
+kallis	ADJ	Number=Sing|Case=Nom
+naine	NOUN	Number=Sing|Case=Nom
+pannakseh	VERB	VebForm=Inf|InfForm=1
+
+opastua	VERB	VebForm=Inf|InfForm=1
+
+myö	PRON	Number=Sing|Case=Gen
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tuhku	NOUN	Number=Sing|Case=Par
+
+kaksi	NUM	Number=Sing|Case=Nom
+luzikku	NOUN	Number=Sing|Case=Par
+ruis	NOUN	Number=Sing|Case=Par
+vakku	NOUN	Number=Sing|Case=Nom
+
+tuhku	NOUN	Number=Sing|Case=Par
+
+perä	NOUN	Number=Sing|Case=Gen
+kaksi	NUM	Number=Sing|Case=Nom
+
+net	PRON	Number=Plur|Case=Nom
+
+minä	PRON	Number=Sing|Case=Gen
+mi	PRON	Number=Sing|Case=Par
+ruadua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+paja	NOUN	Number=Sing|Case=Par
+andua	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+myö	PRON	Number=Sing|Case=Gen
+mustikoi	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+moine	ADJ	Number=Sing|Case=Nom
+kai	PRON	Number=Sing|Case=Nom
+päčči	NOUN	Number=Sing|Case=Nom
+
+kala	NOUN	Number=Sing|Case=Gen
+pohjaine	NOUN	Number=Sing|Case=Nom
+
+liigu	NOUN	Number=Sing|Case=Nom
+uni	NOUN	Number=Sing|Case=Nom
+
+hiilos	NOUN	Number=Sing|Case=Nom
+hiiluttua	VERB	VebForm=Inf|InfForm=1
+
+mi	PRON	Number=Sing|Case=Par
+meččy	NOUN	Number=Sing|Case=Ill
+se	PRON	Number=Sing|Case=Par
+kajahtuakseh	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tämä	PRON	Number=Sing|Case=Nom
+kala	NOUN	Number=Sing|Case=Par
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+seiväs	NOUN	Number=Sing|Case=Nom
+
+žiivattu	NOUN	Number=Sing|Case=Par
+kai	PRON	Number=Sing|Case=Nom
+
+kurgi	NOUN	Number=Sing|Case=Par
+mua	NOUN	Number=Sing|Case=Par
+
+se	PRON	Number=Sing|Case=Par
+
+kondii	NOUN	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Nom
+peldo	NOUN	Number=Sing|Case=Gen
+kondii	NOUN	Number=Sing|Case=Nom
+
+moine	ADJ	Number=Plur|Case=Par
+kai	PRON	Number=Plur|Case=Par
+mustu	ADJ	Number=Sing|Case=Par
+
+minä	PRON	Number=Sing|Case=Nom
+
+zavodie	VERB	VebForm=Inf|InfForm=1
+vierdiä	VERB	VebForm=Inf|InfForm=1
+vierdiä	VERB	VebForm=Inf|InfForm=1
+tuli	NOUN	Number=Sing|Case=Par
+
+eräs	PRON	Number=Plur|Case=Par
+käskii	NOUN	Number=Sing|Case=Nom
+vierdiä	VERB	VebForm=Inf|InfForm=1
+iče	PRON	Number=Sing|Case=Nom
+palua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+seiväs	NOUN	Number=Sing|Case=Gen
+tuohi	NOUN	Number=Sing|Case=Par
+tuohi	NOUN	Number=Sing|Case=Gen
+se	PRON	Number=Sing|Case=Par
+tuli	NOUN	Number=Sing|Case=Par
+
+poltua	VERB	VebForm=Inf|InfForm=1
+
+moine	ADJ	Number=Sing|Case=Par
+ruado	NOUN	Number=Sing|Case=Par
+ruado	NOUN	Number=Plur|Case=Par
+
+ken	PRON	Number=Sing|Case=Nom
+minä	PRON	Number=Sing|Case=Gen
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kai	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+sinä	PRON	Number=Sing|Case=Nom
+piä	NOUN	Number=Sing|Case=Gen
+minä	PRON	Number=Sing|Case=Nom
+
+olgi	NOUN	Number=Sing|Case=Gen
+terveh	ADJ	Number=Sing|Case=Nom
+kuolta	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+minä	PRON	Number=Sing|Case=Gen
+bratan	NOUN	Number=Sing|Case=Nom
+
+hätki	NOUN	Number=Sing|Case=Gen
+
+istuin	NOUN	Number=Sing|Case=Nom
+mi	PRON	Number=Sing|Case=Gen
+kodvu	NOUN	Number=Sing|Case=Gen
+
+piivo	NOUN	Number=Sing|Case=Par
+kävvä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hyö	PRON	Number=Plur|Case=Gen
+
+trupku	NOUN	Number=Sing|Case=Par
+
+vuottua	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+mi	PRON	Number=Sing|Case=Par
+
+net	PRON	Number=Plur|Case=Nom
+hengi	NOUN	Number=Sing|Case=Par
+net	PRON	Number=Plur|Case=Nom
+
+kai	PRON	Number=Sing|Case=Nom
+
+luadie	VERB	VebForm=Inf|InfForm=1
+muijotus	NOUN	Number=Sing|Case=Nom
+
+kuivu	ADJ	Number=Sing|Case=Nom
+parki	NOUN	Number=Sing|Case=Nom
+toine	NUM	Number=Sing|Case=Nom
+nahku	NOUN	Number=Sing|Case=Nom
+roitakseh	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+riputtua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tahto	NOUN	Number=Sing|Case=Nom
+kai	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+toine	NUM	Number=Sing|Case=Nom
+olla	VERB	VebForm=Inf|InfForm=1
+
+kuivua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nedäli	NOUN	Number=Sing|Case=Nom
+kaksi	NUM	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+moine	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+randu	NOUN	Number=Sing|Case=Nom
+toine	NUM	Number=Sing|Case=Nom
+kaži	NOUN	Number=Sing|Case=Nom
+tämä	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tämä	PRON	Number=Sing|Case=Nom
+nengoine	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+nahku	NOUN	Number=Sing|Case=Gen
+se	PRON	Number=Sing|Case=Gen
+
+viizi	NUM	Number=Sing|Case=Nom
+pala	NOUN	Number=Sing|Case=Par
+päivy	NOUN	Number=Sing|Case=Gen
+
+meččy	NOUN	Number=Sing|Case=Ill
+pala	NOUN	Number=Sing|Case=Gen
+meččy	NOUN	Number=Sing|Case=Par
+metri	NOUN	Number=Sing|Case=Par
+
+muata	VERB	VebForm=Inf|InfForm=1
+vilu	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mužikku	NOUN	Number=Sing|Case=Nom
+
+mašin	NOUN	Number=Sing|Case=Nom
+
+moine	ADJ	Number=Sing|Case=Par
+
+prostoi	ADJ	Number=Sing|Case=Nom
+mies	NOUN	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Nom
+
+järvi	NOUN	Number=Sing|Case=Gen
+
+vastata	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kaski	NOUN	Number=Sing|Case=Nom
+tämä	PRON	Number=Sing|Case=Gen
+
+abu	NOUN	Number=Sing|Case=Par
+sada	NUM	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+jänöi	NOUN	Number=Sing|Case=Nom
+meččy	NOUN	Number=Sing|Case=Ine#Number=Sing|Case=Ela
+ongi	NOUN	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+neidine	NOUN	Number=Sing|Case=Nom
+roitakseh	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pahembi	ADJ	Number=Sing|Case=Nom
+
+päčči	NOUN	Number=Sing|Case=Nom
+vačču	NOUN	Number=Sing|Case=Nom
+
+suuri	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+surmu	NOUN	Number=Sing|Case=Nom
+
+tuhmus	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pahembi	ADJ	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nuoret	NOUN	Number=Sing|Case=Gen
+
+vuozi	NOUN	Number=Sing|Case=Gen
+valuo	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+nurmi	NOUN	Number=Sing|Case=Nom
+
+čoma	ADJ	Number=Sing|Case=Nom
+nenä	NOUN	Number=Sing|Case=Nom
+
+muu	PRON	Number=Sing|Case=Nom
+kai	PRON	Number=Sing|Case=Nom
+käzi	NOUN	Number=Sing|Case=Gen
+kohtu	NOUN	Number=Sing|Case=Nom
+pal’l’as	ADJ	Number=Sing|Case=Nom
+vastu	NOUN	Number=Sing|Case=Nom
+
+ratas	NOUN	Number=Sing|Case=Nom
+tämä	PRON	Number=Sing|Case=Nom
+kudai	PRON	Number=Sing|Case=Nom
+
+net	PRON	Number=Plur|Case=Nom
+kai	PRON	Number=Sing|Case=Nom
+
+se	PRON	Number=Sing|Case=Nom
+karzie	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+roitakseh	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kai	PRON	Number=Sing|Case=Nom
+
+net	PRON	Number=Plur|Case=Nom
+kai	PRON	Number=Sing|Case=Nom
+
+kolme	NUM	Number=Sing|Case=Nom
+nelläs	NUM	Number=Sing|Case=Nom
+sizär	NOUN	Number=Sing|Case=Nom
+
+vuozi	NOUN	Number=Sing|Case=Nom
+
+toine	NUM	Number=Sing|Case=Nom
+mies	NOUN	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Nom
+
+mužikku	NOUN	Number=Sing|Case=Nom
+tiedoiniekku	NOUN	Number=Sing|Case=Nom
+
+andua	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+andua	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+sanuo	VERB	VebForm=Inf|InfForm=1
+
+roitakseh	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+nuorin	ADJ	Number=Sing|Case=Nom
+ukko	NOUN	Number=Sing|Case=Nom
+
+se	PRON	Number=Sing|Case=Nom
+luadie	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+se	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+moine	ADJ	Number=Sing|Case=Nom
+kohtu	NOUN	Number=Sing|Case=Nom
+
+panna	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+panna	VERB	VebForm=Inf|InfForm=1
+net	PRON	Number=Plur|Case=Nom
+kaksi	NUM	Number=Sing|Case=Nom
+čuassu	NOUN	Number=Sing|Case=Par
+
+jalgu	NOUN	Number=Sing|Case=Ine
+
+mi	PRON	Number=Sing|Case=Par
+mi	PRON	Number=Sing|Case=Par
+ruadua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ruado	NOUN	Number=Sing|Case=Par
+
+kilometri	NOUN	Number=Sing|Case=Nom
+kolme	NUM	Number=Sing|Case=Nom
+
+toine	NUM	Number=Sing|Case=Nom
+
+net	PRON	Number=Plur|Case=Nom
+mennä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+sinä	PRON	Number=Sing|Case=Nom
+
+ajua	VERB	VebForm=Inf|InfForm=1
+
+se	PRON	Number=Sing|Case=Par
+perie	VERB	VebForm=Inf|InfForm=1
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+sanuo	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+nagris	NOUN	Number=Sing|Case=Par
+
+svuad’bu	NOUN	Number=Sing|Case=Par
+tämä	PRON	Number=Sing|Case=Nom
+akku	NOUN	Number=Sing|Case=Nom
+
+mennä	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+iče	PRON	Number=Sing|Case=Nom
+
+semmoine	ADJ	Number=Sing|Case=Nom
+svuad’bu	NOUN	Number=Sing|Case=Nom
+minä	PRON	Number=Sing|Case=Gen
+
+svuad’bu	NOUN	Number=Sing|Case=Nom
+
+kassu	NOUN	Number=Sing|Case=Gen
+piästiä	VERB	VebForm=Inf|InfForm=1
+kodvu	NOUN	Number=Sing|Case=Nom
+piästiä	VERB	VebForm=Inf|InfForm=1
+piästiä	VERB	VebForm=Inf|InfForm=1
+kassu	NOUN	Number=Sing|Case=Nom
+kassu	NOUN	Number=Sing|Case=Par
+
+se	PRON	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Gen
+moine	ADJ	Number=Sing|Case=Nom
+samvuaru	NOUN	Number=Sing|Case=Nom
+keittiä	VERB	VebForm=Inf|InfForm=1
+keittiä	VERB	VebForm=Inf|InfForm=1
+samvuaru	NOUN	Number=Sing|Case=Gen
+
+se	PRON	Number=Sing|Case=Nom
+hätki	NOUN	Number=Sing|Case=Gen
+briha	NOUN	Number=Sing|Case=Nom
+
+kaksi	NUM	Number=Sing|Case=Nom
+
+orzi	NOUN	Number=Sing|Case=Gen
+panna	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+saldattu	NOUN	Number=Sing|Case=Nom
+
+minä	PRON	Number=Sing|Case=Nom
+
+vilu	ADJ	Number=Sing|Case=Nom
+vilu	ADJ	Number=Sing|Case=Nom
+
+mama	NOUN	Number=Sing|Case=Nom
+svuad’bu	NOUN	Number=Sing|Case=Par
+minä	PRON	Number=Sing|Case=Nom
+
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+panna	VERB	VebForm=Inf|InfForm=1
+prižmie	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+prižmie	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ližätä	VERB	VebForm=Inf|InfForm=1
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+se	PRON	Number=Sing|Case=Nom
+hebo	NOUN	Number=Sing|Case=Gen
+minä	PRON	Number=Sing|Case=Gen
+svuad’bu	NOUN	Number=Sing|Case=Par
+
+minä	PRON	Number=Sing|Case=Nom
+kaččuo	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+minä	PRON	Number=Sing|Case=Nom
+vezi	NOUN	Number=Sing|Case=Gen
+
+luadie	VERB	VebForm=Inf|InfForm=1
+mennä	VERB	VebForm=Inf|InfForm=1
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+velgu	NOUN	Number=Sing|Case=Nom
+maksua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kižata	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kai	PRON	Number=Sing|Case=Nom
+ken	PRON	Number=Sing|Case=Nom
+vällinäine	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ken	PRON	Number=Sing|Case=Nom
+istuo	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+laučču	NOUN	Number=Plur|Case=Par
+briha	NOUN	Number=Sing|Case=Nom
+istuo	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+laučču	NOUN	Number=Plur|Case=Par
+
+kaksi	NUM	Number=Sing|Case=Nom
+päivy	NOUN	Number=Sing|Case=Par
+
+se	PRON	Number=Sing|Case=Par
+sluavu	NOUN	Number=Sing|Case=Par
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tahto	NOUN	Number=Sing|Case=Nom
+
+mama	NOUN	Number=Sing|Case=Nom
+muatušku	NOUN	Number=Sing|Case=Nom
+nelli	NUM	Number=Sing|Case=Nom
+hengi	NOUN	Number=Sing|Case=Par
+roija	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pereh	NOUN	Number=Sing|Case=Nom
+
+nado	NOUN	Number=Sing|Case=Nom
+pluat’t’u	NOUN	Number=Sing|Case=Nom
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nado	NOUN	Number=Sing|Case=Gen
+paidu	NOUN	Number=Sing|Case=Nom
+
+viizi	NUM	Number=Sing|Case=Nom
+rubl’u	NOUN	Number=Sing|Case=Par
+
+tuli	NOUN	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Nom
+ukko	NOUN	Number=Sing|Case=Nom
+mama	NOUN	Number=Sing|Case=Nom
+luadie	VERB	VebForm=Inf|InfForm=1
+maksu	NOUN	Number=Sing|Case=Par
+toine	NUM	Number=Sing|Case=Nom
+kaksi	NUM	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+piä	NOUN	Number=Sing|Case=Nom
+sugie	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ommella	VERB	VebForm=Inf|InfForm=1
+ruskei	ADJ	Number=Sing|Case=Par
+ruskei	ADJ	Number=Sing|Case=Par
+panna	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+savu	NOUN	Number=Sing|Case=Par
+vähäine	ADJ	Number=Sing|Case=Nom
+
+se	PRON	Number=Sing|Case=Gen
+minä	PRON	Number=Sing|Case=Nom
+
+nogi	NOUN	Number=Sing|Case=Par
+
+muu	PRON	Number=Sing|Case=Par
+
+itkie	VERB	VebForm=Inf|InfForm=1
+
+muatušku	NOUN	Number=Sing|Case=Nom
+huondes	NOUN	Number=Sing|Case=Par
+
+se	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+oza	NOUN	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Nom
+ozakas	NOUN	Number=Sing|Case=Nom
+villu	NOUN	Number=Sing|Case=Par
+se	PRON	Number=Sing|Case=Nom
+oza	NOUN	Number=Sing|Case=Nom
+
+myö	PRON	Number=Sing|Case=Gen
+
+astuo	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nenä	NOUN	Number=Plur|Case=Par
+olgi	NOUN	Number=Plur|Case=Par
+
+ženihy	NOUN	Number=Sing|Case=Par
+kaččuo	VERB	VebForm=Inf|InfForm=1
+
+Karjal	PROPN	Number=Sing|Case=Gen
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kolme	NUM	Number=Sing|Case=Nom
+liygi	NOUN	Number=Sing|Case=Gen
+
+liygi	NOUN	Number=Sing|Case=Gen
+opastua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kaksikymmen	NUM	Number=Sing|Case=Par
+vuozi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+lugumiäry	NOUN	Number=Sing|Case=Nom
+liygi	NOUN	Number=Sing|Case=Gen
+
+se	PRON	Number=Sing|Case=Par
+tazavaldu	NOUN	Number=Sing|Case=Gen
+palkita	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+molodoit	NOUN	Number=Plur|Case=Par
+eliä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vuozi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par
+
+suurus	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+yksi	NUM	Number=Sing|Case=Nom
+rubl’u	NOUN	Number=Sing|Case=Par
+
+ruadajat	NOUN	Number=Plur|Case=Nom
+kaikenjyttyine	ADJ	Number=Sing|Case=Par
+kiža	NOUN	Number=Sing|Case=Par
+nuoru	NOUN	Number=Sing|Case=Par
+astundu	NOUN	Number=Sing|Case=Nom
+kengy	NOUN	Number=Plur|Case=Par
+kai	PRON	Number=Plur|Case=Par
+kuvata	VERB	VebForm=Inf|InfForm=1
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tabailla	VERB	VebForm=Inf|InfForm=1
+oma	PRON	Number=Sing|Case=Par
+paista	VERB	VebForm=Inf|InfForm=1
+
+upota	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kai	PRON	Number=Sing|Case=Nom
+elaigu	NOUN	Number=Sing|Case=Nom
+uinota	VERB	VebForm=Inf|InfForm=1
+rahvas	NOUN	Number=Sing|Case=Nom
+maltua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ruadua	VERB	VebForm=Inf|InfForm=1
+huogavo	NOUN	Number=Sing|Case=Par
+
+nelli	NUM	Number=Sing|Case=Nom
+lapsi	ADJ	Number=Sing|Case=Par
+vahnin	ADJ	Number=Sing|Case=Nom
+vahnin	ADJ	Number=Sing|Case=Nom
+kaksi	NUM	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kuuzi	NOUN	Number=Sing|Case=Nom
+keskiaigaine	ADJ	Number=Sing|Case=Par
+karjalaine	NOUN	Number=Sing|Case=Par
+linnu	NOUN	Number=Sing|Case=Par
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+endine	ADJ	Number=Sing|Case=Gen
+kylä	NOUN	Number=Sing|Case=Gen
+
+olii	ADJ	Number=Sing|Case=Gen
+nimi	NOUN	Number=Sing|Case=Nom
+
+čuaju	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+juomine	NOUN	Number=Plur|Case=Par
+muigei	ADJ	Number=Sing|Case=Par
+maido	NOUN	Number=Sing|Case=Par
+kiiseli	NOUN	Number=Sing|Case=Par
+vuassu	NOUN	Number=Sing|Case=Par
+
+meččy	NOUN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+net	PRON	Number=Plur|Case=Gen
+
+järei	ADJ	Number=Sing|Case=Nom
+kolme	NUM	Number=Sing|Case=Nom
+kuva	NOUN	Number=Sing|Case=Par
+päiväine	NOUN	Number=Sing|Case=Nom
+kuudamaine	NOUN	Number=Sing|Case=Nom
+vezi	NOUN	Number=Sing|Case=Nom
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+died’oi	NOUN	Number=Sing|Case=Gen
+buabo	NOUN	Number=Sing|Case=Gen
+
+hävitä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+märgy	ADJ	Number=Sing|Case=Nom
+ilmu	NOUN	Number=Sing|Case=Nom
+
+mustu	ADJ	Number=Sing|Case=Gen
+se	PRON	Number=Sing|Case=Gen
+kerdu	NOUN	Number=Sing|Case=Gen
+
+minä	PRON	Number=Sing|Case=Nom
+
+se	PRON	Number=Sing|Case=Nom
+nähtä	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pieni	ADJ	Number=Sing|Case=Gen
+pal’l’aspiä	ADJ	Number=Sing|Case=Gen
+brihaččuine	NOUN	Number=Sing|Case=Gen
+kudai	PRON	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hieru	NOUN	Number=Sing|Case=Nom
+minä	PRON	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Nom
+pyzyö	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+minä	PRON	Number=Sing|Case=Gen
+
+auttua	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kniigu	NOUN	Number=Sing|Case=Par
+Karjal	PROPN	Number=Sing|Case=Gen
+kaksi	NUM	Number=Sing|Case=Nom
+kolme	NUM	Number=Sing|Case=Nom
+Suomi	PROPN	Number=Sing|Case=Gen
+viizi	NUM	Number=Sing|Case=Nom
+Ven’a	PROPN	Number=Sing|Case=Gen
+
+kaksi	NUM	Number=Sing|Case=Nom
+runokogomus	NOUN	Number=Sing|Case=Par
+minä	PRON	Number=Sing|Case=Nom
+sinä	PRON	Number=Sing|Case=Gen
+lapsi	ADJ	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+vieras	ADJ	Number=Sing|Case=Nom
+työ	PRON	Number=Plur|Case=Gen
+
+tuhukuu	NOUN	Number=Sing|Case=Par
+luvendo	NOUN	Number=Sing|Case=Par
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kuulužu	ADJ	Number=Sing|Case=Nom
+paikannimistö	NOUN	Number=Sing|Case=Gen
+tutkii	NOUN	Number=Sing|Case=Nom
+tiijot	NOUN	Number=Plur|Case=Gen
+douhturi	NOUN	Number=Sing|Case=Nom
+
+passibo	NOUN	Number=Sing|Case=Nom
+
+vaha	NOUN	Number=Sing|Case=Nom
+ken	PRON	Number=Sing|Case=Nom
+tiediä	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tovelline	ADJ	Number=Sing|Case=Par
+karjalaine	NOUN	Number=Sing|Case=Par
+koda	NOUN	Number=Plur|Case=Par
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+vagavu	ADJ	Number=Sing|Case=Nom
+rahvas	NOUN	Number=Sing|Case=Gen
+hyväntahtoine	ADJ	Number=Sing|Case=Nom
+ristikanzu	NOUN	Number=Sing|Case=Nom
+
+lapsi	ADJ	Number=Plur|Case=Par
+hyö	PRON	Number=Plur|Case=Par
+
+hyö	PRON	Number=Plur|Case=Gen
+pidiä	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+työndiä	VERB	VebForm=Inf|InfForm=1
+
+tämä	PRON	Number=Sing|Case=Nom
+ozuttelu	NOUN	Number=Sing|Case=Nom
+vuozi	NOUN	Number=Sing|Case=Gen
+kniigu	NOUN	Number=Sing|Case=Nom
+
+ozuttua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tevos	NOUN	Number=Sing|Case=Gen
+
+suuri	ADJ	Number=Sing|Case=Gen
+tutkimusruado	NOUN	Number=Sing|Case=Gen
+toine	NUM	Number=Sing|Case=Nom
+oma	PRON	Number=Sing|Case=Nom
+hoidai	NOUN	Number=Sing|Case=Gen
+luadimine	NOUN	Number=Sing|Case=Nom
+
+projektu	NOUN	Number=Sing|Case=Nom
+valdivo	NOUN	Number=Sing|Case=Gen
+Suomi	PROPN	Number=Sing|Case=Gen
+liitto	NOUN	Number=Sing|Case=Gen
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kummu	NOUN	Number=Sing|Case=Gen
+niemi	NOUN	Number=Sing|Case=Nom
+
+myö	PRON	Number=Sing|Case=Nom
+kezoi	NOUN	Number=Sing|Case=Par
+
+kylä	NOUN	Number=Sing|Case=Gen
+rahvas	NOUN	Number=Sing|Case=Nom
+kaikin	PRON	Number=Plur|Case=Nom
+polvi	NOUN	Number=Sing|Case=Gen
+
+tiettäväine	ADJ	Number=Sing|Case=Nom
+kuččuo	VERB	VebForm=Inf|InfForm=1
+
+nimi	NOUN	Number=Sing|Case=Nom
+buabo	NOUN	Number=Sing|Case=Gen
+died’oi	NOUN	Number=Sing|Case=Gen
+
+naine	NOUN	Number=Sing|Case=Nom
+händy	NOUN	Number=Sing|Case=Nom
+
+ad’vo	NOUN	Number=Plur|Case=Par
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hyvä	ADJ	Number=Sing|Case=Nom
+meččy	NOUN	Number=Sing|Case=Ill
+kävvä	VERB	VebForm=Inf|InfForm=1
+olla	VERB	VebForm=Inf|InfForm=1
+
+oma	PRON	Number=Sing|Case=Par
+oza	NOUN	Number=Sing|Case=Par
+
+minä	PRON	Number=Sing|Case=Nom
+iče	PRON	Number=Sing|Case=Nom
+mennyh	ADJ	Number=Sing|Case=Nom
+minä	PRON	Number=Sing|Case=Gen
+andua	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nelli	NUM	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+yksi	NUM	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+muatušku	NOUN	Number=Sing|Case=Nom
+
+vinguo	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kudžu	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+säristä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ottua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Karjal	PROPN	Number=Sing|Case=Gen
+kieli	NOUN	Number=Sing|Case=Par
+
+ruado	NOUN	Number=Sing|Case=Nom
+roija	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+žurnualu	NOUN	Number=Sing|Case=Gen
+ruveta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+iče	PRON	Number=Sing|Case=Nom
+se	PRON	Number=Sing|Case=Gen
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+keriäjy	NOUN	Number=Sing|Case=Gen
+kudai	PRON	Number=Sing|Case=Nom
+Suomi	PROPN	Number=Sing|Case=Gen
+
+kodi	NOUN	Number=Sing|Case=Gen
+seizuo	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mustopačas	NOUN	Number=Sing|Case=Nom
+astuo	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Voice=Active|VebForm=Part|PartForm=Pres
+troppu	NOUN	Number=Sing|Case=Par
+runo	NOUN	Number=Sing|Case=Par
+
+suaha	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nähtä	VERB	VebForm=Inf|InfForm=1
+stola	NOUN	Number=Sing|Case=Nom
+zirkalo	NOUN	Number=Sing|Case=Nom
+kniigupualičču	NOUN	Number=Sing|Case=Nom
+velli	NOUN	Number=Sing|Case=Gen
+akku	NOUN	Number=Sing|Case=Gen
+sundugu	NOUN	Number=Sing|Case=Nom
+nišku	NOUN	Number=Plur|Case=Par
+kaksi	NUM	Number=Sing|Case=Nom
+douhturi	NOUN	Number=Sing|Case=Gen
+šliäppy	NOUN	Number=Sing|Case=Par
+liečetiedo	NOUN	Number=Sing|Case=Gen
+filosoufii	NOUN	Number=Sing|Case=Gen
+douhturi	NOUN	Number=Sing|Case=Gen
+
+tuli	NOUN	Number=Sing|Case=Nom
+valattua	VERB	VebForm=Inf|InfForm=1
+mennä	VERB	VebForm=Inf|InfForm=1
+lapsi	ADJ	Number=Sing|Case=Gen
+
+nišku	NOUN	Number=Plur|Case=Par
+Ven’a	PROPN	Number=Sing|Case=Gen
+luodeh	NOUN	Number=Sing|Case=Gen
+
+pogostu	NOUN	Number=Sing|Case=Gen
+
+tämä	PRON	Number=Sing|Case=Nom
+tora	NOUN	Number=Plur|Case=Par
+rauhansobimus	NOUN	Number=Sing|Case=Gen
+
+manuahu	NOUN	Number=Plur|Case=Par
+käskyläine	NOUN	Number=Plur|Case=Par
+
+puolistamine	NOUN	Number=Sing|Case=Gen
+roija	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+se	PRON	Number=Sing|Case=Gen
+hyö	PRON	Number=Plur|Case=Nom
+
+gor’a	NOUN	Number=Sing|Case=Par
+
+voinu	NOUN	Number=Sing|Case=Gen
+tuli	NOUN	Number=Sing|Case=Nom
+
+nämmä	PRON	Number=Plur|Case=Nom
+
+kolmandes	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ruskei	ADJ	Number=Sing|Case=Nom
+linnu	NOUN	Number=Sing|Case=Nom
+
+pappi	NOUN	Number=Sing|Case=Nom
+kundo	NOUN	Number=Sing|Case=Par
+
+tämä	PRON	Number=Sing|Case=Gen
+sobimus	NOUN	Number=Sing|Case=Gen
+Ven’a	PROPN	Number=Sing|Case=Nom
+andua	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+sobimus	NOUN	Number=Sing|Case=Gen
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+työndiä	VERB	VebForm=Inf|InfForm=1
+kudai	PRON	Number=Sing|Case=Par
+Ruočči	PROPN	Number=Sing|Case=Nom
+
+aktiivine	ADJ	Number=Sing|Case=Par
+elaigu	NOUN	Number=Sing|Case=Par
+aidu	NOUN	Number=Sing|Case=Gen
+
+se	PRON	Number=Sing|Case=Nom
+
+tusku	NOUN	Number=Sing|Case=Nom
+
+mittuine	PRON	Number=Sing|Case=Nom
+oigei	ADJ	Number=Sing|Case=Nom
+linnu	NOUN	Number=Sing|Case=Gen
+elos	NOUN	Number=Sing|Case=Nom
+myö	PRON	Number=Sing|Case=Gen
+pellastua	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+myö	PRON	Number=Sing|Case=Par
+pellastua	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+elos	NOUN	Number=Sing|Case=Gen
+syväindö	NOUN	Number=Sing|Case=Nom
+
+lähäine	ADJ	Number=Plur|Case=Par
+
+voija	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kiändyö	VERB	VebForm=Inf|InfForm=1
+
+minä	PRON	Number=Sing|Case=Gen
+dovariššu	NOUN	Number=Sing|Case=Nom
+tuli	NOUN	Number=Sing|Case=Nom
+
+Karjal	PROPN	Number=Sing|Case=Gen
+tazavaldu	NOUN	Number=Sing|Case=Gen
+kerähmö	NOUN	Number=Sing|Case=Gen
+vallitut	NOUN	Number=Sing|Case=Gen
+nevvosto	NOUN	Number=Sing|Case=Nom
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tazavaldu	NOUN	Number=Sing|Case=Gen
+kaikin	PRON	Number=Plur|Case=Gen
+kevätkuu	NOUN	Number=Sing|Case=Gen
+
+suuri	ADJ	Number=Sing|Case=Nom
+olii	ADJ	Number=Sing|Case=Par
+hengi	NOUN	Number=Sing|Case=Par
+
+suaha	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nähtä	VERB	VebForm=Inf|InfForm=1
+
+se	PRON	Number=Sing|Case=Gen
+haldivoiččii	NOUN	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+yhteiskunnalline	ADJ	Number=Sing|Case=Nom
+kieli	NOUN	Number=Sing|Case=Gen
+kodi	NOUN	Number=Sing|Case=Nom
+
+kaksi	NUM	Number=Sing|Case=Nom
+lapsi	ADJ	Number=Sing|Case=Par
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kuuzi	NOUN	Number=Sing|Case=Nom
+
+itkettäi	NOUN	Number=Sing|Case=Nom
+kudai	PRON	Number=Sing|Case=Nom
+
+ongi	NOUN	Number=Sing|Case=Nom
+ruadai	NOUN	Number=Sing|Case=Nom
+
+minä	PRON	Number=Sing|Case=Par
+literatuuru	NOUN	Number=Sing|Case=Gen
+Ven’a	PROPN	Number=Sing|Case=Gen
+kieli	NOUN	Number=Sing|Case=Gen
+urokku	NOUN	Number=Plur|Case=Par
+
+škola	NOUN	Number=Sing|Case=Gen
+Karjal	PROPN	Number=Sing|Case=Gen
+
+se	PRON	Number=Sing|Case=Nom
+tarkoittua	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kandua	VERB	VebForm=Inf|InfForm=1
+tuvva	VERB	VebForm=Inf|InfForm=1
+kniigu	NOUN	Number=Plur|Case=Par
+
+sulakuu	NOUN	Number=Sing|Case=Par
+kylä	NOUN	Number=Sing|Case=Gen
+joudoaigu	NOUN	Number=Sing|Case=Gen
+Karjal	PROPN	Number=Sing|Case=Gen
+pagin	NOUN	Number=Sing|Case=Nom
+
+ozuttua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+eräs	PRON	Number=Sing|Case=Par
+karjalaine	NOUN	Number=Sing|Case=Par
+kylä	NOUN	Number=Sing|Case=Par
+oma	PRON	Number=Sing|Case=Nom
+talovus	NOUN	Number=Sing|Case=Nom
+kai	PRON	Number=Sing|Case=Nom
+
+valdu	NOUN	Number=Sing|Case=Par
+meččy	NOUN	Number=Sing|Case=Par
+kuadua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pidiä	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	VebForm=Inf|InfForm=1
+luba	NOUN	Number=Sing|Case=Nom
+griba	NOUN	Number=Sing|Case=Par
+
+viga	NOUN	Number=Sing|Case=Par
+kolme	NUM	Number=Sing|Case=Nom
+
+rahvas	NOUN	Number=Sing|Case=Nom
+
+kunnivo	NOUN	Number=Sing|Case=Par
+Karjal	PROPN	Number=Sing|Case=Gen
+kieli	NOUN	Number=Sing|Case=Gen
+nagrua	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+myö	PRON	Number=Sing|Case=Par
+pagizuttua	VERB	VebForm=Inf|InfForm=1
+oma	PRON	Number=Plur|Case=Par
+
+se	PRON	Number=Sing|Case=Nom
+igävy	ADJ	Number=Sing|Case=Nom
+kirjuttai	NOUN	Number=Sing|Case=Nom
+sana	NOUN	Number=Plur|Case=Par
+pidiä	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kohendua	VERB	VebForm=Inf|InfForm=1
+
+pidiä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ozuttelu	NOUN	Number=Sing|Case=Gen
+pidiä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kaikenmoine	ADJ	Number=Plur|Case=Par
+ruveta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+nišku	NOUN	Number=Plur|Case=Par
+roitakseh	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kaksi	NUM	Number=Sing|Case=Nom
+seminuaru	NOUN	Number=Sing|Case=Par
+
+tämä	PRON	Number=Sing|Case=Gen
+vuozi	NOUN	Number=Sing|Case=Gen
+kerähmö	NOUN	Number=Sing|Case=Gen
+kudai	PRON	Number=Sing|Case=Nom
+vuozi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+miärätty	ADJ	Number=Sing|Case=Nom
+kuulta	VERB	VebForm=Inf|InfForm=1
+kylä	NOUN	Number=Sing|Case=Gen
+
+Karjal	PROPN	Number=Sing|Case=Gen
+tulii	ADJ	Number=Sing|Case=Nom
+vuozikerähmö	NOUN	Number=Sing|Case=Nom
+pidiä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+puuttuo	VERB	VebForm=Inf|InfForm=1
+kižuaju	NOUN	Number=Sing|Case=Gen
+
+myö	PRON	Number=Sing|Case=Gen
+mieli	NOUN	Number=Sing|Case=Par
+kai	PRON	Number=Sing|Case=Nom
+
+hyvä	ADJ	Number=Sing|Case=Gen
+opastus	NOUN	Number=Sing|Case=Gen
+ruadua	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+jygei	ADJ	Number=Sing|Case=Nom
+lugie	VERB	VebForm=Inf|InfForm=1
+runo	NOUN	Number=Sing|Case=Par
+
+minä	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+voi	NOUN	Number=Sing|Case=Gen
+iče	PRON	Number=Sing|Case=Par
+nähtä	VERB	VebForm=Inf|InfForm=1
+
+yöksyö	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+se	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+minä	PRON	Number=Sing|Case=Gen
+ižänmua	NOUN	Number=Sing|Case=Nom
+
+levo	NOUN	Number=Sing|Case=Gen
+pidiä	VERB	VebForm=Inf|InfForm=1
+seminuaru	NOUN	Number=Sing|Case=Nom
+vuozi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par
+
+roija	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+žurnualu	NOUN	Number=Sing|Case=Nom
+rahvas	NOUN	Number=Sing|Case=Par
+luadie	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+yksi	NUM	Number=Sing|Case=Par
+noumer	NOUN	Number=Sing|Case=Par
+
+yksi	NUM	Number=Sing|Case=Nom
+kuivu	ADJ	Number=Sing|Case=Nom
+puu	NOUN	Number=Sing|Case=Nom
+kudai	PRON	Number=Sing|Case=Nom
+mötti	NOUN	Number=Sing|Case=Gen
+
+piästiä	VERB	VebForm=Inf|InfForm=1
+nieglikko	NOUN	Number=Sing|Case=Par
+luadie	VERB	VebForm=Inf|InfForm=1
+se	PRON	Number=Sing|Case=Nom
+
+nimi	PRON	Number=Sing|Case=Par
+paha	ADJ	Number=Sing|Case=Par
+piästä	VERB	VebForm=Inf|InfForm=1
+
+arbaitus	NOUN	Number=Plur|Case=Par
+voija	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+arbaittua	VERB	VebForm=Inf|InfForm=1
+suarnu	NOUN	Number=Plur|Case=Par
+
+oma	PRON	Number=Plur|Case=Par
+kodi	NOUN	Number=Plur|Case=Par
+Karjal	PROPN	Number=Sing|Case=Gen
+luondo	NOUN	Number=Sing|Case=Par
+muu	PRON	Number=Sing|Case=Par
+
+kai	PRON	Number=Plur|Case=Par
+kuunnella	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+lahti	NOUN	Number=Sing|Case=Par
+
+eläi	NOUN	Number=Plur|Case=Par
+hyö	PRON	Number=Plur|Case=Nom
+nuoret	NOUN	Number=Sing|Case=Nom
+myö	PRON	Number=Sing|Case=Gen
+
+nuorižo	NOUN	Number=Sing|Case=Gen
+Karjal	PROPN	Number=Sing|Case=Gen
+rahvas	NOUN	Number=Sing|Case=Gen
+liitto	NOUN	Number=Sing|Case=Gen
+
+kerätä	VERB	VebForm=Inf|InfForm=1
+
+piästä	VERB	VebForm=Inf|InfForm=1
+puuttuo	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hyödy	NOUN	Number=Sing|Case=Par
+kylä	NOUN	Number=Sing|Case=Gen
+
+se	PRON	Number=Sing|Case=Nom
+
+tiettäväine	ADJ	Number=Sing|Case=Nom
+pidiä	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	VebForm=Inf|InfForm=1
+hyvä	ADJ	Number=Sing|Case=Nom
+päivykuri	NOUN	Number=Sing|Case=Nom
+uni	NOUN	Number=Sing|Case=Nom
+
+se	PRON	Number=Sing|Case=Nom
+pädevy	ADJ	Number=Sing|Case=Nom
+
+luadie	VERB	VebForm=Inf|InfForm=1
+parembi	ADJ	Number=Sing|Case=Nom
+huogavo	NOUN	Number=Sing|Case=Par
+hengittiä	VERB	VebForm=Inf|InfForm=1
+

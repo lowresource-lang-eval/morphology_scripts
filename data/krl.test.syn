@@ -1,0 +1,552 @@
+
+
+hiän	PRON	Number=Sing|Case=Gen
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hyö	PRON	Number=Plur|Case=Nom
+
+hyö	PRON	Number=Plur|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+meččä	NOUN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+šuuri	ADJ	Degree=Pos|Number=Sing|Case=Par
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Nom
+
+myö	PRON	Number=Plur|Case=Nom
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+andua	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kaččuo	VERB	Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+Kalevala	PROPN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+šuuri	ADJ	Degree=Pos|Number=Plur|Case=Ine
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+šuuri	ADJ	Degree=Pos|Number=Sing|Case=Nom#Degree=Pos|Number=Sing|Case=Acc
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+Kalevala	PROPN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+pieni	ADJ	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+talo	NOUN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+hyö	PRON	Number=Plur|Case=Nom
+šuuri	ADJ	Degree=Pos|Number=Sing|Case=Par
+pidiä	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+myö	PRON	Number=Plur|Case=Nom
+
+tulla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+šuuri	ADJ	Degree=Pos|Number=Sing|Case=Nom#Degree=Pos|Number=Sing|Case=Acc
+
+myö	PRON	Number=Plur|Case=Nom
+myö	PRON	Number=Plur|Case=Nom
+
+hiän	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+myö	PRON	Number=Plur|Case=Nom
+Venäjä	PROPN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hyö	PRON	Number=Plur|Case=Nom
+
+ahven	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+andua	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+šuuri	ADJ	Degree=Pos|Number=Plur|Case=Nom#Degree=Pos|Number=Plur|Case=Acc
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+meččä	NOUN	Number=Sing|Case=Ill
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+šuuri	ADJ	Degree=Pos|Number=Sing|Case=Nom#Degree=Pos|Number=Sing|Case=Acc
+Venäjä	PROPN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+Kalevala	PROPN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+Venäjä	PROPN	Number=Sing
+
+mua	NOUN	Number=Sing|Case=Gen
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mua	NOUN	Number=Sing|Case=Gen
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+tulla	VERB	VebForm=Inf|InfForm=1
+
+šuuri	ADJ	Degree=Pos|Number=Plur|Case=Nom#Degree=Pos|Number=Plur|Case=Acc
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+Venäjä	PROPN	Number=Sing
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kuččuo	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hiän	PRON	Number=Sing|Case=Nom
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+meččä	NOUN	Number=Sing|Case=Ela
+tulla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+Venäjä	PROPN	Number=Sing
+
+hyö	PRON	Number=Plur|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Voice=Active|VebForm=Part|PartForm=Past#Voice=Active|VebForm=Part|PartForm=Past
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hyö	PRON	Number=Plur|Case=Nom
+talo	NOUN	Number=Sing|Case=Ine
+talo	NOUN	Number=Sing|Case=Ela
+
+kuččuo	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kaččuo	VERB	VebForm=Inf|InfForm=1
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Kalevala	PROPN	Number=Sing|Case=Ela
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+aapini	NOUN	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kirja	NOUN	Number=Sing|Case=Nom#Number=Sing|Case=Acc
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Venäjä	PROPN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+hiän	PRON	Number=Sing|Case=Gen
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kaččuo	VERB	Case=Ill|VebForm=Inf|InfForm=3
+
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Nom
+
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hiän	PRON	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Pot|Polarity=Pos
+olla	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+hyö	PRON	Number=Plur|Case=Nom
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+pieni	ADJ	Number=Sing|Case=Ess
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Voice=Active|VebForm=Part|PartForm=Past#Voice=Active|VebForm=Part|PartForm=Past
+
+hyö	PRON	Number=Plur|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hiän	PRON	Number=Sing|Case=Nom
+kuččuo	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+pieni	ADJ	Number=Sing|Case=Ela
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Gen
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Nom
+
+hiän	PRON	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tulla	VERB	Voice=Active|VebForm=Part|PartForm=Past#Voice=Active|VebForm=Part|PartForm=Past
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kuččuo	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+tulla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+hyö	PRON	Number=Plur|Case=Nom
+
+talo	NOUN	Number=Sing|Case=Ill
+talo	NOUN	Number=Sing|Case=Ill
+talo	NOUN	Number=Sing|Case=Ill
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kaččuo	VERB	Case=Ill|VebForm=Inf|InfForm=3
+tulla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kaččuo	VERB	Case=Ill|VebForm=Inf|InfForm=3
+
+talo	NOUN	Number=Sing|Case=Ill
+talo	NOUN	Number=Sing|Case=Ill
+andua	VERB	Case=Ill|VebForm=Inf|InfForm=3
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Ind
+
+šuuri	ADJ	Degree=Pos
+šuuri	ADJ	Degree=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hiän	PRON	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mua	NOUN	Number=Sing|Case=Gen
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Person=3|VebForm=Fin|Mood=Imp|Polarity=Pos#Number=Plur|Person=3|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+kuččuo	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hiän	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+pieni	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+hiän	PRON	Number=Sing|Case=Nom
+
+hiän	PRON	Number=Sing|Case=Nom
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hiän	PRON	Number=Sing|Case=Nom
+
+hiän	PRON	Number=Sing|Case=Nom
+hiän	PRON	Number=Sing|Case=Nom
+
+tulla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Nom
+
+hiän	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Nom
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hiän	PRON	Number=Sing|Case=Nom
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+šuuri	ADJ	Degree=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Voice=Active|VebForm=Part|PartForm=Past#Voice=Active|VebForm=Part|PartForm=Past
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hyö	PRON	Number=Plur|Case=Nom
+hyö	PRON	Number=Plur|Case=Nom
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hiän	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Pot|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hiän	PRON	Number=Sing|Case=Gen
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Venäjä	PROPN	Number=Sing|Case=Tra
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+tulla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+pieni	ADJ	Number=Sing|Case=Ess
+olla	VERB	Number=Sing|Tense=Imp|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Voice=Active|VebForm=Part|PartForm=Past#Voice=Active|VebForm=Part|PartForm=Past
+
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hiän	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+aštuo	VERB	VebForm=Inf|InfForm=1
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hiän	PRON	Number=Sing|Case=Nom
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+hyö	PRON	Number=Plur|Case=Nom
+hyö	PRON	Number=Plur|Case=Nom
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+muata	VERB	Voice=Active|VebForm=Part|PartForm=Past#Voice=Active|VebForm=Part|PartForm=Past
+
+talo	NOUN	Number=Sing|Case=Ela
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+akka	NOUN	Number=Sing|Case=Gen
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tulla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+pieni	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+talo	NOUN	Number=Sing|Case=Ill
+tulla	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hyö	PRON	Number=Plur|Case=Nom
+
+kaččuo	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+kaččuo	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olla	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+Kalevala	PROPN	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos
+olla	VERB	Voice=Active|VebForm=Part|PartForm=Past#Voice=Active|VebForm=Part|PartForm=Past
+olla	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos

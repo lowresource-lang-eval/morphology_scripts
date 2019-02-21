@@ -1,0 +1,3059 @@
+astta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Person=3|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mända	VERB	VebForm=Inf|InfForm=1
+
+tö	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+tö	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+babu	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+tö	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+tö	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+ajada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+mö	PRON	Number=Sing|Case=Nom
+üks’	NUM	Number=Sing|Case=Nom
+muzei	NOUN	Number=Sing|Case=Ine
+
+tehta	VERB	VebForm=Inf|InfForm=1
+
+voikta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tütär	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Neg
+mända	VERB	VebForm=Inf|InfForm=1
+
+ajada	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kogo	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Com
+mitte	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Neg
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Par
+
+tehta	VERB	VebForm=Inf|InfForm=1
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+külä	NOUN	Number=Sing|Case=Nom
+ken	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+eläda	VERB	VebForm=Inf|InfForm=1
+
+ak	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+mehele	ADV	AdvType=Sta|Degree=Pos
+mända	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+voikta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kara	NOUN	Number=Plur|Case=Ill
+
+hän	PRON	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+
+ku	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=All
+
+mö	PRON	Number=Sing|Case=Nom
+
+uk	NOUN	Number=Sing|Case=Nom
+
+uk	NOUN	Number=Sing|Case=Nom
+
+kivi	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ku	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+pert’	NOUN	Number=Sing|Case=Ill
+pert’	NOUN	Number=Sing|Case=Ill
+čai	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+hibuz	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mehele	ADV	AdvType=Sta|Degree=Pos
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Ind
+
+kodi	NOUN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+
+hän	PRON	Number=Sing|Case=Par
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+pol’	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+pol’	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Sing|Case=Nom
+
+mez’	NOUN	Number=Sing|Case=Par
+
+kodi	NOUN	Number=Plur|Case=Ill
+tö	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+hän	PRON	Number=Sing|Case=Par
+kalu	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+ken	PRON	Number=Sing|Case=Nom
+ken	PRON	Number=Sing|Case=Nom
+
+üks’	NUM	Number=Sing|Case=Nom
+
+ajada	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+aig	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+putta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Ine
+aig	NOUN	Number=Plur|Case=Ine
+järv	NOUN	Number=Sing|Case=Par#Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+hän	PRON	Number=Sing|Case=Par
+
+kalu	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+nor’	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+lamp	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+
+mec	NOUN	Number=Sing|Case=Ine
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+üläh	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pol’	NOUN	Number=Sing|Case=Nom
+üläh	NOUN	Number=Sing|Case=Tra
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ristit	NOUN	Number=Sing|Case=Nom
+ku	NOUN	Number=Sing|Case=Ine
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+eläda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+koiv	NOUN	Number=Sing|Case=Ine
+kodi	NOUN	Number=Sing|Case=Nom
+elo	NOUN	Number=Sing|Case=Nom
+
+ajada	VERB	Voice=Active|VebForm=Part|PartForm=Past
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mända	VERB	Number=Plur|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tütär	NOUN	Number=Sing|Case=Per
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+mö	PRON	Number=Sing|Case=Nom
+rad	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mec	NOUN	Number=Sing|Case=Ine
+
+keza	NOUN	Number=Sing|Case=Ade
+babu	NOUN	Number=Sing|Case=Nom
+
+kala	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+kor’	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+sätas	VERB	Reflex=Yes|Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+keza	NOUN	Number=Sing|Case=Ade
+ajada	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ajada	VERB	Number=Plur|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+päiväine	NOUN	Number=Sing|Case=Nom
+kudmaine	NOUN	Number=Sing|Case=Nom
+igä	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mända	VERB	VebForm=Inf|InfForm=1
+käzi	NOUN	Number=Plur|Case=Ade
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+käzi	NOUN	Number=Sing|Case=Nom#Number=Sing|Case=Acc
+händikaz	NOUN	Number=Sing|Case=Nom
+
+koza	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tö	NOUN	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+mec	NOUN	Number=Sing|Case=Ill
+
+vel’l’	NOUN	Animacy=Anim|Number=Plur|Case=Nom#Animacy=Anim|Number=Sing|Case=Par#Animacy=Anim|Number=Plur|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+eläda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Par
+kodi	NOUN	Number=Plur|Case=Ill
+
+hän	PRON	Number=Sing|Case=Nom
+ajada	VERB	Number=Plur|Person=1|VebForm=Fin|Mood=Imp|Polarity=Pos
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+mända	VERB	VebForm=Inf|InfForm=1
+aid	NOUN	Number=Sing|Case=Ill#Number=Sing|Case=All
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+ajada	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=All
+
+kivi	NOUN	Number=Sing|Case=Nom
+kivi	NOUN	Number=Sing|Case=Nom
+
+mec	NOUN	Number=Sing|Case=Ill
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+härg	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+mända	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+mända	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mez’	NOUN	Number=Sing|Case=Par
+kondi	NOUN	Number=Sing|Case=Nom
+mez’	NOUN	Number=Sing|Case=Par
+
+kondi	NOUN	Number=Sing|Case=Nom
+nimi	PRON	Number=Sing|Case=Ine
+uk	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+ait	NOUN	Number=Sing|Case=Ine
+
+lagi	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+händikaz	NOUN	Number=Sing|Case=Par
+
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+uk	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+uk	NOUN	Number=Sing|Case=Nom
+
+koiv	NOUN	Number=Sing|Case=Nom
+
+päiv	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+korv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+käzi	NOUN	Number=Sing|Case=Nom#Number=Sing|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ku	NOUN	Number=Sing|Case=Ine
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+kodi	NOUN	Number=Plur|Case=Ill
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hän	PRON	Number=Sing|Case=Nom
+mez’	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+sur’	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+tütär	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+adiv	NOUN	Number=Plur|Case=All
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+mez’	NOUN	Number=Plur|Case=All
+hän	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+teta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+koiverdelii	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+tö	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Par
+
+hän	PRON	Number=Plur|Case=All
+tö	NOUN	Number=Sing|Case=Nom
+ku	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+Jumal	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Plur|Case=All
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+pert’	NOUN	Number=Sing|Case=Par
+ozutada	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#VebForm=Inf|InfForm=1
+
+toine	PRON	Number=Sing|Case=Par
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tö	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=All
+azj	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Plur|Case=All
+hän	PRON	Number=Sing|Case=Nom
+ozutada	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ken	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mez’	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+Jumal	PROPN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Plur|Case=Par
+
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+Jumal	PROPN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+opeta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ken	PRON	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+opeta	VERB	VebForm=Inf|InfForm=1
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hän	PRON	Number=Plur|Case=All
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+sai	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+adiv	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+olda	VERB	VebForm=Inf|InfForm=1
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Plur|Case=Gen
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+tö	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+mez’	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+tö	NOUN	Number=Sing|Case=Nom
+mända	VERB	Number=Plur|Tense=Imp|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mitte	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ku	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+mitte	PRON	Number=Sing|Case=Ade
+
+hän	PRON	Number=Sing|Case=All
+ken	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+hän	PRON	Number=Plur|Case=All
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mez’	NOUN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+lambaz	NOUN	Number=Plur
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ak	NOUN	Number=Plur|Case=Par
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+toine	PRON	Number=Sing|Case=Par
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+tö	NOUN	Number=Plur
+hän	PRON	Number=Sing|Case=Par
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Sing|Case=Par
+
+olda	VERB	VebForm=Inf|InfForm=1
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Imp
+
+mez’	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mända	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=All
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+vel’l’	NOUN	Animacy=Anim|Number=Plur|Case=Gen
+
+ku	NOUN	Number=Sing|Case=Nom
+ken-se	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+
+kunigaz	NOUN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Sing|Case=All
+
+tö	NOUN	Number=Sing|Case=Nom
+ku	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+tö	NOUN	Number=Sing|Case=Nom
+üks’	NUM	Number=Plur|Case=Ine
+
+sur’	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mez’	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+naida	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mehele	ADV	AdvType=Sta|Degree=Pos
+tütär	NOUN	Number=Plur|Case=Par
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=All
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mitte	PRON	Number=Sing|Case=Nom
+tö	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Plur|Case=All
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kunigaz	NOUN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Plur|Case=Gen
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=All
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=All
+nimi	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+kodi	NOUN	Number=Plur|Case=Ill
+hän	PRON	Number=Plur|Case=Com
+hän	PRON	Number=Plur|Case=Par
+azj	NOUN	Number=Plur|Case=Ine
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+tö	NOUN	Number=Sing|Case=Nom
+
+päiväine	NOUN	Number=Sing|Case=Gen#Number=Sing
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ku	NOUN	Number=Sing|Case=Nom
+
+aig	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Plur|Case=Abl
+
+teta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Plur|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+üks’	NUM	Number=Plur|Case=Ine
+hän	PRON	Number=Plur|Case=Com
+
+hän	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+
+ku	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Ill
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mända	VERB	Voice=Active|VebForm=Part|PartForm=Past
+
+hän	PRON	Number=Plur|Case=All
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Plur|Case=Par
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ken	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Par
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+abutada	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=All
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tö	NOUN	Number=Sing|Case=Nom
+ozutada	VERB	Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+teta	VERB	Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+Jumal	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+tö	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Plur|Case=All
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+üks’	NUM	Number=Plur|Case=Ine
+opeta	VERB	Case=Ine|VebForm=Inf|InfForm=3
+
+mö	PRON	Number=Sing|Case=Nom
+ajada	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+tahtoida	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+putta	VERB	VebForm=Inf|InfForm=1
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mända	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Jumal	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ken	PRON	Number=Sing|Case=Nom
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+raha	NOUN	Number=Sing|Case=All
+
+hän	PRON	Number=Plur|Case=All
+tö	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+mez’	NOUN	Number=Plur|Case=Gen
+Jumal	PROPN	Number=Sing|Case=Nom
+
+ken	PRON	Number=Sing|Case=Nom
+ak	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+naida	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Nom
+ak	NOUN	Number=Sing|Case=Com
+ak	NOUN	Number=Sing|Case=Com
+ken	PRON	Number=Sing|Case=Nom
+naida	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ku	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+azj	NOUN	Number=Plur|Case=Par
+sur’	ADJ	Number=Plur|Case=Par
+
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Plur|Case=All
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Plur|Case=Par
+ku	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Plur|Case=Par
+
+kacui	NOUN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Par
+
+hän	PRON	Number=Sing|Case=Nom
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vel’l’	NOUN	Animacy=Anim|Number=Sing|Case=Gen#Animacy=Anim|Number=Sing#Animacy=Anim|Number=Sing|Case=Acc
+hän	PRON	Number=Sing|Case=All
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+vastata	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=All
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ken	PRON	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kirjutada	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kirjutada	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Jumal	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Imp
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+pert’	NOUN	Number=Sing|Case=Par
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=All
+mända	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+ken-se	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=All
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+nimi	PRON	Number=Sing|Case=Par
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nimi	PRON	Number=Sing|Case=Par
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+mända	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+elo	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+päiv	NOUN	Number=Sing|Case=Ade
+mö	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Par
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+mö	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tö	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Par
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+mö	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Par
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Par
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+teta	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+hän	PRON	Number=Plur|Case=Gen
+Jumal	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+laht	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+ajada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+azj	NOUN	Number=Plur|Case=Ine
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+kivi	NOUN	Number=Plur|Case=Par
+hän	PRON	Number=Sing|Case=Ill
+hän	PRON	Number=Plur|Case=Ela
+
+nimi	PRON	Number=Sing|Case=Nom
+
+mez’	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Voice=Pass|VebForm=Part|PartForm=Pres
+
+olda	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Par
+
+händikaz	NOUN	Number=Sing|Case=Nom
+lambaz	NOUN	Number=Plur|Case=Par
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+üks’	NUM	Number=Sing|Case=Nom
+üks’	NUM	Number=Sing|Case=Nom
+
+ken	PRON	Number=Sing|Case=Par
+
+mö	PRON	Number=Sing|Case=Par
+üläh	NOUN	Number=Sing|Case=Tra
+mö	PRON	Number=Sing|Case=Nom
+
+ken	PRON	Number=Sing|Case=Nom
+mez’	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+teta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ken	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Par
+hän	PRON	Number=Sing|Case=Nom
+tö	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+
+tö	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Par
+mö	PRON	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=All
+
+tö	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Par
+ku	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+eläda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Ade
+mö	PRON	Number=Sing|Case=Nom
+
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+tö	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Par
+mö	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tö	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ku	NOUN	Number=Sing|Case=Nom
+tö	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Ade
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+opeta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Sing|Case=Ine
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+aig	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+kel´	NOUN	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Sing|Case=Ill
+ken	PRON	Number=Sing|Case=Par
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Par
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=Gen
+sur’	ADJ	Number=Sing|Case=Nom
+
+sai	NOUN	Number=Sing|Case=Nom
+rad	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mända	VERB	Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Neg
+
+eläda	VERB	VebForm=Inf|InfForm=1
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ozutada	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+kodima	NOUN	Number=Sing|Case=Nom
+rahvahaline	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ezitai	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+mitte	PRON	Number=Plur|Case=Par
+hän	PRON	Number=Plur|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Plur|Case=Par
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kodima	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+tahtoida	VERB	Number=Plur|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+ühtnik	NOUN	Number=Plur|Case=Gen
+
+hän	PRON	Number=Sing|Case=Nom
+eläda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+keza	NOUN	Number=Sing|Case=Ade
+
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+kirjutada	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Ade
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+keza	NOUN	Number=Sing|Case=Ade
+vepsläine	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+živat	NOUN	Animacy=Anim|Number=Plur|Case=Nom#Animacy=Anim|Number=Sing|Case=Par#Animacy=Anim|Number=Plur|Case=Acc
+vepsläine	ADJ	Number=Plur|Case=Gen
+elo	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ak	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Plur|Case=All
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+sur’	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Voice=Pass|VebForm=Part|PartForm=Pres
+ak	NOUN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+käzi	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+nimi	PRON	Number=Sing|Case=Par
+
+rad	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+aig	NOUN	Number=Sing|Case=Nom
+ühthevedo	NOUN	Number=Plur|Case=Par
+tedo	NOUN	Number=Plur|Case=Ade
+mitte	PRON	Number=Plur|Case=Par
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+rad	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+üks’	NUM	Number=Plur|Case=Ine
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+igähine	ADJ	Number=Plur|Case=Par
+
+hän	PRON	Number=Sing|Case=Nom
+starinoita	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+aig	NOUN	Number=Plur|Case=Ine
+
+kirjutada	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Plur|Case=Ade
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+azj	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+hän	PRON	Number=Sing|Case=Nom
+azj	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+elo	NOUN	Number=Sing|Case=Nom
+
+literatur	NOUN	Number=Sing|Case=Nom
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kel´	NOUN	Number=Plur|Case=Ade
+
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Ine
+pert’	NOUN	Number=Sing|Case=Ine
+ku	NOUN	Number=Sing|Case=Ine
+eläda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kirjutada	VERB	Voice=Active|VebForm=Part|PartForm=Pres
+
+ühtnik	NOUN	Number=Plur|Case=All
+azj	NOUN	Number=Plur|Case=Ill
+meletada	VERB	VebForm=Inf|InfForm=1
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+mö	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+ku	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=All
+
+tö	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+mö	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+üks’	ADV	AdvType=Deg|Degree=Pos
+
+mö	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+teta	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+
+päiv	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Neg
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Neg
+
+kel´	NOUN	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+voikta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+voikta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+voikta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tütär	NOUN	Number=Sing|Case=Com
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+pesta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+käzi	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mända	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+mända	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+mända	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+päiv	NOUN	Number=Sing|Case=Nom
+
+tütär	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+teta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos
+hän	PRON	Number=Sing|Case=Par
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Sing|Case=Nom
+
+uk	NOUN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Plur|Case=Par
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+hän	PRON	Number=Sing|Case=Par
+hebo	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+tö	NOUN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Neg
+
+mö	PRON	Number=Sing|Case=Nom
+
+tütär	NOUN	Number=Sing|Case=Nom
+mehele	ADV	AdvType=Sta|Degree=Pos
+
+tütär	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vel’l’	NOUN	Animacy=Anim
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+ak	NOUN	Number=Sing|Case=Nom
+tütär	NOUN	Number=Sing|Case=Par
+üks’	NUM	Number=Plur|Case=Ine
+
+tütär	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+ajada	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mec	NOUN	Number=Sing|Case=Ill
+ken	PRON	Number=Sing|Case=Nom
+
+koza	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kodi	NOUN	Number=Plur|Case=Ill
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Plur|Person=2|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+tütär	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ak	NOUN	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+mö	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+kondi	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mec	NOUN	Number=Sing|Case=Gen#Number=Sing
+hän	PRON	Number=Sing|Case=Nom
+kodi	NOUN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+
+ken-se	PRON	Number=Sing|Case=Nom
+
+kodi	NOUN	Number=Plur|Case=Ill
+
+kodi	NOUN	Number=Plur|Case=Ill
+
+ku	NOUN	Number=Sing|Case=Nom
+
+uk	NOUN	Number=Sing|Case=Nom
+
+ken	PRON	Number=Sing|Case=Nom
+
+päiv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+eläda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mehele	ADV	AdvType=Sta|Degree=Pos
+
+hebo	NOUN	Number=Sing|Case=Nom
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos
+mö	PRON	Number=Sing|Case=Nom
+
+händikaz	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Nom
+
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+koir	NOUN	Animacy=Anim|Number=Sing|Case=Nom
+uk	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+tütär	NOUN	Number=Sing|Case=Nom
+hobed	NOUN	Number=Sing|Case=Ine
+
+kondi	NOUN	Number=Sing|Case=Nom
+
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+
+kondi	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+härg	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+vel’l’	NOUN	Animacy=Anim|Number=Plur|Case=Nom#Animacy=Anim|Number=Sing|Case=Par#Animacy=Anim|Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ak	NOUN	Number=Sing|Case=Nom
+kodi	NOUN	Number=Plur|Case=Ill
+
+ak	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+literatur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+istorii	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+tahtoida	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Voice=Active|VebForm=Part|PartForm=Pres#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+ühtnik	NOUN	Number=Plur|Case=Ade
+Karjala	PROPN	Number=Sing|Case=Ine
+päiv	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+
+mitte	PRON	Number=Sing|Case=Ine
+pol’	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ku	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+vastata	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Nom
+
+mända	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+adiv	NOUN	Number=Plur|Case=Ill
+
+päiv	NOUN	Number=Sing|Case=Ade
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+päiv	NOUN	Number=Sing|Case=Nom
+igähine	ADJ	Number=Sing|Case=Ine
+aig	NOUN	Number=Sing|Case=Ela
+
+sai	NOUN	Number=Sing|Case=Ine
+härg	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+jaug	NOUN	Number=Plur|Case=Ill
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+kodi	NOUN	Number=Plur|Case=Ill
+mehele	ADV	AdvType=Sta|Degree=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+päiv	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+sur’	ADJ	Number=Sing|Case=Nom
+koir	NOUN	Animacy=Anim|Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+mö	PRON	Number=Sing|Case=All
+hän	PRON	Number=Sing|Case=All
+
+mö	PRON	Number=Sing|Case=Nom
+agj	NOUN	Number=Sing|Case=Ela
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ku	NOUN	Number=Sing|Case=Nom
+jono	NOUN	Number=Sing|Case=Nom
+sur’	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+mitte	PRON	Number=Plur|Case=All
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+meletada	VERB	Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+ku	NOUN	Number=Sing|Case=Nom
+käzi	NOUN	Number=Sing|Case=Gen#Number=Sing
+
+ak	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ken-se	PRON	Number=Sing|Case=Nom
+
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Tense=Imp|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+mehele	ADV	AdvType=Sta|Degree=Pos
+
+ak	NOUN	Number=Plur|Case=Ade
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+paik	NOUN	Number=Plur|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Ill
+
+ak	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+pert’	NOUN	Number=Sing|Case=Ela
+
+mö	PRON	Number=Sing|Case=Par
+ristit	NOUN	Number=Plur|Case=Gen
+ku	NOUN	Number=Sing|Case=Ela
+mö	PRON	Number=Sing|Case=Nom
+nimi	PRON	Number=Sing|Case=Par
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+kodi	NOUN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+kivi	NOUN	Number=Sing|Case=Ade
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Gen
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+pert’	NOUN	Number=Sing|Case=Per
+
+hän	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+abutada	VERB	VebForm=Inf|InfForm=1
+nimi	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+mehele	ADV	AdvType=Sta|Degree=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+nimi	PRON	Number=Sing|Case=Par
+
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+meletada	VERB	VebForm=Inf|InfForm=1
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+abutada	VERB	VebForm=Inf|InfForm=1
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mec	NOUN	Number=Sing|Case=Nom
+
+olda	VERB	VebForm=Inf|InfForm=1
+abutada	VERB	VebForm=Inf|InfForm=1
+mö	PRON	Number=Sing|Case=All
+
+kel´	NOUN	Number=Sing|Case=Ade
+
+hän	PRON	Number=Sing|Case=All
+sur’	ADJ	Number=Sing|Case=Nom
+kel´	NOUN	Number=Sing|Case=Par
+opeta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+kodi	NOUN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+veps	NOUN	Number=Sing|Case=Gen
+Karjala	PROPN	Number=Sing|Case=Ine
+
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+igähine	ADJ	Number=Plur|Case=Gen
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+veps	NOUN	Number=Sing|Case=Gen
+sarn	NOUN	Number=Plur|Case=Nom
+
+rad	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ezitai	NOUN	Number=Plur|Case=Par
+
+vepsläine	ADJ	Number=Plur|Case=Gen
+tedo	NOUN	Number=Plur|Case=Ela
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Nom
+teta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Par
+
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+vepsläine	ADJ	Number=Plur|Case=All
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+meletada	VERB	VebForm=Inf|InfForm=1
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+rad	NOUN	Number=Sing|Case=Ine
+ku	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+sur’	ADJ	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Ade
+
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+aig	NOUN	Number=Sing|Case=Ine
+
+mända	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+külä	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ku	NOUN	Number=Sing|Case=Ine
+eläda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+päiv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+pert’	NOUN	Number=Sing|Case=Ine
+
+kirvez	NOUN	Number=Sing|Case=Nom
+teta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Sing|Case=Nom
+kirvez	NOUN	Number=Sing|Case=Nom
+
+mitte	PRON	Number=Sing|Case=Nom
+
+eläda	VERB	VebForm=Inf|InfForm=1
+
+meletada	VERB	VebForm=Inf|InfForm=1
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+teta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kuva	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+kuz’	NOUN	Number=Plur|Case=Gen
+koiv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+il’m	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+eläda	VERB	VebForm=Inf|InfForm=1
+
+mitte	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+aig	NOUN	Number=Sing|Case=Ade
+ristit	NOUN	Number=Plur|Case=Gen
+
+eläi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+meletada	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+starinoita	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+
+ku	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+aid	NOUN	Number=Sing|Case=Nom#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+päiväine	NOUN	Number=Sing|Case=Par
+uk	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=Gen
+
+mö	PRON	Number=Sing|Case=Nom
+čoma	ADJ	Degree=Pos|Number=Plur
+
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+meletada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+starinoita	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=Gen
+
+lamp	NOUN	Number=Sing|Case=Ine
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Ind
+mehele	ADV	AdvType=Sta|Degree=Pos
+
+üks’	NUM	Number=Plur|Case=Ine
+
+ak	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+päiv	NOUN	Number=Sing|Case=Ade
+kuz’	NOUN	Number=Sing|Case=Nom
+kuz’	NOUN	Number=Sing|Case=Nom
+tö	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+sur’	ADJ	Number=Sing|Case=Nom
+vel’l’	NOUN	Animacy=Anim|Number=Plur|Case=Nom#Animacy=Anim|Number=Sing|Case=Par#Animacy=Anim|Number=Plur|Case=Acc
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+eläda	VERB	VebForm=Inf|InfForm=1
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+üks’	NUM	Number=Sing|Case=Nom
+sur’	ADJ	Number=Sing|Case=Nom
+
+ku	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=All
+
+nimi	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+meletada	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+olda	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Ind
+teta	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+päiv	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+tahtoida	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Voice=Active|VebForm=Part|PartForm=Pres#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+hän	PRON	Number=Sing|Case=Nom
+eläda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+
+ku	NOUN	Number=Sing|Case=Nom
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Cnd|Polarity=Pos
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+elo	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+teta	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Ind
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+arv	NOUN	Number=Sing|Case=Ine
+
+hil’	NOUN	Number=Plur|Case=Per
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+jaug	NOUN	Number=Plur|Case=Par
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ken	PRON	Number=Sing|Case=Nom
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mez’	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+pert’	NOUN	Number=Sing|Case=Gen#Number=Sing
+hän	PRON	Number=Sing|Case=Nom
+
+vel’l’	NOUN	Animacy=Anim|Number=Plur|Case=Gen
+
+mehele	ADV	AdvType=Sta|Degree=Pos
+mez’	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+korv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mitte	PRON	Number=Sing|Case=Nom
+mitte	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mez’	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+lamp	NOUN	Number=Sing|Case=Nom
+ozutada	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Par
+kesk	NOUN	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+
+koza	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Sing|Case=Par
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Plur|Case=Ine
+
+hän	PRON	Number=Sing|Case=Par
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+tö	NOUN	Number=Plur|Case=Ine
+
+kodima	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+külä	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+elo	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ühtnik	NOUN	Number=Sing|Case=Nom
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+kel´	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+mö	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+nor’	ADJ	Number=Plur|Case=Gen
+kirjutada	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Ade
+sai	NOUN	Number=Sing|Case=Nom
+üläopenik	NOUN	Number=Sing|Case=Nom
+
+ak	NOUN	Number=Sing|Case=Nom
+rad	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+hän	PRON	Number=Sing|Case=Nom
+
+ak	NOUN	Number=Sing|Case=Nom
+kirjutada	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Ade
+
+olda	VERB	Number=Sing|Person=3|VebForm=Fin|Mood=Imp|Polarity=Pos#Number=Plur|Person=3|VebForm=Fin|Mood=Imp|Polarity=Pos
+Jumal	PROPN	Number=Sing|Case=Nom
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+teta	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+mö	PRON	Number=Sing|Case=Nom
+keza	NOUN	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Plur|Person=1|VebForm=Fin|Mood=Ind
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+elo	NOUN	Number=Sing|Case=Nom
+külä	NOUN	Number=Sing|Case=Ine
+hän	PRON	Number=Sing|Case=All
+hän	PRON	Number=Sing|Case=Nom
+tahtoida	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Voice=Active|VebForm=Part|PartForm=Pres#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+eläda	VERB	VebForm=Inf|InfForm=1
+
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+čoma	ADJ	Degree=Pos|Number=Plur|Case=Nom#Degree=Pos|Number=Sing|Case=Par#Degree=Pos|Number=Plur|Case=Acc
+mö	PRON	Number=Plur|Case=Gen
+aig	NOUN	Number=Plur|Case=Ine
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+eläda	VERB	Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+pert’	NOUN	Number=Sing|Case=Ine
+
+Vologda	PROPN	Number=Sing|Case=Gen#Number=Sing
+agj	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+külä	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+vepsläine	ADJ	Number=Plur
+
+händikaz	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+ku	NOUN	Number=Sing|Case=Ine
+
+hän	PRON	Number=Sing|Case=Nom
+
+üks’	NUM	Number=Plur|Case=Ine
+pol’	NOUN	Number=Sing|Case=Ela
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pol’	NOUN	Number=Sing|Case=Ela
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ozutada	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+
+mitte	PRON	Number=Plur|Case=Ine
+starinoita	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Gen
+hol’	NOUN	Number=Plur|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Plur|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hüde	NOUN	Number=Sing|Case=Ine
+
+armaz	ADJ	Number=Sing|Case=Nom
+adiv	NOUN	Number=Sing|Case=Acc
+mö	PRON	Number=Plur|Case=All
+
+ristit	NOUN	Number=Plur|Case=All
+
+vepsläine	ADJ	Number=Sing|Case=Nom
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Gen#Degree=Pos|Number=Sing#Degree=Pos|Number=Sing|Case=Acc
+
+jubilei	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+veps	NOUN	Number=Sing|Case=Gen
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Gen
+
+sur’	ADJ	Number=Sing|Case=Ine
+veps	NOUN	Number=Sing|Case=Gen
+
+üläopenik	NOUN	Number=Plur|Case=All
+
+üks’	NUM	Number=Plur|Case=Ine
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+eläda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+baboi	NOUN	Number=Sing|Case=Ade#Number=Plur|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+üks’	NUM	Number=Sing|Case=Nom
+
+hän	PRON	Number=Sing|Case=Nom
+erazvuitte	ADJ	Number=Sing|Case=Par
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Gen
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+eläda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+istorii	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+veps	NOUN	Number=Sing|Case=Gen
+kul’tur	NOUN	Number=Sing|Case=Ine
+istorii	NOUN	Number=Sing|Case=Ine
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Ine
+kirjutada	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tehta	VERB	VebForm=Inf|InfForm=1
+
+hän	PRON	Number=Sing|Case=Nom
+rahvahaline	ADJ	Number=Sing|Case=Ine
+muzei	NOUN	Number=Sing|Case=Ine
+
+üks’	NUM	Number=Plur|Case=Ine
+rahvahaline	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+muzei	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+ühtneda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Plur|Case=Com
+erazvuitte	ADJ	Number=Plur|Case=Ill
+
+olda	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+rahvahaline	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+literatur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+istorii	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+meletada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Ela
+kul’tur	NOUN	Number=Sing|Case=Ela
+istorii	NOUN	Number=Sing|Case=Ela
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+adiv	NOUN	Number=Plur|Case=Gen
+olda	VERB	Number=Plur|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Gen
+
+tehta	VERB	VebForm=Inf|InfForm=1
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+pert’	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ku	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kirjutada	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+eläda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+päiväine	NOUN	Number=Sing|Case=Gen#Number=Sing
+il’m	NOUN	Number=Sing|Case=Nom
+abutada	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Karjala	PROPN	Number=Sing|Case=Ine
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuz’	NOUN	Number=Sing|Case=Par
+
+hän	PRON	Number=Sing|Case=Nom
+mec	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+astta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Par
+jablok	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuz’	NOUN	Number=Sing|Case=Par
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+pert’	NOUN	Number=Sing|Case=Ine
+
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Sing|Case=Ela
+sur’	ADJ	Number=Sing|Case=Ade
+živat	NOUN	Animacy=Anim|Number=Sing|Case=Ade
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+kondi	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Ela
+
+sai	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ken	PRON	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+abu	NOUN	Number=Sing|Case=Ade
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mö	PRON	Number=Plur|Case=Gen
+eläda	VERB	Number=Plur|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+aig	NOUN	Number=Sing|Case=Ela
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	VebForm=Inf|InfForm=1
+
+eläda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+evro	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ku	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ku	NOUN	Number=Sing|Case=Nom
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+hän	PRON	Number=Plur|Case=Gen
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+opeta	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+nimi	PRON	Number=Sing|Case=Par
+
+abutada	VERB	Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+ajada	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+kodi	NOUN	Number=Plur|Case=Ill
+
+jubilei	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+jubilei	NOUN	Number=Sing|Case=All
+
+jubilei	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=All
+sur’	ADJ	Number=Plur|Case=Par
+rad	NOUN	Number=Sing|Case=Ine
+
+Petroskoi	PROPN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+opeta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+nor’	ADJ	Number=Sing|Case=Gen#Number=Sing
+mitte	PRON	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+nimi	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ku	NOUN	Number=Sing|Case=Nom
+tö	NOUN	Number=Sing|Case=Nom
+tahtoida	VERB	Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Imp|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+muzei	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+päiv	NOUN	Number=Sing|Case=Ade
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+aig	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+
+ak	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+rad	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+hän	PRON	Number=Sing|Case=Par
+
+sai	NOUN	Number=Sing|Case=Nom
+
+ühtneda	VERB	Number=Sing|Tense=Imp|VebForm=Fin|Mood=Ind|Connegative=Yes
+
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mez’	NOUN	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+vel’l’	NOUN	Animacy=Anim|Number=Sing|Case=Com
+
+käzi	NOUN	Number=Plur
+nimi	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+sur’	ADJ	Number=Sing|Case=Ine
+elo	NOUN	Number=Sing|Case=Ela
+kobu	NOUN	Number=Sing|Case=Ela
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+muzei	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+vepsläine	ADJ	Number=Plur
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=All
+
+tö	NOUN	Number=Plur|Case=Gen
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+starinoita	VERB	Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Plur|Case=Par
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+raha	NOUN	Number=Plur|Case=All
+Karjala	PROPN	Number=Sing|Case=Ine
+
+Karjala	PROPN	Number=Sing|Case=Ela
+mö	PRON	Number=Plur|Case=Gen
+vepsläine	ADJ	Number=Sing|Case=Nom
+
+mez’	NOUN	Number=Plur|Case=Par
+
+mö	PRON	Number=Plur|Case=All
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Plur|Person=1|VebForm=Fin|Mood=Ind
+
+päiv	NOUN	Number=Sing|Case=Tra
+tahtoida	VERB	Number=Plur|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+starinoita	VERB	VebForm=Inf|InfForm=1
+mö	PRON	Number=Plur|Case=Gen
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+istorii	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+vepsläine	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+elo	NOUN	Number=Sing|Case=Ela
+
+mö	PRON	Number=Sing|Case=Nom
+
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Gen
+jäniš	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+mö	PRON	Number=Plur|Case=Par
+
+sur’	ADJ	Number=Sing|Case=Nom
+külä	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+azj	NOUN	Number=Sing|Case=Nom
+
+pert’	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+vepsläine	ADJ	Number=Sing|Case=Nom
+sarn	NOUN	Number=Sing|Case=Nom
+
+veps	NOUN	Number=Sing|Case=Gen
+
+vepsläine	ADJ	Number=Sing|Case=Ine
+veps	NOUN	Number=Sing|Case=Gen
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kondi	NOUN	Number=Sing|Case=Nom
+
+kondi	NOUN	Number=Sing|Case=All
+
+tedo	NOUN	Number=Plur|Case=Par
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+elo	NOUN	Number=Sing|Case=Ela
+
+nimi	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Par
+ak	NOUN	Number=Sing|Case=Tra
+
+ajada	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+arv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+ühtnik	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ajada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+elo	NOUN	Number=Sing|Case=Ine
+hän	PRON	Number=Plur|Case=Gen
+kul’tur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+pol’	NOUN	Number=Sing|Case=Ine
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tärged	ADJ	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+tütär	NOUN	Number=Sing|Case=Ade
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+opeta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos
+kodi	NOUN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+veps	NOUN	Number=Sing|Case=Gen
+
+mitte	PRON	Number=Plur|Case=Tra
+adiv	NOUN	Number=Plur|Case=Tra
+tö	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ken	PRON	Number=Sing|Case=All
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuz’	NOUN	Number=Sing|Case=Par
+vepsläine	ADJ	Number=Sing|Case=Nom
+kul’tur	NOUN	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+azj	NOUN	Number=Sing|Case=Nom
+nor’	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+meletada	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hüde	NOUN	Number=Sing|Case=Ine
+
+päiv	NOUN	Number=Sing|Case=Ade
+ozutada	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Petroskoi	PROPN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+rahvahaline	ADJ	Number=Sing|Case=Ine
+
+abutada	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+veps	NOUN	Number=Sing|Case=Gen
+Petroskoi	PROPN	Number=Sing|Case=Ela#Number=Plur|Case=Ela
+
+mö	PRON	Number=Sing|Case=Nom
+opeta	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Plur|Case=Par
+mitte	PRON	Number=Plur|Case=Par
+opeta	VERB	Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+üks’	NUM	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuz’	NOUN	Number=Sing|Case=Par
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+teta	VERB	Number=Plur|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Plur|VebForm=Fin|Mood=Imp|Connegative=Yes
+
+kel´	NOUN	Number=Sing|Case=Par
+
+mö	PRON	Number=Sing|Case=All
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+baboi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Par#Number=Plur|Case=Acc
+
+neičukaine	NOUN	Animacy=Anim|Number=Sing|Case=Nom
+käzi	NOUN	Number=Sing|Case=Ill
+
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+nimi	PRON	Number=Sing|Case=Par
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čomemb	ADJ	Degree=Cmp
+mö	PRON	Number=Plur|Case=Gen
+mec	NOUN	Number=Sing|Case=Ine
+
+mitte	PRON	Number=Sing|Case=Nom
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kuz’	NOUN	Number=Plur|Case=Gen
+käbu	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+sur’	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+
+ühtnik	NOUN	Number=Plur|Case=All
+rahvahaline	ADJ	Number=Plur|Case=Gen
+kul’tur	NOUN	Number=Plur|Case=Gen
+ühtneda	VERB	VebForm=Inf|InfForm=1
+erazvuitte	ADJ	Number=Plur|Case=Ill
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+elo	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+pert’	NOUN	Number=Sing|Case=Gen#Number=Sing
+eläi	NOUN	Number=Plur|Case=Ill
+
+mec	NOUN	Number=Sing|Case=Ine
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+haju	NOUN	Number=Sing|Case=Nom
+pert’	NOUN	Number=Sing|Case=Per
+
+erazvuitte	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+agj	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Par
+opeta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+veps	NOUN	Number=Sing|Case=Gen
+sur’	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+rad	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+igä	NOUN	Number=Sing|Case=Tra
+
+veps	NOUN	Number=Sing|Case=Gen
+abu	NOUN	Number=Sing|Case=Ade
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+rahvahaline	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+veps	NOUN	Number=Sing|Case=Gen
+
+čomemb	ADJ	Degree=Cmp
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+päiv	NOUN	Number=Sing|Case=Nom
+
+ühtnik	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+sur’	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+mö	PRON	Number=Plur|Case=Gen
+eläi	NOUN	Number=Plur|Case=All
+adiv	NOUN	Number=Plur|Case=All
+päiv	NOUN	Number=Plur|Case=Ade
+
+päiv	NOUN	Number=Sing|Case=Ade
+Petroskoi	PROPN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+rahvahaline	ADJ	Number=Plur|Case=Gen
+kul’tur	NOUN	Number=Plur|Case=Gen
+vepsläine	ADJ	Number=Sing|Case=Nom
+
+sur’	ADJ	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=Gen
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tärged	ADJ	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+istorii	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+erazvuitte	ADJ	Number=Plur|Case=Par
+
+ken	PRON	Number=Sing|Case=Par
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+tö	NOUN	Number=Sing|Case=Nom
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+rad	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+vepsläine	ADJ	Number=Plur|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Ine
+sai	NOUN	Number=Sing|Case=Nom
+
+azj	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ku	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+erazvuitte	ADJ	Number=Plur|Case=Par
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+sur’	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+adiv	NOUN	Number=Plur|Case=All
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ühtnik	NOUN	Number=Plur|Case=Ine
+
+kirjutada	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+rahvahaline	ADJ	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=All
+
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+ken	PRON	Number=Sing|Case=Nom
+ühtneda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+agj	NOUN	Number=Sing|Case=Nom
+
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+
+ku	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+kirjutada	VERB	Number=Sing|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+päiv	NOUN	Number=Sing|Case=Ade
+
+külä	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ad	NOUN	Number=Sing|Case=Nom
+ku	NOUN	Number=Sing|Case=Ine
+adiv	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+eläda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+opeta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Par
+kul’tur	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+päiv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+teta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Ine
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuz’	NOUN	Number=Sing|Case=Par
+sur’	ADJ	Number=Sing|Case=Ade
+
+ühtnik	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+kirjutada	VERB	Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=Gen
+
+ühtnik	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+hol’	NOUN	Number=Plur|Case=Ine
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Plur|Case=Gen
+hän	PRON	Number=Plur|Case=Gen
+
+mö	PRON	Number=Plur|Case=Gen
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+pol’	NOUN	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Gen
+ozutada	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+külä	NOUN	Number=Plur|Case=Ine
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ristit	NOUN	Number=Plur|Case=All
+abu	NOUN	Number=Sing|Case=Ill
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Ade
+
+kul’tur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+eläda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mez’	NOUN	Number=Sing|Case=Par
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+külä	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+eläi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+erazvuitte	ADJ	Number=Plur|Case=Ill
+mec	NOUN	Number=Sing|Case=Ill
+neičukaine	NOUN	Animacy=Anim|Number=Plur|Case=Nom#Animacy=Anim|Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+rad	NOUN	Number=Plur|Case=Par
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Plur|Case=Par
+vastata	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+tedo	NOUN	Number=Plur|Case=Gen
+
+mitte	PRON	Number=Sing|Case=Nom
+
+kacui	NOUN	Number=Plur|Case=All
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ozutada	VERB	Voice=Pass|VebForm=Part|PartForm=Past
+
+erazvuitte	ADJ	Number=Plur|Case=Par
+kacui	NOUN	Number=Plur|Case=Ade
+
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nor’	ADJ	Number=Plur|Case=Ade
+ristit	NOUN	Number=Plur|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuz’	NOUN	Number=Sing|Case=Nom
+opeta	VERB	VebForm=Inf|InfForm=1
+kel´	NOUN	Number=Plur|Case=Par
+
+hän	PRON	Number=Sing|Case=Nom
+ozutada	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+Petroskoi	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc#Number=Plur
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kul’tur	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+Petroskoi	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc#Number=Plur
+eläi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+sur’	ADJ	Number=Sing|Case=All
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuine	ADJ	Number=Sing|Case=Nom
+sur’	ADJ	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+kodi	NOUN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Plur|Case=Gen
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Petroskoi	PROPN	Number=Sing|Case=Nom
+
+ristit	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+elo	NOUN	Number=Sing|Case=Nom
+raha	NOUN	Number=Plur|Case=Par
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+rad	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+
+ku	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos
+tedo	NOUN	Number=Plur|Case=Gen
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+ajada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+eläda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Plur|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+kel´	NOUN	Number=Plur|Case=Gen
+rad	NOUN	Number=Sing|Case=Ine
+mitte	PRON	Number=Sing|Case=Nom
+tehta	VERB	VebForm=Inf|InfForm=1
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+abutada	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+hän	PRON	Number=Sing|Case=Nom
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Ine
+mitte	PRON	Number=Plur|Case=Par
+hän	PRON	Number=Sing|Case=All
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+Karjala	PROPN	Number=Sing|Case=Ine
+
+andmine	NOUN	Number=Sing|Case=Ine
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kel´	NOUN	Number=Sing|Case=All
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=Gen
+
+hän	PRON	Number=Sing|Case=Nom
+kel´	NOUN	Number=Sing|Case=Ade
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+aig	NOUN	Number=Sing|Case=Ade
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+
+hän	PRON	Number=Plur|Case=All
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuz’	NOUN	Number=Sing|Case=Par
+teta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Par
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+mitte	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ezitai	NOUN	Number=Plur|Case=Gen
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+kacui	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Plur|Case=Gen
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+kodi	NOUN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+kel´	NOUN	Number=Sing|Case=Par
+opeta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Par
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+opeta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+üläopenik	NOUN	Number=Plur|Case=Par
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+opeta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kodima	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Ine
+
+vepsläine	ADJ	Number=Sing|Case=Nom
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+nor’	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+teta	VERB	Number=Plur|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+igähine	ADJ	Number=Sing|Case=Nom
+
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+azj	NOUN	Number=Plur|Case=Gen
+
+Karjala	PROPN	Number=Sing|Case=Ine
+starinoita	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+olda	VERB	Number=Plur|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+rad	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kul’tur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+rahvahaline	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+nor’	ADJ	Number=Sing|Case=Nom#Number=Sing|Case=Acc
+aig	NOUN	Number=Sing|Case=Ade
+
+Venäma	PROPN	Number=Sing|Case=Abl
+
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Gen#Degree=Pos|Number=Sing#Degree=Pos|Number=Sing|Case=Acc
+istorii	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mitte	PRON	Number=Sing|Case=Nom
+ken-se	PRON	Number=Sing|Case=Nom
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ühtnik	NOUN	Number=Plur|Case=All
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ühtneda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mitte	PRON	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mända	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Petroskoi	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc#Number=Plur
+rahvahaline	ADJ	Number=Sing|Case=Ine
+
+aig	NOUN	Number=Plur|Case=Ine
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+Petroskoi	PROPN	Number=Sing|Case=Ela#Number=Plur|Case=Ela
+
+mö	PRON	Number=Plur|Case=Ade
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+aig	NOUN	Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+istorii	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+Venäma	PROPN	Number=Sing|Case=Ade
+
+külä	NOUN	Number=Sing|Case=Ine
+eläda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mez’	NOUN	Number=Sing|Case=Par
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+pert’	NOUN	Number=Sing|Case=Par
+
+igähine	ADJ	Number=Plur|Case=Gen
+
+ristit	NOUN	Number=Sing|Case=Nom
+päiv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+putta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+rad	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Par
+veps	NOUN	Number=Sing|Case=Gen
+kul’tur	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+külä	NOUN	Number=Sing|Case=Ela
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+opeta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+üks’	NUM	Number=Plur|Case=Ine
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+assamblei	NOUN	Number=Sing|Case=Ade
+
+nor’	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+rahvahaline	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+literatur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+tahtoida	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Voice=Active|VebForm=Part|PartForm=Pres#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+
+olda	VERB	VebForm=Inf|InfForm=1
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+sarn	NOUN	Number=Sing|Case=Gen
+mitte	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čoma	ADJ	Degree=Pos|Number=Plur|Case=Gen
+kuva	NOUN	Number=Plur|Case=Gen
+
+erazvuitte	ADJ	Number=Plur|Case=Ine
+ajada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+abutada	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kacui	NOUN	Number=Sing|Case=Nom
+Karjala	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kel´	NOUN	Number=Sing|Case=Ade
+
+starinoita	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Sing|Case=Nom
+kirj	NOUN	Number=Plur|Case=Par
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+tö	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+kirvez	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+pert’	NOUN	Number=Sing|Case=Nom
+
+ristit	NOUN	Number=Sing|Case=All
+kibu	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+meletada	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+kirj	NOUN	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+istorii	NOUN	Number=Sing|Case=Nom
+
+igähine	ADJ	Number=Sing|Case=Par
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+tahtoida	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Cnd|Polarity=Pos#Tense=Pres|VebForm=Fin|Mood=Cnd|Connegative=Yes
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	VebForm=Inf|InfForm=1
+kodi	NOUN	Number=Sing|Case=Ine#Number=Plur|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Nom
+starinoita	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Plur|Case=All
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+živat	NOUN	Animacy=Anim|Number=Plur|Case=All
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+opeta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+abutada	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Ade
+koda	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+Venäma	PROPN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mitte	PRON	Number=Sing|Case=Par
+
+pol’	NOUN	Number=Sing|Case=Ela
+mö	PRON	Number=Sing|Case=Ade
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+vepsläine	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+sur’	ADJ	Number=Plur|Case=Par
+mitte	PRON	Number=Plur|Case=Gen
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+eläi	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+jogi	NOUN	Number=Sing|Case=Ela
+
+hän	PRON	Number=Sing|Case=Nom
+sur’	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+veps	NOUN	Number=Sing|Case=Gen
+literatur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+kul’tur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+azj	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Par
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+korv	NOUN	Number=Sing|Case=Nom
+üläh	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Par
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ilo	NOUN	Number=Sing|Case=Par
+
+mez’	NOUN	Number=Sing|Case=Ade
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+erazvuitte	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+mö	PRON	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+eläda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+čoga	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+rad	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+kaiv	NOUN	Number=Sing|Case=Ela
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ku	NOUN	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ku	NOUN	Number=Sing|Case=All
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+päiv	NOUN	Number=Sing|Case=Ade
+ühtnik	NOUN	Number=Plur|Case=Gen
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+olda	VERB	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Par
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ken	PRON	Number=Sing|Case=All
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=Gen
+azj	NOUN	Number=Plur|Case=Par
+
+mö	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+vepsläine	ADJ	Number=Sing|Case=Nom
+kel´	NOUN	Number=Sing|Case=Ade
+mö	PRON	Number=Sing|Case=Nom
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+mö	PRON	Number=Plur|Case=Gen
+
+abutada	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ristit	NOUN	Number=Plur|Case=All
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+erazvuitte	ADJ	Number=Plur|Case=Par
+
+üks’	NUM	Number=Plur|Case=Ine
+ku	NOUN	Number=Sing|Case=Ine
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+ku	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+vepsläine	ADJ	Number=Plur|Case=Par
+
+veps	NOUN	Number=Sing|Case=Gen
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mitte	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+abutada	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Plur|Person=1|VebForm=Fin|Mood=Ind
+judu	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Plur|Person=1|VebForm=Fin|Mood=Ind
+teta	VERB	Number=Plur|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Plur|VebForm=Fin|Mood=Imp|Connegative=Yes
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+ak	NOUN	Number=Sing|Case=Com
+hän	PRON	Number=Sing|Case=All
+rad	NOUN	Number=Sing|Case=Nom
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=Nom
+ristit	NOUN	Number=Plur|Case=Gen
+
+päiv	NOUN	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+tönduda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+järv	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+jä	NOUN	Number=Sing|Case=Per
+
+mö	PRON	Number=Sing|Case=Nom
+aig	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+mitte	PRON	Number=Sing|Case=All
+elo	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+rad	NOUN	Number=Sing|Case=Ine
+sur’	ADJ	Number=Sing|Case=Ine
+veps	NOUN	Number=Sing|Case=Gen
+kul’tur	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+sai	NOUN	Number=Sing|Case=Nom
+
+pert’	NOUN	Number=Sing|Case=Ill
+hän	PRON	Number=Sing|Case=Ade
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+hän	PRON	Number=Sing|Case=Com
+
+ak	NOUN	Number=Sing|Case=All
+mö	PRON	Number=Sing|Case=Nom
+aig	NOUN	Number=Plur|Case=Ine
+laht	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mec	NOUN	Number=Sing|Case=Ill
+
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+erazvuitte	ADJ	Number=Plur|Case=Par
+
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+ühtneda	VERB	VebForm=Inf|InfForm=1
+
+laht	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+ahven	NOUN	Number=Plur|Case=Par
+
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+kida	NOUN	Number=Sing|Case=Ela
+mö	PRON	Number=Sing|Case=Nom
+
+tö	NOUN	Number=Sing|Case=Nom
+mitte	PRON	Number=Sing|Case=Par
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+erazvuitte	ADJ	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+koza	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+aid	NOUN	Number=Sing|Case=Tra#Number=Sing|Case=Ine
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=All
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+melentartuz’	NOUN	Number=Sing|Case=Par
+hän	PRON	Number=Sing|Case=Nom
+tahtoida	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos#Voice=Active|VebForm=Part|PartForm=Pres#Number=Sing|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Sing|VebForm=Fin|Mood=Imp|Connegative=Yes
+
+kirj	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+hän	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+külä	NOUN	Number=Plur|Case=Ill
+aig	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+üks’	NUM	Number=Sing|Case=Nom
+ühtnik	NOUN	Number=Plur|Case=Ela
+starinoita	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=All
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+elo	NOUN	Number=Sing|Case=Ine
+
+kodima	NOUN	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+vepsläine	ADJ	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+külä	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Sing|Case=All
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+hän	PRON	Number=Sing|Case=Nom
+
+kodirand	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+külä	NOUN	Number=Plur|Case=Ine
+ristit	NOUN	Number=Plur|Case=Com
+kirjutada	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ajada	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+kirj	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+kel´	NOUN	Number=Plur|Case=Ill
+
+vepsläine	ADJ	Number=Plur|Case=Gen
+opeta	VERB	VebForm=Inf|InfForm=1
+kel´	NOUN	Number=Sing|Case=Par
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ühtneda	VERB	Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+rad	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=2|VebForm=Fin|Mood=Imp
+
+ühtnik	NOUN	Number=Plur|Case=All
+kacui	NOUN	Number=Plur|Case=All
+
+meletada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+azj	NOUN	Number=Sing|Case=Nom
+muzei	NOUN	Number=Sing|Case=Per
+adiv	NOUN	Number=Plur|Case=All
+kuva	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+vepsläine	ADJ	Number=Plur|Case=Ine
+hän	PRON	Number=Plur|Case=Gen
+hän	PRON	Number=Plur|Case=Gen
+elo	NOUN	Number=Sing|Case=Ine
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+meletada	VERB	VebForm=Inf|InfForm=1
+ozutada	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#VebForm=Inf|InfForm=1
+
+hän	PRON	Number=Plur|Case=Gen
+olda	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ajada	VERB	Number=Sing|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Tense=Pres|Person=2|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+azj	NOUN	Number=Sing|Case=Ine
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+ku	NOUN	Number=Sing|Case=Ine
+rad	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+ezitai	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+eläi	NOUN	Number=Plur|Case=Com
+hän	PRON	Number=Plur|Case=Par
+
+Karjala	PROPN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+opeta	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Nom
+ajada	VERB	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hän	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+hän	PRON	Number=Plur|Case=Ill
+teta	VERB	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+kel’tedomez’	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+ei	AUX	Number=Plur|Person=1|VebForm=Fin|Mood=Ind
+teta	VERB	Number=Plur|Tense=Pres|VebForm=Fin|Mood=Ind|Connegative=Yes#Number=Plur|VebForm=Fin|Mood=Imp|Connegative=Yes
+kel´	NOUN	Number=Plur|Case=Par
+hän	PRON	Number=Sing|Case=Nom
+teta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+joudai	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+ristit	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+olda	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+olda	VERB	VebForm=Inf|InfForm=1
+hein	NOUN	Number=Sing|Case=All
+päiv	NOUN	Number=Sing|Case=Tra
+
+hän	PRON	Number=Sing|Case=Nom
+olda	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+
+hein	NOUN	Number=Plur|Case=Nom#Number=Sing|Case=Par#Number=Plur|Case=Acc
+
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+čoma	ADJ	Degree=Pos|Number=Sing|Case=Nom
+päiv	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+astta	VERB	Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos
+kodi	NOUN	Number=Plur|Case=Ill
+jä	NOUN	Number=Plur|Case=Par
+mö	PRON	Number=Plur|Case=Nom#Number=Plur|Case=Acc
+kondi	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc
+
+ei	AUX	Number=Sing|Person=1|VebForm=Fin|Mood=Ind
+astta	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Sing|Person=3|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+mända	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+mö	PRON	Number=Sing|Case=Par
+
+hän	PRON	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=Ade
+mö	PRON	Number=Sing|Case=Gen#Number=Sing|Case=Acc
+
+mö	PRON	Number=Sing|Case=Nom
+baboi	NOUN	Number=Sing|Case=Gen#Number=Sing#Number=Sing|Case=Acc#Number=Plur
+mö	PRON	Number=Sing|Case=All
+astta	VERB	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos#Number=Plur|Person=3|VebForm=Fin|Mood=Imp|Polarity=Pos
+
+baboi	NOUN	Number=Sing|Case=Nom
+
+mö	PRON	Number=Sing|Case=Nom
+mända	VERB	VebForm=Inf|InfForm=1
+ku	NOUN	Number=Sing|Case=Nom
+mö	PRON	Number=Sing|Case=Par
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+mö	PRON	Number=Sing|Case=Nom
+
+mö	PRON	Number=Plur|Case=All
+ei	AUX	Number=Sing|Person=3|VebForm=Fin|Mood=Ind#Number=Plur|Person=3|VebForm=Fin|Mood=Ind
+
+kuva	NOUN	Number=Sing|Case=Ade
+olda	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
+ristit	NOUN	Number=Sing|Case=Nom
+
+baboi	NOUN	Number=Sing|Case=Nom
+

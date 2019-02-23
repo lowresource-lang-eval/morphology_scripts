@@ -8897,7 +8897,7 @@
 
 #2007_Chirinda_Khutokogir_Dmitriy_LF_L.eaf_new.eaf:25
 #Туг-до-тэ хо̄ хэбдяло̄н биңкӣн.;так очень весело было.
-1-3	dotə	_	_	_	_	_	_	_	_
+1-3	tugdotə	_	_	_	_	_	_	_	_
 1	tug	tug	ADV	_	_	_	_	_	_
 2	do	do	PART	_	_	_	_	_	_
 3	tə	tə	PART	_	_	_	_	_	_
@@ -9681,7 +9681,7 @@
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:70
 #Тыгисялувэркэ элэдэ, элэ.;Тысячами-то точно, вот.
-1-3	luwərkə	_	_	_	_	_	_	_	_
+1-3	tiγiśaluwərkə	_	_	_	_	_	_	_	_
 1	tiγiśa	tiγiśa	NUM	_	_	_	_	_	_
 2	luwər	luwər	PART	_	_	_	_	_	_
 3	kə	kə	PART	_	_	_	_	_	_
@@ -10404,7 +10404,7 @@
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:284
 #Эва-да̄, эвэӈкӣ-та-нэ эр гулэлва дэрэкла̄ви олда, лусал-тэ.;Ничего [не было], эвенки-то эти дома себе стали делать и русские.
 1	əwadaː	ə	PRON	_	Case=Acc|Mood=Prp|Number=Sing|VerbForm=Conv	_	_	_	_
-2-4	tanə	_	_	_	_	_	_	_	_
+2-4	əwəŋkiːtanə	_	_	_	_	_	_	_	_
 2	əwəŋkiː	əwəŋkiː	ADV	_	_	_	_	_	_
 3	ta	ta	PART	_	_	_	_	_	_
 4	nə	nə	PART	_	_	_	_	_	_
@@ -11287,7 +11287,7 @@
 3	ŋinakirďi	ŋinaki	NOUN	_	Case=Ins|Number=Plur	_	_	_	_
 4	ʒə	ʒə	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	girkuďəsaːtin	girku	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-6-8	təsəwi	_	_	_	_	_	_	_	_
+6-8	kuŋakartəsəwi	_	_	_	_	_	_	_	_
 6	kuŋakar	kuŋaka	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 7	tə	tə	PART	_	_	_	_	_	_
 8	səwi	sə	PART	_	Reflex=Yes	_	_	_	_
@@ -12443,7 +12443,7 @@
 
 #2007_Ekonda_Udygir_Viktor_FSk3_transliterated.eaf:110
 #Монин-кэмулин дёротпи бидеӈно̄гин!»;Пусть живет сам по себе!»
-1-3	kəmulin	_	_	_	_	_	_	_	_
+1-3	moninkəmulin	_	_	_	_	_	_	_	_
 1	monin	moni	PRON	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3|Reflex=Yes	_	_	_	_
 2	kə	kə	PART	_	_	_	_	_	_
 3	mulin	mulin	PART	_	_	_	_	_	_
@@ -15585,7 +15585,7 @@
 
 #2008_Kislokan_Sidorov_Konstantin_LAvPart1.eaf_new.eaf:80
 #Халгарви-да-хэ хогдоңэв-до эчэ подводирэ толи.;Ноги и спина не подвели тогда.
-1-3	dahə	_	_	_	_	_	_	_	_
+1-3	halgarwidahə	_	_	_	_	_	_	_	_
 1	halgarwi	halga	NOUN	_	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_
 2	da	da	PART	_	_	_	_	_	_
 3	hə	hə	PART	_	_	_	_	_	_
@@ -15771,7 +15771,7 @@
 
 #2008_Kislokan_Sidorov_Konstantin_LAvPart1.eaf_new.eaf:124
 #Миндӯ-вэхин-кэ пенсияконмэ хэгдимуконмэ бусо̄л как ветеран трудадӯ.;Мне-то пенсию побольше дали как ветерану труда.
-1-3	wəhinkə	_	_	_	_	_	_	_	_
+1-3	minduːwəhinkə	_	_	_	_	_	_	_	_
 1	minduː	min	PRON	_	Case=Dat|Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	wəhin	wəhin	PART	_	_	_	_	_	_
 3	kə	kə	PART	_	_	_	_	_	_
@@ -26015,7 +26015,7 @@
 1	i	i	CCONJ	_	_	_	_	_	_
 2	wot	wot	INTJ	_	_	_	_	_	_
 3	i	i	INTJ	_	_	_	_	_	_
-4-6	kondo	_	_	_	_	_	_	_	_
+4-6	tukkondo	_	_	_	_	_	_	_	_
 4	tuk	tuk	X	_	_	_	_	_	_
 5	kon	kon	PART	_	_	_	_	_	_
 6	do	do	PART	_	_	_	_	_	_
@@ -26768,7 +26768,7 @@
 1	əwan	ə	PRON	_	Case=Acc|Number=Sing	_	_	_	_
 2	dəː	dəː	PART	_	_	_	_	_	_
 3	ət͡ʃəːw	ə	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
-4-6	kadəː	_	_	_	_	_	_	_	_
+4-6	ərakadəː	_	_	_	_	_	_	_	_
 4	əra	ə	VERB	_	VerbForm=Part	_	_	_	_
 5	ka	ka	PART	_	_	_	_	_	_
 6	dəː	dəː	PART	_	_	_	_	_	_
@@ -30876,7 +30876,7 @@
 
 #2007_Chirinda_Eldogir_Valentina_FSk9_transliterated.eaf:79
 #«Эвӣдептэ-сэ, эhӣкоко̄н эвӣлдеӈо̄т эрэ», —;«Мы же поиграем, мы с вами будем играть», —
-1-3	təsə	_	_	_	_	_	_	_	_
+1-3	əwiːďəptəsə	_	_	_	_	_	_	_	_
 1	əwiːďəp	əwiː	VERB	_	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_
 2	tə	tə	PART	_	_	_	_	_	_
 3	sə	sə	PART	_	_	_	_	_	_
@@ -32356,7 +32356,7 @@
 
 #2007_Ekonda_Khutokogir_Grigoriy_LAv.eaf_new.eaf:82
 #Кола Бельды-лувэр-ти икэнин гуннэ.;Кола Бельды песня говорит:
-1-3	luwərti	_	_	_	_	_	_	_	_
+1-3	kolabildiluwərti	_	_	_	_	_	_	_	_
 1	kolabildi	kolabildi	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	luwər	luwər	PART	_	_	_	_	_	_
 3	ti	ti	PART	_	_	_	_	_	_
@@ -32808,7 +32808,7 @@
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:159
 #Индевун-тэ-лувэр, орорди-лувэр индеп.;Для жизни ведь, оленями же живем.
-1-3	təluwər	_	_	_	_	_	_	_	_
+1-3	inďəwuntəluwər	_	_	_	_	_	_	_	_
 1	inďəwun	in	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin	_	_	_	_
 2	tə	tə	PART	_	_	_	_	_	_
 3	luwər	luwər	PART	_	_	_	_	_	_
@@ -33284,7 +33284,7 @@
 
 #2007_Ekonda_Kombagir_Anna_LR1_2_transliterated_transliterated2.eaf:392
 #Улукӣ-вэhин-ка hэлэт.;Белка-то ружьем.
-1-3	wəhinka	_	_	_	_	_	_	_	_
+1-3	ulukiːwəhinka	_	_	_	_	_	_	_	_
 1	ulukiː	ulukiː	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	wəhin	wəhin	PART	_	_	_	_	_	_
 3	ka	ka	PART	_	_	_	_	_	_
@@ -33654,7 +33654,7 @@
 1	ə	ə	X	_	_	_	_	_	_
 2	əɲiːnmi	əɲiːn	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_
 3	ɲu	ɲu	INTJ	_	_	_	_	_	_
-4-6	səkə	_	_	_	_	_	_	_	_
+4-6	əɲindəsəkə	_	_	_	_	_	_	_	_
 4	əɲində	əɲi	NOUN	_	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=2	_	_	_	_
 5	sə	sə	PART	_	_	_	_	_	_
 6	kə	kə	PART	_	_	_	_	_	_
@@ -34191,7 +34191,7 @@
 
 #2007_Ekonda_Pankagir_LAv_transliterated.eaf_new.eaf:95
 #Эр-до-тэ муданиӈӣв, hэгэним hувулвон.;Вот и конец, я рассказал все.
-1-3	dotə	_	_	_	_	_	_	_	_
+1-3	ərdotə	_	_	_	_	_	_	_	_
 1	ər	ər	DET	_	_	_	_	_	_
 2	do	do	PART	_	_	_	_	_	_
 3	tə	tə	PART	_	_	_	_	_	_
@@ -36621,7 +36621,7 @@
 
 #2008_Kislokan_Sidorov_Konstantin_LAvPart1.eaf_new.eaf:79
 #Ңолэл-кун-дэ но ңолэлчэ̄в-дэ эчэ̄в растерялсярэ эчэ̄в растерялся вот элкэ.;Испугался, конечно, но, испугавшись, не растерялся.
-1-3	kundə	_	_	_	_	_	_	_	_
+1-3	ŋoləlkundə	_	_	_	_	_	_	_	_
 1	ŋoləl	ŋolə	VERB	_	Mood=Ind|VerbForm=Fin	_	_	_	_
 2	kun	kun	PART	_	_	_	_	_	_
 3	də	də	PART	_	_	_	_	_	_

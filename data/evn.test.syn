@@ -315,7 +315,6 @@ kartiʃka	NOUN	Case=Ins|Number=Sing
 ďəptiləkon	NOUN	Case=Par|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3
 buː	VERB	Aspect=Hab|Number=Plur|VerbForm=Part
 
-
 laŋta	PROPN	Case=Nom|Number=Plur
 amin	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3
 brigaďir	NOUN	Case=Nom|Number=Sing
@@ -326,7 +325,6 @@ ta	DET	Number=Plur
 
 toγo	NOUN	Case=Dat|Number=Sing
 
-
 iśə	VERB	Mood=Imp|Number=Sing|PersonNum=2
 bəjə	NOUN	Case=Acc|Number=Plur
 
@@ -336,7 +334,6 @@ aśin	VERB	Mood=Ind|VerbForm=Fin
 
 eːkun	PRON	Case=Nom|Number=Sing
 lusa	ADJ	Number=Plur
-
 
 moni	PRON	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3|Reflex=Yes
 guni	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
@@ -365,7 +362,6 @@ moː	NOUN	Case=Par|Number=Sing
 o	VERB	Aspect=Hab|Number=Plur|VerbForm=Part
 moː	NOUN	Case=Acc|Number=Sing
 
-
 eː	NOUN	Case=Nom|Number=Sing
 eː	NOUN	Case=Nom|Number=Sing
 
@@ -375,8 +371,6 @@ baldi	NOUN	Case=Nom|Number=Sing
 baldi	VERB	Number=Sing|Person=2|VerbForm=Conv
 ɲiː	PRON	Case=Nom|Number=Sing
 bələ	VERB	Aspect=Imp|Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
-
-
 
 kuŋaka	NOUN	Case=Nom|Number=Plur
 əwiː	VERB	Aspect=Imp|Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
@@ -471,7 +465,6 @@ aŋa	VERB	Mood=Imp|Number=Sing|PersonNum=2
 nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs
 o	VERB	VerbForm=Part
 
-
 uːt͡ʃaki	NOUN	Case=Nom|Number=Plur|Reflex=Yes
 tiːn	VERB	VerbForm=Part
 
@@ -534,7 +527,6 @@ haktir	NOUN	Case=Dat|Number=Sing
 suru	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
 ďu	NOUN	Case=Lat|Number=Sing|Reflex=Yes
 
-
 ut͡ʃilśa	NOUN	Case=Nom|Number=Sing
 
 ə	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
@@ -570,7 +562,6 @@ zweroferma	NOUN	Case=Dat|Number=Sing
 
 iďot	NOUN	Case=Nom|Number=Sing
 
-
 aŋi	PRON	Case=Nom|Number=Plur
 bəjə	NOUN	Case=Nom|Number=Plur
 aŋi	PRON	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3
@@ -594,7 +585,6 @@ tutont͡ʃana	PROPN	Case=Dat|Number=Sing
 majgu	NOUN	Case=Nom|Number=Sing
 ɲiruśan	NOUN	Case=Nom|Number=Sing
 huritko	NOUN	Case=Nom|Number=Plur
-
 
 buran	PROPN	Case=Ins|Number=Sing
 
@@ -742,7 +732,6 @@ gun	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
 
 walok	PROPN	Case=Abl|Number=Sing
 
-
 min	PRON	Case=Acc|Case=Nom|Number=Sing|Person=1|PronType=Prs
 amiːnim	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1
 bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
@@ -761,7 +750,6 @@ bəjə	NOUN	Case=Nom|Number=Sing
 tolkiśi	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
 
 aji	VERB	Aspect=Hab|VerbForm=Part
-
 
 onmər	ADV	Definite=Ind
 kə	VERB	Aspect=Imp|VerbForm=Conv
@@ -806,7 +794,6 @@ abat͡ʃiː	NOUN	Case=Nom|Number=Sing
 
 jərbəkə	PROPN	Case=Dat|Number=Sing
 bi	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
-
 
 ədi	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3
 at͡ʃin	NOUN	Case=Nom|Number=Sing

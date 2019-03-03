@@ -68,7 +68,6 @@ nägy	NOUN	Number=Sing|Case=Par
 myö	PRON	Number=Sing|Case=Gen
 ilmu	NOUN	Number=Sing|Case=Par
 
-
 mužikku	NOUN	Number=Sing|Case=Nom
 
 hyö	PRON	Number=Plur|Case=Gen
@@ -143,7 +142,6 @@ zavodu	NOUN	Number=Sing|Case=Nom
 pal’l’u	NOUN	Number=Sing|Case=Nom
 korvoi	NOUN	Number=Sing|Case=Nom
 
-
 akku	NOUN	Number=Sing|Case=Nom
 maijot	NOUN	Number=Plur|Case=Nom
 
@@ -158,7 +156,6 @@ olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
 armas	ADJ	Number=Sing|Case=Nom
 terveh	ADJ	Number=Sing|Case=Nom
 akku	NOUN	Number=Sing|Case=Nom
-
 
 kurgi	NOUN	Number=Sing|Case=Nom
 kärgi	NOUN	Number=Sing|Case=Nom
@@ -203,7 +200,6 @@ herru	NOUN	Number=Sing|Case=Par
 se	PRON	Number=Sing|Case=Par
 saldattu	NOUN	Number=Sing|Case=Par
 
-
 lapsi	ADJ	Number=Sing|Case=Nom
 olla	VERB	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos
 
@@ -214,8 +210,6 @@ hinnatoi	ADJ	Number=Sing|Case=Nom
 
 kai	PRON	Number=Sing|Case=Gen
 karju	ADJ	Number=Sing|Case=Gen
-
-
 
 kai	PRON	Number=Plur|Case=Par
 pidiä	VERB	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos

@@ -15,7 +15,7 @@ def evaluate_syn(filename_standard, filename_test):
     :param filename_test: full path to the file being tested (utf-8)
     """
     result = compare_files_syn(filename_standard, filename_test)
-    filename_result = filename_test + '_result.txt'
+    filename_result = filename_test + '_result_syn.txt'
     with open(filename_result, 'w', encoding='utf', newline='') as fout:
         fout.write(result + '\n')
     print('written results to %s' % filename_result)

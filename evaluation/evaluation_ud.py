@@ -43,10 +43,23 @@ def compare_files_ud(filename_standard, filename_test):
 
     result = dict()
 
+    from_num = -1
+    to_num = -1
+
+    alternative_lemma = None
+    alternative_pos = None
     while i < len (standard_lines):
+        if j >= len(test_lines):
+            print("ERROR: test file not fully used")
+            break
         while j < len(test_lines):
+
+
+
             current_test_line = test_lines[j].strip()
             current_standard_line = standard_lines[i].strip()
+
+
             if current_standard_line.startswith('#'):
                 i += 1
                 continue
@@ -67,28 +80,43 @@ def compare_files_ud(filename_standard, filename_test):
 
                 continue
 
+
+            #print(i, j, current_standard_line, current_test_line)
+            if '@' in current_standard_line:
+                alternative_lemma_pos = current_standard_line.split('@')[-1].split('\t')
+                current_standard_line = current_standard_line.split('@')[0]
+                alternative_lemma = alternative_lemma_pos[0]
+                alternative_pos = alternative_lemma_pos[1]
+
             current_test_line_parts = current_test_line.split('\t')
             current_standard_line_parts = current_standard_line.split('\t')
-            if len(current_test_line_parts) != len(current_standard_line_parts):
-                errors.append('Fatal error: bad line #%s: wrong number of delimited parts' % j)
-                return errors
+
+
             current_test_line_number = current_test_line_parts[0]
             current_standard_line_number = current_standard_line_parts[0]
+
             if '-' in current_standard_line_number and '-' in current_test_line_number:
                 j += 1
                 i += 1
                 continue
+            #TODO!
             if '-' in current_standard_line_number:
+                num_parts = current_standard_line_number.split("-")
+                from_num = int(num_parts[0])
+                to_num = int(num_parts[1])
+            elif int(current_standard_line_number) >= from_num  and int(current_standard_line_number) <= to_num:
                 i += 1
-                continue
-            if '-' in current_standard_line_number:
-                j += 1
+                if int(current_standard_line_number) == to_num:
+                    from_num = -1
+                    to_num = -1
                 continue
 
             if current_standard_line_number.startswith('1'):
                 total_sentences += 1
                 is_sentence_lemma_correct = False
                 is_sentence_pos_correct = False
+                alternative_lemma = None
+                alternative_pos = None
 
             total_words += 1
 
@@ -101,23 +129,27 @@ def compare_files_ud(filename_standard, filename_test):
             current_test_line_features = current_test_line_parts[5]
             current_standard_line_features = current_standard_line_parts[5]
 
-            if current_test_line_number != current_standard_line_number:
-                errors.append('Error: bad line #%s: expected different numeration' % j)
-            elif current_test_line_wordform != current_standard_line_wordform:
+
+            if current_test_line_wordform != current_standard_line_wordform:
                 errors.append('Error: bad line #%s: expected different wordform' % j)
             else:
                 #comparing lemma
-                if current_test_line_lemma == current_standard_line_lemma:
+                if is_lemma_equal(current_standard_line_lemma, current_test_line_lemma)\
+                        or (alternative_lemma is not None and
+                                is_lemma_equal(alternative_lemma, current_test_line_lemma)):
                     num_words_correct_lemma += 1
                     if not is_sentence_lemma_correct:
                         is_sentence_lemma_correct = True
                         num_sentences_correct_lemma += 1
                 #comparing pos
-                if is_pos_equal(current_standard_line_pos, current_test_line_pos):
+                if is_pos_equal(current_standard_line_pos, current_test_line_pos) \
+                        or (alternative_pos is not None and is_pos_equal(alternative_pos, current_test_line_pos)):
                     num_words_correct_pos += 1
                     if not is_sentence_pos_correct:
                         is_sentence_pos_correct = True
                         num_sentences_correct_pos += 1
+                else:
+                    print(current_standard_line_pos, alternative_pos, current_test_line_pos)
                 #comparing features
                 current_num_retr_relevant, current_num_retr, current_num_relevant = \
                             compare_features(current_test_line_features, current_standard_line_features)
@@ -145,6 +177,8 @@ def compare_files_ud(filename_standard, filename_test):
 
 
 def is_pos_equal(pos_standard, pos_test):
+    if pos_standard == '_':
+        return True
     if pos_standard == 'X':
         return True
     if pos_standard == pos_test:
@@ -154,6 +188,11 @@ def is_pos_equal(pos_standard, pos_test):
     if pos_test == 'NOUN' and pos_standard == 'PROPN':
         return True
     return False
+
+def is_lemma_equal(lemma_standard, lemma_test):
+    if lemma_standard == 'UNKN':
+        return True
+    return lemma_standard.lower() == lemma_test.lower()
 
 def compare_features(features_standard, features_test):
     features_standard_set = set(features_standard.split('|'))

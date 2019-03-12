@@ -1,0 +1,3122 @@
+_	laŋilwər	laŋi	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	tawutt͡ʃəŋkiːtin	tawutt͡ʃəŋkiːtin	ADV	_	_	_	_	_	_	_
+
+_	əŋkiːtin	ə	VERB	Aspect=Iter|Case=Acc|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|PronType=Prs|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ədaːwun	ədaːwun	PRON	Case=Acc|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	baluwattə	baluwa	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	əkunďika	əkunďika	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	prosta	prosta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	w	w	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	strogasti	strogasti	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďawut͡ʃaďaŋkiːtin	ďawut͡ʃa	VERB	Aspect=Imp|Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	internat	interna	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bit͡ʃoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	uʒə	uʒə	ADV	_	_	_	_	_	_	_
+_	goroʃihalaː	goroʃiha	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	hurut͡ʃoːwun	huru	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	toːliː	toːliː	ADV	_	_	_	_	_	_	_
+
+_	minə	minə	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	aːďəriwə	aːďəriw	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	omoːnt͡ʃo	omoːnt͡ʃo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	amiːm	amiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	əmərən	əmə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	moːtiːwə	moːtiː	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ət͡ʃə	ə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	hiγrə	hiγ	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	ta	ta	ADJ	_	_	_	_	_	_	_
+_	əməwrən	əmə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	moːtiːwə	moːtiː	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	əsilə	əsilə	ADV	_	_	_	_	_	_	_
+_	ďuk	ďuk	ADV	_	_	_	_	_	_	_
+_	hignoːsinəw	hignoːsinəw	ADV	_	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ət͡ʃe	ət͡ʃe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ŋolott͡ʃerə	ŋolott͡ʃerə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	moːtiːtkoːn	moːtiːtkoːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biː	biː	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	soŋom	soŋo	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	soŋom	soŋom	ADV	_	_	_	_	_	_	_
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	t͡ʃo	t͡ʃo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ťiper	ťiper	ADV	_	_	_	_	_	_	_
+
+_	poligustulaː	poligus	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	perwij	perwij	ADV	_	_	_	_	_	_	_
+_	r	r	ADV	_	_	_	_	_	_	_
+_	əmət͡ʃoːm	əmət͡ʃoːm	ADV	_	_	_	_	_	_	_
+_	biː	biː	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+
+_	alaguːmniːt	alaguːmniː	DET	_	_	_	_	_	_	_
+_	ha	ha	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hawalďat͡ʃam	hawalďat͡ʃam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	sadiktuː	sadik	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	kuŋaːkaːr	kuŋaːkaː	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	oːkirdaː	oːkir	SCONJ	_	_	_	_	_	_	_
+_	ət͡ʃoːtin	ə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	bisi	bisi	ADV	_	_	_	_	_	_	_
+
+_	wot	wot	INTJ	_	_	_	_	_	_	_
+_	umukəːn	umukəːn	ADJ	_	_	_	_	_	_	_
+_	minduː	min	PRON	Case=Dat|Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	bit͡ʃoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ut͡ʃeɲikiw	ut͡ʃeɲiki	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+
+_	perwij	perwij	NOUN	_	_	_	_	_	_	_
+_	klastuː	klas	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	naʃ	naʃ	VERB	_	_	_	_	_	_	_
+_	ja=	ja=	ADV	_	_	_	_	_	_	_
+_	potom	potom	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əːto	əːto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ma	ma	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	podaːrək	podaːrək	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ja	ja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	poloʒila	poloʒila	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	minŋi	min	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	əːto	əːto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aŋiw	aŋi	PRON	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	trofimimət	trofimimət	ADV	_	_	_	_	_	_	_
+_	ulgut͡ʃoːlən	ulgut͡ʃoːlən	ADV	_	_	_	_	_	_	_
+
+_	əduktə	əduk	DET	_	_	_	_	_	_	_
+_	armijalaː	armija	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	surut͡ʃoːm	suru	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	w	w	ADV	_	_	_	_	_	_	_
+_	śemdiśat	śemdiśat	ADV	_	_	_	_	_	_	_
+_	ʃistom	ʃistom	ADV	_	_	_	_	_	_	_
+
+_	gunə	gun	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	taːduː	taːduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	amaːkaː	amaːkaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	girkudarən	girkudarən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ďet	ďe	DET	_	_	_	_	_	_	_
+_	java	java	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toʒe	toʒe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gunən	gun	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	əməďim	əmə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	taːlaː	taːlaː	ADV	_	_	_	_	_	_	_
+_	nuŋardulaːtin	nuŋar	PRON	Case=Lat|Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+
+_	amaːkaːltin	amaːkaːlti	ADV	_	_	_	_	_	_	_
+_	gunə	gun	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	əhiː	əhiː	ADV	_	_	_	_	_	_	_
+_	vet͡ʃərəm	vet͡ʃərəm	ADV	_	_	_	_	_	_	_
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	əməďin	əməďi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	dolboltonə	dolboltonə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	patom	pato	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	hururəwun	huru	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	iːduː	iːduː	ADV	_	_	_	_	_	_	_
+_	ətəjəːtmi	ətəjəː	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	nuŋanməːn	nuŋanməːn	ADV	_	_	_	_	_	_	_
+_	ajat	ajat	ADV	_	_	_	_	_	_	_
+
+_	təːliː	təːliː	ADV	_	_	_	_	_	_	_
+_	pəktiruːlďəp	pəktiruːlďəp	ADV	_	_	_	_	_	_	_
+_	ildakin	ildakin	ADV	_	_	_	_	_	_	_
+
+_	loporoːrən	loporoː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	taːləː	taːləː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pala	pala	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paka	paka	SCONJ	_	_	_	_	_	_	_
+_	taːlaː	taːlaː	ADV	_	_	_	_	_	_	_
+_	ŋəpkəkəːlə	ŋəpkəkəːlə	ADV	_	_	_	_	_	_	_
+_	tuksarawun	tuksa	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nuŋən	nuŋən	ADV	_	_	_	_	_	_	_
+_	uʒe	uʒe	ADV	_	_	_	_	_	_	_
+_	tarkakaːn	tarkakaːn	ADV	_	_	_	_	_	_	_
+_	tuːktiďərən	tuːktiďərən	ADV	_	_	_	_	_	_	_
+_	ďirikaduː	ďirikaduː	ADV	_	_	_	_	_	_	_
+
+_	amaːkaːtin	amaːkaːti	ADV	_	_	_	_	_	_	_
+_	hururən	huru	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ďet	ďet	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	jawana	jawana	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	taːlaː	taːlaː	ADV	_	_	_	_	_	_	_
+_	ďuwalaːn	ďuwalaːn	ADV	_	_	_	_	_	_	_
+_	uďalaːn	uďalaːn	ADV	_	_	_	_	_	_	_
+_	ŋinakirďi	ŋinaki	NOUN	Case=Ins|Number=Plur	_	_	_	_	_	_
+_	əmərəwun	əmə	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	i	i	INTJ	_	_	_	_	_	_	_
+_	ďuːlaːwər	ďuː	NOUN	Case=Lat|Number=Plur	_	_	_	_	_	_
+_	əməpt͡ʃəːwun	əmə	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	_	_	_
+
+_	əːwuːnka	əːwuːn	ADV	_	_	_	_	_	_	_
+_	biďən	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	taːduː	taːduː	ADV	_	_	_	_	_	_	_
+_	t͡ʃipkaːr	t͡ʃipkaːr	ADV	_	_	_	_	_	_	_
+_	əːkur	əːkur	ADV	_	_	_	_	_	_	_
+_	polno	polno	ADV	_	_	_	_	_	_	_
+_	bit͡ʃoːtin	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	t͡ʃipkaːr	t͡ʃipkaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	da	da	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ətawa	ətawa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	girkujiʃaːtin	girkujiʃaːtin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	kikipt͡ʃa	kikipt͡ʃa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	patamuʃta	patamuʃ	ADV	_	_	_	_	_	_	_
+_	ilmaktal	ilmakta	ADJ	Number=Plur	_	_	_	_	_	_
+_	bit͡ʃoːtin	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	samij	samij	ADV	_	_	_	_	_	_	_
+_	ŋinakir	ŋinaki	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+
+_	wupor	wupo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pəktiroːt͡ʃoːn	pəktiroːt͡ʃoːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	bəjiːtt͡ʃərən	bəjiː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	ďəmŋənədukpi	ďəmŋənədukpi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ɲan	ɲan	ADV	_	_	_	_	_	_	_
+_	tariŋmər	tari	DET	Number=Plur	_	_	_	_	_	_
+_	eːwan	eːwan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	irəkʃəwon	irəkʃəwon	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	higdaːwər	higdaːwər	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɲan	ɲan	ADV	_	_	_	_	_	_	_
+_	ŋənətt͡ʃiŋnərəwun	ŋənətt͡ʃiŋnərəwun	ADV	_	_	_	_	_	_	_
+_	taːlaː	taːlaː	ADV	_	_	_	_	_	_	_
+_	girkunəl	girkunəl	ADV	_	_	_	_	_	_	_
+
+_	priʃlos	priʃlos	VERB	_	_	_	_	_	_	_
+_	ŋənəďəmit	ŋənəďəmit	ADV	_	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	staːdəlaːwər	staːdəlaːwər	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bəjil	bəjil	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ŋənədirə	ŋənədirə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	ʃuraja	ʃuraja	ADV	_	_	_	_	_	_	_
+_	timaːnəktawan	timaːnə	VERB	Number=Sing|Person=3|VerbForm=Conv	_	_	_	_	_	_
+_	əwa	ə	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	buranilďi	buranilďi	ADV	_	_	_	_	_	_	_
+_	hurut͡ʃol	huru	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dla	dla	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pet͡ʃki	pet͡ʃki	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	drova	drova	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	pətəmu	pətəmu	NOUN	_	_	_	_	_	_	_
+_	ʃto	ʃto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	naːŋmaktaduː	naːŋmaktaduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋartin	nuŋartin	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_	_	_
+_	vek	vek	ADV	_	_	_	_	_	_	_
+_	liʒat	liʒat	ADV	_	_	_	_	_	_	_
+_	bəjatsə	bəjatsə	ADV	_	_	_	_	_	_	_
+_	kəmərof	kəmərof	ADV	_	_	_	_	_	_	_
+_	v	v	ADV	_	_	_	_	_	_	_
+_	les	les	ADV	_	_	_	_	_	_	_
+_	ni	ni	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hoďət	hoďət	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	retkə	retkə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	not͡ʃjə	not͡ʃjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tolkə	tolkə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oj	oj	INTJ	_	_	_	_	_	_	_
+_	dolbo	dolbo	ADV	_	_	_	_	_	_	_
+_	tolkə	tolkə	ADV	_	_	_	_	_	_	_
+_	dolbo	dolbo	ADV	_	_	_	_	_	_	_
+_	ŋənəpkiːl	ŋənəpkiːl	ADV	_	_	_	_	_	_	_
+
+_	ośiɲjə	ośiɲ	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ośiɲjə	ośiɲj	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ośiɲjə	ośiɲjə	ADV	_	_	_	_	_	_	_
+_	ororwo	oro	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	tawuŋnarəwun	tawuŋnarəwun	ADV	_	_	_	_	_	_	_
+_	nulgiːktəďəŋnərəwun	nulgiːktəďəŋnərəwun	ADV	_	_	_	_	_	_	_
+
+_	nevəďili	nevəďili	VERB	_	_	_	_	_	_	_
+_	ribat͡ʃəli	ribat͡ʃəli	ADV	_	_	_	_	_	_	_
+_	nas	nas	ADV	_	_	_	_	_	_	_
+_	astavlali	astavlali	ADV	_	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nevodiť	nevodiť	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	kalhoze	kalhoze	VERB	_	_	_	_	_	_	_
+_	rabo	rabo	ADV	_	_	_	_	_	_	_
+
+_	kolhostuː	kolhos	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	bit͡ʃoːwun	bi	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	spərvatə	spərvatə	ADV	_	_	_	_	_	_	_
+_	kolhos	kolhos	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bil	bil	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kolhostuː	kolhos	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	iɲďit͡ʃoːwun	iɲ	VERB	Aspect=Imp|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	hawalitt͡ʃət͡ʃəːwun	hawalitt͡ʃət͡ʃəːwun	ADV	_	_	_	_	_	_	_
+
+_	abligatsəlwə	abligatsəlw	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	buːďit͡ʃoːtin	buːďit͡ʃoːtin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	zamuz	zamuz	VERB	_	_	_	_	_	_	_
+_	viʃli	viʃli	ADV	_	_	_	_	_	_	_
+
+_	vek	vek	VERB	_	_	_	_	_	_	_
+_	nikəkoj	nikəkoj	ADV	_	_	_	_	_	_	_
+_	saďik	saďik	ADV	_	_	_	_	_	_	_
+_	nit͡ʃəvo	nit͡ʃəvo	ADV	_	_	_	_	_	_	_
+_	ni	ni	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bilə	bilə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	γriʃəkon	γriʃəko	ADV	_	_	_	_	_	_	_
+_	kinəmihɲiktə	kinəmihɲiktə	ADV	_	_	_	_	_	_	_
+_	hawalt͡ʃoːn	hawalt͡ʃoːn	ADV	_	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	prijedəʃ	prijedəʃ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ər	ər	DET	_	_	_	_	_	_	_
+_	kuda	kuda	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əduk	əduk	ADV	_	_	_	_	_	_	_
+_	dərevɲələː	dərevɲələː	ADV	_	_	_	_	_	_	_
+
+_	tagda	tag	DET	_	_	_	_	_	_	_
+_	damatə	damatə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ne	ne	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bili	bili	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əniːnmun	əniːn	NOUN	Case=Nom|Clusivity=Ex|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=1	_	_	_	_	_	_
+_	iɲitt͡ʃit͡ʃoːndə	iɲitt͡ʃit͡ʃoːnd	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	tukdə	tukdə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	abuldən	abuldən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	gələː	g	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	gələːktənəːďiŋoːn	gələːktənəːďiŋoː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɲamapt͡ʃujə	ɲamapt͡ʃu	ADJ	Case=Par	_	_	_	_	_	_
+_	ələːdəːkəl	ələːdəː	VERB	Mood=Imp|Number=Sing|PersonNum=2	_	_	_	_	_	_
+_	ajkal	ajkal	ADV	_	_	_	_	_	_	_
+
+_	əːlahawal	əːlahawal	SCONJ	Definite=Ind	_	_	_	_	_	_
+_	musanən	musanən	ADV	_	_	_	_	_	_	_
+
+_	dundə	dundə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	huwulin	huwuli	DET	Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	umuːntəgin	umuːntəgin	ADJ	_	_	_	_	_	_	_
+
+_	talaja	tala	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	dundə	dundə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mujəduːn	mujəduːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɲamawa	ɲama	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	dundəwə	dundə	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	bakam	baka	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ogdokoːlotin	ogdokoːloti	ADV	_	_	_	_	_	_	_
+_	osa	o	VERB	VerbForm=Part	_	_	_	_	_	_
+_	əɲintin	əɲin	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+
+_	goroloː	goro	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	əfkiː	ə	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	horokiː	horokiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dəgrə	dəg	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	əːlahawal	əːlahawal	SCONJ	Definite=Ind	_	_	_	_	_	_
+_	meːlt͡ʃa	meːl	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	soːli	soːli	VERB	_	_	_	_	_	_	_
+_	ɲeːlifsipkiː	ɲeːlifsipkiː	ADV	_	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	ər	ər	DET	_	_	_	_	_	_	_
+_	ŋinakin	ŋinakin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	hələ	hələ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	umnoː	umnoː	ADV	_	_	_	_	_	_	_
+_	gənnoːhiśo	gənnoːhiśo	ADV	_	_	_	_	_	_	_
+_	bəjəlwə	bəjə	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	okanəm	o	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	aŋja	aŋ	PRON	Case=Par|Number=Sing	_	_	_	_	_	_
+_	muːja	muː	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+
+_	muːjə	muː	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	gələːktənəːhinən	gələːktənəːhinən	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+
+_	tariŋi	tariŋi	NOUN	_	_	_	_	_	_	_
+_	taril	tari	DET	Number=Plur	_	_	_	_	_	_
+_	tarit	tarit	ADV	_	_	_	_	_	_	_
+_	optifkiːdaː	optifkiːdaː	ADV	_	_	_	_	_	_	_
+_	optifkiːdaː	optifkiːdaː	ADV	_	_	_	_	_	_	_
+_	tariŋilin	tari	DET	Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	arufkiːl	aru	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	hələ	hələ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	haːrgimi	haːrgimi	ADV	_	_	_	_	_	_	_
+_	orilt͡ʃa	orilt͡ʃa	ADV	_	_	_	_	_	_	_
+_	gunďənə	gun	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+
+_	ŋinakin	ŋinakin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oďaŋaːs	o	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+
+_	həkərgəsə	həkərgə	ADV	_	_	_	_	_	_	_
+_	ərəgərit	ərəgərit	ADV	_	_	_	_	_	_	_
+_	həwəkiː	həwəkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	bəjə	bəjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bəjə	bəjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	girkiːn	girkiːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oďaŋaːs	o	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+
+_	aiːfkanəm	aiːfkanə	INTJ	_	_	_	_	_	_	_
+_	ďawə	ďawə	ADV	_	_	_	_	_	_	_
+_	ďawakanəm	ďawakanəm	ADV	_	_	_	_	_	_	_
+_	əp	əp	ADV	_	_	_	_	_	_	_
+_	əwa	ə	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ənə	ə	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	ďəwrə	ďəw	VERB	VerbForm=Part	_	_	_	_	_	_
+_	noːdufkiː	noːdufkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bihində	bi	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	haːlwatin	haː	NOUN	Case=Acc|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+
+_	həkərgəsə	həkərgə	DET	_	_	_	_	_	_	_
+_	həwəkiː	həwəkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ə	ə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aŋikta	aŋikta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	howospatin	howospati	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	huwulwən	huwul	DET	Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	huruwrən	huru	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	_	_	_
+
+_	ərtə	ər	DET	_	_	_	_	_	_	_
+_	hulan	hulan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tuŋ	tuŋ	ADV	_	_	_	_	_	_	_
+_	ɲikərəndaː	ɲikə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	ďantakiː	ďantakiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dinŋiːləːhinən	dinŋiːləː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	bira	bira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďapkaliːn	ďapka	NOUN	Case=Per|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+
+_	aŋikta	aŋikta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	aran	aran	ADV	_	_	_	_	_	_	_
+_	tuksasa	tuksasa	ADV	_	_	_	_	_	_	_
+_	hulan	hulan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əməwrən	əmə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	_	_	_
+_	ďawwatin	ďawwatin	INTJ	_	_	_	_	_	_	_
+
+_	atirkaːn	atirkaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	awunan	awun	NOUN	Case=Par|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	oran	o	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ďantakiːduː	ďantakiː	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	heːŋan	heːŋan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biraliː	bira	NOUN	Case=Per|Number=Sing	_	_	_	_	_	_
+_	biralaː	bira	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	orandaː	o	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	muːlaː	muːlaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďalwi	ďa	NOUN	Case=Acc|Number=Plur|PossNumber=Sing|Reflex=Yes	_	_	_	_	_	_
+_	hipkurən	hipku	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ďalwi	ďa	NOUN	Case=Acc|Number=Plur|PossNumber=Sing|Reflex=Yes	_	_	_	_	_	_
+_	hipkurən	hipku	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	tuŋərtikinduː	tuŋərtikin	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	ďaːwďiŋnakəldu	ďaːw	VERB	Aspect=Hab|Aspect=Imp|Mood=Imp|Number=Plur|PersonNum=2	_	_	_	_	_	_
+_	gunnə	gun	VERB	VerbForm=Conv	_	_	_	_	_	_
+
+_	hulan	hulan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	ɲiŋiːso	ɲiŋiːso	ADV	_	_	_	_	_	_	_
+
+_	ahal	ahal	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nulgiďəsəl	nulgiďəsəl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďuːr	ďuːr	NUM	_	_	_	_	_	_	_
+_	ahiː	ahiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďawduː	ďaw	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	bi	bi	VERB	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_	_	_
+_	hunduː	hun	PRON	Case=Dat|Case=Nom|Number=Plur|Person=2|PronType=Prs	_	_	_	_	_	_
+_	biralba	biralba	ADV	_	_	_	_	_	_	_
+_	dundəlbə	dundəlbə	ADV	_	_	_	_	_	_	_
+_	biralba	biralba	ADV	_	_	_	_	_	_	_
+_	hilbaśilďaŋaːw	hilbaśilďaŋaːw	ADV	_	_	_	_	_	_	_
+_	gərbilwətin	gərbilwətin	ADV	_	_	_	_	_	_	_
+
+_	ər	ər	DET	_	_	_	_	_	_	_
+_	anti	anti	ADV	_	_	_	_	_	_	_
+_	bira	bira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əpet	əpet	ADV	_	_	_	_	_	_	_
+_	bira	bira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	odan	o	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	taːlaːja	taːlaː	NOUN	Case=Voc|Number=Sing	_	_	_	_	_	_
+_	əjəːnďirəktin	əjəːn	VERB	Aspect=Imp|Number=Plur|Person=3|VerbForm=Conv	_	_	_	_	_	_
+
+_	hulan	hulan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	gult͡ʃəl	gu	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	hulan	hulan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	luporoːrən	luporoːrən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əldun	əldun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hərgiːkindəː	hərgiːkindəː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	diskiːkoːkun	diskiːkoːkun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dinŋiːləːhinən	dinŋiːləː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ərdəloːn	ərdəloːn	ADV	_	_	_	_	_	_	_
+
+_	inməkt͡ʃəji	inməkt͡ʃə	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	iśəśildəndəː	iśəśild	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ahi	ahi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	geːdaː	geːdaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	huwulwən	huwul	DET	Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	manasa	mana	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	dumajt͡ʃa	dumaj	VERB	VerbForm=Part	_	_	_	_	_	_
+_	hulan	hulan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	kələ	kələ	INTJ	_	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	garala	garala	ADV	_	_	_	_	_	_	_
+_	tawgaːttaː	tawgaːttaː	ADV	_	_	_	_	_	_	_
+
+_	toγo	toγo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toγowo	toγo	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	altaśilt͡ʃa	altaśilt͡ʃa	ADV	_	_	_	_	_	_	_
+
+_	tuni	tuni	VERB	_	_	_	_	_	_	_
+_	ə	ə	VERB	_	_	_	_	_	_	_
+_	onməl	onməl	ADV	Definite=Ind	_	_	_	_	_	_
+_	ɲikənə	ɲikə	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	moːduk	moː	NOUN	Case=Abl|Number=Sing	_	_	_	_	_	_
+_	mikt͡ʃanəndaː	mikt͡ʃanəndaː	ADV	_	_	_	_	_	_	_
+_	ərdəloːn	ərdəloːn	ADV	_	_	_	_	_	_	_
+_	dinŋiːləːhinən	dinŋiːləː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	on	on	ADV	_	_	_	_	_	_	_
+_	uːkoːŋmə	uːkoːŋ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	həwəkiː	həwəkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aŋt͡ʃaːn	aŋt͡ʃaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	utoːlə	utoːlə	ADV	_	_	_	_	_	_	_
+_	goroduː	goro	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	uːkoːŋ	uːkoːŋ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	həg	həg	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hoː	hoː	ADV	_	_	_	_	_	_	_
+_	həgdi	həgdi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɲi	ɲi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	śipkaːkaːn	śipkaːkaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	hələ	hələ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mut	mut	PRON	Case=Nom|Clusivity=In|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	aŋat	aŋat	ADV	_	_	_	_	_	_	_
+
+_	hoːt	hoːt	ADV	_	_	_	_	_	_	_
+_	mutpə	mutpə	ADV	_	_	_	_	_	_	_
+_	bolgiśaďaran	bolgiśa	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	uːkoːŋ	uːkoːŋ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tawar	ta	DET	Number=Plur	_	_	_	_	_	_
+
+_	həkərgərəndaː	həkərgərən	DET	_	_	_	_	_	_	_
+_	uːkoːŋmə	uːkoːŋ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	həːkiːmnəhinən	həːkiːmnə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	halganďiji	halgan	NOUN	Case=Ins|Number=Sing|Reflex=Yes	_	_	_	_	_	_
+_	halgarin	halga	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	baďaptikiː	baďaptikiː	ADV	_	_	_	_	_	_	_
+_	oknantin	oknantin	ADV	_	_	_	_	_	_	_
+
+_	halgarin	halga	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	baďaːlə	baďaːlə	ADV	_	_	_	_	_	_	_
+_	oda	o	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	himaːn	himaː	ADV	_	_	_	_	_	_	_
+_	hoː	hoː	ADV	_	_	_	_	_	_	_
+_	dəg	dəg	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dəgmi	dəgmi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	taːlaː	taːlaː	ADV	_	_	_	_	_	_	_
+_	isśa	isśa	ADV	_	_	_	_	_	_	_
+_	eːkunməl	eːkunməl	PRON	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_	_	_
+_	ə	ə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əːlahawal	əːlahawal	SCONJ	Definite=Ind	_	_	_	_	_	_
+_	ilt͡ʃadaː	il	VERB	VerbForm=Part	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	hərgiːskiː	hərgiːskiː	ADV	_	_	_	_	_	_	_
+_	burukonəm	buru	VERB	VerbForm=Conv	_	_	_	_	_	_
+
+_	ər	ər	DET	_	_	_	_	_	_	_
+_	dundəduː	dundə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	girkuďariːgaśin	girkuďariːgaśi	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	ďukt͡ʃalwə	ďukt͡ʃa	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	iśəso	iśə	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	jaŋuldan	jaŋu	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	bargiːlaː	bargiːlaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	təγətťənə	təγə	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+
+_	əfkiːldəː	əfkiːl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iśərəhint͡ʃə	iśərəhint͡ʃə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	əjdərə	əjdə	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	tarit	tarit	ADV	_	_	_	_	_	_	_
+_	əfkiːl	ə	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	minə	minə	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	əjdərə	əjdə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	tawari	tawari	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tawariŋildəː	tawariŋildəː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ŋinakirtin	ŋinaki	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	tuliːloː	tuliːloː	ADV	_	_	_	_	_	_	_
+_	aiːwukir	aiːwuki	ADJ	Number=Plur	_	_	_	_	_	_
+_	ɲaralaďakaːkuːśifkiːl	ɲaralaďakaːkuːśifkiː	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+
+_	nuŋanmanmokkoːn	nuŋanmanmokkoː	ADV	_	_	_	_	_	_	_
+_	əfkiːl	ə	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	əjdərə	əjdə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	daran	daran	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	girkuďariːwa	girkuďariːwa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	saːtiralba	saːtira	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	iːśəldoː	iːśəldoː	ADV	_	_	_	_	_	_	_
+_	bagdamalba	bagdamalba	ADV	_	_	_	_	_	_	_
+_	lokott͡ʃol	loko	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+
+_	ajamamat	ajamamat	ADV	_	_	_	_	_	_	_
+_	biďərə	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	mittuk	mit	PRON	Case=Abl|Clusivity=In|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	hələkət	hələkə	NOUN	Case=Ins|Number=Sing	_	_	_	_	_	_
+
+_	əfkiːl	ə	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	əjdərə	əjdə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	bəjə	bəjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biďəriːwon	biďəriːwon	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əfkiːl	ə	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	haːrə	haː	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	ətərə	ətə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	toďorə	toďorə	ADV	_	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ərilbə	əri	DET	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	huruwuktədaː	huruwuktədaː	INTJ	_	_	_	_	_	_	_
+
+_	tuktihinəndaː	tuktihinən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuktiwunduliː	tuktiwunduliː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuktirəndaː	tuktirəndaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dundəŋdulaːji	dundəŋdulaːji	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oran	o	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	monŋilaːji	monŋilaːji	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	muttuk	muttuk	NOUN	_	_	_	_	_	_	_
+_	hələkət	hələkə	NOUN	Case=Ins|Number=Sing	_	_	_	_	_	_
+_	inďərə	in	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	hərguːduː	hərguː	ADJ	Case=Dat	_	_	_	_	_	_
+_	dundəduː	dundə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	taduː	ta	DET	Case=Dat	_	_	_	_	_	_
+_	inďərə	in	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	ajamamat	aja	ADV	_	_	_	_	_	_	_
+_	gunnə	gun	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	gunnə	gun	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	həhənən	həhən	VERB	Mood=Ind|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ətirkoːn	ətirkoːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďawduːn	ďawduːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əjəːhinə	əjəː	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ďawwa	ďaw	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	puruldandaː	puru	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	hərəliːn	hərəliːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	muː	muː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uŋkulbuldən	uŋkulbuldən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taliː	ta	DET	Case=Per	_	_	_	_	_	_
+
+_	taduk	ta	DET	Case=Abl	_	_	_	_	_	_
+_	əjəːhinďəŋoːt	əjəː	VERB	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+
+_	əduk	əduk	ADV	_	_	_	_	_	_	_
+_	bakaďam	baka	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	goronono	goronono	ADV	_	_	_	_	_	_	_
+_	gunďənə	gun	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+_	tuksaːhinən	tuksaː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ərdəloːn	ərdəloːn	ADV	_	_	_	_	_	_	_
+
+_	əː	əː	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	hinkoːkunmə	hin	PRON	Case=Acc|Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_	_	_
+_	ujəduː	ujə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	ďəfso	ďəf	VERB	VerbForm=Part	_	_	_	_	_	_
+_	biktə	bik	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	juďənoːhiśodo	juďənoːhiśo	DET	_	_	_	_	_	_	_
+_	hənuśətə	hənuśətə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	mitpə	mitp	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ďəmnoːďəp	ďəmnoːďəp	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əməsəl	əməsəl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ərdəloːn	ərdəloːn	ADV	_	_	_	_	_	_	_
+_	huptiwsal	huptiwsal	ADV	_	_	_	_	_	_	_
+_	bira	bira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	birawa	bira	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ojoːkiːkokoːn	ojoːkiːkokoː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	geː	geː	ADJ	_	_	_	_	_	_	_
+_	geː	geː	ADJ	_	_	_	_	_	_	_
+_	kərgən	kərgən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əpet	əpet	ADV	_	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	atirkaːn	atirkaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďuːr	ďuːr	NUM	_	_	_	_	_	_	_
+_	omolgiːśi	omolgiːśi	ADJ	_	_	_	_	_	_	_
+
+_	tuγəɲiːduː	tuγəɲiː	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	ɲikəďərə	ɲikə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	ďəmuːďərə	ďəmuːďə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	atirkaːn	atirkaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ət	ə	PRON	Case=Ins|Number=Sing	_	_	_	_	_	_
+_	omolgiːnən	omolgiː	NOUN	Case=Com|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	bəjəl	bəjəl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	huruttə	huruttə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tirga	tirga	ADV	_	_	_	_	_	_	_
+_	ilaːwəl	ilaːwəl	ADV	Definite=Ind	_	_	_	_	_	_
+
+_	lulba	lu	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	lulba	lu	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	hutə	hutə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tardaː	tar	DET	_	_	_	_	_	_	_
+_	noːdə	noːdə	ADV	_	_	_	_	_	_	_
+_	osal	o	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	əjadaː	ə	PRON	Case=Par|Number=Sing	_	_	_	_	_	_
+_	ətərə	ətə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	waːmtiďami	waːmti	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+
+_	oːhalbadaː	oːhalba	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əfkiː	ə	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	tələrə	tələ	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	tikult͡ʃadaː	tikult͡ʃa	DET	_	_	_	_	_	_	_
+_	purtaji	purta	NOUN	Case=Acc|Number=Sing|PossNumber=Sing|Reflex=Yes	_	_	_	_	_	_
+_	gasadaː	gasadaː	ADV	_	_	_	_	_	_	_
+_	purtatpi	purta	NOUN	Case=Ins|Number=Sing|Reflex=Yes	_	_	_	_	_	_
+_	toγoji	toγo	NOUN	Case=Acc|Number=Sing|PossNumber=Sing|Reflex=Yes	_	_	_	_	_	_
+_	haranman	haran	NOUN	Case=Acc|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	gidasa	gida	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	albakanəm	alba	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	ilatt͡ʃami	ila	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+_	tugdəː	tug	ADV	_	_	_	_	_	_	_
+_	hururən	huru	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	ahiːlaː	ahiː	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	ɲimoktulaːji	ɲimoktulaːji	ADV	_	_	_	_	_	_	_
+_	iːmuːrəkin	iː	VERB	Mood=Des|Number=Sing|Person=3|VerbForm=Conv	_	_	_	_	_	_
+_	toγon	toγo	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	hiːwrən	hiː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_	_	_
+
+_	ərkə	ə	VERB	Mood=Pot|Number=Sing|Person=3	_	_	_	_	_	_
+_	iːrəkis	iː	VERB	Number=Sing|Person=2|VerbForm=Conv	_	_	_	_	_	_
+_	ədaː	ədaː	ADV	_	_	_	_	_	_	_
+_	toγoti	toγoti	ADV	_	_	_	_	_	_	_
+_	toγow	toγo	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	hiːwrən	hiː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_	_	_
+
+_	əbəkoːn	əbəkoː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	əpet	əpet	ADV	_	_	_	_	_	_	_
+_	hərəkə	hərəkə	ADJ	_	_	_	_	_	_	_
+_	ďukt͡ʃaśi	ďukt͡ʃaśi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+
+_	ədaːnďəriːwatin	ədaːnďəriːwati	ADV	_	_	_	_	_	_	_
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	toγolďiwər	toγolďiwər	ADV	_	_	_	_	_	_	_
+_	ədaːnďəriːwatin	ədaːnďəriːwatin	ADV	_	_	_	_	_	_	_
+_	doːlt͡ʃaːtt͡ʃasa	doːlt͡ʃaːt	VERB	Aspect=Imp|VerbForm=Part	_	_	_	_	_	_
+_	tar	tar	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	atirkaːn	atirkaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əbəkoː	əbəkoː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tarə	tarə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ahiːŋiː	ahiːŋiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	hi	hi	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_	_	_
+_	iːrəkis	iː	VERB	Number=Sing|Person=2|VerbForm=Conv	_	_	_	_	_	_
+_	toγoltin	toγoltin	ADV	_	_	_	_	_	_	_
+_	hiːwuwkiːl	hiːwuwkiːl	ADV	_	_	_	_	_	_	_
+
+_	ətoːmdaː	ə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	purtat	purta	NOUN	Case=Ins|Number=Sing	_	_	_	_	_	_
+_	gidara	gida	VERB	VerbForm=Part	_	_	_	_	_	_
+_	əduk	əduk	ADV	_	_	_	_	_	_	_
+
+_	aːďiŋnandə	aːďiŋnan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tirgaɲiːlwa	tirgaɲiːlwa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ətirkoːndə	ətirkoː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=2	_	_	_	_	_	_
+_	bultaďəfkiː	bultaďəfkiː	ADJ	_	_	_	_	_	_	_
+_	tar	tar	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əssə	əssə	ADV	_	_	_	_	_	_	_
+_	aŋdaːs	aŋdaːs	ADV	_	_	_	_	_	_	_
+_	hərbindəːs	hərbindəːs	ADV	_	_	_	_	_	_	_
+_	ďəptiləlwə	ďəptilə	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	tawər	ta	DET	Number=Plur	_	_	_	_	_	_
+_	huwulbən	huwul	DET	Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	irəksəŋilbibənn	irəksəŋilbibənn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hərbindəːs	hərbindəːs	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oːhaŋilban	oːhaŋilban	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tətiγəːlon	tətiγəː	NOUN	Case=Par|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	uldiːďədoːs	uldiː	VERB	Aspect=Imp|Mood=Prp|Number=Sing|Person=2|VerbForm=Conv	_	_	_	_	_	_
+
+_	muːŋmot	muːŋmo	DET	_	_	_	_	_	_	_
+_	əja	ə	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	əwkiː	ə	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	muːlamtira	muːlamti	VERB	VerbForm=Part	_	_	_	_	_	_
+_	bihində	bi	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	uldəŋilbi	uldə	NOUN	Case=Acc|Number=Plur|PossNumber=Sing|Reflex=Yes	_	_	_	_	_	_
+_	hərbinďəŋəːw	hərbin	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+
+_	am	a	INTJ	_	_	_	_	_	_	_
+_	amaskiː	amaskiː	ADV	_	_	_	_	_	_	_
+_	munduːdəː	munduːdəː	ADV	_	_	_	_	_	_	_
+_	hagdil	hagdi	ADJ	Number=Plur	_	_	_	_	_	_
+_	atirkaːr	atirkaː	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	guniŋkiːtin	guni	VERB	Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tumɲiwradaː	tumɲiwradaː	NOUN	_	_	_	_	_	_	_
+_	əfkoː	ə	VERB	Mood=Nec|VerbForm=Part	_	_	_	_	_	_
+_	toγotkiː	toγotkiː	ADV	_	_	_	_	_	_	_
+_	əwradaː	ə	PRON	Case=Nom|Number=Sing|VerbForm=Part|Voice=Pass	_	_	_	_	_	_
+_	ərut	əru	NOUN	Case=Ins|Number=Sing	_	_	_	_	_	_
+_	jaŋuwra	jaŋuw	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	tardaː	tar	DET	_	_	_	_	_	_	_
+_	ďawawďaŋaːn	ďawawďaŋaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kapkarduːw	kapkarduːw	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	oː	oː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gunďənə	gun	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+_	təpkəďəwkiː	təpkəďəwkiː	ADV	_	_	_	_	_	_	_
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	sarśikan	sarśikan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ərəgərit	ərəgərit	ADV	_	_	_	_	_	_	_
+_	lambaraːldirən	lambaraː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	dəgilməːktəduː	dəgilməːktə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	hələ	hələ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hutə	hutə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lukkaldu	luk	VERB	Mood=Imp|Number=Plur|PersonNum=2	_	_	_	_	_	_
+_	minə	minə	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+
+_	sarśikan	sarśikan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	guśə	gu	VERB	VerbForm=Part	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	biďərəw	bi	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	tariŋin	tari	DET	Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	hoːlbargasa	hoːlbargasa	ADV	_	_	_	_	_	_	_
+
+_	doːskiːkuːn	doːskiː	ADV	_	_	_	_	_	_	_
+_	hiśihiśo	hiśi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	sarśikan	sarśikan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	amaskiː	amaskiː	ADV	_	_	_	_	_	_	_
+_	əpət	əpət	ADV	_	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	amiːm	amiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	həhəniŋkiːn	həhəni	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	kiŋgit	kiŋgit	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gərbiːśi	gərbiːśi	ADJ	_	_	_	_	_	_	_
+_	śipkaːkaːngə	śipkaːkaːngə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	eːkungu	eːkungu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dəgi	dəgi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	bəjŋoːwo	bəjŋoːw	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	irəksəlgəlit	irəksəlgəlit	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	əməwufkiː	əmə	VERB	Aspect=Hab|VerbForm=Part|Voice=Cau	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	gunifkiː	guni	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	bəjə	bəjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	dəgiwuskəldu	dəgiwuskə	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ďuktə	ďuktə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	guśo	gu	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	buriːkəldu	buriːkəldu	NOUN	_	_	_	_	_	_	_
+_	minə	minə	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	guśo	gu	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	hojduː	hojduː	ADV	_	_	_	_	_	_	_
+_	təγəw	təγəw	ADV	_	_	_	_	_	_	_
+_	təγəw	təγəw	ADV	_	_	_	_	_	_	_
+_	təγəwkoːśo	təγəwkoːśo	ADV	_	_	_	_	_	_	_
+_	ďun	ďu	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	iśəwriːduːn	iśəwriːduː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ďun	ďu	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	dagiː	dagiː	ADV	_	_	_	_	_	_	_
+
+_	hələ	hələ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ŋənəďəkəldu	ŋənə	VERB	Aspect=Imp|Mood=Imp|Number=Plur|PersonNum=2	_	_	_	_	_	_
+
+_	ďələkilwə	ďələk	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	wawkiː	wa	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	oːdan	oː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	hələ	hələ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	duːktəː	duːktəː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hawalildə	hawalildə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	bolo	bolo	ADV	_	_	_	_	_	_	_
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	kolhoznaj	kolhoznaj	ADV	_	_	_	_	_	_	_
+_	ʃkolatin	ʃkola	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	aŋawrənda	aŋaw	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	uśiśilda	uśiśi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	muldiːkar	muldiːka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ərəgərit	ərəgərit	ADV	_	_	_	_	_	_	_
+_	əːwada	əː	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	dokuďamiːda	dokuďamiː	VERB	VerbForm=Part	_	_	_	_	_	_
+_	əďamiːda	əďamiː	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	tug	tug	ADV	_	_	_	_	_	_	_
+_	ɲikənəl	ɲikənəl	ADV	_	_	_	_	_	_	_
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	hələ	hələ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uśiś	uśiś	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gorowo	gorowo	ADV	_	_	_	_	_	_	_
+_	goro	goro	ADV	_	_	_	_	_	_	_
+_	aŋaniːwə	aŋaniː	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	uśitta	uśit	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	taːduː	taːduː	ADV	_	_	_	_	_	_	_
+
+_	penśijələː	penśij	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	iːkoːnəm	iː	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	amiː	amiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	luhu	luhu	ADV	_	_	_	_	_	_	_
+_	adilitt͡ʃaŋkiːn	adilit	VERB	Aspect=Imp|Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tadu	tadu	ADV	_	_	_	_	_	_	_
+_	hoːwəl	hoːwəl	ADV	_	_	_	_	_	_	_
+_	hoːwəl	hoːwəl	ADV	_	_	_	_	_	_	_
+_	hoː	hoː	ADV	_	_	_	_	_	_	_
+_	kətəː	kətəː	ADV	_	_	_	_	_	_	_
+_	śuka	śuka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	birən	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	biŋkiːn	bi	VERB	Aspect=Iter|Mood=Ind|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	moːla	moː	NOUN	Case=Par|Number=Plur	_	_	_	_	_	_
+_	moli	moli	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	moːliːŋnəm	moːliːŋnəm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	bultawədaː	bultawə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əŋkiːn	ə	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	hularə	hula	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	əmukin	əmukin	ADJ	_	_	_	_	_	_	_
+_	girkuːďafkiː	girkuːďafkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	diːlduliː	diːlduliː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ŋaːlilinka	ŋaːlilink	VERB	VerbForm=Part	_	_	_	_	_	_
+_	haːrə	haː	VERB	VerbForm=Part	_	_	_	_	_	_
+_	huwulwən	huwul	DET	Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	hawaːwə	hawaːw	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	bəjəlduːda	bəjəlduː	DET	_	_	_	_	_	_	_
+_	moːnduːjida	moːnduːjida	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	munduː	mun	PRON	Case=Dat|Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	tətiwďəŋkin	tətiwďəŋkin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	adililawun	adililawun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əloːliː	əloːliː	VERB	_	_	_	_	_	_	_
+_	tanifkiː	tanifkiː	ADV	_	_	_	_	_	_	_
+_	adil	adil	ADV	_	_	_	_	_	_	_
+_	əːhawan	əːhawan	ADV	_	_	_	_	_	_	_
+_	huwulbən	huwul	DET	Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+
+_	hawaːji	hawaː	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	aśin	aśin	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	ədoːji	ə	VERB	Mood=Prp|Reflex=Yes|VerbForm=Conv	_	_	_	_	_	_
+_	təγəttə	təγə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	tatikaːnəmə	tatikaːnəm	VERB	VerbForm=Part	_	_	_	_	_	_
+_	hawalďamiː	hawalďamiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	hoː	hoː	ADV	_	_	_	_	_	_	_
+_	hoːkon	hoːkon	ADV	_	_	_	_	_	_	_
+_	baj	baj	ADV	_	_	_	_	_	_	_
+_	oldosiː	oldosiː	ADV	_	_	_	_	_	_	_
+
+_	tugərikta	tugə	DET	_	_	_	_	_	_	_
+_	aďilisiŋnəm	aďilisiŋnəm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuganiː	tuganiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əɲiːmdaːti	əɲiːmdaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	daː	daː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uśitťankiːn	uśitťankiːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iɲŋəhiːji	iɲ	VERB	Reflex=Yes|VerbForm=Conv	_	_	_	_	_	_
+
+_	ədukkə	əduk	ADV	_	_	_	_	_	_	_
+_	dundəliː	dundə	NOUN	Case=Per|Number=Sing	_	_	_	_	_	_
+_	goron	goro	ADV	_	_	_	_	_	_	_
+_	hoː	hoː	ADV	_	_	_	_	_	_	_
+_	jehe	jehe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	saːgidalan	saːgidalan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	jəhe	jə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	dagaliːn	dagaliːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iltənə	iltənə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lupuːlə	lupuːlə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	śirindatkiːkun	śirindatkiːkun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əwgiskiː	əwgiskiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ororbor	oro	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ujitt͡ʃol	ujitt͡ʃol	ADV	_	_	_	_	_	_	_
+
+_	əlahawal	əlahawa	DET	_	_	_	_	_	_	_
+_	əlahawal	əlahawal	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dolboltono	dolboltono	ADV	_	_	_	_	_	_	_
+_	əməśo	əmə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	ŋinakintin	ŋinakin	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	ərəgərit	ərəgərit	ADV	_	_	_	_	_	_	_
+_	həgərśo	həgərśo	ADV	_	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	bokokonəm	bokokonəm	ADV	_	_	_	_	_	_	_
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	homotiwə	homotiwə	ADV	_	_	_	_	_	_	_
+_	tariŋiːn	tariŋiːn	ADV	_	_	_	_	_	_	_
+_	tarə	tarə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	śitaldi	śitaldi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	noːduγatt͡ʃa	noːdu	VERB	Aspect=Iter|VerbForm=Part	_	_	_	_	_	_
+
+_	ilanmatin	ilanmati	ADV	_	_	_	_	_	_	_
+_	huŋtul	huŋtu	ADJ	Number=Plur	_	_	_	_	_	_
+_	bəjəl	bəjə	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	huruwrə	huru	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	_	_	_
+
+_	koːtuj	koːtuj	NOUN	_	_	_	_	_	_	_
+_	birən	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	tawərduː	ta	DET	Case=Dat|Number=Plur	_	_	_	_	_	_
+_	gərbiːsi	gərbiːsi	ADJ	_	_	_	_	_	_	_
+_	biraː	biraː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	bargidaːdulin	bargidaːdulin	ADV	_	_	_	_	_	_	_
+_	əpet	əpet	ADV	_	_	_	_	_	_	_
+_	əwgiski	əwgiski	ADV	_	_	_	_	_	_	_
+_	musaːnəw	musaːnəw	ADV	_	_	_	_	_	_	_
+_	iːliːwəl	iːliːwəl	ADV	_	_	_	_	_	_	_
+_	iːbəl	iːbəl	ADV	_	_	_	_	_	_	_
+_	dundəliː	dundə	NOUN	Case=Per|Number=Sing	_	_	_	_	_	_
+
+_	śirindalaː	śirinda	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	əmərəwda	əmərəwda	ADV	_	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ədu	ədu	ADV	_	_	_	_	_	_	_
+_	əmonməm	əmon	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_	_	_
+
+_	əɲija	əɲi	ADV	_	_	_	_	_	_	_
+_	əpet	əpet	ADV	_	_	_	_	_	_	_
+_	huruwrə	huru	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	_	_	_
+
+_	ərtikiːkun	ərtikiː	ADV	_	_	_	_	_	_	_
+_	huruwrə	huru	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	_	_	_
+_	lupuːlə	lupuːlə	ADV	_	_	_	_	_	_	_
+
+_	luhu	luhu	ADV	_	_	_	_	_	_	_
+_	bələďəŋkiːf	bələ	VERB	Aspect=Imp|Aspect=Iter|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	bələďəŋkiːf	bələ	VERB	Aspect=Imp|Aspect=Iter|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	fanaril	fanari	DET	_	_	_	_	_	_	_
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	hogdimiːl	hogdimiːl	ADV	_	_	_	_	_	_	_
+_	fanaril	fanaril	ADV	_	_	_	_	_	_	_
+_	bifkiːl	bi	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	tardaː	tar	DET	_	_	_	_	_	_	_
+_	huruwupkiːl	huru	VERB	Aspect=Hab|Number=Plur|VerbForm=Part|Voice=Cau	_	_	_	_	_	_
+_	ďanduk	ďan	NOUN	Case=Abl|Number=Sing	_	_	_	_	_	_
+_	ďuldo	ďuldo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kilo	kilo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	diːgin	diːgin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɲamaťə	ɲamaťə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ki	ki	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kilomətər	kilomətər	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hələkəmət	hələkəmət	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tihiśə	ti	VERB	VerbForm=Part	_	_	_	_	_	_
+_	tuŋaɲama	tuŋaɲam	VERB	VerbForm=Part	_	_	_	_	_	_
+_	oron	oron	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	batiknən	batiknən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	istado	istado	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	woti	woti	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biŋkiːn	bi	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	tiːhiśə	tiːhiśə	ADV	_	_	_	_	_	_	_
+_	tuŋaɲama	tuŋaɲama	ADV	_	_	_	_	_	_	_
+
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	oləɲəwot	oləɲəwot	ADV	_	_	_	_	_	_	_
+_	oːdam	oː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	məːkloji	məːkloji	ADV	_	_	_	_	_	_	_
+
+_	ilodo	ilo	ADV	_	_	_	_	_	_	_
+_	istəŋaːt	istəŋaːt	ADV	_	_	_	_	_	_	_
+
+_	əhiːkokoːn	əhiː	ADV	_	_	_	_	_	_	_
+_	malo	malo	ADV	_	_	_	_	_	_	_
+_	oror	oro	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	biďərə	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	iːduː	iːduː	ADV	_	_	_	_	_	_	_
+
+_	tarilwə	tari	DET	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	bu	bu	PRON	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	pastukilt͡ʃaːwun	pastukilt͡ʃaːwun	ADV	_	_	_	_	_	_	_
+
+_	əďərə	əďə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əksəldə	əksəldə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əgu	əgu	PRON	Case=Nom|Number=Sing|PronType=Int	_	_	_	_	_	_
+_	gələďərə	gələ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	əpkoː	ə	VERB	Mood=Nec|VerbForm=Part	_	_	_	_	_	_
+
+_	birkə	bi	VERB	Mood=Pot|Number=Sing|Person=3	_	_	_	_	_	_
+
+_	əmaːďərə	əmaːďə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	turulaː	turu	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	əlaː	əlaː	ADV	_	_	_	_	_	_	_
+_	nulgirəw	nulgirəw	ADV	_	_	_	_	_	_	_
+_	ədaːwər	ə	PRON	Case=Nom|Mood=Prp|Number=Plur|VerbForm=Conv	_	_	_	_	_	_
+
+_	iduː	iduː	ADV	_	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	toγo	toγo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əhiːkoːn	əhiː	ADV	_	_	_	_	_	_	_
+_	nawəspə	nawəspə	ADV	_	_	_	_	_	_	_
+_	oŋkiːtin	o	VERB	Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	antidaː	anti	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tigdəduː	tigdəduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ororďitə	ororďi	DET	_	_	_	_	_	_	_
+_	lusanəl	lusanəl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ororďiwi	ororďiwi	NOUN	_	_	_	_	_	_	_
+_	oroloːnkə	oroloːn	ADJ	_	_	_	_	_	_	_
+
+_	ə	ə	VERB	_	_	_	_	_	_	_
+_	aŋduː	aŋ	PRON	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	tajgaduː	tajga	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	luhu	luhu	ADV	_	_	_	_	_	_	_
+_	biďəfkiːl	bi	VERB	Aspect=Hab|Aspect=Imp|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	huruďərə	huru	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	ulukiːlə	ulukiː	NOUN	Case=Par|Number=Plur	_	_	_	_	_	_
+_	waːmi	waː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ďələkiːjə	ďələkiː	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	waːďərə	waː	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	əɲinmikə	əɲinmi	INTJ	_	_	_	_	_	_	_
+_	əwəŋkiː	əwəŋkiː	ADV	_	_	_	_	_	_	_
+
+_	baldifkiːl	baldifkiː	DET	_	_	_	_	_	_	_
+_	ɲiːldaː	ɲiːldaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	huŋtuldaː	huŋtuldaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əfkiːl	ə	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	himkitmaːtərə	himkit	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	tartə	tar	DET	_	_	_	_	_	_	_
+_	umkaːriktəduː	umkaːriktəduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əsə	ə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	manawra	mana	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_	_	_
+_	umďanəlkə	umďanəlkə	ADV	_	_	_	_	_	_	_
+
+_	həgdihərəda	həgdihə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	toʒə	toʒə	ADV	_	_	_	_	_	_	_
+
+_	ekspeďitsijalduː	ekspeďitsija	NOUN	Case=Dat|Number=Plur	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	hawalinaːlihifkiːl	hawalinaːlihifkiːl	ADV	_	_	_	_	_	_	_
+_	tara	tara	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	a	a	INTJ	_	_	_	_	_	_	_
+
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	petrowit͡ʃjaduk	petrowit͡ʃjaduk	ADV	_	_	_	_	_	_	_
+_	umukoːn	umukoːn	ADJ	_	_	_	_	_	_	_
+_	bəjə	bəjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hurut͡ʃoda	hurut͡ʃoda	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	wawurkətə	wawurkətə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	turuduk	turu	NOUN	Case=Abl|Number=Sing	_	_	_	_	_	_
+_	bolo	bolo	ADV	_	_	_	_	_	_	_
+_	ɲəkənə	ɲəkə	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	əmənəlwa	əmənəlwa	ADV	_	_	_	_	_	_	_
+_	oďasaːtin	oďasaːtin	ADV	_	_	_	_	_	_	_
+
+_	fodor	fodor	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aminin	amini	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	tarə	tarə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gaśa	ga	VERB	VerbForm=Part	_	_	_	_	_	_
+_	hu=	hu=	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	wojnaduː	wojna	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	əsəl	ə	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	tarə	tarə	DET	_	_	_	_	_	_	_
+
+_	ɲiːdukka	ɲiːduk	DET	_	_	_	_	_	_	_
+_	nuŋarduktingu	nuŋarduktingu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	haŋuːktaďaŋaːn	haŋuːktaďaŋaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	geː	geː	ADJ	_	_	_	_	_	_	_
+_	ətirkoːn	ətirkoːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	targit	targit	ADV	_	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	gribokja	gribok	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	amaːkaːtin	amaːkaːtin	ADV	_	_	_	_	_	_	_
+_	əśə	ə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	əśə	ə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	əməďərə	əmə	VERB	Aspect=Imp|VerbForm=Part	_	_	_	_	_	_
+
+_	tara	tara	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďəbďərə	ďəbďərə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	abdultin	abdu	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+
+_	tolko	tol	DET	_	_	_	_	_	_	_
+_	ihəkoːnďi	ihəkoːnďi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hujukuːr	hujukuː	ADJ	Number=Plur	_	_	_	_	_	_
+_	kuŋakar	kuŋaka	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	aŋiwkiːl	aŋi	PRON	Aspect=Hab|Case=Nom|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	ələ	ələ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	geː	geː	ADJ	_	_	_	_	_	_	_
+_	əwiːďəŋoːtin	əwiːďəŋoːtin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ijət	ijət	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ihəduː	ihəduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	umukoːtnəl	umukoːtnəl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	taduk	ta	DET	Case=Abl	_	_	_	_	_	_
+_	haɲakaːtťəďərə	haɲakaːt	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	haɲalďiwər	haɲalďiwər	INTJ	_	_	_	_	_	_	_
+_	ahatkaːr	ahatkaː	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+
+_	hələtpər	hələtpə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pəktiroːnďəŋoːtin	pəktiroːnďəŋoːtin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	heːkiːduːwəl	heːkiːduːwəl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biďəriːwə	bi	VERB	Aspect=Imp|Case=Acc|VerbForm=Part	_	_	_	_	_	_
+
+_	iduː	iduː	ADV	_	_	_	_	_	_	_
+_	baldindi	baldi	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɲekəŋdəduː	ɲekəŋdə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	eː	eː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	eː	eː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	eː	eː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	hutəlwi	hutə	NOUN	Case=Acc|Number=Plur|PossNumber=Sing|Reflex=Yes	_	_	_	_	_	_
+_	oki	oki	ADV	_	_	_	_	_	_	_
+_	hutəs	hutəs	ADV	_	_	_	_	_	_	_
+_	bisoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	hutəldəː	hutə	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	huwulitin	huwuli	DET	Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	hagdi	hagdi	ADJ	_	_	_	_	_	_	_
+_	hagdil	hagdi	ADJ	Number=Plur	_	_	_	_	_	_
+_	osalsə	osals	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	rodɲa	rodɲa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʒə	ʒə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əməktəsaːtinsə	əməktəsaːtinsə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	rodɲandə	rodɲandə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	a	a	INTJ	_	_	_	_	_	_	_
+
+_	ɲiː	ɲiː	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	eː	eː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	aŋma	aŋ	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	haŋuːktaďərən	haŋuːkta	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	hi	hi	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_	_	_
+_	ďəduʃkanunka	ďəduʃkanunka	ADV	_	_	_	_	_	_	_
+_	əməmikə	əməmikə	ADV	_	_	_	_	_	_	_
+_	starij	starij	ADV	_	_	_	_	_	_	_
+_	ɲekəŋdəduː	ɲekəŋdə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	ʒə	ʒə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	inďəsaldunsə	inďəsaldunsə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	mortin	mo	PRON	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3|Reflex=Yes	_	_	_	_	_	_
+_	oďəsoːtin	oďə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	eː	eː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	lukiːlďi	lukiː	NOUN	Case=Ins|Number=Plur	_	_	_	_	_	_
+_	aŋďa	aŋďa	ADV	_	_	_	_	_	_	_
+_	aŋi	aŋi	ADJ	_	_	_	_	_	_	_
+_	aŋďaŋkiːn	aŋďaŋkiːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	mm	mm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	eːkundaː	eːkun	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pelonkəldaː	pelonkəldaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɲiːldaː	ɲiːldaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aːśin	aːśin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biśoːtin	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	taduːdaːː	taduː	ADV	_	_	_	_	_	_	_
+_	ahiːlam	ahiːla	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	jekoːmŋuːwə	jekoːmŋuːwə	ADV	_	_	_	_	_	_	_
+_	ahatkanmə	ahatkan	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+
+_	hulakiːl	hulakiː	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	aːśir	aːśi	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	upkatpadəː	upkatpadəː	ADV	_	_	_	_	_	_	_
+_	waːtt͡ʃal	waːtt͡ʃal	ADV	_	_	_	_	_	_	_
+
+_	koːroːwəl	koːroːwə	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	aːśir	aːśi	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+
+_	huliwuntə	huliwun	DET	_	_	_	_	_	_	_
+_	əməsoːwun	əməsoːwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tadukta	taduk	ADV	_	_	_	_	_	_	_
+_	luhu	luhu	ADV	_	_	_	_	_	_	_
+_	mohadu	mohadu	ADV	_	_	_	_	_	_	_
+_	biďaŋkiːf	biďaŋkiːf	ADV	_	_	_	_	_	_	_
+
+_	ʃkola	ʃko	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	biśoːn	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	umukoːn	umukoːn	NUM	_	_	_	_	_	_	_
+_	tiγiːśə	tiγiːśə	NUM	_	_	_	_	_	_	_
+_	jəγin	jəγin	NUM	_	_	_	_	_	_	_
+_	ɲamadi	ɲamadi	NUM	_	_	_	_	_	_	_
+_	dapkundar	dapkundar	NUM	_	_	_	_	_	_	_
+_	nadiśiduːn	nadiśi	ADJ	Case=Dat|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	aŋaniːdu	aŋaniːdu	INTJ	_	_	_	_	_	_	_
+_	əməsoːw	əmə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ərdəlontə	ərdəlontə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tukkor	tukkor	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iɲdərəwun	iɲdərəwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	fśo	fśo	ADJ	_	_	_	_	_	_	_
+
+_	kuŋakan	kuŋakan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	amaːkaːntə	amaːkaːntə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ətirkoːn	ətirkoːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iɲďə	iɲďə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilani	ilani	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əɲiːtin	əɲiːtin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ahiːn	ahiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	gu	gu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	bəjə	bəjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ahiːn	ahiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	guśo	gu	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	tara	tara	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	əmənədukin	əmənəduki	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	amakakan	amakakan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biśo	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	bəjəl	bəjəl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əməso	əməso	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əjawəl	ə	PRON	Case=Par|Definite=Ind|Number=Sing	_	_	_	_	_	_
+_	eːkuŋan	eːkuŋan	INTJ	_	_	_	_	_	_	_
+_	binoroнеясно	binoroнеясно	ADV	_	_	_	_	_	_	_
+_	gunďənə	gun	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+_	ɲikoso	ɲikoso	ADV	_	_	_	_	_	_	_
+
+_	hoːwə	hoː	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	gorowo	goro	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ganatmaːtt͡ʃa	ganatmaːtt͡ʃa	ADV	_	_	_	_	_	_	_
+
+_	ustawatin	usta	DET	Case=Acc|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	manasa	mana	VERB	VerbForm=Part	_	_	_	_	_	_
+_	lukiːlwatin	lukiːlwatin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďawana	ďawa	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	garpawkiː	garpawkiː	ADV	_	_	_	_	_	_	_
+_	mortikiːtin	mortikiːtin	ADV	_	_	_	_	_	_	_
+
+_	ər	ər	DET	_	_	_	_	_	_	_
+_	amaːkaːn	amaːkaː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	guśo	gu	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	ər	ər	DET	_	_	_	_	_	_	_
+_	bəjətkoːn	bəjətkoːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kahilifkonəm	kahilifkonəm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďulaːji	ďu	NOUN	Case=Lat|Number=Sing|Reflex=Yes	_	_	_	_	_	_
+_	hurupkiː	huru	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+
+_	taduktaː	taduk	ADV	_	_	_	_	_	_	_
+_	tugdoː	tug	ADV	_	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	buso	buso	ADV	_	_	_	_	_	_	_
+
+_	ajamamat	ajamamat	ADV	_	_	_	_	_	_	_
+_	ahoťilśa	ahoťilśa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	hiγim	hi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	əməːnim	əməːni	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	s	s	NOUN	_	_	_	_	_	_	_
+_	ŋənəďəŋnəm	ŋənə	VERB	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	ŋənəďəŋnəm	ŋənə	VERB	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	bi	bi	VERB	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_	_	_
+_	gunďəm	gun	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	eːkurwa	eːku	PRON	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	tuγi	tuγi	ADV	_	_	_	_	_	_	_
+_	ŋinakil	ŋinakil	ADV	_	_	_	_	_	_	_
+_	ŋinakirwi	ŋinaki	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	goγoďoro	goγo	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	nuŋartin	nuŋa	PRON	Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	huktillə	hukti	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	aγiː	aγiː	ADV	_	_	_	_	_	_	_
+_	aγiːtki	aγiːtki	ADV	_	_	_	_	_	_	_
+
+_	amim	ami	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	it͡ʃəttən	it͡ʃə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	tərkə	tərkə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	moːtiː	moːtiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋandulaːn	nuŋan	PRON	Case=Lat|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	huktiďərən	hukti	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	buː	buː	PRON	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	nuŋarwan	nuŋarwan	ADV	_	_	_	_	_	_	_
+_	mautit	mautit	ADV	_	_	_	_	_	_	_
+_	ijellukin	ijellukin	ADV	_	_	_	_	_	_	_
+_	ďawaraw	ďawaraw	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	k	k	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	berigu	berigu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uγutki	uγutki	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	patom	pato	INTJ	_	_	_	_	_	_	_
+_	ŋinakir	ŋinaki	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ɲaːn	ɲaːn	ADV	_	_	_	_	_	_	_
+_	iːlaːwəl	iːlaːwəl	ADV	_	_	_	_	_	_	_
+_	huktillə	hukti	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	jolki	jolki	INTJ	_	_	_	_	_	_	_
+
+_	it͡ʃəm	it͡ʃə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	bagdakəː	bagdakəː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	təγəpkəːwiː	təγəpkəːwiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tozəfkatpi	tozəfkatpi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bah	bah	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bah	bah	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	ilara	ila	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	əmərən	əmə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gunən	gun	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	t͡ʃoknaːstəw	t͡ʃoknaːstə	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	t͡ʃaŋittulaː	t͡ʃaŋittulaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ʒərďi	ʒərďi	NOUN	_	_	_	_	_	_	_
+_	aŋə	aŋə	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʒerďilwə	ʒerďilwə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	moːlwə	moː	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	noːttə	noːttə	ADV	_	_	_	_	_	_	_
+_	gďə	gďə	ADV	_	_	_	_	_	_	_
+_	u	u	ADV	_	_	_	_	_	_	_
+_	ɲewo	ɲewo	ADV	_	_	_	_	_	_	_
+_	amŋan	amŋan	ADV	_	_	_	_	_	_	_
+
+_	ŋəːləlim	ŋəːlə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	za	za	NOUN	_	_	_	_	_	_	_
+_	dildulaːn	dil	NOUN	Case=Lat|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	papal	papal	CCONJ	_	_	_	_	_	_	_
+
+_	imurəːn	imurəːn	NOUN	_	_	_	_	_	_	_
+_	əːjan	əː	PRON	Case=Par|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	bit͡ʃoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	waːrəw	waː	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	toːliː	toːliː	ADV	_	_	_	_	_	_	_
+_	kətəməməwə	kətə	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ulləlwə	ullə	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	ollolwo	ollo	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+
+_	əməpt͡ʃoːwun	əməpt͡ʃoːwu	ADV	_	_	_	_	_	_	_
+_	əloː	əloː	ADV	_	_	_	_	_	_	_
+_	strelkaləː	strelkaləː	ADV	_	_	_	_	_	_	_
+
+_	ďuləːduːwər	ďuləː	NOUN	Case=Dat|Number=Plur	_	_	_	_	_	_
+_	nulgiːrən	nulgiː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ŋəːləwsikoː	ŋəːləwsi	ADJ	_	_	_	_	_	_	_
+_	ətn	ətn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	amatə	amatə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	amawun	amawun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əwkiː	ə	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	doːldiːrə	doːldiː	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	asiː	asiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	jiʃo	jiʃo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ət͡ʃə	ə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	namasəlwə	namasəlw	VERB	VerbForm=Part	_	_	_	_	_	_
+_	jiʃo	jiʃo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ət͡ʃəwun	ə	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	jiʃo	jiʃo	ADV	_	_	_	_	_	_	_
+_	pustiďərə	pustiďərə	ADV	_	_	_	_	_	_	_
+
+_	iːlaː	iːlaː	ADV	_	_	_	_	_	_	_
+_	əlaː	əlaː	ADV	_	_	_	_	_	_	_
+_	aŋilip	aŋilip	ADV	_	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	biďərə	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	ďebŋənəlwə	ďebŋənəlwə	ADV	_	_	_	_	_	_	_
+_	nawerna	nawerna	ADV	_	_	_	_	_	_	_
+_	aŋit͡ʃal	aŋit͡ʃal	ADV	_	_	_	_	_	_	_
+
+_	ja	ja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gunim	guni	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	kə	kə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əsiːləː	əsiːləː	ADV	_	_	_	_	_	_	_
+_	kamaɲa	kamaɲa	ADV	_	_	_	_	_	_	_
+_	ďawakat	ďawakat	ADV	_	_	_	_	_	_	_
+_	aŋilwar	aŋilwar	ADV	_	_	_	_	_	_	_
+_	uːt͡ʃakilwə	uːt͡ʃakilwə	ADV	_	_	_	_	_	_	_
+
+_	oː	oː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pəktiroːnmiːkə	pəktiroːnmiːkə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	aγa	aγa	INTJ	_	_	_	_	_	_	_
+_	raːniďam	raːniďam	ADV	_	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+
+_	təďəːmi	təďəː	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	təďəːkallə	təďəː	VERB	Mood=Imp|Number=Plur|PersonNum=2	_	_	_	_	_	_
+_	əmi	ə	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	əkallə	ə	VERB	Mood=Imp|Number=Plur|PersonNum=2	_	_	_	_	_	_
+
+_	irgiʃilwun	irgiʃi	NOUN	Case=Nom|Clusivity=Ex|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=1	_	_	_	_	_	_
+_	manawullə	mana	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_	_	_
+
+_	moːndikiwi	moːn	PRON	Case=All|Number=Sing|Reflex=Yes	_	_	_	_	_	_
+_	ətənni	ətənni	INTJ	_	_	_	_	_	_	_
+_	təpuːttə	təpuːttə	ADV	_	_	_	_	_	_	_
+
+_	targat͡ʃin	targat͡ʃin	DET	_	_	_	_	_	_	_
+_	bodo	bodo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bit͡ʃon	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	toːli	toːli	ADV	_	_	_	_	_	_	_
+_	əpkoː	ə	VERB	Mood=Nec|VerbForm=Part	_	_	_	_	_	_
+
+_	norma	norma	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	no	no	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďəwtiləlwun	ďəwtilə	NOUN	Case=Nom|Clusivity=Ex|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=1	_	_	_	_	_	_
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	abulitt͡ʃaran	abulitt͡ʃaran	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	geːduː	geː	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	tirganiːduː	tirganiː	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	ətom	ətom	ADV	_	_	_	_	_	_	_
+_	əmərə	əmə	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	ʃoːmamat	ʃoː	ADV	_	_	_	_	_	_	_
+_	libgoːrən	libgoː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tuliγidaːwutə	tuliγidaːwu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	wesin	wesi	DET	Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	tikt͡ʃan	tikt͡ʃan	ADV	_	_	_	_	_	_	_
+_	hororduk	hororduk	ADV	_	_	_	_	_	_	_
+
+_	i	i	INTJ	_	_	_	_	_	_	_
+_	ərkə	ər	DET	_	_	_	_	_	_	_
+_	ənə	ənə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilarə	ilarə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	amargut	amargu	ADJ	Case=Ins	_	_	_	_	_	_
+_	ilarən	ila	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	təːliːnun	təːliːnun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	illən	illən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	sulakiː	sulakiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďuːdukəwun	ďuːdukəwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	huktillən	hukti	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	kəŋgiloːn	kəŋgiloːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iruːktəďərən	iruː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	ətə	ətə	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tikt͡ʃaduː	tikt͡ʃaduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuliγidaduːwun	tuliγidaduːwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	wot	wot	INTJ	_	_	_	_	_	_	_
+_	tala	tala	ADV	_	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hujukuːnduː	hujukuːn	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	bidakpi	bidakpi	ADV	_	_	_	_	_	_	_
+_	ďoninŋaːm	ďoninŋaːm	ADV	_	_	_	_	_	_	_
+
+_	gəːs	gəːs	VERB	_	_	_	_	_	_	_
+_	anŋaniːs	anŋaniːs	ADV	_	_	_	_	_	_	_
+_	ŋənəďət͡ʃən	ŋənəďət͡ʃən	ADV	_	_	_	_	_	_	_
+_	ələkəːs	ələkəːs	ADV	_	_	_	_	_	_	_
+
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sunduːkə	sunduːkə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ulgut͡ʃoːnďəm	ulgut͡ʃoːnďəm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	umnoː	umnoː	ADV	_	_	_	_	_	_	_
+_	ərə	ərə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	induː	induː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	minnun	min	PRON	Case=Com|Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	induː	induː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ərə	ərə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	induː	induː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	on	on	ADV	_	_	_	_	_	_	_
+_	umnoː	umnoː	ADV	_	_	_	_	_	_	_
+_	turgaldit͡ʃoːw	turgaldit͡ʃoːw	ADV	_	_	_	_	_	_	_
+_	irgit͡ʃiːlnun	irgit͡ʃiːlnun	ADV	_	_	_	_	_	_	_
+
+_	irgiʃəlwə	irgiʃə	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	gənnoːst͡ʃoːn	gənnoːst͡ʃoːn	ADV	_	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ət͡ʃəl	ə	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	əmərə	əmə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	beːγa	beːγ	VERB	VerbForm=Part	_	_	_	_	_	_
+_	bit͡ʃoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	on	on	ADV	_	_	_	_	_	_	_
+_	gunəpkiːl	gunə	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	ilədit	ilədit	ADJ	_	_	_	_	_	_	_
+_	mirə	mirə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	t͡ʃaːγidaːduːn	t͡ʃaːγidaːduːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	bi	bi	VERB	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_	_	_
+_	amaskiːwi	amaskiː	ADV	Reflex=Yes	_	_	_	_	_	_
+_	mut͡ʃuśinim	mut͡ʃu	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	hoγorkiːn	hoγorkiː	ADV	_	_	_	_	_	_	_
+_	hərəlgəːn	hərəlgəːn	ADJ	_	_	_	_	_	_	_
+_	bəlγəwʃiliː	bəlγəwʃiliː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	iːduː	iːduː	ADV	_	_	_	_	_	_	_
+_	ərəkoːnduː	ərəkoːnduː	ADV	_	_	_	_	_	_	_
+
+_	minduk	min	PRON	Case=Abl|Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	naərnə	naərnə	INTJ	_	_	_	_	_	_	_
+_	ɲamaďi	ɲamaďi	NUM	_	_	_	_	_	_	_
+_	binoːn	bi	VERB	Mood=Pot|Number=Sing|Person=3	_	_	_	_	_	_
+_	hələkə	hələ	INTJ	_	_	_	_	_	_	_
+_	metər	metər	ADV	_	_	_	_	_	_	_
+
+_	aɲi	aɲi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	buɲiːllə	buɲiː	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	pəktiroːwunmə	pəktiroːwun	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	tug	tug	ADV	_	_	_	_	_	_	_
+_	ɲəkəlləkif	ɲəkəlləkif	ADV	_	_	_	_	_	_	_
+
+_	i	i	ADJ	_	_	_	_	_	_	_
+_	surum	suru	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	eːkun	eːkun	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sarə	sa	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	nuŋartin	nuŋa	PRON	Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	soːtmərit	soːtmərit	ADV	_	_	_	_	_	_	_
+_	buɲiːďapkiːl	buɲiːďapkiːl	ADV	_	_	_	_	_	_	_
+
+_	hərəkətmərit	hərəkə	NOUN	Case=Nom|Degree=Cmp|Number=Sing	_	_	_	_	_	_
+_	buɲiːllə	buɲiː	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	jəmbulə	jəmbu	VERB	VerbForm=Part	_	_	_	_	_	_
+_	jəmbulə	jəmbu	VERB	VerbForm=Part	_	_	_	_	_	_
+_	arakuːn	arakuːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tugdaː	tug	ADV	_	_	_	_	_	_	_
+_	hərəlgəːnmə	hərəlgəːn	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	daːγim	daːγi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	pəktirəːwun	pəktirəːwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əďəŋoː	ə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	uʒə	uʒə	ADV	_	_	_	_	_	_	_
+_	t͡ʃokoksoːnə	t͡ʃokoksoːnə	ADV	_	_	_	_	_	_	_
+_	it͡ʃərə	it͡ʃə	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	dunnəmakəːnduləːnə	dunnəmakəːnduləː	ADV	_	_	_	_	_	_	_
+_	kuːktim	kuːktim	ADV	_	_	_	_	_	_	_
+_	hərəlgəːnduk	hərəlgəːnduk	ADV	_	_	_	_	_	_	_
+
+_	əwa	ə	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	jiʃo	jiʃo	ADV	_	_	_	_	_	_	_
+_	gunďənni	gunďənni	ADV	_	_	_	_	_	_	_
+
+_	abdunduliː	abdun	NOUN	Case=Per|Number=Sing	_	_	_	_	_	_
+
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	moːtkiː	moː	NOUN	Case=All|Number=Sing	_	_	_	_	_	_
+_	hərkələm	hərkələm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tiːnŋəptunďi	tiːnŋəptunďi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ŋəː	ŋəː	NOUN	_	_	_	_	_	_	_
+_	ŋəːriːmama	ŋəːriː	ADJ	_	_	_	_	_	_	_
+_	taduːwar	taduːwar	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	irusinəw	irusinə	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	uγiskiː	uγiskiː	ADV	_	_	_	_	_	_	_
+
+_	amaːkaː	amaːkaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iːliː	iːliː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toliː	toliː	ADV	_	_	_	_	_	_	_
+_	toliː	toliː	ADV	_	_	_	_	_	_	_
+_	ɲikaː	ɲikaː	ADV	_	_	_	_	_	_	_
+
+_	uriːsinəwdaː	uriːsinəw	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	higrəwdaː	higrəwdaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pajehali	pajehali	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əməďam	əmə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	toka	toka	ADV	_	_	_	_	_	_	_
+_	visnoj	visnoj	ADV	_	_	_	_	_	_	_
+_	əməďam	əmə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+
+_	f	f	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	patdiśat	patdiśat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	śiďmom	śiďmom	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gadu	gadu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	prijehali	prijehali	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	śuda	śuda	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	v	v	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əvənkiju	əvənkiju	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	vot	vot	INTJ	_	_	_	_	_	_	_
+_	zďəś	zďəś	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʒivu	ʒivu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	alagupdit͡ʃəw	alagupdit͡ʃəw	NOUN	_	_	_	_	_	_	_
+_	əkunduː	əkun	PRON	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	kanskij	kanskij	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	avtadaroʒnij	avtadaroʒnij	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tehnikum	tehnikum	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tehnikumduː	tehnikumduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	armijalaː	armija	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	ədiliwə	ədiliw	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	hururə	huru	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	hərəkit͡ʃoːw	hərəkit͡	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+
+_	fśo	fśo	ADJ	_	_	_	_	_	_	_
+
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	vstrit͡ʃal	vstrit͡ʃal	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	vot	vot	INTJ	_	_	_	_	_	_	_
+_	v	v	ADV	_	_	_	_	_	_	_
+_	rukəpaʃnujuta	rukəpaʃnujuta	ADV	_	_	_	_	_	_	_
+_	shvaťilśa	shvaťilśa	ADV	_	_	_	_	_	_	_
+_	paətamuta	paətamuta	ADV	_	_	_	_	_	_	_
+_	ɲi	ɲi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	rasťiralśa	rasťiralśa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ras	ras	NOUN	_	_	_	_	_	_	_
+_	hurumi	huru	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	dək	dək	ADV	_	_	_	_	_	_	_
+_	ras	ras	ADV	_	_	_	_	_	_	_
+_	hurumi	huru	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	ibdaritki	ibdaritki	ADV	_	_	_	_	_	_	_
+_	əwə	ə	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ŋolətt͡ʃəmi	ŋolə	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+
+_	nu	nu	INTJ	_	_	_	_	_	_	_
+
+_	biwəhin	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	umukin	umukin	ADJ	_	_	_	_	_	_	_
+_	bidəm	bi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kərgənduːji	kərgənduːji	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	umukin	umukin	ADJ	_	_	_	_	_	_	_
+_	binə	bi	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	hə	hə	INTJ	_	_	_	_	_	_	_
+_	iɲ	iɲ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	baldidəśaːw	baldidəśaːw	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	zaatehnik	zaatehnik	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oləɲiwod	oləɲiwod	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oːdam	oː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ororwo	oro	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	ororwo	oro	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	ajit͡ʃimni	ajit͡ʃimni	ADV	_	_	_	_	_	_	_
+
+_	ororwi	oro	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	iśətt͡ʃoːw	iśətt͡ʃoːw	NUM	_	_	_	_	_	_	_
+_	uhodəriːlwə	uhodəriːlwə	NUM	_	_	_	_	_	_	_
+
+_	kirə	ki	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ŋo	ŋo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	hutəltin	hutə	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	kətəməmə	kətə	ADV	_	_	_	_	_	_	_
+_	biśoːtin	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	kolhostuː	kolhos	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	ekspeditijalduː	ekspeditijal	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	ekspeditsijaduː	ekspeditsijaduː	NOUN	_	_	_	_	_	_	_
+_	hawalďəsaːtin	hawal	VERB	Aspect=Imp|Mood=Ind|Poss=Yes|PossNumber=Plur|PossPerson=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	əŋkiːn	ə	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	taːnə	taːnə	ADV	_	_	_	_	_	_	_
+_	əŋkiːn	ə	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	umda	umda	ADV	_	_	_	_	_	_	_
+
+_	əninŋəhə	əninŋəhə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	məːnin	məːnin	ADJ	_	_	_	_	_	_	_
+_	ororwo	oro	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	əďaŋkiːn	əďaŋkiːn	ADV	_	_	_	_	_	_	_
+_	tahiktəďaŋkiːn	tahiktəďaŋkiːn	ADV	_	_	_	_	_	_	_
+
+_	hoː	hoː	ADV	_	_	_	_	_	_	_
+_	ahiː	ahiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bit͡ʃoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ə	ə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	minŋiː	min	PRON	Case=Nom|Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_	_	_
+_	əninmi	ənin	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+
+_	tətigəjə	tətigəj	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	bufki	bu	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	irəksədukpi	irəksədukpi	ADV	_	_	_	_	_	_	_
+_	ďəptiləjə	ďəptilə	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+
+_	əɲiːnmi	əɲiːn	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	hawalďa=	hawalďa=	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hawalďasaːn	hawal	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ʃkoladuː	ʃkola	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	tugda	tug	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aŋə	aŋə	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	wnut͡ʃkaji	wnut͡ʃka	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	gərbiːsoːwun	gərbiːsoːwu	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	darjakaːn	darjakaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	daʃa	daʃa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	huhegin	huhegi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	bisaːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	kuŋakarnun	kuŋaka	NOUN	Case=Com|Number=Plur	_	_	_	_	_	_
+_	hawalďaŋkiːw	hawalďaŋkiːw	INTJ	_	_	_	_	_	_	_
+
+_	ətəjəśimɲiː	ətəjə	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	bisaːw	bi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	dolbo	dolbo	ADV	_	_	_	_	_	_	_
+
+_	ɲiːwəl	ɲiː	ADV	_	_	_	_	_	_	_
+_	ɲiːwəl	ɲiːwəl	ADV	_	_	_	_	_	_	_
+_	hukuləːďəsaːn	hukuləːďəsaːn	ADV	_	_	_	_	_	_	_
+_	bolnitsalaː	bolnitsalaː	ADV	_	_	_	_	_	_	_
+_	hurusaːn	hurusaːn	ADV	_	_	_	_	_	_	_
+
+_	dukuďam	duku	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	aŋduk	aŋ	PRON	Case=Abl|Number=Sing	_	_	_	_	_	_
+_	potom	potom	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ha	ha	NOUN	_	_	_	_	_	_	_
+_	haːltin	haː	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	aŋkə	aŋ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aśin	aśin	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+
+_	omŋoso	omŋo	VERB	VerbForm=Part	_	_	_	_	_	_
+_	bihində	bi	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	minə	minə	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+
+_	huruwkiː	huru	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	iːlaːwəl	iːlaːwəl	ADV	_	_	_	_	_	_	_
+_	wowkanun	wowkanun	ADV	_	_	_	_	_	_	_
+
+_	luhu	luhu	ADV	_	_	_	_	_	_	_
+_	hawalitt͡ʃaran	hawalitt͡ʃaran	ADV	_	_	_	_	_	_	_
+
+_	hikə	hi	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	_	_	_
+_	on	on	ADV	_	_	_	_	_	_	_
+
+_	iduː	iduː	ADV	_	_	_	_	_	_	_
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	urinərən	urinə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tul	tu	DET	_	_	_	_	_	_	_
+_	aŋilaːn	aŋilaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋartin	nuŋartin	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_	_	_
+_	uďaliːn	uďa	NOUN	Case=Per|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	ŋənəďərə	ŋənə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	tolgokiːl	tolgokiː	DET	_	_	_	_	_	_	_
+_	bimɲin	bimɲin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biďərə	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	bi	bi	VERB	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_	_	_
+_	aŋim	aŋi	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs|Tense=Nfut	_	_	_	_	_	_
+_	ŋoːləlim	ŋoːlə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	dəː	dəː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	eːkunmalta	eːkunmal	ADV	_	_	_	_	_	_	_
+_	oːdan	oː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	anton	anto	ADV	_	_	_	_	_	_	_
+_	ɲikolajəvit͡ʃ	ɲikolajəvit͡ʃ	ADV	_	_	_	_	_	_	_
+_	anton	anton	ADV	_	_	_	_	_	_	_
+_	valenťinovit͡ʃ	valenťinovit͡ʃ	ADV	_	_	_	_	_	_	_
+_	əɲiːnin	əɲiːni	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	bit͡ʃoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ʃamanitkaːn	ʃamanitkaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əɲiːnmi	əɲiːn	NOUN	Case=Acc|Number=Sing|PossNumber=Sing|Reflex=Yes	_	_	_	_	_	_
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	gunən	gun	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	gunən	gun	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	əkəl	ə	VERB	Mood=Imp|Number=Sing|PersonNum=2	_	_	_	_	_	_
+_	aŋira	aŋi	PRON	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	_	_	_
+_	əwiːkoːttə	əwiːkoː	VERB	VerbForm=Part	_	_	_	_	_	_
+_	munə	munə	PRON	Case=Acc|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	ŋoːləwkoːttə	ŋoːləwkoː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	aŋiwan	aŋi	PRON	Case=Acc|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	ot͡ʃəstwa	ot͡ʃəstwa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	omŋot͡ʃo	omŋo	VERB	VerbForm=Part	_	_	_	_	_	_
+_	bihim	bi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	eːkunmaltə	eːkunmal	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	terapeft	terapeft	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	eːkunmu	eːkunmu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	birka	bi	VERB	Mood=Pot|Number=Plur|Person=3	_	_	_	_	_	_
+
+_	toːliː	toːliː	ADV	_	_	_	_	_	_	_
+_	internattuː	internat	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	minnun	min	PRON	Case=Com|Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	ut͡ʃitt͡ʃət͡ʃaːtin	ut͡ʃit	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ut͡ʃamiŋar	ut͡ʃamiŋar	ADV	_	_	_	_	_	_	_
+_	kuŋakar	kuŋaka	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+
+_	gala	gala	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mukta	mukta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	iwan	iwan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	daurskij	daurskij	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	a	a	PRON	Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	aŋiliː	aŋi	PRON	Case=Per|Number=Sing	_	_	_	_	_	_
+_	tarə	tarə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʃkola	ʃkola	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	koridorduliːn	koridorduliːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	girkunďaŋkiːn	girkunďaŋkiːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əwədiwə	əwədi	ADJ	Case=Acc	_	_	_	_	_	_
+_	inmə	in	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	haːt͡ʃaːn	haː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	əwə=	əwə=	NOUN	_	_	_	_	_	_	_
+_	əwədittə	əwədit	NOUN	Case=Ins|Number=Sing	_	_	_	_	_	_
+_	inďəŋkiːtin	inďəŋkiːtin	ADV	_	_	_	_	_	_	_
+_	inďət͡ʃoːntə	inďət͡ʃoːntə	ADV	_	_	_	_	_	_	_
+
+_	mirənďəŋkiːtin	mirən	VERB	Aspect=Imp|Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	guɲt͡ʃən	guɲ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	isďət͡ʃəw	isďət͡ʃəw	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	bit͡ʃən	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ə	ə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	baldit͡ʃan	baldi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	primərno	primərno	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	umukon	umukon	ADJ	_	_	_	_	_	_	_
+_	tiśat͡ʃa	tiśat͡ʃa	NUM	_	_	_	_	_	_	_
+_	ďapkunďar	ďapkunďar	NUM	_	_	_	_	_	_	_
+_	ďapkun	ďapkun	NUM	_	_	_	_	_	_	_
+_	nuŋiduː	nuŋiduː	NUM	_	_	_	_	_	_	_
+_	aŋaɲiduː	aŋaɲiduː	NUM	_	_	_	_	_	_	_
+
+_	hokoriwsaːtin	hokoriwsaːtin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	da	da	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	f	f	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tungusku	tungusku	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əloː	əloː	ADV	_	_	_	_	_	_	_
+_	ələwatin	ələ	DET	Case=Acc|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	on	on	ADV	_	_	_	_	_	_	_
+_	mərtin	mə	PRON	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3|Reflex=Yes	_	_	_	_	_	_
+_	gunipkiː	guni	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	tarilwə	tari	DET	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	tarilwə	tari	DET	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	bəjəlwə	bəjə	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	bolʃəwikil	bolʃəwikil	ADV	_	_	_	_	_	_	_
+_	ələː	ələː	ADV	_	_	_	_	_	_	_
+_	tasta	tasta	ADV	_	_	_	_	_	_	_
+_	mutpə	mutpə	ADV	_	_	_	_	_	_	_
+
+_	əhiːkon	əhiːko	ADV	_	_	_	_	_	_	_
+_	iːlakan	iːlakan	ADV	_	_	_	_	_	_	_
+_	oːda	oː	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	verto	ver	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	samoloːttu	samoloːttu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dəγrəw	dəγrəw	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kuŋakarďi	kuŋakarďi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ilan	ilan	NUM	_	_	_	_	_	_	_
+_	ilan	ilan	NUM	_	_	_	_	_	_	_
+_	sa	sa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	saďiktuː	saďik	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	biśoːtin	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	kuŋak	kuŋak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hutelwi	hutelwi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	int͡ʃol	int͡ʃo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biśol	bi	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	int͡ʃol	int͡ʃol	DET	_	_	_	_	_	_	_
+_	ahiː	ahiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bagatij	bagatij	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ə	ə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bəjo	bəjo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bagatij	bagatij	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tarə	tarə	ADJ	_	_	_	_	_	_	_
+_	umukoːn	umukoːn	ADJ	_	_	_	_	_	_	_
+_	ahiːn	ahiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	budən	bu	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	bagatijmomoŋiː	bagatijmomoŋiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	buːso	buːso	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	bəjə	bəjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	huwulwən	huwul	DET	Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	bəjəduː	bəjə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	beːdɲijduː	beːdɲijduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	taːduː	taːduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	namar	namar	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	inigərə	inigərə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ələwən	ələwən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dun	du	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	dagin	dagi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	toʒe	toʒe	NOUN	_	_	_	_	_	_	_
+_	aŋil	aŋi	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	hunil	hunil	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	jejo	jejo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	za	za	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ruki	ruki	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	vzali	vzali	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	f	f	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	t͡ʃum	t͡ʃum	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uʒe	uʒe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	za	za	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iwuldə	iwuldə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kak	kak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	butta	butta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aŋduːlaji	aŋduːlaji	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʒenihtuloːji	ʒenihtuloːji	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	safsem	safsem	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əməldən	əməldən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tare	tare	DET	_	_	_	_	_	_	_
+_	wot	wot	INTJ	_	_	_	_	_	_	_
+_	kak	kak	ADV	_	_	_	_	_	_	_
+_	irəndə	irəndə	ADV	_	_	_	_	_	_	_
+_	dulaː	du	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	iderən	ide	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	i	i	ADJ	_	_	_	_	_	_	_
+_	əťi	əťi	ADJ	_	_	_	_	_	_	_
+_	ona	o	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	zahodit	zahodit	ADV	_	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pram	pram	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əťim	əťim	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	grudju	grudju	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lamajet	lamajet	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	etot	etot	DET	_	_	_	_	_	_	_
+_	krest	krest	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tar	tar	DET	_	_	_	_	_	_	_
+_	kirestpə	kirestpə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	taːduk	taːduk	ADV	_	_	_	_	_	_	_
+_	ələ	ələ	INTJ	_	_	_	_	_	_	_
+
+_	oronə	oron	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	wadərə	wadər	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	apať	apať	ADV	_	_	_	_	_	_	_
+_	higdərə	hig	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	huntujə	huntujə	ADV	_	_	_	_	_	_	_
+_	apať	apať	ADV	_	_	_	_	_	_	_
+_	higdərə	hig	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	huntujə	huntujə	ADV	_	_	_	_	_	_	_
+
+_	taːduk	taːduk	ADV	_	_	_	_	_	_	_
+_	ikondərə	ikondərə	ADV	_	_	_	_	_	_	_
+_	ikondərə	ikondərə	ADV	_	_	_	_	_	_	_
+_	tulila	tulila	ADV	_	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aɲi	aɲi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	patom	patom	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	razoʃliś	razoʃliś	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	babuʃka	babuʃ	DET	_	_	_	_	_	_	_
+_	von	von	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tol	tol	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	babuʃka	babuʃka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	von	von	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tolko	tolko	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əməsoːn	əməsoːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əhi	əhi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aprəlduː	aprəlduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tunŋa	tunŋa	NUM	_	_	_	_	_	_	_
+_	anŋaniː	anŋaniː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bit͡ʃalan	bit͡ʃalan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əmərən	əmə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	apat	apat	ADV	_	_	_	_	_	_	_
+_	wot	wot	INTJ	_	_	_	_	_	_	_
+
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	əməhildərə	əməhildərə	ADV	_	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	gaŋadawər	gaŋadawər	ADV	_	_	_	_	_	_	_
+_	nəkədərə	nəkədərə	ADV	_	_	_	_	_	_	_
+_	ororduː	oro	NOUN	Case=Dat|Number=Plur	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hurudoːwərtə	hurudoːwərtə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	śiɲťabrduː	śiɲťabr	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	ə	ə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	umukon	umukon	ADJ	_	_	_	_	_	_	_
+_	busoːn	bu	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	aŋi	aŋi	ADJ	_	_	_	_	_	_	_
+_	akiniw	akini	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	minŋiː	min	PRON	Case=Nom|Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_	_	_
+_	akiniw	akini	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+
+_	munduː	mun	PRON	Case=Dat|Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	həgdi	həgdi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	həgdihəsalduː	həgdihəsalduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kuŋakarduː	kuŋaka	NOUN	Case=Dat|Number=Plur	_	_	_	_	_	_
+_	biŋkiːtin	bi	VERB	Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	monŋiːwun	monŋiː	VERB	VerbForm=Part	_	_	_	_	_	_
+_	amkin	amkin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʒə	ʒə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mi	mi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	fsta	fsta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʒə	ʒə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mi	mi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	fstavali	fstavali	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	təγəŋkiːwun	təγəŋkiːwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	timatnə	timatnə	ADV	_	_	_	_	_	_	_
+
+_	ələwan	ələ	DET	Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	əwi(n)rwə	əwi(n)rw	VERB	VerbForm=Part	_	_	_	_	_	_
+_	əwəŋkiːwun	əwəŋkiː	VERB	VerbForm=Part	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+
+_	bu	bu	ADV	_	_	_	_	_	_	_
+_	baldiŋkiːwun	baldiŋkiːwun	ADV	_	_	_	_	_	_	_
+_	luhu	luhu	ADV	_	_	_	_	_	_	_
+
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tugadu	tugadu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuganiduː	tuganiduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuganiduː	tuganiduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bu	bu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	təgətt͡ʃiŋkiːwun	təgətt͡ʃiŋkiːwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aŋdulaː	aŋdulaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	anilduːwər	anilduːwər	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tolgəkilduːwər	tolgəkilduːwər	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paka	paka	SCONJ	_	_	_	_	_	_	_
+_	ani	ani	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paka	paka	SCONJ	_	_	_	_	_	_	_
+_	ilit	ilit	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paka	paka	SCONJ	_	_	_	_	_	_	_
+_	pastrojat	pastrojat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paka	paka	SCONJ	_	_	_	_	_	_	_
+_	duwa	du	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	odərə	o	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	i	i	INTJ	_	_	_	_	_	_	_
+_	paka	paka	SCONJ	_	_	_	_	_	_	_
+_	tam	tam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paka	paka	SCONJ	_	_	_	_	_	_	_
+
+_	jəsť	jəs	NOUN	Case=Ins|Number=Sing	_	_	_	_	_	_
+_	u	u	ADV	_	_	_	_	_	_	_
+_	əvənkof	əvənkof	ADV	_	_	_	_	_	_	_
+_	zimniji	zimniji	ADV	_	_	_	_	_	_	_
+_	stajanki	stajanki	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	jəsť	jəsť	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	stajanki	stajanki	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lətɲiji	lətɲiji	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	i	i	INTJ	_	_	_	_	_	_	_
+_	uʒə	uʒə	ADV	_	_	_	_	_	_	_
+_	bolo	bolo	ADV	_	_	_	_	_	_	_
+_	orokin	o	VERB	Number=Sing|Person=3|VerbForm=Conv	_	_	_	_	_	_
+_	talaː	talaː	ADV	_	_	_	_	_	_	_
+_	huruŋnərəwun	huru	VERB	Aspect=Hab|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	tolgokildulaːwər	tolgokildulaːwər	ADV	_	_	_	_	_	_	_
+
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bu	bu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	duga	duga	ADV	_	_	_	_	_	_	_
+_	aŋi	aŋi	ADJ	_	_	_	_	_	_	_
+_	raɲʃə	raɲʃə	ADV	_	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biŋkiːtin	bi	VERB	Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	biŋkiːn	bi	VERB	Aspect=Iter|Mood=Ind|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	kalhos	kalhos	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	safhos	safhos	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kalhos	kalhos	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gawaru	gawaru	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	safhos	safhos	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biŋkiːn	bi	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	u	u	NOUN	_	_	_	_	_	_	_
+_	otsa	ot	VERB	VerbForm=Part	_	_	_	_	_	_
+_	biŋkiːn	bi	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	monŋiːn	mon	PRON	Case=Nom|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	_	_	_	_	_	_
+_	əməgənin	əməgəni	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+
+_	əməgənta	əməgən	ADV	_	_	_	_	_	_	_
+_	on	on	ADV	_	_	_	_	_	_	_
+_	aŋə	aŋə	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	skolskij	skolskij	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əkunmal	əkunmal	PRON	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_	_	_
+_	ulgurdam	ulgurdam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tiːkin	tiːkin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ulgurdam	ulgurdam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	on	on	ADV	_	_	_	_	_	_	_
+_	kirant͡ʃikanmə	kirant͡ʃikan	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ďawat͡ʃaːwun	ďawat͡ʃaːwu	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ʃolila	ʃolila	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	duːlaː	duːlaː	ADV	_	_	_	_	_	_	_
+_	omowrəw	omowrəw	ADV	_	_	_	_	_	_	_
+
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	navərnojə	navərnojə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilanman	ilan	NOUN	Case=Acc|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	anŋanil	anŋani	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ət͡ʃəw	ə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	biʃi	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	ďərəvɲadu	ďərəvɲadu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	bəjuʃəŋnərəv	bəjuʃəŋnərəv	ADV	_	_	_	_	_	_	_
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʃabdarvə	ʃabdarvə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ulukilvə	ulukilvə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	motilvə	motilvə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tiːkin	tiːki	ADV	_	_	_	_	_	_	_
+_	ot͡ʃəw	ot͡ʃəw	ADV	_	_	_	_	_	_	_
+_	promhos	promhos	ADV	_	_	_	_	_	_	_
+_	rabotətt͡ʃə	rabotətt͡ʃə	ADV	_	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tala	tala	ADV	_	_	_	_	_	_	_
+_	iɲďərəw	iɲ	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	izbuʃkalduː	izbuʃkalduː	INTJ	_	_	_	_	_	_	_
+_	ot͡ʃolwun	ot͡ʃolwun	ADV	_	_	_	_	_	_	_
+_	ďumilduː	ďumilduː	ADV	_	_	_	_	_	_	_
+
+_	hawalďərəw	hawalďərə	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	t͡ʃopumoʃol	t͡ʃopumoʃol	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʃukʃilrə	ʃukʃilrə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	am	a	INTJ	_	_	_	_	_	_	_
+_	amtilwun	amtil	NOUN	Case=Nom|Clusivity=Ex|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=1	_	_	_	_	_	_
+_	dilo	dilo	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	indərə	indərə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iɲďək	iɲďək	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	indəŋkiːtin	indəŋkiːtin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	oro	oro	NOUN	_	_	_	_	_	_	_
+_	oronduː	oron	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	t͡ʃaŋku	t͡ʃaŋku	ADV	_	_	_	_	_	_	_
+_	tu	tu	ADV	_	_	_	_	_	_	_
+_	tu	tu	ADV	_	_	_	_	_	_	_
+_	tulu	tulu	ADV	_	_	_	_	_	_	_
+_	tuγa	tuγa	ADV	_	_	_	_	_	_	_
+_	tuγaɲiːduː	tuγaɲiːduː	ADV	_	_	_	_	_	_	_
+_	t͡ʃaŋkuduː	t͡ʃaŋku	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	moʒno	moʒno	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilaːwəl	ilaːwəl	ADV	Definite=Ind	_	_	_	_	_	_
+_	gənoː	gənoː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kot͡ʃəvat	kot͡ʃəvat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	znat͡ʃit	znat͡ʃi	DET	_	_	_	_	_	_	_
+_	guluwun	guluwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tarə	tarə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	du	du	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ir	ir	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	du	du	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	guluwur	guluwu	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	tu	tu	ADV	_	_	_	_	_	_	_
+_	tunŋa	tunŋa	NUM	_	_	_	_	_	_	_
+_	no	no	NUM	_	_	_	_	_	_	_
+_	ok	ok	NUM	_	_	_	_	_	_	_
+
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	znat͡ʃit	znat͡ʃit	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ŋan	ŋan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ŋanmaktal	ŋanmaktal	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	urgəktə	urgəktə	ADV	_	_	_	_	_	_	_
+_	samij	samij	ADV	_	_	_	_	_	_	_
+_	or	or	ADV	_	_	_	_	_	_	_
+_	oroduː	oroduː	ADV	_	_	_	_	_	_	_
+_	ʃo	ʃo	ADJ	_	_	_	_	_	_	_
+
+_	i	i	INTJ	_	_	_	_	_	_	_
+_	tu	tu	ADV	_	_	_	_	_	_	_
+_	tuγa	tuγa	ADV	_	_	_	_	_	_	_
+_	aŋipkiː	aŋi	PRON	Aspect=Hab|Case=Nom|Number=Sing|VerbForm=Part	_	_	_	_	_	_
+
+_	ʃtop	ʃtop	SCONJ	_	_	_	_	_	_	_
+_	okin	okin	ADV	_	_	_	_	_	_	_
+_	uʃi	uʃi	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	takʒə	takʒə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dawana	dawana	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	okin	okin	ADV	_	_	_	_	_	_	_
+_	dawadandrə	dawadandrə	ADV	_	_	_	_	_	_	_
+_	toːliː	toːliː	ADV	_	_	_	_	_	_	_
+_	ijən	ijən	ADV	_	_	_	_	_	_	_
+_	tolko	tolko	ADV	_	_	_	_	_	_	_
+_	ajan	ajan	ADV	_	_	_	_	_	_	_
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ajat	ajat	ADV	_	_	_	_	_	_	_
+_	bidoːn	bi	VERB	Mood=Prp|Number=Sing|Person=3|VerbForm=Conv	_	_	_	_	_	_
+
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	takʒə	takʒə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	jəsli	jəsli	SCONJ	_	_	_	_	_	_	_
+_	ŋa	ŋa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dawaldirə	dawaldirə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	znat͡ʃit	znat͡ʃit	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ili	ili	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ijoldiwər	ijo	NOUN	Case=Ins|Number=Plur	_	_	_	_	_	_
+_	ʃtobi	ʃtobi	SCONJ	_	_	_	_	_	_	_
+_	omtil	omtil	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dawaldira	dawaldira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	uʒə	uʒə	ADV	_	_	_	_	_	_	_
+_	tuγaɲiː	tuγaɲiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	odan	o	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tiːwatiŋnərə	tiːwatiŋnə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďu	ďu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	boloɲiːduː	boloɲiː	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	no	no	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ras	ras	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋartin	nuŋartin	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_	_	_
+_	ʃapkat͡ʃal	ʃapkat͡ʃal	ADV	_	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	bit͡ʃoːtin	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biliŋnərə	biliŋnərə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	toː	toː	VERB	_	_	_	_	_	_	_
+_	toːliː	toːliː	ADV	_	_	_	_	_	_	_
+_	moʒno	moʒno	ADV	_	_	_	_	_	_	_
+_	tu	tu	ADV	_	_	_	_	_	_	_
+_	ə	ə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əlko	əl	DET	_	_	_	_	_	_	_
+_	ʃi	ʃi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʃinilgan	ʃinilgan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ot͡ʃo	o	VERB	VerbForm=Part	_	_	_	_	_	_
+_	hogdiŋo	hogdiŋo	ADJ	_	_	_	_	_	_	_
+_	oda	o	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	moʒno	moʒno	ADV	_	_	_	_	_	_	_
+_	begaja	bega	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	ulumiduː	ulumiduː	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	iduː	iduː	ADV	_	_	_	_	_	_	_
+_	halgaliʃu	halgaliʃu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	i	i	INTJ	_	_	_	_	_	_	_
+_	vot	vot	INTJ	_	_	_	_	_	_	_
+_	jəsli	jəsli	SCONJ	_	_	_	_	_	_	_
+_	leʃilduː	leʃi	NOUN	Case=Dat|Number=Plur	_	_	_	_	_	_
+_	ulukiːl	ulukiː	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	znat͡ʃit	znat͡ʃit	ADV	_	_	_	_	_	_	_
+_	ʃukʃilrať	ʃukʃilrať	ADV	_	_	_	_	_	_	_
+_	əruktərə	əruktərə	ADV	_	_	_	_	_	_	_
+
+_	na	n	VERB	VerbForm=Part	_	_	_	_	_	_
+_	natarilduː	natarilduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	boroʃilwə	boroʃi	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	noru	noru	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	drop	drop	ADV	_	_	_	_	_	_	_
+_	əkurwa	əku	PRON	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	nado	nado	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ətim	ətim	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əwəŋkil	əwəŋki	ADV	Number=Plur	_	_	_	_	_	_
+_	tolko	tolko	ADV	_	_	_	_	_	_	_
+_	ulu	ulu	ADV	_	_	_	_	_	_	_
+_	ulumiː	ulumiː	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+
+_	na	n	VERB	VerbForm=Part	_	_	_	_	_	_
+_	nadiwan	nadiwan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oʃin	oʃin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uspətt͡ʃə	uspətt͡ʃə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ili	ili	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	no	no	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʃtobi	ʃtobi	SCONJ	_	_	_	_	_	_	_
+_	labaziduː	labaziduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	no	no	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	noːkiduː	noːkiduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	labas	labas	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	noːkiduː	noːkiduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ajat	ajat	ADV	_	_	_	_	_	_	_
+_	noŋnurən	noŋnurən	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ʃtob	ʃtob	SCONJ	_	_	_	_	_	_	_
+_	omt͡ʃo	o	NOUN	Case=Nom|Mood=Cnd|Number=Sing	_	_	_	_	_	_
+_	ulapt͡ʃa	ulapt͡ʃa	INTJ	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	okolo	okolo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilan	ilan	NUM	_	_	_	_	_	_	_
+_	ilan	ilan	NUM	_	_	_	_	_	_	_
+_	metril	metril	NUM	_	_	_	_	_	_	_
+_	ʃtobi	ʃtobi	SCONJ	_	_	_	_	_	_	_
+_	əkumat	əku	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	omt͡ʃo	o	NOUN	Case=Nom|Mood=Cnd|Number=Sing	_	_	_	_	_	_
+_	ərəkə	ə	PRON	Case=Nom|Number=Sing|VerbForm=Part	_	_	_	_	_	_
+
+_	i	i	INTJ	_	_	_	_	_	_	_
+_	toːliː	toːliː	ADV	_	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	girkum	girku	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ɲoɲo	ɲoɲo	ADV	_	_	_	_	_	_	_
+_	girkuran	girku	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	tuγə	tuγə	ADV	_	_	_	_	_	_	_
+_	v	v	ADV	_	_	_	_	_	_	_
+_	ďivanostom	ďivanostom	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tarilwa	tari	DET	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	up	up	INTJ	_	_	_	_	_	_	_
+_	omowrow	omowrow	ADV	_	_	_	_	_	_	_
+_	t͡ʃaŋki	t͡ʃaŋki	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toli	toli	ADV	_	_	_	_	_	_	_
+_	ələwətin	ələ	DET	Case=Acc|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	kalpaʃəfskij	kalpaʃəfskij	ADJ	_	_	_	_	_	_	_
+_	muzəjtiki	muzəjtiki	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	izdatt͡ʃaːw	izdatt͡ʃaːw	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əɲiːm	əɲiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	anna	anna	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gərbiːn	gərbiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	bisoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	munə	munə	PRON	Case=Acc|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	təwuːktəďəsoːn	təwuː	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	iloː	iloː	ADV	_	_	_	_	_	_	_
+_	taːlaː	taːlaː	ADV	_	_	_	_	_	_	_
+
+_	ərupt͡ʃut	ərupt͡ʃut	ADJ	_	_	_	_	_	_	_
+_	iɲt͡ʃoːwun	iɲ	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	amaskiː	amaskiː	ADV	_	_	_	_	_	_	_
+_	hoːt	hoːt	ADV	_	_	_	_	_	_	_
+
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	akiːm	akiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	ərupt͡ʃut	ərupt͡ʃut	ADJ	_	_	_	_	_	_	_
+_	iɲďəsoːn	iɲďəsoːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+
+_	iloː	iloː	ADV	_	_	_	_	_	_	_
+_	iduː	iduː	ADV	_	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	taːlaː	taːlaː	ADV	_	_	_	_	_	_	_
+_	hurupkiː	huru	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+_	tara	tara	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hurupkiː	huru	VERB	Aspect=Hab|VerbForm=Part	_	_	_	_	_	_
+
+_	t͡ʃaːtirəlwə	t͡ʃaːtirə	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	t͡ʃipkaːrwə	t͡ʃipkaː	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	ələwatin	ələ	DET	Case=Acc|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	bultaŋkiːn	bulta	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+
+_	ďəngilbi	ďəngil	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	biwuk	biwuk	ADV	_	_	_	_	_	_	_
+_	biŋkiːtin	bi	VERB	Aspect=Iter|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	munduː	mun	PRON	Case=Dat|Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	uγot	uγot	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ka	k	VERB	VerbForm=Part	_	_	_	_	_	_
+_	kasirduː	kasirduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hawalt͡ʃaːf	hawal	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ďan	ďan	NUM	_	_	_	_	_	_	_
+_	anŋaɲiːwə	anŋaɲiː	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+
+_	tundrəloː	tundrə	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	oːkir	oːkir	ADV	_	_	_	_	_	_	_
+_	hurusoːwun	huru	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ribakil	ribaki	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biďərə	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+
+_	tunŋa	tunŋa	NUM	_	_	_	_	_	_	_
+_	anŋaɲiːw	anŋaɲiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	minŋiːw	min	PRON	Case=Nom|Number=Sing|Person=1|Poss=Yes|PossNumber=Sing|PossPerson=1|PronType=Prs	_	_	_	_	_	_
+_	aśin	aśin	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	bisoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	timaːtnə	timaːtnə	ADV	_	_	_	_	_	_	_
+_	ələwon	ələ	DET	Case=Acc|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	ora	o	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	ďuːr	ďuːr	NUM	_	_	_	_	_	_	_
+_	hutəji	hutə	NOUN	Case=Nom|Number=Sing|Reflex=Yes	_	_	_	_	_	_
+_	əduːdoː	əduːdoː	INTJ	_	_	_	_	_	_	_
+_	baldildiγaːsaː	baldildiγaːsaː	ADV	_	_	_	_	_	_	_
+
+_	ďuːr	ďuːr	NUM	_	_	_	_	_	_	_
+_	omolgiːn	omolgiː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+
+_	iloːdoː	iloː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paka	paka	SCONJ	_	_	_	_	_	_	_
+_	ədoːji	ə	VERB	Mood=Prp|Reflex=Yes|VerbForm=Conv	_	_	_	_	_	_
+_	hururə	huru	VERB	VerbForm=Part	_	_	_	_	_	_
+_	ɲəkəďam	ɲəkəďam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	penśianərka	penśianərka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	timaːtnə	timaːtnə	ADV	_	_	_	_	_	_	_
+_	ɲan	ɲan	ADV	_	_	_	_	_	_	_
+_	huruďəm	huru	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	opat	opat	ADV	_	_	_	_	_	_	_
+
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uŋunduː	uŋunduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tawar	ta	DET	Number=Plur	_	_	_	_	_	_
+_	lo	lo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	waloktuː	walok	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	əhiː	əhiː	ADV	_	_	_	_	_	_	_
+_	ər	ər	DET	_	_	_	_	_	_	_
+_	walok	walok	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	biďən	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	aŋipkiːl	aŋipkiːl	ADV	_	_	_	_	_	_	_
+_	bit͡ʃol	bi	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	ororwər	ororwər	DET	_	_	_	_	_	_	_
+_	ďawut͡ʃapkiːl	ďawut͡ʃapkiːl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bit͡ʃol	bi	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	mənďərkaŋaha	mənďərkaŋaha	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tawarduː	tawarduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uŋunduː	uŋunduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toʒə	toʒə	ADV	_	_	_	_	_	_	_
+_	dundəγin	dundəγin	ADV	_	_	_	_	_	_	_
+_	bit͡ʃoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	əhiː	əhiː	ADV	_	_	_	_	_	_	_
+_	bedɲi	bedɲi	ADJ	_	_	_	_	_	_	_
+_	nuŋarduktin	nuŋar	PRON	Case=Abl|Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	ələduktin	ələduktin	INTJ	_	_	_	_	_	_	_
+_	iɲďərən	iɲ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	uŋun	uŋun	DET	_	_	_	_	_	_	_
+_	ələ	ələ	INTJ	_	_	_	_	_	_	_
+_	gala	gala	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	samaja	samaja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mladsaja	mladsaja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hunaːďilwi	hunaːďi	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	uzə	uz	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	dawno	dawno	ADV	_	_	_	_	_	_	_
+_	əmət͡ʃol	əmə	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	bit͡ʃoːtin	bi	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	uγut͡ʃakilďi	uγut͡ʃaki	VERB	Aspect=Imp|Mood=Ind|Number=Plur|VerbForm=Fin	_	_	_	_	_	_
+_	ransə	ransə	CCONJ	_	_	_	_	_	_	_
+_	ŋulgiːŋkiːwun	ŋulgiːŋkiːwun	ADJ	_	_	_	_	_	_	_
+
+_	kak	kak	VERB	_	_	_	_	_	_	_
+_	ərkoːn	ərkoːn	ADV	_	_	_	_	_	_	_
+_	ďuγaɲiː	ďuγaɲiː	ADV	_	_	_	_	_	_	_
+_	t͡ʃuka	t͡ʃuka	ADV	_	_	_	_	_	_	_
+_	baldiran	baldi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	uzə	uzə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	fśo	fśo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nulgiː	nulgiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nulgiːhinəw	nulgiːhinəw	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	pərsatkəl	pərsatkə	DET	_	_	_	_	_	_	_
+_	tukkoːr	tukkoːr	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	olgoďərə	olgoďərə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lokusəďərə	lokusəďərə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aha	aha	INTJ	_	_	_	_	_	_	_
+
+_	hoːŋnaːnəkəkoːr	hoːŋnaːnəkəkoː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lokott͡ʃol	loko	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	tuγə	tuγə	ADV	_	_	_	_	_	_	_
+
+_	wot	wot	INTJ	_	_	_	_	_	_	_
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	wot	wot	INTJ	_	_	_	_	_	_	_
+
+_	sɲimatt͡ʃal	sɲimatt͡ʃal	NOUN	_	_	_	_	_	_	_
+_	bimt͡ʃəl	bi	VERB	Mood=Cnd|Number=Plur|Person=3	_	_	_	_	_	_
+_	ərə	ərə	DET	_	_	_	_	_	_	_
+_	ətirkanŋaːhawi	ətirkanŋaːhawi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bimt͡ʃə	bi	VERB	Mood=Cnd|Number=Sing|Person=3	_	_	_	_	_	_
+_	t͡ʃaːskiː	t͡ʃaːskiː	ADV	_	_	_	_	_	_	_
+_	iɲt͡ʃo	iɲt͡ʃo	ADV	_	_	_	_	_	_	_
+_	bimt͡ʃə	bi	VERB	Mood=Cnd|Number=Plur|Person=3	_	_	_	_	_	_
+
+_	ərupt͡ʃu	ərupt͡ʃu	ADJ	_	_	_	_	_	_	_
+_	huruwrən	huru	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	_	_	_	_	_	_
+
+_	minŋiː	min	PRON	Case=Nom|Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_	_	_
+_	ər	ər	DET	_	_	_	_	_	_	_
+_	əhatpi	əhatpi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əďəŋo	ə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	bihim	bi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	hururə	huru	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	ini	ini	ADV	_	_	_	_	_	_	_
+_	inilďərəs	inilďərəs	ADV	_	_	_	_	_	_	_
+
+_	ɲiːwəl	ɲiː	ADV	_	_	_	_	_	_	_
+_	hə	hə	INTJ	_	_	_	_	_	_	_
+_	ŋənət͡ʃo	ŋənə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	halgarďi	halgarďi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	həgdiŋəkoːkurďi	həgdiŋəkoːkurďi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ta	ta	ADJ	_	_	_	_	_	_	_
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	hururən	huru	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tuksaːďaran	tuksaː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+_	tuksaːďaran	tuksaː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	buruďən	buruďə	ADV	_	_	_	_	_	_	_
+_	katorij	katorij	ADV	_	_	_	_	_	_	_
+_	opat	opat	ADV	_	_	_	_	_	_	_
+_	əta	əta	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gori	gori	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	opkiːl	o	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dawaj	dawaj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	həwəkiː	həwəkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kabutta	kabutta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tant͡ʃaďən	tant͡ʃaďən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ulo	ulo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əta	əta	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əta	əta	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	malenet͡ʃko	malenet͡ʃko	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tanipkiː	tanipkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋarwatin	nuŋar	PRON	Case=Acc|Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	aŋiďərən	aŋi	PRON	Aspect=Imp|Case=Nom|Number=Sing|Person=3|PronType=Prs|Tense=Nfut	_	_	_	_	_	_
+
+_	həwəkiːtə	həwəkiː	ADJ	_	_	_	_	_	_	_
+_	gunən	gun	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əduː	əduː	ADV	_	_	_	_	_	_	_
+_	həwəkiː	həwəkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gadan	ga	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	hihəkoːkunmə	hihəkoːkunmə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kak	kak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iktərən	iktə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	həg	həg	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dilmaliːn	dilmaliːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	hələkoːkuːnďi	hələkoːkuːnďi	NOUN	_	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	ətot	ətot	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	dasnawan	dasna	NOUN	Case=Acc|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	oran	o	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tadukdə	taduk	ADV	_	_	_	_	_	_	_
+_	tugdə	tug	ADV	_	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əmən	əmən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əto	əto	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əmənən	əmən	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	aŋilwa	aŋi	PRON	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	haːrgilwa	haːrgi	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+
+_	uγiduk	uγiduk	NOUN	_	_	_	_	_	_	_
+_	it͡ʃətt͡ʃəpkiː	it͡ʃə	VERB	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	ələ	ələ	INTJ	_	_	_	_	_	_	_
+_	aŋiŋkiːn	aŋi	PRON	Aspect=Iter|Case=Nom|Number=Sing|Person=3|PronType=Prs|Tense=Past	_	_	_	_	_	_
+_	bəjə	bəjə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kuŋakar	kuŋaka	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	busləldəktin	busləldəktin	ADV	_	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	orifkiːl	orifkiːl	ADV	_	_	_	_	_	_	_
+
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	ajiśiliwkiː	ajiśiliwkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ələ	ələ	INTJ	_	_	_	_	_	_	_
+_	jajaďinakaːkun	jajaďinakaːkun	ADV	_	_	_	_	_	_	_
+
+_	ja	ja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	jajaliŋkiːn	jajaliŋkiːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	ahiː	ahiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuksaːnifkiː	tuksaːnifkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hələ	hələ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďajaksaďənə	ďajaksaďənə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hutəlaːn	hutəlaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	bakaldaktin	bakaldakti	ADV	_	_	_	_	_	_	_
+_	ajiśiwkiː	ajiśiwkiː	ADV	_	_	_	_	_	_	_
+
+_	ərupt͡ʃu	ərupt͡ʃu	ADJ	_	_	_	_	_	_	_
+_	busləďəriːl	busləďəriːl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	aŋilinkə	aŋilinkə	ADV	_	_	_	_	_	_	_
+_	taluduː	talu	NOUN	_	_	_	_	_	_	_
+_	aŋilin	aŋi	PRON	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	biwkiːl	bi	VERB	Aspect=Hab|Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	kak	kak	ADV	_	_	_	_	_	_	_
+_	aŋil	aŋi	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	korosti	korosti	ADV	_	_	_	_	_	_	_
+
+_	monin	moni	PRON	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3|Reflex=Yes	_	_	_	_	_	_
+_	umukkoːkoːn	umukkoːkoː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	əɲinun	əɲi	NOUN	Case=Com|Number=Sing	_	_	_	_	_	_
+_	huruďərədoː	huruďərədoː	ADV	_	_	_	_	_	_	_
+
+_	kələ	kələ	INTJ	_	_	_	_	_	_	_
+_	uγiːrgoːt	uγiːrgoːt	ADV	_	_	_	_	_	_	_
+
+_	muːduː	muː	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	noːďərə	noːďərə	ADV	_	_	_	_	_	_	_
+
+_	uloːkin	uloːki	ADV	_	_	_	_	_	_	_
+_	hoːmama	hoːmama	ADV	_	_	_	_	_	_	_
+_	biŋkiːn	bi	VERB	Aspect=Iter|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	jiśo	jiśo	ADV	_	_	_	_	_	_	_
+_	tunŋa	tunŋa	NUM	_	_	_	_	_	_	_
+_	əməːnmurə	əməːn	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_	_	_
+
+_	nuŋartin	nuŋa	PRON	Case=Nom|Number=Plur|Person=3|Poss=Yes|PossNumber=Plur|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	ŋəːllə	ŋəːllə	ADV	_	_	_	_	_	_	_
+
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	ət͡ʃəl	ə	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+_	ďəwrə	ďəw	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	hawalkiraː	hawalkiraː	VERB	_	_	_	_	_	_	_
+_	hawalkŋi	hawalkŋi	ADV	_	_	_	_	_	_	_
+_	hawalmɲiːtin	hawalmɲiːtin	ADV	_	_	_	_	_	_	_
+_	oran	o	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	gojowuːŋiːrəwun	gojowuːŋiːrəwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ikoːləptidiː	ikoːləptidiː	VERB	_	_	_	_	_	_	_
+_	uγut͡ʃaktuː	uγut͡ʃaktuː	ADV	_	_	_	_	_	_	_
+_	təγətt͡ʃənə	təγə	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+_	ikoːďənə	ikoː	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+_	ŋənəďəwkiː	ŋənə	VERB	Aspect=Hab|Aspect=Imp|VerbForm=Part	_	_	_	_	_	_
+_	uγut͡ʃak	uγut͡ʃak	ADV	_	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	doːldiːm	doːldiː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ŋinakir	ŋinaki	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	goγoďərə	goγo	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Prs|VerbForm=Fin	_	_	_	_	_	_
+
+_	tijəwunďitpi	tijəwunďitpi	NOUN	_	_	_	_	_	_	_
+_	minə	minə	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	_	_	_
+_	aran	aran	ADV	_	_	_	_	_	_	_
+_	ət͡ʃəːn	ət͡ʃəːn	ADV	_	_	_	_	_	_	_
+_	iktərə	iktərə	ADV	_	_	_	_	_	_	_
+
+_	omŋot͡ʃoːw	omŋot͡	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	biwər	biwər	ADV	_	_	_	_	_	_	_
+_	uγut͡ʃakkər	uγut͡ʃakkər	ADV	_	_	_	_	_	_	_
+_	ujdaːwər	ujdaːwər	ADV	_	_	_	_	_	_	_
+
+_	moːtiː	moːtiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hukuləːďəkoːkuttən	hukuləːďəkoːkuttən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hojduː	hojduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	əː	əː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	huktilkoːkuttən	huktilkoːkuttən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	bikə	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilmakta	ilmakta	ADJ	_	_	_	_	_	_	_
+_	bit͡ʃoːw	bi	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	oːkir	oːkir	ADV	_	_	_	_	_	_	_
+_	bokondaːji	bokondaːji	ADV	_	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	ahaďannə	ahaďan	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	eːkun	eːkun	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	upkat	upkat	DET	_	_	_	_	_	_	_
+_	umukoːnduː	umukoːnduː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	girkuďaŋkiːwun	girkuďaŋkiːwun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ďukt͡ʃawa	ďukt͡ʃa	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ilift͡ʃaːn	ilif	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	munduː	mun	PRON	Case=Dat|Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+
+_	tuγ	tuγ	ADV	_	_	_	_	_	_	_
+_	it͡ʃətt͡ʃət͡ʃəːwun	it͡ʃətt͡ʃət͡ʃəːwun	ADV	_	_	_	_	_	_	_
+_	eːwa	eː	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	hamaːn	hamaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taduː	taduː	ADV	_	_	_	_	_	_	_
+_	hamaːn	hamaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hilgiďənə	hilgiďənə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	eːkundaduliː	eːkundaduliː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	girkuďapkiː	girkuďapkiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nuŋan	nuŋan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	_	_
+_	hujukuːn	hujukuːn	ADJ	_	_	_	_	_	_	_
+
+_	on	on	ADV	_	_	_	_	_	_	_
+_	nas	nas	ADV	_	_	_	_	_	_	_
+_	munduː	mun	PRON	Case=Dat|Case=Nom|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	gunďəŋkiːn	gunďəŋkiːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kuŋakarduː	kuŋaka	NOUN	Case=Dat|Number=Plur	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	amaːkaːj	amaːkaːj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	amaːkaːw	amaːkaː	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+_	bit͡ʃoːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	oɲoːkof	oɲoːko	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=1	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əməpt͡ʃoːtin	əmə	VERB	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nuŋanman	nuŋan	PRON	Case=Acc|Case=Nom|Number=Sing|Person=3|Poss=Yes|PossNumber=Sing|PossPerson=3|PronType=Prs	_	_	_	_	_	_
+_	jərbəkəduː	jərbəkə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+
+_	tak	tak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	albara	albara	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əjadaː	ə	PRON	Case=Par|Number=Sing	_	_	_	_	_	_
+_	oďami	o	VERB	Aspect=Imp|VerbForm=Conv	_	_	_	_	_	_
+
+_	ďə	ď	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	aŋə	aŋə	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	jeγinďor	jeγinďor	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	diγin	diγin	NUM	_	_	_	_	_	_	_
+_	anŋaɲiːl	anŋaɲiː	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	at͡ʃin	at͡ʃin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ot͡ʃaːn	o	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	a	a	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	bi	bi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	jərbəkəduː	jərbəkə	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	mirət͡ʃoːw	mirət͡ʃoːw	ADV	_	_	_	_	_	_	_
+
+_	no	no	NOUN	_	_	_	_	_	_	_
+_	əɲin	əɲi	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	əɲinmun	əɲinmu	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	umukin	umukin	ADJ	_	_	_	_	_	_	_
+_	munə	munə	PRON	Case=Acc|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	_	_	_	_	_	_
+_	aŋəďət͡ʃaːn	aŋəďə	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	i	i	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tuγəɲiːwə	tuγəɲiː	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	internattuː	internat	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	biďəŋkiːwun	bi	VERB	Aspect=Imp|Aspect=Iter|Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ďuγa	ďuγa	ADV	_	_	_	_	_	_	_
+_	ďulaːwər	ďu	NOUN	Case=Lat|Number=Plur	_	_	_	_	_	_
+
+_	mirənim	mirənim	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	pramo	pram	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	dumala	dumal	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	bəjəjə	bəjə	NOUN	Case=Par|Number=Sing	_	_	_	_	_	_
+_	ətəm	ətə	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	bakara	baka	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	nu	nu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	teːteːlaː	teːteːlaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ŋənəmi	ŋənə	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	tam	tam	ADV	_	_	_	_	_	_	_
+_	ulgut͡ʃəmaːtt͡ʃəŋnəm	ulgut͡ʃəmaːtt͡ʃəŋnəm	ADV	_	_	_	_	_	_	_
+
+_	imurəːrin	imurəːri	ADV	_	_	_	_	_	_	_
+_	nurgiďara	nurgiďara	ADV	_	_	_	_	_	_	_
+
+_	əmərə	əmə	VERB	VerbForm=Part	_	_	_	_	_	_
+_	əntiltin	əntil	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+
+_	hulan	hulan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ďawśa	ďaw	VERB	VerbForm=Part	_	_	_	_	_	_
+_	tuliski	tuliski	ADV	_	_	_	_	_	_	_
+
+_	tuliləː	tuliləː	ADV	_	_	_	_	_	_	_
+_	opet	opet	ADV	_	_	_	_	_	_	_
+_	ďawśa	ďaw	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	hulan	hulan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mukətəlin	mukətəlin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hələwə	hələ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ďiśə	ďiś	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	bu	bu	ADV	_	_	_	_	_	_	_
+_	uluməːsinəw	uluməːsinəw	ADV	_	_	_	_	_	_	_
+_	urələː	urə	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	ilan	ilan	NUM	_	_	_	_	_	_	_
+_	binəl	bi	VERB	Number=Plur|VerbForm=Conv	_	_	_	_	_	_
+
+_	ŋinakirwun	ŋinaki	NOUN	Case=Nom|Clusivity=Ex|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=1	_	_	_	_	_	_
+_	əːwawal	əː	PRON	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_	_	_
+_	amtara	amtara	DET	_	_	_	_	_	_	_
+
+_	diskiwun	diskiwu	ADV	_	_	_	_	_	_	_
+_	huktillə	hukti	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	bu	bu	ADV	_	_	_	_	_	_	_
+_	upkat	upkat	DET	_	_	_	_	_	_	_
+_	uːt͡ʃakilwa	uːt͡ʃaki	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	ujjəw	ujjəw	ADV	_	_	_	_	_	_	_
+
+_	ilja	ilja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	it͡ʃəkəjəm	it͡ʃəkəjəm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	illan	il	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	nonorow	nonoro	NOUN	Case=Nom|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	urə	urə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	t͡ʃagidalaːn	t͡ʃagidalaːn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	doldittaw	doldittaw	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	amaːkaː	amaːkaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	t͡ʃinəgət͡ʃin	t͡ʃinəgət͡ʃin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuktit͡ʃəďərən	tuktit͡ʃəďərən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	modu	modu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ŋinakir	ŋinaki	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ɲan	ɲan	ADV	_	_	_	_	_	_	_
+_	moːlaː	moː	NOUN	Case=Lat|Number=Sing	_	_	_	_	_	_
+_	kuktiwkəːnə	kuktiwkəːn	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	taduk	taduk	ADV	_	_	_	_	_	_	_
+_	timaːtnə	timaːtnə	ADV	_	_	_	_	_	_	_
+_	təgərəw	təgə	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	amiː	amiː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	gunən	gun	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɲoγut	ɲoγut	ADV	_	_	_	_	_	_	_
+_	dulinmaːn	dulin	NOUN	Case=Acc|Number=Sing|Poss=Yes|PossNumber=Sing|PossPerson=3	_	_	_	_	_	_
+_	bakaraw	baka	VERB	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ahi	ahi	ADV	_	_	_	_	_	_	_
+_	gorowo	gorowo	ADV	_	_	_	_	_	_	_
+_	bit͡ʃələː	bi	VERB	VerbForm=Part	_	_	_	_	_	_
+_	it͡ʃəː	i	VERB	VerbForm=Part	_	_	_	_	_	_
+_	ďulatin	ďu	NOUN	Case=Lat|Number=Sing|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+
+_	uːt͡ʃakki	uːt͡ʃak	NOUN	Case=Nom|Number=Sing|Reflex=Yes	_	_	_	_	_	_
+_	uŋt͡ʃoː	uŋt͡ʃoː	INTJ	_	_	_	_	_	_	_
+
+_	ətirkośon	ətirkośo	ADV	_	_	_	_	_	_	_
+_	gult͡ʃoː	gu	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	tuksaďapkil	tuksaďapki	DET	_	_	_	_	_	_	_
+_	joːkəďənəl	joːkəďənəl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ətirkoːt͡ʃoːn	ətirkoːt͡ʃoː	ADV	_	_	_	_	_	_	_
+_	əhaldulaːn	əhaldulaːn	ADV	_	_	_	_	_	_	_
+_	papallən	papallən	ADV	_	_	_	_	_	_	_
+_	puruh	puruh	ADV	_	_	_	_	_	_	_
+
+_	ďuktə	ďuktə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nuŋartin	nuŋartin	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_	_	_
+_	burə	bu	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	joːkəďənəl	joːkəďənəl	ADV	_	_	_	_	_	_	_
+
+_	mundukar	munduka	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	kətəkun	kətəkun	ADV	_	_	_	_	_	_	_
+_	əməśəl	əmə	VERB	Number=Plur|VerbForm=Part	_	_	_	_	_	_
+
+_	atirkan	atirkan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tarə	tarə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mundukan	mundukan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	heːnman	heːnman	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iktəśə	iktəśə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iktəďənə	iktəďənə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uraśə	uraśə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	heːnman	heːnman	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	koŋnomo	koŋnomo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ośa	o	VERB	VerbForm=Part	_	_	_	_	_	_
+
+_	tar	tar	INTJ	_	_	_	_	_	_	_
+_	ahiwa	ahiwa	ADV	_	_	_	_	_	_	_
+_	ďəpkənəm	ďəpkənəm	ADV	_	_	_	_	_	_	_
+_	hukuləhinən	hukuləhinən	ADV	_	_	_	_	_	_	_
+_	beːdun	beːdun	ADV	_	_	_	_	_	_	_
+
+_	t͡ʃaŋitibďak	t͡ʃaŋitibďak	VERB	_	_	_	_	_	_	_
+_	bolo	bolo	ADV	_	_	_	_	_	_	_
+_	biraduː	bira	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	wakunajkadu	wakunajka	NOUN	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	bit͡ʃəːn	bi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	təgəminin	təgəminin	ADV	_	_	_	_	_	_	_
+_	lopokol	lopoko	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	orortin	oro	NOUN	Case=Nom|Number=Plur|Poss=Yes|PossNumber=Plur|PossPerson=3	_	_	_	_	_	_
+_	əmərə	əmə	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	bu	bu	ADV	_	_	_	_	_	_	_
+_	bultat͡ʃawun	bultat͡ʃawun	ADV	_	_	_	_	_	_	_
+_	motilwa	motilwa	ADV	_	_	_	_	_	_	_
+_	bakdaːkəlwə	bakdaːkəlwə	ADV	_	_	_	_	_	_	_
+_	ɲurmaktanal	ɲurmaktanal	ADV	_	_	_	_	_	_	_
+_	dagamanal	dagamanal	ADV	_	_	_	_	_	_	_
+_	tadu	tadu	ADV	_	_	_	_	_	_	_
+_	it͡ʃəmi	it͡ʃə	VERB	VerbForm=Conv	_	_	_	_	_	_
+_	pəktirəniŋnərəw	pəktirəniŋnərəw	ADV	_	_	_	_	_	_	_
+

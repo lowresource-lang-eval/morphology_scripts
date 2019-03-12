@@ -1,0 +1,2852 @@
+
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	pilʼеj	pilʼеj	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tоpan	tоpan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	neːldʼölǯеnǯaŋ	neːldʼölǯеnǯaŋ	ADV	_	_	_	_	_	_	_
+
+_	iraiːtɨ	iraiːt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iraiːtɨ	iraiːtɨ	ADV	_	_	_	_	_	_	_
+_	šöttɨ	šöt	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	qənpɔːqəj	qənpɔːqəj	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təm	tə	ADV	_	_	_	_	_	_	_
+_	ima	ima	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ašša	ašša	PART	_	_	_	_	_	_	_
+_	üŋkɨltɨmpat	üŋkɨltɨmpat	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	ima	ima	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toːna	toːna	DET	_	_	_	_	_	_	_
+_	ima	ima	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nık	nık	ADV	_	_	_	_	_	_	_
+_	kətɨŋɨtɨ	kətɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	imal	imal	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tɛp	tɛp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	ınna	ınna	ADV	_	_	_	_	_	_	_
+_	amnɨt	am	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	toːna	toːna	DET	_	_	_	_	_	_	_
+_	iman	ima	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ašša	ašša	PART	_	_	_	_	_	_	_
+_	əːtɨmpat	əːtɨmpat	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	sukulʼteːla	sukulʼteːl	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	tüːqolamnɔːtɨn	tüːqolamnɔːtɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ta	ta	DET	_	_	_	_	_	_	_
+_	tat	tat	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	moːltɨsantɨ	moːltɨsantɨ	PART	_	_	_	_	_	_	_
+_	imam	ima	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	ijaiːm	ijaiːm	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mašım	mašım	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	tap	tap	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼəːtantɨrorɨnʼnʼɔːtɨn	čʼəːtantɨrorɨnʼnʼɔːtɨn	PART	_	_	_	_	_	_	_
+
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	čʼontoːqɨn	čʼontoː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	omtane	omtane	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	šütɨra	šütɨra	ADV	_	_	_	_	_	_	_
+
+_	pɨrnʼi	pɨrnʼi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼap	čʼap	PART	_	_	_	_	_	_	_
+_	tüjanɨ	tüjanɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ima	ima	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	meːlt	meːlt	ADV	_	_	_	_	_	_	_
+_	čʼäŋkan	čʼäŋkan	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	čʼontoːqɨn	čʼontoː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	mɔːnmɨ	mɔːn	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+_	miːtɨ	miːtɨ	PART	_	_	_	_	_	_	_
+_	qəːn	qəːn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɔːlʼčʼiqulʼamnɨ	ɔːlʼčʼiqulʼamnɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	toːlʼ	toːlʼ	ADJ	_	_	_	_	_	_	_
+_	pɛlʼakmɨt	pɛlʼakmɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nʼännɨ	nʼännɨ	ADV	_	_	_	_	_	_	_
+_	čʼiːqɨlʼtɛlʼčʼa	čʼiːqɨlʼtɛlʼčʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ijanɨ	ijanɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	koptoːntɨ	koptoːntɨ	ADV	_	_	_	_	_	_	_
+_	ıllä	ıllä	ADV	_	_	_	_	_	_	_
+_	omta	omta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mɔːnmɨ	mɔːn	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+_	qəːntɨ	qəːntɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qoːtalʼiːqolamna	qoːtalʼiːqolamna	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tutqälʼɔːlla	tutqälʼɔːll	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nık	nık	ADV	_	_	_	_	_	_	_
+_	kətɨnɨt	kətɨnɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	iːjatɨ	iːja	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	amɨrɛːlʼa	amr	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	ɨlʼlʼä	ɨlʼlʼä	ADV	_	_	_	_	_	_	_
+_	qonta	qonta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	tät	tät	ADJ	_	_	_	_	_	_	_
+_	čʼontoːqɨt	čʼontoː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	mɔːnmɨ	mɔːn	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+_	miːti	miːti	CCONJ	_	_	_	_	_	_	_
+_	qəːntät	qəːntät	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːlʼčʼiqantalʼtimpa	ɔːlʼčʼiqantalʼtimpa	ADV	_	_	_	_	_	_	_
+
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	kətɨsɨt	kətɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ijalɨ	ijal	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kun	kun	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	eŋa	e	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	täm	täm	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	lʼımpät	lʼımpät	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	pelʼätoːlʼ	pelʼätoːlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuːp	tuːp	ADV	_	_	_	_	_	_	_
+_	mišalʼnɨt	mišalʼnɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kutar	kutar	CCONJ	_	_	_	_	_	_	_
+_	qos	qos	PART	_	_	_	_	_	_	_
+_	ponä	ponä	ADV	_	_	_	_	_	_	_
+_	tara	tara	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	köt	köt	NUM	_	_	_	_	_	_	_
+_	tıšamtɨ	tıša	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	mišalʼlʼa	mišalʼlʼa	ADV	_	_	_	_	_	_	_
+_	nɨnä	nɨnä	ADV	_	_	_	_	_	_	_
+_	qəssa	qəs	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	tintena	tintena	DET	_	_	_	_	_	_	_
+_	timnʼäqı	timnʼäqı	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	üːkɨllʼä	üːkɨllʼä	ADV	_	_	_	_	_	_	_
+_	qənpɔːtɨt	qən	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nʼänäqɨt	nʼänäqɨt	ADV	_	_	_	_	_	_	_
+_	nʼänät	nʼänät	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qoːräsä	qoːräsä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	šäqɨmpɔːtɨt	šäqɨ	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	lʼoːsɨ	lʼoːsɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	qaj	qaj	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qolʼqat	qolʼqat	PART	_	_	_	_	_	_	_
+_	qoːrɨt	qoːrɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɔːmtɨt	ɔːmtɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	olɨt	olɨt	ADV	_	_	_	_	_	_	_
+_	pɔːrɨqɨt	pɔːrɨ	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	šäːkɨmpa	šäːkɨmpa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	mɔːttɨ	Mɔːt	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	čʼap	čʼap	PART	_	_	_	_	_	_	_
+_	šeːrnak	šeːrnak	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	nılʼčʼi	nılʼčʼi	DET	_	_	_	_	_	_	_
+_	šitɨ	šitɨ	ADV	_	_	_	_	_	_	_
+_	suːrɨpqı	suːrɨpqı	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sɔːrɨmɨnta	sɔːrɨmɨnta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sailʼ	sailʼ	ADV	_	_	_	_	_	_	_
+_	ɔːqtɨ	ɔːq	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	miːtɨ	miːtɨ	PART	_	_	_	_	_	_	_
+_	tü	tü	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼɔːppa	čʼɔːppa	ADV	_	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	šittälʼ	šit	ADV	_	_	_	_	_	_	_
+_	lʼos	lʼos	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ponä	ponä	ADV	_	_	_	_	_	_	_
+_	läpätɔːlna	läpätɔːl	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	pitčʼe	pitčʼe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tultit	tultit	ADV	_	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	šeːqɔːtɨt	šeːqɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təp	təp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	tutɨrnɨt	tutɨrnɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tutɨrnɨt	tutɨrnɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	čʼatɨŋɨt	čʼatɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tɨnä	tɨnä	DET	_	_	_	_	_	_	_
+_	toː	toː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	loːsirat	loːsirat	ADV	_	_	_	_	_	_	_
+_	qɔːt	qɔːt	PART	_	_	_	_	_	_	_
+_	kɨmɨt	kɨm	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	matkɛːja	matkɛːja	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilʼčʼamtɨ	ilʼčʼamtɨ	PART	_	_	_	_	_	_	_
+_	čʼattɨsɨt	čʼattɨsɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qɔːt	qɔːt	PART	_	_	_	_	_	_	_
+_	kɨmɨn	kɨmɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tintena	tintena	DET	_	_	_	_	_	_	_
+_	iːja	iːja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	kəttɨŋɨt	kəttɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	tɨtɨt	tɨtɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	pɔːrɨ	pɔːrɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	laka	laka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼatɨsa	čʼatɨsa	ADV	_	_	_	_	_	_	_
+_	našak	našak	ADV	_	_	_	_	_	_	_
+_	qəːrätɨ	qəːr	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+_	našak	našak	ADV	_	_	_	_	_	_	_
+_	qəːrätɨ	qəːr	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+
+_	əːtɨmɨntɨ	əːtɨmɨntɨ	ADV	_	_	_	_	_	_	_
+_	iːmantɨ	iːmantɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nɔːnɨ	nɔː	ADP	Case=Ela	_	_	_	_	_	_
+_	ponä	ponä	ADV	_	_	_	_	_	_	_
+_	čʼap	čʼap	PART	_	_	_	_	_	_	_
+_	paqtä	paqtä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	məttɨtɨ	məttɨtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toː	toː	ADV	_	_	_	_	_	_	_
+_	qɨnnɨmpa	qɨnnɨmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	čʼi	čʼi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qəttɨmpat	qəttɨmpat	ADV	_	_	_	_	_	_	_
+_	kostrʼulʼam	kostrʼulʼam	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qəttɨmpat	qəttɨmpat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	me	me	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	kətɛntɔːmɨt	kətɛntɔːmɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	loːs	loːs	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nalʼä	nalʼä	ADV	_	_	_	_	_	_	_
+_	mɨkamtɨ	mɨkamtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qarre	qarre	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼokolɛːŋɨtɨ	čʼokolɛːŋɨtɨ	ADV	_	_	_	_	_	_	_
+
+_	nɨna	nɨna	ADV	_	_	_	_	_	_	_
+_	pona	pona	ADV	_	_	_	_	_	_	_
+_	paqta	paqta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	ponä	ponä	ADV	_	_	_	_	_	_	_
+_	läpätɔːlna	läpätɔːl	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	lʼamɨk	lʼamɨk	ADV	_	_	_	_	_	_	_
+_	ɛːntanə	ɛːntanə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ooo	ooo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	olla	olla	PART	_	_	_	_	_	_	_
+_	sɨrɨ	sɨrɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tintena	tintena	DET	_	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	loːsɨlʼ	loːsɨlʼ	ADJ	_	_	_	_	_	_	_
+_	imat	imat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sɔːlɨp	sɔːlɨp	ADV	_	_	_	_	_	_	_
+_	toː	toː	ADV	_	_	_	_	_	_	_
+_	mišallä	mišal	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	čʼare	čʼare	ADV	_	_	_	_	_	_	_
+_	pačʼalnɨtɨ	pačʼalnɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	loːsɨlʼ	loːsɨlʼ	ADJ	_	_	_	_	_	_	_
+_	imap	ima	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ıllä	ıllä	ADV	_	_	_	_	_	_	_
+_	qəttɛjet	qəttɛjet	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	loːsɨlʼ	loːsɨlʼ	ADJ	_	_	_	_	_	_	_
+_	imaqotap	imaqotap	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼıːmɨsä	čʼıːmɨsä	ADV	_	_	_	_	_	_	_
+_	ɔː	ɔː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ši	ši	ADP	_	_	_	_	_	_	_
+_	säqɨnnɨt	säqɨnnɨt	ADV	_	_	_	_	_	_	_
+_	säqɨnnɨt	säqɨnnɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	moqɨna	moqɨna	ADV	_	_	_	_	_	_	_
+_	tüŋa	tü	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	čʼıːmɨlʼ	čʼıːmɨlʼ	ADJ	_	_	_	_	_	_	_
+_	lıːpɨp	lıːpɨp	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qoːtaptɨmpatɨ	qoːtaptɨmpatɨ	ADV	_	_	_	_	_	_	_
+
+_	seːpɨlak	seːpɨlak	ADV	_	_	_	_	_	_	_
+_	eŋa	e	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	loːsɨlʼ	loːsɨlʼ	ADJ	_	_	_	_	_	_	_
+_	imaqotanɨk	imaqotanɨk	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɔːttɨ	mɔːt	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	qənnɔːtɨn	qən	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	čʼap	čʼap	PART	_	_	_	_	_	_	_
+_	qənnɔːtɨn	qən	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	teːta	teːt	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɛsɨmpɨlʼa	ɛsɨmpɨlʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	omta	omta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	mɔːttɨ	mɔːt	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	šeːrla	šeːr	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	kətɨŋɨtɨ	kətɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	šiŋ	šiŋ	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	moːtäjenta	moːtäjenta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tintena	tintena	DET	_	_	_	_	_	_	_
+_	iːja	iːja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paqtɨlʼe	paqtɨ	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	nüːqɨntɨ	nüːqɨntɨ	ADV	_	_	_	_	_	_	_
+_	nɔːnɨ	nɔː	ADP	Case=Ela	_	_	_	_	_	_
+_	toː	toː	ADV	_	_	_	_	_	_	_
+_	nɨtalɔːlnɨt	nɨtalɔːlnɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	maːčʼo	maːčʼo	ADV	_	_	_	_	_	_	_
+_	qatɔːlnɨt	qatnɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	loːs	loːs	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɨmtɨ	tɨmtɨ	ADV	_	_	_	_	_	_	_
+_	täːto	täːto	ADV	_	_	_	_	_	_	_
+_	ɛsɨkolʼčʼimpa	ɛsɨkolʼčʼimpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	əːtɨmɨntä	əːtɨmɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qäːqɨntɨ	qäːqɨntɨ	PART	_	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qəntɔːqı	qəntɔːqı	PART	_	_	_	_	_	_	_
+
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	čʼontoːqɨt	čʼontoː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	niːlʼ	niːlʼ	ADJ	_	_	_	_	_	_	_
+_	ɛsa	ɛsa	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+
+_	loːsɨ	Loːsɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	irap	ira	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	nasa	na	DET	Case=Instr	_	_	_	_	_	_
+_	kurreit	kurreit	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kusa	kusa	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilʼčʼa	ilʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɨpqälʼaš	ɨpqälʼaš	ADV	_	_	_	_	_	_	_
+
+_	tam	tam	DET	_	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	qajet	qaj	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ketɨ	ketɨ	PART	_	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qajet	qaj	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ketɨ	ketɨ	PART	_	_	_	_	_	_	_
+_	ɛsa	ɛsa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	šäqɨmpa	šäqɨmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qontɨmpa	qontɨmpa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	kutar	kutar	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pittempa	pittempa	PART	_	_	_	_	_	_	_
+
+_	toptɨlʼ	toptɨlʼ	ADJ	_	_	_	_	_	_	_
+_	qaret	qare	ADV	Case=Loc	_	_	_	_	_	_
+_	ɨnnä	ɨnnä	ADV	_	_	_	_	_	_	_
+_	mäša	mäša	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kulʼtɨmpa	kulʼtɨmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	əsɨmɨt	əsɨmɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qɔːtə	qɔːtə	PART	_	_	_	_	_	_	_
+_	šinɨt	šinɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qätta	qätta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+
+_	ɨkɨ	ɨkɨ	PART	Mood=Imp	_	_	_	_	_	_
+_	üntɨšeŋimtijeːtit	üntɨšeŋimtijeːtit	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	čʼöšsä	čʼöš	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	qamtälnɨt	qamtäl	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	moqonä	moqonä	ADV	_	_	_	_	_	_	_
+_	tüːlʼe	tüː	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	loːs	loːs	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nälʼatkinä	nälʼatkinä	ADV	_	_	_	_	_	_	_
+_	toːta	toːta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tan	tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	qajitqo	qajitqo	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	niːk	niː	DET	_	_	_	_	_	_	_
+_	orɨšantɨ	orɨšantɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	istarik	istari	ADJ	_	_	_	_	_	_	_
+_	pervɨj	pervɨj	ADJ	_	_	_	_	_	_	_
+_	voda	voda	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	zamerznet	zamerznet	ADV	_	_	_	_	_	_	_
+
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	laŋkɨčʼčʼa	laŋkɨčʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qaj	qaj	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	orɨčʼčʼa	orɨčʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨːna	nɨː	ADV	_	_	_	_	_	_	_
+_	tünta	tü	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nempoːqɨt	nempoːqɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	qajilʼ	qajlʼ	ADJ	_	_	_	_	_	_	_
+_	laka	laka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qontɨlʼčʼa	qontɨlʼčʼa	ADV	_	_	_	_	_	_	_
+
+_	pošalusta	pošalust	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	lʼaŋɨnʼnʼa	lʼaŋɨnʼnʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qɔːtä	qɔːtä	PART	_	_	_	_	_	_	_
+_	ınnä	ınnä	ADV	_	_	_	_	_	_	_
+_	šık	šık	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	iːjaš	iːjaš	PART	_	_	_	_	_	_	_
+
+_	čʼumpɨ	čʼumpɨ	ADJ	_	_	_	_	_	_	_
+_	nʼarqɨp	nʼarqɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	iːŋɨtɨ	iː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	solotalʼ	solotalʼ	ADJ	_	_	_	_	_	_	_
+_	kusoksä	kusoksä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	miːŋatɨ	miːŋatɨ	ADV	_	_	_	_	_	_	_
+
+_	lʼa	lʼa	PART	_	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	sɨpɨnčʼa	sɨpɨnčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	žirnak	žirnak	ADV	_	_	_	_	_	_	_
+_	ɛːŋa	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sɨpɨnčʼap	sɨpɨnčʼap	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iːsam	iː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ɛna	ɛna	PART	_	_	_	_	_	_	_
+
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	sɨpɨnčʼantɨsa	sɨpɨnčʼantɨsa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qənta	qən	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qəntanəəə	qən	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qɔːtɨ	qɔːtɨ	PART	_	_	_	_	_	_	_
+_	jajcatɨ	jajcatɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	to	to	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mnogo	mnogo	ADV	_	_	_	_	_	_	_
+_	čʼıŋkɨp	čʼıŋkɨp	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	iːsam	iː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ɛna	ɛna	PART	_	_	_	_	_	_	_
+_	ɛŋtoːqo	ɛŋtoːqo	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɛŋtɨ	ɛŋtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼɔːtɨ	čʼɔːtɨ	ADP	_	_	_	_	_	_	_
+
+_	qɔːta	qɔːt	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	töːkop	töːkop	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iːsam	iː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ɛna	ɛna	PART	_	_	_	_	_	_	_
+
+_	tintena	tintena	DET	_	_	_	_	_	_	_
+_	mɨka	mɨka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼɔːtɨ	čʼɔːtɨ	ADP	_	_	_	_	_	_	_
+_	toː	toː	ADV	_	_	_	_	_	_	_
+_	miŋɨtɨ	mi	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	töːkotɨ	töːkotɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	milʼčʼitɨ	mi	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mɨkat	mɨkat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼɔːtɨ	čʼɔːtɨ	ADP	_	_	_	_	_	_	_
+
+_	tan	Tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	peːŋal	peː	VERB	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_	_	_
+_	irra	irra	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	mɨkamɨ	mɨkam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tap	tap	DET	_	_	_	_	_	_	_
+_	peːntap	peːntap	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ila	ila	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ila	ila	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	loːs	loːs	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taštɨ	taštɨ	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	soqɨčʼɛnnɨnta	soqɨčʼɛnnɨnta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sɨlʼčʼapɨlʼčʼat	sɨlʼčʼapɨlʼčʼat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qəš	qəš	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kučʼa	kučʼa	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qatɨsä	qatɨsä	PART	_	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	mɔːtan	mɔːta	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɔːqqɨt	ɔːq	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	pɔːrkä	pɔːrkä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	meːntɨt	meːntɨt	ADV	_	_	_	_	_	_	_
+
+_	tat	tat	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	mašıp	mašıp	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ɨkɨ	ɨkɨ	PART	Mood=Imp	_	_	_	_	_	_
+_	šıp	šıp	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	kətäšik	kətäšik	PART	_	_	_	_	_	_	_
+
+_	konna	konna	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	tünta	tü	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	pɔːrkäp	pɔːrkä	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	qoŋot	qoŋot	ADV	_	_	_	_	_	_	_
+
+_	pɔːrkä	pɔːrkä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kətätɨ	kət	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+_	sɨlʼšapɨlʼša	sɨlʼšapɨlʼša	PART	_	_	_	_	_	_	_
+_	qəš	qəš	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɔːtqɨn	mɔːt	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	ɔːmta	ɔːmta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	sɨlʼčʼapɨlʼčʼa	sɨlʼčʼapɨlʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qəš	qəš	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qattüje	qattüje	ADV	_	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	mɔːtqɨn	mɔːt	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	ɛːŋa	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mɔːttɨ	mɔːt	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	šuː	šuː	ADP	_	_	_	_	_	_	_
+_	nʼanna	nʼanna	ADV	_	_	_	_	_	_	_
+_	püŋkolʼna	püŋkolʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	rɛmkɨmɔːtqolamna	rɛmkɨmɔːtqolamna	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kättɨtɨ	kättɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	sɨlʼčʼapɨlʼčʼa	sɨlʼčʼapɨlʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qəš	qəš	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɔːtqɨn	mɔːt	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	ɛːiŋa	ɛːiŋa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	təttɨt	təttɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	moːrɨ	moːrɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kolʼalʼtɨntäkkɨt	kolʼalʼtɨntäkkɨt	ADV	_	_	_	_	_	_	_
+_	šölʼqumɨtɨtkine	šölʼqumɨtɨtkine	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tüŋa	tü	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	loːsɨ	Loːsɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kätäsɨtɨ	kätäsɨtɨ	ADV	_	_	_	_	_	_	_
+_	ɔːmtasik	ɔːmtasik	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	teːkäsik	teːkäsik	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tɛnɨrpa	tɛnɨrpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kutʼä	kutʼä	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qateqo	qateqo	PART	_	_	_	_	_	_	_
+
+_	karmanʼqɨntɨ	karmanʼqɨnt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qosɨtɨ	qo	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	mɨšʼaltukat	mɨšʼaltuka	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	qopɨ	qopɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	panɨsɨtɨ	panɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	märqɨlɔː	märqɨlɔː	ADV	_	_	_	_	_	_	_
+_	ɛsɨsa	ɛsɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɔːmtɨlʼa	ɔːmtɨ	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	siqlaltɨmpa	siqlaltɨmpa	ADV	_	_	_	_	_	_	_
+_	tuːmtɨ	tuː	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	mɨsʼsʼɛːsʼa	mɨsʼsʼɛːsʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tıːmpelä	tıːmpelä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kɨp	kɨp	ADV	_	_	_	_	_	_	_
+_	nʼoːtɨqolapsɨtɨ	nʼoːtɨqolapsɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	takkɨlʼɔː	takkɨlʼɔː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilʼi	ilʼi	CCONJ	_	_	_	_	_	_	_
+_	toː	toː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tılʼtʼara	tılʼtʼara	ADV	_	_	_	_	_	_	_
+_	tıːmpelʼa	tıːmpelʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	šitɨ	šitɨ	ADV	_	_	_	_	_	_	_
+_	tümɨt	tümɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	pɔːrɨntɨ	pɔːrɨ	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	nʼantɨ	nʼantɨ	ADV	_	_	_	_	_	_	_
+_	nʼaqqɨlʼlʼä	nʼaqqɨlʼlʼä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nʼakkɨsɨtɨ	nʼakkɨsɨtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɨːtɨsɨtɨ	ɨːtɨsɨtɨ	ADV	_	_	_	_	_	_	_
+_	čʼesɨn	čʼesɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kɨt	kɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	sünnʼentɨ	sünnʼentɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sünčʼöntɨ	sünčʼöntɨ	ADV	_	_	_	_	_	_	_
+
+_	loːsɨ	Loːsɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tünta	tü	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	suːmpɨla	suːmpɨla	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	šitɨ	šitɨ	ADV	_	_	_	_	_	_	_
+_	nalʼat	na	PART	_	_	_	_	_	_	_
+
+_	loːsɨ	Loːsɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qontɨrtättɨ	qontɨrtättɨ	ADV	_	_	_	_	_	_	_
+_	čʼäːŋka	čʼäːŋka	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	čʼesɨnap	čʼesɨnap	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tašıntɨ	tašıntɨ	ADV	_	_	_	_	_	_	_
+_	amtap	amtap	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mannɨpɨlɨmɨt	mannɨpɨlɨmɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	kutɨn	kutɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɔːne	nɔː	ADP	Case=Ela	_	_	_	_	_	_
+_	suːrɨkijat	suːrɨkijat	ADV	_	_	_	_	_	_	_
+_	nɨrkɨmɔːttɔːtɨt	nɨrkɨmɔːttɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	namɨ	namɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ors	or	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	ɛːŋa	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɔmtɨjqo	ɔmtɨjqo	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	näjaiːmtɨ	näjaiːmtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ponä	ponä	ADV	_	_	_	_	_	_	_
+_	sɔːntɨrqa	sɔːntɨrqa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	üːtɨmmɨmpat	üːtɨmmɨmpat	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	naqaj	naqaj	PART	_	_	_	_	_	_	_
+_	loːsɨ	loːsɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɛpäːqım	tɛp	PRON	Case=Acc|Number=Dual	_	_	_	_	_	_
+_	nʼoːkkɨŋɨt	nʼoːkkɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	loːsɨ	loːsɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	šöttɨ	šöt	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	qənpa	qən	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	suːrɨjjä	suːrɨj	ADV	VerbForm=Conv	_	_	_	_	_	_
+
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toːj	toːj	ADV	_	_	_	_	_	_	_
+_	pɛläqqɨj	pɛläqqɨj	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	čʼuːrantɨ	čʼuːrantɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əmɨmtɨ	əmɨ	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	omtɨltɨmpat	omtɨltɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kəːj	kəːj	PART	_	_	_	_	_	_	_
+_	jaqqontɨ	jaqqontɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nɨː	nɨː	ADV	_	_	_	_	_	_	_
+_	qənnɛja	qənnɛja	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	ilɨqolampa	ilɨqolampa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ilʼčʼantɨnɨk	ilʼčʼa	NOUN	Case=All|Number=Sing|Person=3	_	_	_	_	_	_
+_	qəllä	qəl	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	nık	nık	ADV	_	_	_	_	_	_	_
+_	tomnɨt	tom	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɔmtɨjqoj	ɔmtɨjqoj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilʼčʼa	ilʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mäkkä	mäkkä	PRON	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	pičʼɨ	pičʼɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pila	pila	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sɔːttɨl	sɔːttɨl	ADV	_	_	_	_	_	_	_
+_	tɛːmtɨ	tɛːmtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	poqqɨ	poqqɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mitɨ	mitɨ	PART	_	_	_	_	_	_	_
+
+_	man	Man	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɨmtɨ	tɨmtɨ	ADV	_	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	ilɛntak	ilɛntak	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kuntɨ	kuntɨ	ADV	_	_	_	_	_	_	_
+_	qənnɨmpa	qən	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	mɛrkɨj	mɛrkɨj	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	palʼčʼa	palʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	meː	meː	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	mɔːtiːmɨt	mɔːtiːmɨt	ADV	_	_	_	_	_	_	_
+_	muntɨk	muntɨk	DET	_	_	_	_	_	_	_
+_	nɨtalä	nɨtalä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tomnɔːtɨn	tom	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qumɨt	qum	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+
+_	ütɨl	ütɨl	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	loːsɨ	loːsɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iːjamtɨ	iːja	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	quraltɨŋɨt	quraltɨŋɨt	ADV	_	_	_	_	_	_	_
+_	mol	mol	PART	_	_	_	_	_	_	_
+_	qaj	qaj	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qum	qum	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːmnɨntɨ	ɔːmnɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	meːtɨntal	meːtɨ	VERB	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_	_	_
+_	tan	tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɨmtɨ	tɨmtɨ	ADV	_	_	_	_	_	_	_
+_	ütɨl	ütɨl	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	loːsɨn	loːsɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	iːja	iːja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Markɨnʼčʼanɨk	Markɨnʼčʼa	NOUN	Case=All|Number=Sing	_	_	_	_	_	_
+_	soqɨnʼčʼa	soqɨnʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qənpa	qən	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	qənpa	qən	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	qata	qata	CCONJ	_	_	_	_	_	_	_
+_	qaj	qaj	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tat	tat	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	meːmpal	meː	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	onšünčʼɨk	onšünčʼɨk	ADV	_	_	_	_	_	_	_
+_	tomnɨt	tom	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toː	toː	ADV	_	_	_	_	_	_	_
+_	ürɨptätɨ	ürɨptätɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	meːtɨ	meː	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+_	orɨptaltät	orɨptaltät	PART	_	_	_	_	_	_	_
+
+_	a	a	INTJ	_	_	_	_	_	_	_
+_	kutɨ	kutɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	məttɨm	məttɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	meːtɛntɨnɨt	meːtɛntɨnɨt	ADV	_	_	_	_	_	_	_
+_	namɨ	namɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	mərqɨmɨtqa	mərqɨ	NOUN	Case=Tra|Number=Sing	_	_	_	_	_	_
+_	ɛːnta	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tomnɨt	tom	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tam	tam	DET	_	_	_	_	_	_	_
+_	poː	poː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nomtɨ	nom	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	ınnä	ınnä	ADV	_	_	_	_	_	_	_
+_	jattɨmɔːtpa	jattɨmɔːtpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	a	a	INTJ	_	_	_	_	_	_	_
+_	kutɨ	kutɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mərqɨ	mərqɨ	ADJ	_	_	_	_	_	_	_
+_	qumɨtqa	qumɨtqa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛːnta	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	soqɨnʼčʼa	soqɨnʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	säqqɨn	säqqɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɔːmtɨjqo	ɔːmtɨj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	a	a	INTJ	_	_	_	_	_	_	_
+_	kutɨ	kutɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	məttɨm	məttɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	orqɨlpat	orqɨl	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	namɨ	namɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	mərqɨ	mərqɨ	ADJ	_	_	_	_	_	_	_
+_	qumɨtqa	qumɨtqa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛːnta	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tomnɨt	tom	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	kutɨ	kutɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uːkɨn	uːkɨ	ADV	Case=Loc	_	_	_	_	_	_
+_	ɛːnta	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	namɨ	namɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	mərqɨmɨtqa	mərqɨ	NOUN	Case=Tra|Number=Sing	_	_	_	_	_	_
+_	ɛːnta	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tomnɨt	tom	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ɔmtɨjqoːn	ɔmtɨj	ADJ	Case=Gen	_	_	_	_	_	_
+_	nɔːtɨ	nɔːtɨ	ADV	_	_	_	_	_	_	_
+_	čʼəm	čʼəm	PART	_	_	_	_	_	_	_
+_	čʼıːtɔːtɨn	čʼıːtɔː	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Markɨnʼčʼanɨk	Markɨnʼčʼa	NOUN	Case=All|Number=Sing	_	_	_	_	_	_
+_	nıšqɨqɨntɨtqa	nıšqɨqɨntɨtqa	ADV	_	_	_	_	_	_	_
+
+_	šäqqɨmpɔːtɨn	šäqqɨmpɔːtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	mɔːtqɨn	mɔːt	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	qarɨn	qarɨ	ADV	Case=Loc	_	_	_	_	_	_
+_	nɔːkɨrtɨn	nɔːkɨr	NUM	Number=Plur|Person=3	_	_	_	_	_	_
+_	suːrɨjjä	suːrɨj	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	qənpɔːtɨn	qən	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	mɔːtqɨn	mɔːt	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	qəːčʼɨmpɔːtɨn	qəːčʼɨ	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	čʼim	čʼim	ADV	_	_	_	_	_	_	_
+_	mušɨrɔːlqa	mušɨrɔːlqa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	nʼäjɨm	nʼäj	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	piralqɨntoːqa	piralqɨntoːqa	ADV	_	_	_	_	_	_	_
+_	mačʼɨl	mačʼɨl	ADJ	_	_	_	_	_	_	_
+_	loːsɨm	loːsɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	mačʼɨn	mačʼɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɔːmtɨjqo	ɔːmtɨj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	täːlɨ	täːlɨ	ADV	_	_	_	_	_	_	_
+_	məšɨlä	məšɨ	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	olqa	olqa	ADV	_	_	_	_	_	_	_
+_	amɨrpɔːtɨn	amr	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	suːrɨjjä	suːrɨj	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	qənpɔːtɨn	qən	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	imaqota	imaqota	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	säqqɨn	säqqɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	loːsɨn	loːsɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	nɔːnɨ	nɔː	ADP	Case=Ela	_	_	_	_	_	_
+_	toː	toː	ADV	_	_	_	_	_	_	_
+_	piːtɨmpat	piːtɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	nʼäjɨm	nʼäj	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	meːqa	meː	VERB	VerbForm=Inf	_	_	_	_	_	_
+_	qəːčʼɨmpɔːtɨn	qəːčʼɨ	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	toːn	toː	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	loːsɨm	loːsɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+
+_	čʼeːlɨ	čʼeːlɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kurɨtpa	kurɨtpa	ADV	_	_	_	_	_	_	_
+_	čʼeːlʼ	čʼeːlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɔːtɨ	nɔːtɨ	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	məttɨm	məttɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	qommɨntɨt	qommɨntɨt	ADV	_	_	_	_	_	_	_
+
+_	məttɨm	məttɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	nʼoːmpat	nʼoːmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nʼoːmpat	nʼoːmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ılqɨn	ıl	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	seːlʼčʼɨ	seːlʼčʼɨ	NUM	_	_	_	_	_	_	_
+_	mɔːtat	mɔːta	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	tɔːqɨn	tɔːqɨn	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	DET	_	_	_	_	_	_	_
+_	imaqota	imaqota	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːmnɨntɨ	ɔːmnɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	imaqota	imaqota	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uːkɨn	uːkɨ	ADV	Case=Loc	_	_	_	_	_	_
+_	sɨːqɨlpa	sɨːqɨlpa	ADV	_	_	_	_	_	_	_
+_	ınnä	ınnä	ADV	_	_	_	_	_	_	_
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	sɨːqɨlpɨntɨ	sɨːqɨlpɨntɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	imaqota	imaqota	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	näkäŋɨt	näkä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ompä	ompä	ADV	_	_	_	_	_	_	_
+_	ınnä	ınnä	ADV	_	_	_	_	_	_	_
+_	tulɨčʼčʼɛnta	tulɨčʼčʼɛnta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	imaqota	imaqota	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	paŋɨsä	paŋɨ	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	tɛːmtɨp	tɛːmtɨp	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tiː	tiː	ADV	_	_	_	_	_	_	_
+_	mattɛːŋɨt	mattɛːŋɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tam	tam	DET	_	_	_	_	_	_	_
+_	ınnä	ınnä	ADV	_	_	_	_	_	_	_
+_	sɨːqɨlqa	sɨːqɨl	VERB	VerbForm=Inf	_	_	_	_	_	_
+_	tačʼalpak	tačʼalpak	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	tomnɨt	tom	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Markɨnʼčʼa	Markɨnʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	qumɨn	qum	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	na	na	DET	_	_	_	_	_	_	_
+_	qəːttoːqɨn	qəːttoː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	Markɨnʼčʼam	Markɨnʼčʼa	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ɔːmtɨjqoːtqa	ɔːmtɨjqoːtqa	ADV	_	_	_	_	_	_	_
+_	meːmpɔːtɨn	meːmpɔːtɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	Qolʼsaqo	Qolʼsaqo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɛnɨmɨtɨ	tɛnɨmɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tüntɔːtɨt	tü	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	rusʼaksä	rusʼaksä	ADV	_	_	_	_	_	_	_
+_	puškatsä	puškatsä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	täpɨp	täp	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	orqəlʼtɛntɔːtɨt	orqəlʼtɛntɔːtɨt	PART	_	_	_	_	_	_	_
+_	omtɨltɛntɔːtɨt	omtɨlt	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	tʼurmantɨ	tʼurmantɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	vremʼaqɨt	vremʼa	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	čʼeːlʼe	čʼeːlʼe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sɨːrɨp	sɨːrɨp	ADV	_	_	_	_	_	_	_
+_	qəssɨtɨ	qəssɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ketɨmtɨ	ketɨmtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kɨmsa	kɨmsa	ADV	_	_	_	_	_	_	_
+_	qamtɨsɨtɨ	qamtɨsɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	İčakäčika	i̇čakäči	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+_	imlʼantɨkinı	imlʼa	NOUN	Case=All|Number=Sing|Person=3	_	_	_	_	_	_
+_	ta	ta	DET	_	_	_	_	_	_	_
+_	lʼentʼajŋɔːnt	lʼentʼajŋɔːnt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼajnik	čʼajnik	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	asa	asa	PART	_	_	_	_	_	_	_
+_	kɨkantɨ	kɨka	VERB	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_	_	_
+_	musɨrɨqo	musɨrɨ	VERB	VerbForm=Inf	_	_	_	_	_	_
+
+_	nʼanʼɨm	nʼanʼɨ	ADV	_	_	_	_	_	_	_
+_	apsɨp	apsɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	tottɨsɨtɨ	tottɨsɨtɨ	ADV	_	_	_	_	_	_	_
+_	lʼemtɨ	lʼemtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	*känpɨlä	*känpɨ	ADV	VerbForm=Conv	_	_	_	_	_	_
+
+_	soma	Soma	ADJ	_	_	_	_	_	_	_
+_	qumɨp	qum	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	matɨrqo	matɨrqo	ADV	_	_	_	_	_	_	_
+
+_	me	me	PRON	Case=Gen|Number=Plur	_	_	_	_	_	_
+_	iːmaiːmɨt	iːma	NOUN	Case=Nom|Number=Plur|Person=1	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	lʼentʼajtɔːtɨt	lʼentʼajtɔː	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qarɨt	qarɨt	ADV	_	_	_	_	_	_	_
+_	kätɨsɔːtɨt	kätɨ	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	Qolʼsaq	Qolʼsaq	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iranɨk	ira	NOUN	Case=All|Number=Sing	_	_	_	_	_	_
+_	meː	meː	PRON	Case=Gen|Number=Plur	_	_	_	_	_	_
+_	imaiːmɨt	ima	NOUN	Case=Nom|Number=Plur|Person=1	_	_	_	_	_	_
+_	melʼte	melʼte	ADV	_	_	_	_	_	_	_
+_	qusɔːtɨt	qu	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	kazat	kaza	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	qässɔːtɨt	qäs	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	İčʼakäčʼikap	İčʼakäčʼika	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	qäntɨsɔːtɨt	qäntɨ	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	türmantɨ	türmantɨ	ADV	_	_	_	_	_	_	_
+
+_	İčʼikäčʼika	İčʼikäčʼika	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	laŋkalʼsa	laŋkalʼsa	ADV	_	_	_	_	_	_	_
+_	ijoː	ijoː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toː	toː	ADV	_	_	_	_	_	_	_
+_	maːtalʼolʼsɨt	maːtalʼolʼsɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	Mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ippap	ippap	ADV	_	_	_	_	_	_	_
+_	üttɨ	üt	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	pattɨrsak	pattɨrsak	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sıːt	sıː	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	qopɨp	qopɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	iːsap	iː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	atɨlʼsitɨ	atɨlʼs	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sıːt	sıː	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	qopɨtɨp	qopɨtɨp	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tämqumnɨk	tämqumnɨk	ADV	_	_	_	_	_	_	_
+
+_	täpɨp	täp	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	süttɛːsitɨ	süttɛːsitɨ	PART	_	_	_	_	_	_	_
+_	sɨːrɨt	sɨːrɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	kotantɨ	kotantɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	kazat	kaza	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	taːtɨsɔːtɨt	taːtɨsɔːtɨt	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	marqɨ	marqɨ	ADJ	_	_	_	_	_	_	_
+_	püp	pü	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	sɔːrɨqolapsɔːtɨt	sɔːrɨqolapsɔːtɨt	ADV	_	_	_	_	_	_	_
+
+_	toːnna	toːnna	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼuːrɨla	čʼuːrɨla	PART	_	_	_	_	_	_	_
+_	laŋkɨnʼnʼa	laŋkɨnʼnʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kotaqɨt	kota	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	Mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tämqumoŋok	tämqum	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+
+_	bɨtta	bɨtt	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ütenɨlʼ	ütenɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nomqɨn	nomqɨn	ADV	_	_	_	_	_	_	_
+_	ɛːsak	ɛː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	nʼi	nʼi	PART	_	_	_	_	_	_	_
+_	kun	kun	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	asa	asa	PART	_	_	_	_	_	_	_
+_	qontal	qontal	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tɔːqɨtɨ	tɔːqɨtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	tovarɨt	tovarɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	to	to	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	passaıːmpa	pass	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	pusqatɔːlpa	pusqatɔːl	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	pɨrniː	pɨrniː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ilimpɔːqı	ilimpɔːqı	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	ɨralʼ	ɨralʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨqaːqi	mɨqaːqi	ADV	_	_	_	_	_	_	_
+
+_	qumɨn	qum	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	qaqlɨntɨ	qaqlɨ	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	tilčʼimpa	tilčʼimpa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	čʼiw	čʼi	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	čʼaw	čʼaw	ADV	_	_	_	_	_	_	_
+_	korpɨtqantantɨmpatɨ	korpɨtqantantɨmpatɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	korpɨtqolampatɨ	korpɨtqolampatɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kuntok	kuntok	ADV	_	_	_	_	_	_	_
+_	ɛːŋa	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qalʼe	qalʼe	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	nı	nı	ADV	_	_	_	_	_	_	_
+_	kotat	kotat	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	täːl	täːl	ADV	_	_	_	_	_	_	_
+_	tüntɔːmɨt	tüntɔːmɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nʼoolʼ	nʼoo	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	porqɨrä	porqɨrä	PART	_	_	_	_	_	_	_
+_	amnäqɨntə	amnäqɨntə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nı	nı	ADV	_	_	_	_	_	_	_
+_	kətoŋɨt	kətoŋɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Apsɨkɔːlɨt	apsɨkɔːlɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qontatot	qontatot	ADV	_	_	_	_	_	_	_
+
+_	pančʼerla	pančʼerl	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	apsɨqɨlʼ	apsɨqɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	totɔːtɨt	totɔːtɨt	ADV	_	_	_	_	_	_	_
+
+_	nɨːnä	nɨːnä	ADV	_	_	_	_	_	_	_
+_	meːšat	meːša	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	qopɨlʼ	qopɨlʼ	ADJ	_	_	_	_	_	_	_
+_	porqɨlʼ	porqɨlʼ	ADJ	_	_	_	_	_	_	_
+_	timnʼätɨ	timnʼä	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	kətɨŋɨtɨ	kətɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	märqa	märqa	ADJ	_	_	_	_	_	_	_
+_	timnʼäntɨnɨk	timnʼäntɨnɨk	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Apa	apa	ADV	_	_	_	_	_	_	_
+_	quptäːqɨntɨ	quptäː	NOUN	Case=Loc|Number=Sing|Person=3	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	kəttɨsɨtɨ	kəttɨsɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	pit	pi	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	poːsä	poːsä	ADV	_	_	_	_	_	_	_
+_	kɨpa	kɨpa	ADJ	_	_	_	_	_	_	_
+_	ijatät	ijatät	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	latarelʼ	latarelʼ	ADV	_	_	_	_	_	_	_
+_	konna	konna	ADV	_	_	_	_	_	_	_
+_	kurolʼna	kurolʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təpɨt	təp	PRON	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	koptɨ	koptɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	moqonäqɨt	moqonäqɨt	ADV	_	_	_	_	_	_	_
+_	mɔːtat	mɔːta	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	puːtɨlqɨt	puːtɨlqɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨmtɨ	nɨmtɨ	ADV	_	_	_	_	_	_	_
+_	totta	totta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɔːmtilʼ	ɔːmtilʼ	ADJ	_	_	_	_	_	_	_
+_	qoːt	qoː	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	nälʼa	nälʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	munɨntɨ	munɨ	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	kəːsɨp	kəːsɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	mɨkantɨ	mɨka	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	səŋkij	səŋkij	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	pirnatɨ	pirna	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	mɔːtɨt	mɔːt	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	pɔːrontɨ	pɔːro	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	nɨː	nɨː	ADV	_	_	_	_	_	_	_
+_	ɨːtɨmpat	ɨːtɨmpat	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qumɨtɨt	qum	NOUN	Case=Gen|Number=Plur	_	_	_	_	_	_
+_	oraqa	oraqa	ADP	_	_	_	_	_	_	_
+
+_	poːsukɨlʼ	poːsuk	ADJ	_	_	_	_	_	_	_
+_	pɔːrɨqɨt	pɔːrɨ	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	mɨkantɨ	mɨka	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	säŋkɨjip	säŋkɨj	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	mišeltɛntɨŋɨtɨ	mišeltɛntɨŋɨtɨ	ADV	_	_	_	_	_	_	_
+
+_	nɨːna	nɨː	ADV	_	_	_	_	_	_	_
+_	üːtɨt	üːtɨ	ADV	Case=Loc	_	_	_	_	_	_
+_	lɨpkomɔːlʼlʼa	lɨpkomɔːlʼlʼa	ADV	_	_	_	_	_	_	_
+_	qumɨt	qum	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	čʼuntɨsa	čʼuntɨ	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	oraqolamnɔːtɨt	oraqolamnɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɔːmtɨlʼ	ɔːmtɨlʼ	ADJ	_	_	_	_	_	_	_
+_	qoːt	qoː	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	nälʼat	nälʼat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨkat	mɨkat	ADV	_	_	_	_	_	_	_
+_	säŋkɨlʼ	säŋkɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	munäntɨ	munä	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	kəːssɨ	kəːssɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨːn	nɨːn	ADV	_	_	_	_	_	_	_
+_	pirnʼatä	pirnʼatä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təpɨt	təp	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	tɨmnʼaqä	tɨmnʼaqä	ADV	_	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	čʼuntɨsä	čʼuntɨsä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	oraŋɔːtɨt	oraŋɔːtɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qumɨtɨsa	qumɨtɨsa	ADV	_	_	_	_	_	_	_
+
+_	äsalʼ	äsa	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tinta	tinta	PART	_	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	topsɨtɨ	topsɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sʼitɨmtalilʼ	sʼitɨmtalilʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pit	pi	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	tan	tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	šäqɨquntaːqa	šäqɨquntaːqa	PART	_	_	_	_	_	_	_
+
+_	timnʼäːqıtɨ	timnʼäːqıt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qontalʼɛlʼčʼɔːqa	qontalʼɛlʼčʼɔːqa	ADV	_	_	_	_	_	_	_
+
+_	nılʼčʼilʼ	nılʼčʼilʼ	ADJ	_	_	_	_	_	_	_
+_	čʼuntɨtä	čʼuntɨtä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mitä	mitä	ADV	_	_	_	_	_	_	_
+_	seːjtä	seːjtä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sıːčʼa	sıːčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uːkalʼ	uːkalʼ	ADJ	_	_	_	_	_	_	_
+_	čʼuntanɨ	čʼuntanɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɔːnɨ	nɔː	ADP	Case=Ela	_	_	_	_	_	_
+_	som	som	ADJ	_	_	_	_	_	_	_
+_	ɛːŋa	ɛː	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+
+_	kurkom	kurko	ADV	_	_	_	_	_	_	_
+_	kolʼeraltɨmpɔːtɨt	kolʼeraltɨmpɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mɔːtät	mɔːt	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɔːmɨqät	ɔːmɨqät	ADV	_	_	_	_	_	_	_
+
+_	to	to	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	moːraːqɨt	moːraːqɨt	ADV	_	_	_	_	_	_	_
+_	əsɨtɨ	əsɨ	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	soqɨsʼpatɨ	soqɨsʼpatɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tan	tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɔːkɨrtalij	nɔːkɨr	ADJ	_	_	_	_	_	_	_
+_	pit	pi	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	onantɨ	onantɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sa	sa	PART	Mood=Opt	_	_	_	_	_	_
+_	qontɨlantɨ	qontɨlantɨ	PART	_	_	_	_	_	_	_
+
+_	nɨːnä	nɨːnä	ADV	_	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	mulaltɨmpatij	mulaltɨmpatij	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	koŋpɔːtɨn	koŋpɔːtɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ni	ni	PART	_	_	_	_	_	_	_
+_	kutɨ	kutɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	asʼa	asʼa	PART	_	_	_	_	_	_	_
+_	iːtotɨ	iːtotɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təp	təp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	ütɨlʼ	ütlʼ	ADJ	_	_	_	_	_	_	_
+_	tuːnta	tuː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tülʼ	tü	ADJ	_	_	_	_	_	_	_
+_	tɔːktɨ	tɔːk	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	čʼɔːtäntɨtɨ	čʼɔːtäntɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tɔːptilʼ	tɔːpti	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qarät	qarät	PART	_	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	qəntɔːtɨt	qən	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	uːčʼela	uːčʼe	ADV	VerbForm=Conv	_	_	_	_	_	_
+
+_	tına	tına	DET	_	_	_	_	_	_	_
+_	čʼontaqɨlʼ	čʼontalʼ	ADJ	Case=Loc	_	_	_	_	_	_
+_	timnʼantɨ	timnʼantɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼɔːtätɨlʼ	čʼɔːtätɨlʼ	ADV	_	_	_	_	_	_	_
+_	čʼunnɨmtɨ	čʼunnɨ	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	pona	pona	ADV	_	_	_	_	_	_	_
+_	mišalla	mišal	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	saralɔːlɨtɨ	saralɔːlɨtɨ	ADV	_	_	_	_	_	_	_
+
+_	toːnna	toːnna	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	timnʼaːqätij	timnʼaːqätij	PART	_	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	čʼiːtokkɨjesʼa	čʼiːtokkɨjesʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tap	tap	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tätaqɨlʼ	tätaqɨlʼ	PART	_	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iːŋɨtɨ	iː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mänɨlʼ	mänɨlʼ	ADJ	_	_	_	_	_	_	_
+_	pɛlʼaqqɨlʼ	pɛlʼaqqɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iːŋɨtɨ	iː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təp	təp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pona	pona	ADV	_	_	_	_	_	_	_
+_	tanta	tanta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼɔːtätɨlʼ	čʼɔːtätɨlʼ	PART	_	_	_	_	_	_	_
+_	čʼunnɨmtɨ	čʼunnɨ	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	saralnɨtɨ	saral	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨːnɨ	nɨː	ADV	Case=Ela	_	_	_	_	_	_
+_	qumɨtɨp	qum	NOUN	Case=Acc|Number=Plur	_	_	_	_	_	_
+_	taqqälʼlʼä	taqqälʼlʼä	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	üːtɨmpɨqɨlomnotɨ	üːtɨmpɨqɨlomnotɨ	ADV	_	_	_	_	_	_	_
+
+_	opsɨtɨt	opsɨtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	üːttet	üːttet	ADV	_	_	_	_	_	_	_
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tottɨjɛnta	tottɨjɛnta	PART	_	_	_	_	_	_	_
+
+_	ira	ira	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	ɛsa	ɛsa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	amɨrqolamnɔːtɨt	amɨrqolamnɔːtɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ponä	ponä	ADV	_	_	_	_	_	_	_
+_	tantɨŋɨlɨt	tantɨŋɨlɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qälit	qäli	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	nık	nık	ADV	_	_	_	_	_	_	_
+_	kətɔːtät	kətɔːtät	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ilʼčʼa	ilʼčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	šoŋolʼaj	šoŋolʼaj	ADV	_	_	_	_	_	_	_
+_	qajetqe	qajetqe	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	našak	našak	ADV	_	_	_	_	_	_	_
+_	poːsä	poːsä	ADV	_	_	_	_	_	_	_
+_	säːlal	säːlal	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	šoŋol	šoŋol	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨ	mɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tü	tü	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	amtɨt	am	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	tət	tət	ADJ	_	_	_	_	_	_	_
+_	čʼontoːqɨt	čʼontoː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	poːqɨnä	poːqɨnä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɔːttɨ	mɔːt	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	tülʼ	tülʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	purɨšilʼ	purɨšilʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	laka	laka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	alʼčʼinta	alʼčʼi	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	amnaiːtɨ	amnaiːt	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	tüp	tü	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	qämmɨntɔːtɨt	qämmɨntɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	nʼomalʼ	nʼomalʼ	ADJ	_	_	_	_	_	_	_
+_	porqaj	porqaj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	irat	ira	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	imap	ima	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	qəːčʼisɨlɨt	qəːčʼisɨlɨt	ADV	_	_	_	_	_	_	_
+
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	pit	pi	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	šäqɔːtɨt	šäqɔː	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	naqaj	naqaj	PART	_	_	_	_	_	_	_
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iːjatɨ	iːja	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	tümpa	tü	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	täpɨt	täp	PRON	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	nɔːkɨr	nɔːkɨr	NUM	_	_	_	_	_	_	_
+_	timnʼäsik	timnʼäsik	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	morat	mora	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	təː	təː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	särɨ	särɨ	ADJ	_	_	_	_	_	_	_
+_	qorqɨp	qorqɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	qätqa	qät	VERB	VerbForm=Inf	_	_	_	_	_	_
+_	qənnɔːtɨt	qən	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təp	təp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	sä	sä	PART	Mood=Opt	_	_	_	_	_	_
+_	orɨmkɨlɨmpa	orɨm	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	nʼennä	nʼennä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qɨntalta	qɨntalta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	üːnɨmtɨ	üːnɨmtɨ	ADV	_	_	_	_	_	_	_
+_	paŋɨsa	paŋɨsa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	matɨŋɨtɨ	matɨŋɨtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	qumpa	qu	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nop	nop	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taŋɨmpa	taŋɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	qaqlɨntɨ	qaqlɨ	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	šünčʼaqɨt	šünčʼaqɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qontɨkka	qontɨkka	ADV	_	_	_	_	_	_	_
+
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	täp	täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qos	qos	PART	_	_	_	_	_	_	_
+_	qaj	qaj	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	šıp	šıp	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	soqočʼčʼi	soqočʼčʼi	PART	_	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	ıla	ıla	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kurola	kurola	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kuka	kuka	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qälʼi	qälʼi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɔːt	mɔːt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːmnɨntɨ	ɔːmnɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɔːtatɨ	ɔːta	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	etɨmantoːqɨt	etɨmantoːqɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kuralimmɨntɔːtɨt	kuralimmɨntɔːtɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	lʼupkɨmɔːnnä	lʼupkɨmɔːnnä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pona	pona	ADV	_	_	_	_	_	_	_
+_	tanta	tanta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	montɨ	montɨ	PART	_	_	_	_	_	_	_
+_	ilɛčʼa	ilɛčʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mitɨ	mitɨ	PART	_	_	_	_	_	_	_
+_	mol	mol	PART	_	_	_	_	_	_	_
+_	somak	somak	ADV	_	_	_	_	_	_	_
+_	ɛsak	ɛsak	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	täp	täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kuttar	kuttar	ADV	_	_	_	_	_	_	_
+_	tüsa	tü	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ɔːtamɨ	ɔːta	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+_	šöttɨ	šöt	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	qənta	qən	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kəraltättɨ	kəraltätt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sɨrɨp	sɨrɨp	ADV	_	_	_	_	_	_	_
+_	pilʼlʼa	pilʼlʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qəŋaje	qəŋaje	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɔːtɨ	nɔːtɨ	ADV	_	_	_	_	_	_	_
+_	somak	somak	ADV	_	_	_	_	_	_	_
+_	ɛsa	ɛsa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ira	ira	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	ilɨmpa	ilɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	quːtalʼpa	quːtalʼpa	ADV	_	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	šolʼqumɨlʼ	šolʼqumlʼ	ADJ	_	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tapplʼälʼ	tapplʼälʼ	ADV	_	_	_	_	_	_	_
+_	qolʼtit	qolʼtit	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	pɛlʼaqqɨt	pɛlʼaqqɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilɨmpa	ilɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	ijatɨ	ija	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	pɛlɨkɔːtɨlʼ	pɛlɨkɔːtɨlʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	neːkɨtɨlʼ	neːlʼ	ADJ	_	_	_	_	_	_	_
+
+_	ni	ni	PART	_	_	_	_	_	_	_
+_	nälʼatɨ	nälʼa	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	čʼäŋka	čʼäŋka	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ni	ni	PART	_	_	_	_	_	_	_
+_	qajtɨ	qaj	PRON	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	čʼäŋka	čʼäŋka	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tontɨ	tont	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	šitɨ	šitɨ	ADV	_	_	_	_	_	_	_
+_	qəːlɨlʼ	qəːlɨlʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	timnʼäsɨt	timnʼä	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ɛppɨntɔːtɨt	ɛ	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	šittälʼ	šit	ADV	_	_	_	_	_	_	_
+_	imaqotatɨ	imaqota	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	qüːtälʼlʼä	qüːtälʼlʼä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	ıllä	ıllä	ADV	_	_	_	_	_	_	_
+_	quŋa	qu	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	märqɨ	märqɨ	ADJ	_	_	_	_	_	_	_
+_	ijatɨ	ija	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	nılʼčʼilʼ	nılʼčʼilʼ	ADJ	_	_	_	_	_	_	_
+_	ijatɨ	ija	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	ɛppɨmmɨnta	ɛppɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	poːkɨtɨlʼ	poːlʼ	ADJ	_	_	_	_	_	_	_
+_	təttoqɨnɨ	təttoqɨnɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	qälʼi	qälʼi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	najɛnta	najɛnta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mompa	mompa	PART	_	_	_	_	_	_	_
+_	nɔːrtälʼilʼ	nɔːr	ADJ	NumType=Ord	_	_	_	_	_	_
+_	čʼeːlʼɨt	čʼeːlʼɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toːqqɨt	toːqqɨt	ADV	_	_	_	_	_	_	_
+_	mompa	mompa	PART	_	_	_	_	_	_	_
+_	Pan	Pan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	köt	köt	NUM	_	_	_	_	_	_	_
+_	qupsä	qupsä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tüːŋa	tüː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɔːrtälʼilʼ	nɔːr	ADJ	NumType=Ord	_	_	_	_	_	_
+_	čʼeːlʼit	čʼeːlʼi	ADV	Case=Loc	_	_	_	_	_	_
+_	mompa	mompa	PART	_	_	_	_	_	_	_
+_	tüntɔːmɨt	tüntɔːmɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	üːtälnɔːtɨt	üːtälnɔːtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taːlʼ	taːlʼ	ADV	_	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	ɔːtäp	ɔːtä	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	tɔːqqäntɔːtɨt	tɔːqqäntɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qapıj	qapıj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	täm	täm	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	tɔːqqɨmpatɨ	tɔːqqɨmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tıntena	tıntena	DET	_	_	_	_	_	_	_
+_	imantɨnɨk	imantɨnɨk	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	nʼänna	nʼänna	ADV	_	_	_	_	_	_	_
+_	qumiːqäk	qumiːqäk	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	*koːnɨlʼäk	*koːnɨlʼäk	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	tät	tät	ADJ	_	_	_	_	_	_	_
+_	čʼontoːqɨt	čʼontoː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	čʼeːlʼɨtɨ	čʼeːlʼɨtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	üːtoːntɨ	üːtoːntɨ	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	qənna	qən	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mɔːttɨ	Mɔːt	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	šeːrna	šeːr	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nı	nı	ADV	_	_	_	_	_	_	_
+_	kəttɨŋɨtɨ	kəttɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Pan	Pan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iranɨk	ira	NOUN	Case=All|Number=Sing	_	_	_	_	_	_
+_	nʼännä	nʼännä	ADV	_	_	_	_	_	_	_
+_	koraltɨlä	koraltɨlä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nılʼ	nılʼ	ADJ	_	_	_	_	_	_	_
+_	kətɨŋɨtɨ	kətɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qälʼitɨtkiːnä	qälʼitɨtkiːnä	PART	_	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	šittälʼ	šit	ADV	_	_	_	_	_	_	_
+_	toːna	toːna	DET	_	_	_	_	_	_	_
+_	meːqıj	meːqıj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɔːttɨ	mɔːt	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	šeːrɨšpɔːtɨt	šeːrɨšpɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ila	ila	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ila	ila	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	našap	našap	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	märqɨ	märqɨ	ADJ	_	_	_	_	_	_	_
+_	timnʼälʼa	timnʼälʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qöqak	qö	ADP	Case=Loc|Number=Sing|Person=1	_	_	_	_	_	_
+_	qontɨŋijä	qontɨ	VERB	Mood=Imp|Number=Sing|Person=3	_	_	_	_	_	_
+
+_	qütalpa	qütalpa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	qälɨ	qälɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kučʼčʼa	kučʼčʼa	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛːnta	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	i̇lla	i̇lla	ADV	_	_	_	_	_	_	_
+_	quŋa	qu	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tına	tına	DET	_	_	_	_	_	_	_
+_	nɨn	nɨn	ADV	_	_	_	_	_	_	_
+_	šittal	šittal	ADV	_	_	_	_	_	_	_
+_	tına	tına	DET	_	_	_	_	_	_	_
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qälɨ	qälɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɔːtɨ	nɔːtɨ	ADV	_	_	_	_	_	_	_
+_	kučʼčʼa	kučʼčʼa	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qatɛnta	qat	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	qälɨ	qälɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	šittäl	šittäl	ADV	_	_	_	_	_	_	_
+_	tɔː	tɔː	ADV	_	_	_	_	_	_	_
+_	puːčʼɨmpatɨ	puːčʼɨmpatɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼilʼaj	čʼilʼaj	PART	_	_	_	_	_	_	_
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	toːnna	toːnna	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼontolʼ	čʼontolʼ	ADJ	_	_	_	_	_	_	_
+_	tɨmnʼatɨ	tɨmnʼatɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	nälʼatɨ	nälʼa	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	pɛläkɨtɨj	pɛläj	ADJ	_	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	ijap	ija	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	qapı	qapı	PART	_	_	_	_	_	_	_
+_	aš	aš	PART	_	_	_	_	_	_	_
+_	tɛnɨmɔːt	tɛnɨmɔːt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kuttar	kuttar	ADV	_	_	_	_	_	_	_
+_	koŋɨmmɛnta	koŋɨmmɛnta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	mutronak	mutronak	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ilʼ	ilʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kuttar	kuttar	ADV	_	_	_	_	_	_	_
+_	ila	ila	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	šäqqɔːqı	šäqqɔːqı	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	qaj	qaj	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	šittäl	šittäl	ADV	_	_	_	_	_	_	_
+_	mɨŋa	mɨŋa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tɛː	Tɛː	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	mompa	mompa	PART	_	_	_	_	_	_	_
+_	kučʼčʼät	kučʼčʼät	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɨkɨ	ɨkɨ	PART	Mood=Imp	_	_	_	_	_	_
+_	qənnɨlɨt	qən	VERB	Mood=Imp|Number=Plur|Person=2	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	gostʼan	gostʼan	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ilʼčʼant	ilʼčʼant	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	a	a	INTJ	_	_	_	_	_	_	_
+_	toːnna	toːnna	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tına	tına	DET	_	_	_	_	_	_	_
+_	timnʼantɨ	timnʼantɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nälʼa	nälʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ilʼčʼatɨ	ilʼčʼa	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	namɨp	namɨ	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	quraltɨmmɨntɨt	quraltɨmmɨntɨt	PART	_	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ijanɨk	ija	NOUN	Case=All|Number=Sing	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	qälɨ	qälɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iralʼ	iralʼ	ADJ	_	_	_	_	_	_	_
+_	mɨqä	mɨ	NOUN	Case=Nom|Number=Dual	_	_	_	_	_	_
+_	nɔːtɨ	nɔːtɨ	ADV	_	_	_	_	_	_	_
+_	taqalqɨnto	taqalqɨnto	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	timnʼasɨqä	timnʼa	NOUN	Case=Nom|Number=Dual	_	_	_	_	_	_
+_	nɔːtɨ	nɔːtɨ	ADV	_	_	_	_	_	_	_
+_	tap	tap	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼeːlqot	čʼeːlqot	PART	_	_	_	_	_	_	_
+
+_	šentɨ	šentɨ	ADJ	_	_	_	_	_	_	_
+_	mɔːttɨ	mɔːt	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	qopɨlʼ	qopɨlʼ	ADJ	_	_	_	_	_	_	_
+_	mɔːttɨ	mɔːt	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	tına	tına	DET	_	_	_	_	_	_	_
+
+_	tal	ta	VERB	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_	_	_
+_	ɨkɨ	ɨkɨ	PART	Mood=Imp	_	_	_	_	_	_
+_	mortäš	mortäš	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+
+_	šäqqɔːt	šäqqɔː	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	toptɨlʼ	toptɨlʼ	ADJ	_	_	_	_	_	_	_
+_	qar	qar	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nılʼ	nılʼ	ADJ	_	_	_	_	_	_	_
+_	ɛsa	ɛsa	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	tına	tına	DET	_	_	_	_	_	_	_
+_	imantɨn	ima	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+
+_	mɔːtɨŋpɔːtɨn	mɔːtɨŋpɔːtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	qattɨmpɔːtɨn	qattɨmpɔːtɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ompa	ompa	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+
+_	Poni	Poni	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	irat	ira	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	nälʼap	nälʼa	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	tattɨntɔːtɨt	tattɨntɔːtɨt	ADV	_	_	_	_	_	_	_
+
+_	montɨ	montɨ	PART	_	_	_	_	_	_	_
+_	čʼap	čʼap	PART	_	_	_	_	_	_	_
+_	tülʼčʼa	tü	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	montɨ	montɨ	PART	_	_	_	_	_	_	_
+
+_	šerna	šer	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mɔːt	mɔːt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	šerna	šer	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mɔːtan	mɔːta	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɔːt	ɔː	ADV	Case=Loc	_	_	_	_	_	_
+_	nɨŋkɨla	nɨŋkɨla	ADV	_	_	_	_	_	_	_
+_	qälɨk	qälɨk	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	Poni	Poni	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ira	ira	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	illa	illa	ADV	_	_	_	_	_	_	_
+_	qalɨmtɨ	qalɨ	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	šittɨ	šittɨ	ADV	_	_	_	_	_	_	_
+_	qälɨqı	qälɨqı	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	illa	illa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qalɨmtɨ	qalɨ	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	pona	pona	ADV	_	_	_	_	_	_	_
+_	qəːllaıːntɨ	qəːllaıːntɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	kuttar	kuttar	ADV	_	_	_	_	_	_	_
+_	sɔːralɨmpa	sɔːralɨmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+
+_	Poni	Poni	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iram	ira	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	tɛ	tɛ	ADV	_	_	_	_	_	_	_
+_	kəːčʼɨlä	kəːčʼɨlä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qəntɨŋɨtɨ	qəntɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təmol	təm	PART	_	_	_	_	_	_	_
+_	qənnɔːtɨt	qən	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tına	tına	DET	_	_	_	_	_	_	_
+
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	somak	somak	ADV	_	_	_	_	_	_	_
+_	qənnɔːtɨn	qən	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nɨmtɨ	nɨmtɨ	ADV	_	_	_	_	_	_	_
+
+_	nʼenna	nʼenna	ADV	_	_	_	_	_	_	_
+_	qənna	qən	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tıntena	tıntena	DET	_	_	_	_	_	_	_
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ašʼa	ašʼa	PART	_	_	_	_	_	_	_
+_	koŋɨmpa	koŋɨmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tal	ta	VERB	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_	_	_
+
+_	jarɨ	jar	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨ	mɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kətät	kət	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+
+_	šitɨ	šitɨ	ADV	_	_	_	_	_	_	_
+_	amnʼatɨ	amnʼatɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qum	qum	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iːjaiːt	iːjaiːt	ADV	_	_	_	_	_	_	_
+_	šöt	šöt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nɔːt	nɔːt	ADV	_	_	_	_	_	_	_
+_	kuralaqın	kuralaqın	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	İčʼikičʼika	İčʼikičʼika	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	karrä	karrä	ADV	_	_	_	_	_	_	_
+_	qännä	qännä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qɔːsɨlʼ	qɔːsɨlʼ	ADJ	_	_	_	_	_	_	_
+_	annɨtɨ	annɨtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lʼiːpɨlʼa	lʼiːpɨlʼa	ADV	_	_	_	_	_	_	_
+
+_	karra	karra	ADV	_	_	_	_	_	_	_
+_	nukalnɨt	nukalnɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	ninɨ	ninɨ	ADV	_	_	_	_	_	_	_
+_	pinɨčʼčʼa	pinɨčʼčʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	narräpɨlʼat	narräpɨlʼat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qarr	qarr	ADV	_	_	_	_	_	_	_
+_	omta	omta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	antaqɨntɨ	antaqɨntɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tüŋä	tüŋä	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	anɨmtɨ	anɨmtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	konna	konna	ADV	_	_	_	_	_	_	_
+_	nʼäqɨlnɨtä	nʼäqɨlnɨtä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	iraqotat	iraqota	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	imaqota	imaqota	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ontɔːqij	ontɔːqij	ADV	_	_	_	_	_	_	_
+_	nɨmtä	nɨmtä	ADV	_	_	_	_	_	_	_
+_	əːtɨkɔːlʼ	əːtɨkɔːlʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qumɨt	qum	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	nɨnɨ	nɨnɨ	ADV	_	_	_	_	_	_	_
+_	qənnɔːtɨt	qən	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	imakɔːlɨk	imakɔːlɨk	ADV	_	_	_	_	_	_	_
+
+_	mʼaːšaktɨ	mʼaːšakt	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	poːqɨt	poː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	totɨmpa	totɨmpa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	iːjalʼan	iːjalʼa	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ınna	ınna	ADV	_	_	_	_	_	_	_
+_	paktɨmpɔːtɨn	paktɨmpɔːtɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qošikɔːlʼa	qošikɔː	ADV	_	_	_	_	_	_	_
+_	ilʼempa	ilʼempa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼilʼalʼ	čʼilʼalʼ	ADV	_	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ni	ni	PART	_	_	_	_	_	_	_
+_	porqɨtɨ	porqɨ	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	ni	ni	PART	_	_	_	_	_	_	_
+_	peːmɨtɨ	peːmɨ	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	čʼäːŋkasa	čʼäːŋkasa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨrkɨmɔːnna	nɨrkɨmɔːn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qɔːtä	qɔːtä	PART	_	_	_	_	_	_	_
+_	qɨntɨsam	qɨntɨsam	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɛna	ɛna	PART	_	_	_	_	_	_	_
+
+_	moqonä	moqonä	ADV	_	_	_	_	_	_	_
+_	qɨntokkɨt	qɨntokkɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ilʼempɔːtɨt	ilʼempɔː	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	čʼontoːqɨt	čʼontoː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	qoŋatɨ	qo	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɔːtan	ɔːta	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	mətɨp	mətɨp	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nälʼantɨlʼ	nälʼant	ADJ	_	_	_	_	_	_	_
+_	qənnɔːqə	qənnɔːqə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	somak	somak	ADV	_	_	_	_	_	_	_
+_	ilʼeŋɨlʼıː	ilʼeŋɨlʼıː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	a	a	INTJ	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	palnalʼ	palnalʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	märqɨ	märqɨ	ADJ	_	_	_	_	_	_	_
+_	timnʼätɨ	timnʼä	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	namɨšʼak	namɨšʼak	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qəːtɨsä	qəːtɨ	NOUN	Case=Com|Number=Sing	_	_	_	_	_	_
+_	ɛːppɨmmɨnta	ɛːppɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	kuna	ku	ADV	_	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	tünta	tü	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	muntɨk	muntɨk	DET	_	_	_	_	_	_	_
+_	tɛnɨnɨmpatɨ	tɛnɨnɨmpatɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	kəːsɨlʼ	kəːsɨlʼ	ADJ	_	_	_	_	_	_	_
+_	ɨntɨ	ɨntɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	meːtɨmpat	meːtɨmpat	ADV	_	_	_	_	_	_	_
+_	kəːsɨlʼ	kəːsɨlʼ	ADJ	_	_	_	_	_	_	_
+_	komap	komap	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	meːtɨmmɨntɨtɨ	meːtɨmmɨntɨtɨ	ADV	_	_	_	_	_	_	_
+
+_	kuːnɨ	kuː	PRON	Case=Ela|Number=Sing	_	_	_	_	_	_
+_	čʼap	čʼap	PART	_	_	_	_	_	_	_
+_	tüntɔːtɨt	tü	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	təp	təp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mun	mun	DET	_	_	_	_	_	_	_
+_	tɛnimɨt	tɛnimɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	peːlä	peː	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	ičʼirpɔːtɨt	ičʼirpɔːtɨt	ADV	_	_	_	_	_	_	_
+_	tapčʼeːlɨ	tapčʼeːlɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qumɨlʼ	qumlʼ	ADJ	_	_	_	_	_	_	_
+_	nɔːr	nɔːr	NUM	_	_	_	_	_	_	_
+_	tɨmnʼastɨp	tɨmnʼastɨp	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	təm	tə	ADV	_	_	_	_	_	_	_
+_	ilɨmpa	ilɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	okoːt	okoːt	ADV	_	_	_	_	_	_	_
+_	pulʼčʼos	pulʼčʼos	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qoltoːqɨt	qoltoːqɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	turuhanska	Turuhanska	ADJ	Number=Sing|Person=3	_	_	_	_	_	_
+_	kərrelʼ	kərrelʼ	CCONJ	_	_	_	_	_	_	_
+_	pɛlʼaqɨt	pɛlʼa	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	čʼuːroːqɨt	čʼuːroːqɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	palnalʼ	palna	ADJ	_	_	_	_	_	_	_
+_	nɔːr	nɔːr	NUM	_	_	_	_	_	_	_
+_	tɨmnʼasɨtɨp	tɨmnʼasɨtɨp	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	peːlʼa	peː	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	qənqolamnɔːtɨt	qənqolamnɔːtɨt	ADV	_	_	_	_	_	_	_
+
+_	a	a	INTJ	_	_	_	_	_	_	_
+_	palnalʼ	palnalʼ	INTJ	_	_	_	_	_	_	_
+_	timnʼäsɨt	timnʼä	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	qənɔːtɨt	qənɔːtɨt	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ınnän	ınnä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɨllä	ɨllä	ADV	_	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	nʼuːtɨsä	nʼuːtɨ	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	tɔːqqɔːtɨt	tɔːqqɔː	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tapčʼeːlɨ	tapčʼeːlɨ	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	tüntɔːtɨt	tü	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kašap	kašap	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	avsap	avsap	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kärrä	kärrä	ADV	_	_	_	_	_	_	_
+_	mušɨrɔːtɨt	mušɨrɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nanä	nanä	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	ɔːmtɔːtɨt	ɔːmtɔː	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nʼennäntɨ	nʼennä	ADV	Case=Ill	_	_	_	_	_	_
+_	antıːrɨ	antıːrɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qontɨšɛlʼčʼa	qontɨš	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ütqɨnɨ	üt	NOUN	Case=Ela|Number=Sing	_	_	_	_	_	_
+_	konnä	konnä	ADV	_	_	_	_	_	_	_
+_	čʼüntɔːtɨt	čʼüntɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təpɨt	təp	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	nılʼčʼɨk	nılʼčʼɨk	ADV	_	_	_	_	_	_	_
+_	qättɨntɔːtɨt	qättɨntɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	paŋɨsä	paŋɨ	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	nɨː	nɨː	ADV	_	_	_	_	_	_	_
+_	jep	jep	ADV	_	_	_	_	_	_	_
+_	qättɔːtɨt	qättɔː	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	laŋalʼ	laŋalʼ	ADJ	_	_	_	_	_	_	_
+_	qumɨlʼ	qumlʼ	ADJ	_	_	_	_	_	_	_
+_	nɔːr	nɔːr	NUM	_	_	_	_	_	_	_
+_	timnʼästɨp	timnʼästɨp	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	meːlle	meːlle	ADV	_	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	šölʼqup	šölʼqup	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ijamtɨ	ija	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	namɨt	namɨ	PRON	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	mɔːntɨ	mɔː	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	somak	somak	ADV	_	_	_	_	_	_	_
+_	kətɨmpatɨ	kətɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	qwärgaːj	qwärgaːj	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	kɨsaŋaj	kɨsaŋaj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pärat	pära	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	Iːtʼtʼe	iːtʼtʼe	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	peŋgam	peŋgam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nʼöɣat	nʼöɣat	ADV	_	_	_	_	_	_	_
+_	iːtʼen	iːtʼe	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɨlʼdʼät	ɨlʼdʼä	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	kazɨkɨn	kazɨkɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tɨn	tɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɨːlaj	ɨːlaj	ADV	_	_	_	_	_	_	_
+_	tʼepartə	tʼepartə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	əmɨtɨ	əmɨ	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	qatɨ	qatɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	iːjanɨk	iːja	NOUN	Case=All|Number=Sing	_	_	_	_	_	_
+_	nılʼčʼɨŋä	nılʼčʼɨŋä	ADV	_	_	_	_	_	_	_
+_	pɨŋtalʼtɨmmɨntɨ	pɨŋtalʼtɨmmɨntɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	karrä	karrä	ADV	_	_	_	_	_	_	_
+_	tap	tap	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːtäntɨ	ɔːtäntɨ	PART	_	_	_	_	_	_	_
+_	puːtoːqɨt	puːtoː	ADP	Case=Loc	_	_	_	_	_	_
+_	nɔːkɨr	nɔːkɨr	NUM	_	_	_	_	_	_	_
+_	pekɨralʼ	pekɨralʼ	ADJ	_	_	_	_	_	_	_
+_	qoptɨ	qoptɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	ɛːntɨ	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	konna	konna	ADV	_	_	_	_	_	_	_
+_	tatɨŋɨtɨ	tatɨŋɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sɔːralqə	sɔːralqə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːqaltɨ	ɔːqaltɨ	ADV	_	_	_	_	_	_	_
+_	tartaltɨlä	tartaltɨlä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ınna	ınna	ADV	_	_	_	_	_	_	_
+_	omtɨlʼa	omtɨ	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	ɔːtantɨ	ɔːta	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	olɨp	olɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	nʼena	nʼena	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	üːtɨmmɨntɨ	üːtɨmmɨntɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kotpas	kotpas	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pɔːroːqot	pɔːroːqot	ADV	_	_	_	_	_	_	_
+_	ɔːmtɨla	ɔːmtɨla	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	qoŋotɨ	qoŋotɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	montɨ	montɨ	PART	_	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	karrät	karrä	ADV	Case=Loc	_	_	_	_	_	_
+_	toːt	toːt	ADV	_	_	_	_	_	_	_
+_	qanaqqɨt	qanaq	ADP	Case=Loc	_	_	_	_	_	_
+_	nɔːkɨr	nɔːkɨr	NUM	_	_	_	_	_	_	_
+_	mɔːt	mɔːt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːmnontɨ	ɔːmnontɨ	ADV	_	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	ɔːtatɨt	ɔːtatɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	puːtot	puːto	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	ɔːmtɨkɨtɨlʼ	ɔːmtɨkɨtɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qälilʼ	qälilʼ	ADJ	_	_	_	_	_	_	_
+_	waqtalʼ	waqtalʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼaktɨ	čʼaktɨ	ADV	_	_	_	_	_	_	_
+_	orantɔːtɨt	orantɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nälʼät	nä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	kuraltimmɨntɔːtɨt	kuraltimmɨntɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tan	tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lʼa	lʼa	PART	_	_	_	_	_	_	_
+_	meːsʼa	meːsʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tuštäšik	tuštäšik	ADV	_	_	_	_	_	_	_
+
+_	tına	tına	DET	_	_	_	_	_	_	_
+_	sər	sər	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	təttalʼ	təttalʼ	ADJ	_	_	_	_	_	_	_
+_	irra	irra	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nalʼät	na	PART	_	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛsɨmmɨntɨ	ɛsɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	sərtəttalʼ	sərlʼ	ADJ	_	_	_	_	_	_	_
+_	timnʼäsɨt	timnʼä	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	nʼenʼätɨt	nʼenʼätɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛːppɨntä	ɛːppɨntä	ADV	_	_	_	_	_	_	_
+
+_	soqqante	soqqan	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	tasɨt	tasɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mitə	mitə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tına	tına	DET	_	_	_	_	_	_	_
+_	opčʼintas	opčʼintas	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	a	a	CCONJ	_	_	_	_	_	_	_
+_	soqqant	soqqant	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	olä	olä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mitɨ	mitɨ	PART	_	_	_	_	_	_	_
+_	tına	tına	DET	_	_	_	_	_	_	_
+_	poːlʼ	poːlʼ	ADJ	_	_	_	_	_	_	_
+_	kalan	kalan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	olɨ	olɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ne	ne	PART	_	_	_	_	_	_	_
+_	qajimi	qajimi	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	äčʼa	äčʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	kətɨmnɨtɨ	kətɨmnɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	əmɨtɨ	əmɨ	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	mɔːtan	mɔːta	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɔːqɨt	ɔː	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	ətɨlʼ	ətɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tükulä	tükulä	ADV	_	_	_	_	_	_	_
+_	nɨŋka	nɨŋka	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ijamtɨ	ija	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	ɛtɨla	ɛtɨla	ADV	_	_	_	_	_	_	_
+
+_	tɔːptɨlʼ	tɔːptɨlʼ	ADJ	_	_	_	_	_	_	_
+_	čʼeːlɨ	čʼeːlɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːtamtɨ	ɔːta	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	moqɨna	moqɨna	ADV	_	_	_	_	_	_	_
+_	tɔːqɨla	tɔːqɨla	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɔːtantɨ	ɔːta	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	puːtoːqɨt	puːtoː	ADP	Case=Loc	_	_	_	_	_	_
+_	peːkɨla	peːkɨla	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	šitɨ	šitɨ	ADV	_	_	_	_	_	_	_
+_	koškat	koškat	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tarɨlʼ	tarɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qoptoːqın	qoptoːqın	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	orqɨlpɨntɨtɨ	orqɨlpɨntɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	narapomtä	narapom	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	iːmpatä	iːmpatä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	laqalʼtɛːmmintɨ	laqalʼtɛːmmintɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mannɨmpatɨ	mannɨmpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	irat	ira	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	qöntɨ	qö	ADP	Case=Ill	_	_	_	_	_	_
+_	koptɨp	koptɨp	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	šitä	šitä	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	meːntɔːtɨt	meːntɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛj	ɛj	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	qomintisa	qomintisa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	təm	təm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛj	ɛj	ADV	_	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	ütɨmperalʼmɨtɨ	ütɨmperalʼmɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	warɣe	war	DET	_	_	_	_	_	_	_
+_	timnʼä	timnʼä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nadɨmbɨlʼä	nadɨmbɨlʼä	ADV	_	_	_	_	_	_	_
+_	warga	warga	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	timnʼasɨɣ	timnʼasɨɣ	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	tʼaŋgočukwaɣ	tʼaŋgočukwaɣ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	warɣə	warɣə	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	timnʼädə	timnʼädə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	onǯe	onǯe	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pelʼgalɨk	pelʼgalɨk	PART	_	_	_	_	_	_	_
+_	qwälla	qwäl	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	čaŋgɨlʼ	čaŋglʼ	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	watoɣɨnd	watoɣɨnd	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	qɨmbal	qɨmba	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	iː	iː	ADV	_	_	_	_	_	_	_
+_	qoqal	qoqal	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	meka	meka	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qwäǯʼaš	qwäǯʼaš	ADV	_	_	_	_	_	_	_
+
+_	Qaːmaǯʼa	Qaːmaǯʼa	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	pon	po	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	čanǯʼile	čanǯʼile	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qwälla	qwäl	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	kuː	kuː	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	hajda	hajda	PART	_	_	_	_	_	_	_
+_	ada	ada	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	maqqɨlm	maqqɨl	ADV	_	_	_	_	_	_	_
+_	tä	tä	ADV	_	_	_	_	_	_	_
+_	paqɨhak	paqɨhak	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tün	tün	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čaːbɨhap	čaːbɨhap	ADV	_	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	amgu	am	VERB	VerbForm=Inf	_	_	_	_	_	_
+_	kɨgak	kɨgak	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+
+_	Qaːmača	Qaːmača	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tä	tä	ADV	_	_	_	_	_	_	_
+_	qobomdə	qobomdə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kɨrɨltä	kɨrɨltä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	waǯʼimdə	waǯʼimdə	ADV	_	_	_	_	_	_	_
+_	wes	wes	DET	_	_	_	_	_	_	_
+_	ubirailədə	ubirailədə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tirilʼ	tirilʼ	ADV	_	_	_	_	_	_	_
+_	koǯan	koǯan	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	waǯʼip	waǯʼip	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	palle	palle	ADV	_	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	qwälɨp	qwälɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	palle	palle	ADV	_	_	_	_	_	_	_
+_	palalde	palalde	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	ugulǯe	ugulǯe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	üppezile	üppezile	ADV	_	_	_	_	_	_	_
+
+_	qašqɨdə	qašqɨ	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	aː	aː	PART	_	_	_	_	_	_	_
+_	qaškolʼba	qaškolʼba	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tau	tau	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Qaːmaǯʼam	qaːmaǯʼam	ADV	_	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼuːra	čʼuːra	PART	_	_	_	_	_	_	_
+_	saintɨ	saintɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qampalpa	qampalpa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	man	Man	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nʼaj	nʼaj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uːčʼɨsak	uːčʼɨsak	ADV	_	_	_	_	_	_	_
+_	tap	tap	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	meːsak	meːsak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	okɨrp	okɨrp	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	keːk	keːk	ADV	_	_	_	_	_	_	_
+_	əːšeːrbɨ	əːšeːrbɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	onǯ	onǯ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aːlčimba	aːlčimba	ADV	_	_	_	_	_	_	_
+_	Goldont	goldont	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	načaɣundu	načaɣundu	VERB	Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_	_	_
+_	tabla	tab	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	konǯurbat	konǯurbat	ADV	_	_	_	_	_	_	_
+_	qanduk	qanduk	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tab	tab	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aːlči	aːlči	PART	_	_	_	_	_	_	_
+_	öːt	öːt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	korɣa	kor	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nʼӧtɨt	nʼӧtɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kaʒannak	kaʒannak	ADV	_	_	_	_	_	_	_
+_	naj	naj	PART	_	_	_	_	_	_	_
+_	načidelʼe	načidelʼe	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kɨba	kɨba	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	korɣa	korɣa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	orannɨt	oran	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čaǯap	čaǯa	VERB	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_	_	_
+_	korɣə	korɣə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ille	ille	ADV	_	_	_	_	_	_	_
+_	aːlča	aːlča	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	aratə	ara	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	maǯʼondə	maǯʼondə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qwanbat	qwanbat	ADV	_	_	_	_	_	_	_
+
+_	nʼaip	nʼaip	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	wes	wes	DET	_	_	_	_	_	_	_
+_	ambat	ambat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nʼalʼalʼ	nʼalʼalʼ	ADV	_	_	_	_	_	_	_
+_	nʼaj	nʼaj	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nam	na	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	näj	näj	PART	_	_	_	_	_	_	_
+_	qorq	qorq	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ambat	ambat	ADV	_	_	_	_	_	_	_
+
+_	qorqɨp	qorqɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	taq	taq	ADV	_	_	_	_	_	_	_
+_	kɨrɨmbat	kɨrɨmbat	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mužurumbat	mužurumbat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	ambadet	ambadet	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	korotkij	korotkij	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	otpusk	otpusk	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	Italʼaqɨt	italʼaqɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨnɨl	mɨnɨl	ADV	_	_	_	_	_	_	_
+_	ɔːmtɨlʼ	ɔːmtɨlʼ	ADJ	_	_	_	_	_	_	_
+_	qoːt	qoː	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	tättoːqɨt	tättoːqɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	iːma	iːma	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uːčʼimpa	uːčʼi	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	moqonɨ	moqonɨ	ADV	_	_	_	_	_	_	_
+_	üːtsɔːt	üːtsɔːt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	puːt	puːt	ADV	_	_	_	_	_	_	_
+_	somalʼak	somalʼak	ADV	_	_	_	_	_	_	_
+_	ɛselʼa	ɛselʼa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qälʼtroqolopsa	qälʼtroqolopsa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	irat	ira	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	täbɨnan	täb	PRON	Case=Ade|Number=Sing	_	_	_	_	_	_
+_	čäŋus	čäŋus	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tʼelʼeqɨndə	tʼelʼeqɨndə	NOUN	Case=Loc|Number=Sing|Person=3	_	_	_	_	_	_
+_	täbɨm	täb	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	qɨːrɨmbat	qɨːrɨmbat	PART	_	_	_	_	_	_	_
+_	qwärqä	qwärqä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	näjqun	näjqun	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	wättoun	wättoun	ADV	_	_	_	_	_	_	_
+
+_	üːdəmɨn	üːdəmɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	äwät	äwät	ADV	_	_	_	_	_	_	_
+_	ädəlǯis	ädəlǯis	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	pajan	paja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tüːmbədi	tüːmbədi	ADV	_	_	_	_	_	_	_
+_	wättowɨn	wättowɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qwärɣə	qwärɣə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čaːǯɨ	čaːǯɨ	ADV	_	_	_	_	_	_	_
+_	pajan	pajan	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	maːttə	maːt	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+
+_	sɨːri	sɨːr	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	maːtqən	maːt	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	nɨŋgɨzattə	nɨŋgɨzattə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sɨr	sɨr	ADV	_	_	_	_	_	_	_
+_	tʼölʼaze	tʼölʼaze	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	surulʼdʼi	suru	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	qula	qu	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	tüːwattə	tüːwattə	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qaiŋgo	qaiŋgo	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	daqqa	daqqa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lärumbɨsɨn	lärumbɨsɨn	ADV	_	_	_	_	_	_	_
+_	äːattə	äːattə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	qaːrɨssä	qaːrɨssä	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	iːdə	iː	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	ilʼlʼɨqqus	ilʼlʼɨqqus	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	piːrʼäqən	piːrʼäqən	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	qwärɣɨm	qwärɣɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	surum	surum	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tʼärɨtnattə	tʼärɨtnattə	ADV	_	_	_	_	_	_	_
+
+_	tätta	tätt	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	somblʼe	somblʼe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tʼel	tʼel	ADV	_	_	_	_	_	_	_
+_	ippɨs	ippɨs	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	sombiri	sombir	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qwelum	qwelum	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sombɨreɣɨndɨ	sombɨreɣɨndɨ	ADV	_	_	_	_	_	_	_
+_	meŋa	meŋa	PRON	Case=All|Number=Sing	_	_	_	_	_	_
+_	sombɨrsä	sombɨrsä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qaːltan	qaːltan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	soːŋ	soːŋ	ADV	_	_	_	_	_	_	_
+_	ilenǯandə	ilenǯandə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	man	Man	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qüdälʼe	qüdälʼe	PART	_	_	_	_	_	_	_
+_	ippɨzaŋ	ippɨzaŋ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	tämdə	tämdə	DET	_	_	_	_	_	_	_
+_	illɨgu	illɨgu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sätčim	sätčim	ADV	_	_	_	_	_	_	_
+_	en	e	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	evʼew	evʼe	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	quːssaŋ	quːssaŋ	ADV	_	_	_	_	_	_	_
+
+_	ässäw	ässä	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+_	palʼdʼukus	palʼdʼuku	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	surujgu	surujgu	ADV	_	_	_	_	_	_	_
+_	qwäːlɨjgu	qwäːlɨjgu	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	maːtqən	maːt	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	tʼäŋukus	tʼäŋukus	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	meŋnan	meŋnan	PRON	Case=Ade|Number=Sing	_	_	_	_	_	_
+_	äːsaŋ	äː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	čičew	čičew	ADV	_	_	_	_	_	_	_
+
+_	ilaŋ	ila	VERB	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_	_	_
+_	man	man	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	soːŋ	soːŋ	PART	_	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tʼärɨŋ	tʼärɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	oːppow	oːppow	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Katʼa	katʼa	ADV	_	_	_	_	_	_	_
+_	omdɨlʼe	omdɨlʼe	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qoptɨn	qoptɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	baːrondə	baːrondə	ADV	_	_	_	_	_	_	_
+_	täp	täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨškəlbat	nɨškəlbat	PART	_	_	_	_	_	_	_
+
+_	näːkaɣäneŋ	näːkaɣäne	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	soːɣɨnʼdʼäŋ	soːɣɨnʼdʼäŋ	PART	_	_	_	_	_	_	_
+_	tat	tat	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨškɨlbal	nɨškɨlbal	PART	_	_	_	_	_	_	_
+
+_	qwännaŋ	qwänna	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	manǯimbegu	manǯimbegu	PART	_	_	_	_	_	_	_
+_	poŋgɨm	poŋgɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+
+_	nimdə	nim	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	täbɨn	täb	PRON	Case=Gen|Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Аngelina	аngelina	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Ivanovna	ivanovna	ADV	_	_	_	_	_	_	_
+
+_	sɨnnela	sɨnnel	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	palʼdʼükuzattə	palʼdʼükuzattə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	süsügü	süsügü	ADV	_	_	_	_	_	_	_
+_	äːdɨlawɨn	äːdɨlawɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qwätkuzattə	qwätkuzattə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	quːlam	quːlam	ADV	_	_	_	_	_	_	_
+_	twäːlurguzattə	twäːlurguzattə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	taplʼaqɨn	taplʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼaq	čʼaq	ADV	_	_	_	_	_	_	_
+_	paktɔːtɨn	paktɔːtɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	təpɨt	təp	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	tüla	tü	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	sukkulʼta	sukkulʼta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tokkoıːmpɔːtɨn	tokkoıːmpɔːtɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	toː	toː	ADV	_	_	_	_	_	_	_
+_	paktɨlʼa	paktɨ	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	šʼittelʼa	šʼittelʼa	ADV	_	_	_	_	_	_	_
+_	toj	toj	ADJ	_	_	_	_	_	_	_
+_	pɨlaqɨn	pɨlaqɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Pürqɨn	Pür	NOUN	Case=Loc|Number=Sing	_	_	_	_	_	_
+_	ɔːtaiːmtɨ	ɔːta	NOUN	Case=Acc|Number=Plur|Number=Sing|Person=3	_	_	_	_	_	_
+_	čʼaqɨ	čʼaqɨ	ADV	_	_	_	_	_	_	_
+_	nɨmtɨ	nɨmtɨ	ADV	_	_	_	_	_	_	_
+_	čʼaqɨ	čʼaqɨ	ADV	_	_	_	_	_	_	_
+_	qälɨmpɔːtɨn	qälɨmpɔːtɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ijulʼ	ijulʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	qara	qara	ADV	_	_	_	_	_	_	_
+_	montɨqɨn	montɨqɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qənnaıːtäqɨn	qənnaıːtäqɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kočʼe	kočʼe	DET	_	_	_	_	_	_	_
+_	ɔːtaiːmtɨ	ɔːta	NOUN	Case=Acc|Number=Plur|Number=Sing|Person=3	_	_	_	_	_	_
+_	nʼentɨ	nʼentɨ	ADV	_	_	_	_	_	_	_
+_	taqqɨloıːmpɔːtɨn	taqqɨloıːmpɔːtɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɨmtɨ	nɨmtɨ	ADV	_	_	_	_	_	_	_
+_	ɔːtam	ɔːta	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	miːkkijoıːmpɔːtɨn.	miːkkijoıːmpɔːtɨn.	ADV	_	_	_	_	_	_	_
+
+_	surɨčʼčʼɨj	surɨčʼčʼɨj	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	qumɨn	qum	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	šittalʼe	šittalʼe	VERB	Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɔːtam	ɔːta	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ɨla	ɨla	ADV	_	_	_	_	_	_	_
+_	muntɨk	muntɨk	DET	_	_	_	_	_	_	_
+_	šottɨ	šottɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qənkɨjoıːmpɔːtɨn	qənkɨjoıːmpɔːtɨn	ADV	_	_	_	_	_	_	_
+
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːtamtɨ	ɔːta	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	surɨčʼa	surɨčʼa	ADV	_	_	_	_	_	_	_
+_	qumɨn	qum	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	iptäqɨn	iptäqɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	muntɨk	muntɨk	DET	_	_	_	_	_	_	_
+_	nəkɨrɨlʼimpɔːtɨn	nəkɨrɨlʼimpɔːtɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nʼäːnʼim	nʼäːnʼi	ADV	_	_	_	_	_	_	_
+_	meːtɔːmɨn	meːtɔːmɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	šoːqorqɨn	šoːqorqɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sölʼ	sölʼ	ADV	_	_	_	_	_	_	_
+_	šoːqorqɨn	šoːqorqɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	šoːqorlʼačʼa	šoːqorlʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼɔːtɛntal	čʼɔːtɛntal	ADV	_	_	_	_	_	_	_
+_	poːsa	poː	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	pintärtɛntal	pintärtɛntal	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	šittɨ	šittɨ	ADV	_	_	_	_	_	_	_
+_	pɔːrɨ	pɔːrɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	sıːtʼitɨ	sıːtʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	šittə	šittə	NUM	_	_	_	_	_	_	_
+_	qattaltɨ	qattaltɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɔːmɨ	ɔːmɨ	ADJ	_	_	_	_	_	_	_
+_	sıːtʼitɨ	sıːtʼitɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ponä	ponä	ADV	_	_	_	_	_	_	_
+_	qattaltɨ	qattaltɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	poːsɨlʼ	poːs	ADJ	_	_	_	_	_	_	_
+_	pɔːr	pɔːr	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	təttɨt	təttɨ	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	qopɨm	qopɨm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ınn	ınn	ADV	_	_	_	_	_	_	_
+_	iːtam	iːtam	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	čʼoquntoːqa	čʼoquntoːqa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	štälä	štälä	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	qattɛntam	qattɛntam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ponɨ	ponɨ	ADV	_	_	_	_	_	_	_
+_	čʼeːli	čʼeːli	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ınna	ınna	ADV	_	_	_	_	_	_	_
+_	ɔːmtɨtɔːltɛntam	ɔːmtɨtɔːltɛntam	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mɔːtɨm	mɔːt	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	meːqolowsɔːtɨn	meːqolowsɔːtɨn	ADV	_	_	_	_	_	_	_
+
+_	na	Na	PART	_	_	_	_	_	_	_
+_	iːjalʼa	iːja	NOUN	Case=Nom|Number=Sing|Person=2	_	_	_	_	_	_
+_	qüːttäla	qüːttäla	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ılla	ılla	ADV	_	_	_	_	_	_	_
+_	qusanä	qusanä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	načʼä	načʼä	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	qontɨlʼa	qontɨlʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨː	nɨː	ADV	_	_	_	_	_	_	_
+_	tottɨsɔːtɨn	tottɨsɔːtɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	əsɨntɨ	əsɨ	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	tükɨ	tükɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	təttɨ	təttɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ütem	üt	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	iːsam	iː	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	samohotka	samohotk	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tüːnta	tüː	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qäːlɨp	qäːlɨ	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	qättɛːmɨt	qättɛːmɨt	ADV	_	_	_	_	_	_	_
+_	čʼäːnka	čʼäːnka	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	taŋɨt	taŋɨ	ADV	Case=Loc	_	_	_	_	_	_
+_	nɛnoqa	nɛnoqa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kočʼeŋa	kočʼeŋa	DET	_	_	_	_	_	_	_
+
+_	näkɨrpatɨ	näkɨrpat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kɨpɨlʼa	kɨpɨlʼa	ADJ	_	_	_	_	_	_	_
+_	ijalʼa	ijalʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	Lʼonja	lʼon	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	Lʼonja	lʼonja	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	Petɨja	Petɨja	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	šittalä	šittalä	ADV	_	_	_	_	_	_	_
+_	qəqɨlsɔːtɨn	qəqɨl	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	šittalä	šittalä	ADV	_	_	_	_	_	_	_
+_	nɔːt	nɔːt	ADV	_	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	sučʼipqolapsɔːtɨn	sučʼip	VERB	Number=Plur|Person=3|Tense=Past|VerbForm=Inf	_	_	_	_	_	_
+
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	ınna	ınna	ADV	_	_	_	_	_	_	_
+_	nɨlajila	nɨlajila	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mösɨla	mösɨla	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pona	pona	ADV	_	_	_	_	_	_	_
+_	potäna	potäna	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tanta	tanta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mačʼit	mačʼi	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ɔːtat	ɔːta	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	wättɨ	wättɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qontɨtɨ	qontɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ɔːtantɨ	ɔːta	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	močʼimtɨ	močʼimtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sɨrantɨ	sɨrantɨ	ADV	_	_	_	_	_	_	_
+_	taqɨnɨt	taqɨnɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ukkur	ukkur	NUM	_	_	_	_	_	_	_
+_	nʼeːmtɨ	nʼeː	NOUN	Case=Acc|Number=Sing|Person=3	_	_	_	_	_	_
+_	qaqlaqɨntɨ	qaqla	NOUN	Case=Ill|Number=Sing|Person=3	_	_	_	_	_	_
+_	ınna	ınna	ADV	_	_	_	_	_	_	_
+_	tɛltɨkkɨt	tɛltɨkkɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kɨqot	kɨqo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Еlʼpa	еlʼpa	ADV	_	_	_	_	_	_	_
+_	nımtɨ	nım	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	čʼəːtɨmpɨsɨmɨt	čʼəːtɨmpɨsɨmɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	paretɨlʼ	paretɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	amerikanskij	amerikanskij	ADV	_	_	_	_	_	_	_
+_	armisä	armisä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	šittɨčʼäköt	šittɨčʼäkö	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼeːloːqɨt	čʼeːloːqɨt	ADV	_	_	_	_	_	_	_
+_	pičʼčʼalʼ	pičʼčʼalʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tɨrɨlʼ	tɨrɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	iraqɨntɨ	ira	NOUN	Case=Loc|Number=Sing|Person=3	_	_	_	_	_	_
+_	poːqɨntɨ	poː	NOUN	Case=Loc|Number=Sing|Person=3	_	_	_	_	_	_
+
+_	täpɨp	täp	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	peːlʼa	peː	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	tüsa	tü	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ukkɨr	ukkɨr	NUM	_	_	_	_	_	_	_
+_	mütɨlʼ	mütɨlʼ	ADJ	_	_	_	_	_	_	_
+_	qup	qup	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	som	som	ADJ	_	_	_	_	_	_	_
+_	ɛːŋa	ɛː	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	naqot	naqot	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	talʼlʼimɔːtpɔːtɨm	talʼlʼimɔːtpɔːtɨm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kočʼek	kočʼek	DET	_	_	_	_	_	_	_
+_	tuparetkatan	tuparetkatan	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	sugulʼǯʼe	sugulʼǯʼe	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	tadelʼe	tadelʼe	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	zdavaiksap	zdavaiksap	ADV	_	_	_	_	_	_	_
+_	lapkondə	lapkondə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	me	me	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qəntɔːmɨn	qən	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	qəːlalʼlʼä	qəːlalʼlʼä	ADV	_	_	_	_	_	_	_
+
+_	ɛj	ɛj	ADV	_	_	_	_	_	_	_
+_	nʼuːtɨ	nʼuːtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taːtatə	taːt	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+_	sɨːrɨm	sɨːrɨm	PART	_	_	_	_	_	_	_
+_	apstɨqɨ	apstɨqɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nʼuːtə	nʼuːtə	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼäːnka	čʼäːnka	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	apamɨn	apamɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨmtɨ	nɨmtɨ	ADV	_	_	_	_	_	_	_
+_	nʼuːtɨlʼ	nʼuːtɨlʼ	ADJ	_	_	_	_	_	_	_
+_	pačʼčʼɨtɨsa	pačʼčʼɨtɨsa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	amamɨ	ama	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+_	ontɨqɨt	ontɨqɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qalɨmpa	qalɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	apamɨ	apam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	okot	okot	ADV	_	_	_	_	_	_	_
+_	qusana	qusana	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	ijat	ija	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	qəmpɨla	qəmpɨla	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	šʼolqumɨt	šʼolqum	NOUN	Case=Nom|Number=Plur	_	_	_	_	_	_
+
+_	me	me	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	andun	andu	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	kwässo	kwässo	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Kɨndawɨndo	kɨndawɨndo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nängo	nängo	ADV	_	_	_	_	_	_	_
+_	täbɨm	täb	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	tatku	tatku	PART	_	_	_	_	_	_	_
+_	maːttə	maːt	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+
+_	kanaŋmɨ	kanaŋm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	uːkət	uːkət	ADV	_	_	_	_	_	_	_
+_	mitɨkkɨtɨ	mitɨkkɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qorqop	qorqop	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	alʼčʼikka	alʼčʼikka	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mertɨ	mertɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nat	na	PRON	Case=Gen|Number=Sing	_	_	_	_	_	_
+
+_	1960	1960	NOUN	Case=Gen|Number=Sing|Person=3	_	_	_	_	_	_
+_	godu	godu	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qessak	qessak	ADV	_	_	_	_	_	_	_
+_	robɨtɨnoːqa	robɨtɨnoːqa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	Lelʼ	lelʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qeːlɨšqunoːqa	qeːlɨšqunoːqa	ADV	_	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tüaŋ	tüaŋ	PART	_	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	mazɨm	mazɨm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tadʼernä	tadʼernä	ADV	_	_	_	_	_	_	_
+
+_	somak	somak	ADV	_	_	_	_	_	_	_
+_	mɨta	mɨta	PART	_	_	_	_	_	_	_
+_	mollə	mollə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	seːlʼčʼi	seːlʼčʼi	NUM	_	_	_	_	_	_	_
+_	čʼürɨp	čʼürɨp	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mompa	mompa	PART	_	_	_	_	_	_	_
+_	orqɨlpɨŋɨmtɨjä	orqɨlpɨŋɨmtɨjä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	wärqɨ	wärqɨ	ADJ	_	_	_	_	_	_	_
+_	nʼälʼa	nʼälʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɨtta	mɨtta	PART	_	_	_	_	_	_	_
+
+_	man	Man	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	PART	_	_	_	_	_	_	_
+_	šıntɨ	šıntɨ	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	kəːtɨptäːqäk	kəːtɨptäːqäk	PART	_	_	_	_	_	_	_
+_	ütɨp	üt	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	amkap	amkap	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	a	a	CCONJ	_	_	_	_	_	_	_
+_	wärqə	wärqə	ADJ	_	_	_	_	_	_	_
+_	nälʼamɨ	nälʼa	NOUN	Case=Nom|Number=Sing|Person=1	_	_	_	_	_	_
+_	naj	naj	PART	_	_	_	_	_	_	_
+_	ja	ja	PART	_	_	_	_	_	_	_
+_	qaip	qa	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	kətɛntɨtɨ	kət	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_	_	_
+_	sä	sä	PART	Mood=Opt	_	_	_	_	_	_
+_	kʼen	kʼen	PART	_	_	_	_	_	_	_
+_	üŋkɨltukɨläl	üŋkɨltukɨläl	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	nɔːtɨ	Nɔːtɨ	ADV	_	_	_	_	_	_	_
+_	niːmto	niːmto	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qaširelʼa	qaširelʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kətsaniːmɨ	kətsaniːmɨ	ADV	_	_	_	_	_	_	_
+_	nʼe	nʼe	PART	_	_	_	_	_	_	_
+_	obižajte	obižajte	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kušaːqɨn	kušaː	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɛnersit	tɛnersit	ADV	_	_	_	_	_	_	_
+_	čʼekattɨla	čʼekattɨla	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ɔːntalsi	ɔːntalsi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	täpɨnɨŋ	täp	PRON	Case=All|Number=Sing	_	_	_	_	_	_
+_	misɔːtɨn	misɔːtɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	putʼovkam	putʼovkam	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	täp	täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qüːtalsä	qüːtalsä	PART	_	_	_	_	_	_	_
+
+_	nɨmtɨ	nɨmtɨ	ADV	_	_	_	_	_	_	_
+_	putʼovkam	putʼovkam	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mimpɔːtɨn	mimpɔːtɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ijanɨŋ	ijanɨŋ	ADV	_	_	_	_	_	_	_
+
+_	täpɨn	täp	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	kɨkɨmpɔːtɨn	kɨkɨmpɔːtɨn	ADV	_	_	_	_	_	_	_
+_	meː	meː	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	tätaqɨnɨn	tätaqɨnɨn	ADV	_	_	_	_	_	_	_
+_	tüŋijä	tüŋijä	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	šentɨ	šentɨ	ADJ	_	_	_	_	_	_	_
+_	mɛntalʼ	mɛntalʼ	ADJ	_	_	_	_	_	_	_
+_	vlastʼ	vlastʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nılʼčʼik	nılʼčʼik	DET	_	_	_	_	_	_	_
+_	kekɨsa	kekɨsa	ADV	_	_	_	_	_	_	_
+_	kätɨsɨt	kätɨ	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	ilʼmar	ilʼmar	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qäntaŋ	qäntaŋ	ADV	_	_	_	_	_	_	_
+
+_	lɨpɨqɨn	lɨpɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛːsa	ɛː	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɛnɨmɨsɨt	tɛnɨmɨsɨt	PART	_	_	_	_	_	_	_
+_	orsa	or	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	kočʼi	kočʼi	DET	_	_	_	_	_	_	_
+_	čʼattäm	čʼattäm	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	täp	Täp	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɨmtɨ	tɨmtɨ	ADV	_	_	_	_	_	_	_
+_	tɛː	tɛː	PRON	Case=Nom|Number=Plur	_	_	_	_	_	_
+_	karabəlʼip	karabəlʼip	ADV	_	_	_	_	_	_	_
+_	mantalʼtukkɨŋɨtɨ	mantalʼtukkɨŋɨtɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mantaltukkɨsa	mantaltukkɨsa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	marat	marat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kätəsɨt	kätəsɨt	ADV	_	_	_	_	_	_	_
+_	iːralʼıːpənɨŋ	iːralʼıːpənɨŋ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	spasipo	spasipo	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɛntalʼ	mɛntalʼ	ADJ	_	_	_	_	_	_	_
+_	qäːlɨčʼčʼilʼ	qäːlɨčʼ	VERB	Mood=Ind|VerbForm=Fin	_	_	_	_	_	_
+_	qumɨnɨŋ	qumɨnɨŋ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	täpaqäj	täpaqäj	ADV	_	_	_	_	_	_	_
+_	kuralsɔːqıj	kuralsɔːqıj	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mänɨlʼ	mänɨlʼ	ADJ	_	_	_	_	_	_	_
+_	pilaqtɨ	pilaqtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	pɔːpɨ	pɔːpɨ	ADV	_	_	_	_	_	_	_
+_	Šora	šora	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	üːntəsesit	üːntəsesit	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qos	qos	PART	_	_	_	_	_	_	_
+_	qajim	qaj	PRON	Case=Acc|Number=Sing	_	_	_	_	_	_
+
+_	meː	meː	PRON	Case=Gen|Number=Plur	_	_	_	_	_	_
+_	kanaiːmɨt	kana	NOUN	Case=Nom|Number=Plur|Person=1	_	_	_	_	_	_
+_	mänɨj	mänɨj	ADJ	_	_	_	_	_	_	_
+_	kanap	kana	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	aptɨrqolʼapsɔːtɨt	aptɨrqolʼapsɔːtɨt	ADV	_	_	_	_	_	_	_
+
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	meːqanɨt	meːqanɨt	PART	_	_	_	_	_	_	_
+_	nılʼčʼik	nılʼčʼik	ADV	_	_	_	_	_	_	_
+_	ɔːntalpɨlʼa	ɔːntalpɨ	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	pisɨnʼnʼi	pisɨnʼnʼi	ADV	_	_	_	_	_	_	_
+
+_	ukoːn	ukoːn	ADV	_	_	_	_	_	_	_
+_	taŋaltɨŋ	taŋaltɨŋ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	qaptičʼčʼika	qaptičʼčʼik	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nan	nan	ADV	_	_	_	_	_	_	_
+_	ɛj	ɛj	ADV	_	_	_	_	_	_	_
+_	čʼɔːpa	čʼɔːpa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	üŋɨltɨsak	üŋɨltɨsak	ADV	_	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	surɨčʼčʼilʼ	surɨčʼčʼilʼ	ADV	_	_	_	_	_	_	_
+_	qummɨ	qummɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	i	i	CCONJ	_	_	_	_	_	_	_
+_	qəssi	qəssi	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lʼgovtɨ	lʼgov	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+
+_	kɨpa	kɨpa	ADJ	_	_	_	_	_	_	_
+_	šiːpalʼ	šiːpalʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	kärɨt	kärɨt	ADV	_	_	_	_	_	_	_
+_	šit	šit	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nennɨ	nennɨ	ADV	_	_	_	_	_	_	_
+_	tılʼtaıːmpɔːtɨt	tılʼtaıːmpɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	tılʼtälʼıːmpɔːtɨn	tılʼtälʼıːmpɔːtɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tılʼtälʼɛːmpɔːt	tılʼtälʼɛːmpɔːt	ADV	_	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	ütə	ütə	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	pɔːrɨn	pɔːrɨn	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tıːmpɨsɔːtɨt	tıːmpɨsɔːtɨt	ADV	_	_	_	_	_	_	_
+
+_	sar	sar	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	imantɨsa	ima	NOUN	Case=Com|Number=Sing|Person=3	_	_	_	_	_	_
+_	nɛtɨrsɨtɨ	nɛtɨrsɨtɨ	ADV	_	_	_	_	_	_	_
+_	nɛkärsɨ	nɛkärsɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	kuntak	kuntak	ADV	_	_	_	_	_	_	_
+_	wəttont	wəttont	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	toqtaltɨŋa	toqtaltɨŋa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	ɔːmɨ	ɔːmɨ	ADJ	_	_	_	_	_	_	_
+_	neːtɨ	neː	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	aša	aša	PART	_	_	_	_	_	_	_
+_	ata	ata	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	poːtɨ	poːt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qɛnna	qɛnna	ADV	_	_	_	_	_	_	_
+_	qännɨ	qän	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mitɨ	mitɨ	PART	_	_	_	_	_	_	_
+_	ɔːnʼkɨ	ɔːnʼkɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	kɛtat	kɛt	VERB	Mood=Imp|Number=Sing|Person=2	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	čʼeːlɨk	čʼeːlɨk	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ınna	ınna	ADV	_	_	_	_	_	_	_
+_	pintɨ	pintɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	tətɨn	tətɨ	ADV	Case=Loc	_	_	_	_	_	_
+_	iːqɨt	iː	ADV	Case=Loc	_	_	_	_	_	_
+_	muntokt	muntok	DET	Case=Gen	_	_	_	_	_	_
+_	soma	soma	ADJ	_	_	_	_	_	_	_
+_	kuras	kuras	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sɛrɨ	sɛrɨ	ADJ	_	_	_	_	_	_	_
+_	ɛːnʼak	ɛːnʼak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	sarɨt	sar	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	nälʼa	nälʼa	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼilʼalʼ	čʼilʼalʼ	ADV	_	_	_	_	_	_	_
+_	nätäk	nätäk	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	lʼamɨk	lʼamɨk	ADV	_	_	_	_	_	_	_
+_	čʼontɨk	čʼontɨk	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	orɨmnanta	orɨmnanta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nat	na	PRON	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	sitɨ	sitɨ	ADV	_	_	_	_	_	_	_
+_	orɨmnanta	orɨmnanta	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	məčʼišinta	məčʼišinta	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	orɨmtana	orɨmtana	ADV	_	_	_	_	_	_	_
+_	sərɨ	sərɨ	ADJ	_	_	_	_	_	_	_
+_	məčʼik	məčʼik	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sʼaː	sʼaː	ADV	_	_	_	_	_	_	_
+_	sain	sain	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	untɨk	untɨk	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	selmokɔːlɨk	selmokɔːlɨk	ADV	_	_	_	_	_	_	_
+_	tɔːtɨk	tɔːtk	ADV	_	_	_	_	_	_	_
+_	puːtɨk	puːtɨk	ADV	_	_	_	_	_	_	_
+
+_	titalʼ	ti	ADV	_	_	_	_	_	_	_
+_	qumtɨ	qum	NOUN	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	peːqɨlʼisa	peːqɨlʼisa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	korolʼt	korolʼt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ija	ija	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Elisej	Elisej	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	nätatɨtkinɨ	nätatɨtkin	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	taqqɨliqo	taqqɨliqo	ADV	_	_	_	_	_	_	_
+_	sarɨt	sar	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	ima	ima	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	toqtatkutɨl	toqtatkutɨl	ADV	_	_	_	_	_	_	_
+_	zerkalalʼantɨsa	zerkalalʼantɨsa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	əːtɨk	əːtɨk	PART	_	_	_	_	_	_	_
+_	tɛpɨn	tɛpɨn	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	čʼattɨkkustɨ	čʼattɨkkustɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	kətat	kətat	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mäkkä	mäkkä	PRON	Case=Dat|Number=Sing	_	_	_	_	_	_
+_	muntok	muntok	DET	_	_	_	_	_	_	_
+_	kurassa	kuras	NOUN	Case=Instr|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	sərɨ	sərɨ	ADJ	_	_	_	_	_	_	_
+_	ɛːnʼak	ɛːnʼak	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	tan	Tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+_	moːlmɨtantɨ	moːlmɨtantɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼɔːt	čʼɔːt	ADP	_	_	_	_	_	_	_
+
+_	nılʼčʼik	nılʼčʼik	DET	_	_	_	_	_	_	_
+_	qɔːtɨ	qɔːtɨ	PART	_	_	_	_	_	_	_
+
+_	kutar	kutar	CCONJ	_	_	_	_	_	_	_
+_	meːtal	meːtal	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	sarɨt	sar	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	nälʼas	nälʼas	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	Čʼernovka	čʼernovka	ADV	_	_	_	_	_	_	_
+_	qənta	qən	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mačʼontɨ	mačʼo	NOUN	Case=Ill|Number=Sing	_	_	_	_	_	_
+_	na	na	PART	_	_	_	_	_	_	_
+
+_	nɨːnɨ	nɨːnɨ	ADV	_	_	_	_	_	_	_
+_	ontɨ	ontɨ	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	moqɨn	moqɨn	PART	_	_	_	_	_	_	_
+_	tüssa	tüssa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+
+_	pɛlɨkɔːlɨk	pɛlɨk	ADV	_	_	_	_	_	_	_
+_	mačʼot	mačʼot	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	nɨŋa	nɨŋa	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	təptɨ	təp	PRON	Case=Nom|Number=Sing|Person=3	_	_	_	_	_	_
+_	kətɨnʼɨtɨ	kətɨ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	təpɨn	təp	PRON	Case=Gen|Number=Sing	_	_	_	_	_	_
+
+_	nʼertarɨs	nʼertar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_	_	_
+_	nılʼ	nılʼ	ADJ	_	_	_	_	_	_	_
+_	ɛsɨt	ɛsɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	mɔːtqɨntit	mɔːtqɨntit	ADV	_	_	_	_	_	_	_
+_	mol	mol	PART	_	_	_	_	_	_	_
+_	seːrsak	seːrsak	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	mat	mat	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tiː	tiː	ADV	_	_	_	_	_	_	_
+_	qos	qos	PART	_	_	_	_	_	_	_
+_	sıt	sıt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qɛrɨptälɨt	qɛrɨptälɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	čʼäːnʼa	čʼäːnʼa	ADV	_	_	_	_	_	_	_
+
+_	qɛntɨsɔːtɨt	qɛntɨsɔːtɨ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	tɛpɨt	tɛpɨt	ADV	_	_	_	_	_	_	_
+_	nätap	näta	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ınna	ınna	ADV	_	_	_	_	_	_	_
+_	čʼeːlɨnʼpɨtɨlʼ	čʼeːlɨnʼpɨtɨlʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sünnöt	sünnöt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	aj	aj	ADV	_	_	_	_	_	_	_
+_	ontɨqɨt	ontɨqɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	na	na	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	nɨmtɨ	nɨmtɨ	ADV	_	_	_	_	_	_	_
+_	qəːčʼɨntɔːtɨt	qəːčʼɨntɔːtɨt	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	qəːčʼɨsɔːtɨt	qəːčʼɨsɔːtɨt	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	təpɨp	təpɨp	ADV	_	_	_	_	_	_	_
+_	ɔːŋkɨtitɨl	ɔːŋkɨtitɨl	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	pɛlɨkɔːlɨk	pɛlɨk	ADV	_	_	_	_	_	_	_
+
+_	qontɨrsal	qontɨrsa	ADV	VerbForm=Conv	_	_	_	_	_	_
+_	qaj	qaj	PART	_	_	_	_	_	_	_
+_	kun	kun	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	ɛːm	ɛːm	PART	_	_	_	_	_	_	_
+_	tətot	tətot	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	sarɨt	sar	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	nälʼap	nälʼa	NOUN	Case=Acc|Number=Sing	_	_	_	_	_	_
+_	ilʼmatɨlʼ	ilʼmatɨlʼ	ADV	_	_	_	_	_	_	_
+_	tan	tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+
+_	məšikkantɨ	məšikkant	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	korel	korel	ADV	_	_	_	_	_	_	_
+_	pit	pi	NOUN	Case=Gen|Number=Sing	_	_	_	_	_	_
+_	tan	tan	PRON	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	pürɨlʼ	pürɨlʼ	PART	_	_	_	_	_	_	_
+_	mɛntɨlʼ	mɛntɨlʼ	VERB	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_	_	_
+_	čʼeːlɨlʼ	čʼeːlɨlʼ	NOUN	Case=Nom|Number=Sing	_	_	_	_	_	_
+_	sailʼ	sailʼ	ADV	_	_	_	_	_	_	_
+

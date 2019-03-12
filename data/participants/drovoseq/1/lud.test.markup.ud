@@ -1,0 +1,2172 @@
+1	Pogostan	pogost	X	_	_
+2	n’okaz	n’ozi	X	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Muale	muat	X	_	_
+5	Bohatterim	ohtedä	X	_	_
+6	Miikkulassuai	miit	X	_	_
+7	siid	siid	ADV	_	_
+8	Bohatterim	ohtedä	X	_	_
+9	Miikkulaspiäi	miit	X	_	_
+10	Sürd’e	syri	X	_	_
+11	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+12	Golovassuai	oom	X	_	_
+13	Golovaspiäi	oto	X	_	_
+14	L’evoskassuai	nehte	X	_	_
+15	Haude	hätken	X	_	_
+16	L’evoskaspiäi	nimoi	X	_	_
+17	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+18	agd’ah	gaga	X	_	_
+19	Kažinagd’ah	kai	X	_	_
+20	Kažinagd’e	kai	X	_	_
+21	kučuttih	kurguda	X	_	_
+
+1	Ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+2	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+3	kač	kaččoda	X	_	_
+4	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+5	äijät	vinä	X	_	_
+6	peldot	peldo	X	_	_
+
+1	Vot	vot	INTJ	_	_
+2	embo	enämbi	X	_	_
+3	voi	vodi	X	_	_
+4	sidä	sinä	X	_	_
+5	sanoda	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+6	Sürd’e	syri	X	_	_
+7	vai	vai	X	_	_
+8	Muale	muat	X	_	_
+
+1	Pahn	pahne	X	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	sidä	sinä	X	_	_
+4	daže	da	X	_	_
+5	pahnad	pala	X	_	_
+6	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+7	voitu	votuine	X	_	_
+8	ni	ii	X	_	_
+9	mil	minä	X	_	_
+10	täuttädä	tämä	X	_	_
+11	moin	moine	X	_	_
+12	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+13	durmi	duri	X	_	_
+14	kazvanu	kaza	X	_	_
+15	ka	ka	PART	_	_
+16	ülähän	händä	X	_	_
+
+1	A	A	INTJ	_	_
+2	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	pahne	pahne	X	_	_
+4	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	kaku	kai	X	_	_
+6	nu	Nu	INTJ	_	_
+7	tuli	tüö	X	_	_
+8	vägipa	väi	X	_	_
+9	metrid	müö	X	_	_
+10	viiš	viit	X	_	_
+11	kuus	kunna	X	_	_
+12	pidutt	pidädä	X	_	_
+13	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Mid	midä	X	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	sih	siid	X	_	_
+4	vedettu	velä	X	_	_
+5	Koččurimägi	koččuri	X	_	_
+6	i	i	CCONJ	_	_
+7	siid	siid	ADV	_	_
+8	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+9	vie	vied	X	_	_
+10	sil	siid	X	_	_
+11	Bohatterim	ohtedä	X	_	_
+12	Мiikkulal	iikka	X	_	_
+13	kaivettu	kait	X	_	_
+14	moine	moine	ADJ	_	Case=Nom|Number=Sing	_	_	_	_
+15	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+16	pahne	pahne	X	_	_
+17	metrid	müö	X	_	_
+18	naverno	namčoda	X	_	_
+19	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+20	pardez	pareh	X	_	_
+21	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+22	azuttu	aza	X	_	_
+23	en	ei	AUX	_	Mood=Ind|Number=Sing|Person=1|VebForm=Fin	_	_	_	_
+24	tiä	tämä	X	_	_
+25	mi	mii	X	_	_
+26	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+27	azuttu	aza	X	_	_
+
+1	moižed	moine	X	_	_
+2	nene	nel’l’	X	_	_
+3	kaku	kai	X	_	_
+
+1	oliiž	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+2	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+3	šlakkat	sakka	X	_	_
+4	täz	tämä	X	_	_
+5	vedetäh	velä	X	_	_
+6	ka	ka	PART	_	_
+7	vie	vied	X	_	_
+8	enämbl	enämbi	X	_	_
+9	sidä	sinä	X	_	_
+10	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+11	koččurit	koččuri	X	_	_
+12	da	da	CCONJ	_	_
+13	šlakke	sakke	X	_	_
+14	muguoin	muga	X	_	_
+15	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+16	šlak	sakka	X	_	_
+17	a	A	INTJ	_	_
+18	siid	siid	ADV	_	_
+19	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+20	koččuri	koččuri	X	_	_
+
+1	Ned	ne	X	_	_
+2	d’o	d’o	INTJ	_	_
+3	Čarniemessuai	maine	X	_	_
+4	lopitah	loppida	X	_	_
+5	a	A	INTJ	_	_
+6	siid	siid	ADV	_	_
+7	d’o	d’o	INTJ	_	_
+8	poikki	poine	X	_	_
+9	d’ärves	d’ärvi	X	_	_
+10	toižel	tožo	X	_	_
+11	čural	čual	X	_	_
+12	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+13	Luučanniemi	nu	X	_	_
+14	siid	siid	ADV	_	_
+15	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+16	Häkinniemi	häi	X	_	_
+17	Mečojanniemi	müö	X	_	_
+18	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+19	sid	siid	X	_	_
+20	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+21	Kačojanniemi	kaččoine	X	_	_
+22	siid	siid	ADV	_	_
+23	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+24	Niikuoinniemi	nimidä	X	_	_
+25	siid	siid	ADV	_	_
+26	d’o	d’o	INTJ	_	_
+27	tänne	tämä	X	_	_
+28	d’ärven	d’ärvi	X	_	_
+29	čuppuh	čusa	X	_	_
+30	rodih	rodi	X	_	_
+31	Lanzinniemi	naine	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+3	Čaunniemi	manuoi	X	_	_
+4	siid	siid	ADV	_	_
+5	d’	d’o	X	_	_
+6	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+7	gubakse	guas	X	_	_
+8	sanotah	sanoda	X	_	_
+9	L’evoskan	lihte	X	_	_
+
+1	I	i	CCONJ	_	_
+2	oldih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	Ulangon	opa	X	_	_
+4	čupus	čusa	X	_	_
+5	Pohjuoisuod	poine	X	_	_
+6	vaste	vaste	X	_	_
+7	niitut	itidä	X	_	_
+
+1	Ülen	otle	X	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	d’ugei	d’uged	X	_	_
+4	ruata	ruda	X	_	_
+5	heinät	hüö	X	_	_
+
+1	Sürd’äm	sirna	X	_	_
+2	peldod	peldo	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+3	zavoditaheze	vavalde	X	_	_
+4	Kuziviide	kui	X	_	_
+5	Kangas	kaga	X	_	_
+6	Mägikujo	mägdä	X	_	_
+7	Miinuoimätäs	minä	X	_	_
+8	Sigloisüödü	siid	X	_	_
+9	Sigloisüödü	siid	X	_	_
+10	Siguoinsüödü	siid	X	_	_
+11	Siguoidensüödii	siid	X	_	_
+12	Zapol’kke	opaloketr	X	_	_
+13	Mangantie	maga	X	_	_
+14	Bolotte	ototetr	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	Ontuoi	ottada	X	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	moine	moine	ADJ	_	Case=Ade|Number=Sing	_	_	_	_
+4	starikke	starikke	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+5	udaluoi	duolta	X	_	_
+6	starikke	starikke	X	_	_
+7	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Mänöu	mändä	X	_	_
+2	kirikköh	kirikkö	X	_	_
+3	časounah	časoune	X	_	_
+4	zvoniu	vändä	X	_	_
+5	siid	siid	ADV	_	_
+6	malittut	mändä	X	_	_
+7	panou	panoda	X	_	_
+8	sigä	siin	X	_	_
+9	miitutte	miit	X	_	_
+10	hänele	häi	X	_	_
+11	armiis	amm	X	_	_
+12	kous	koun	X	_	_
+13	sluužii	siuž	X	_	_
+
+1	Opastettii	opaste	X	_	_
+2	kird’ah	kirguda	X	_	_
+3	muud	muu	X	_	_
+4	nimidä	nimidä	X	_	_
+
+1	Sinnä	sinnä	ADV	_	_
+2	kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	lähtedih	lähtedä	X	_	_
+
+1	Ždaanovaz	davoza	X	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+2	Bred’ec	rereh	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	naverno	namčoda	X	_	_
+3	häi	häi	PRON	_	Case=Par|Number=Sing	_	_	_	_
+4	tüöttih	tüö	X	_	_
+5	što	se	X	_	_
+6	kous	koun	X	_	_
+7	Mihal	miez	X	_	_
+8	Ol’ekśeič	olda	X	_	_
+9	lopii	hopi	X	_	_
+
+1	Siit	siit	CCONJ	_	_
+2	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Bred’ec	rereh	X	_	_
+5	siid	siid	ADV	_	_
+6	d’älgele	d’älgeh	X	_	_
+7	Bred’ecad	orog	X	_	_
+8	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+9	Lizaveta	lihtedä	X	_	_
+10	Ivanouna	ina	X	_	_
+11	se	se	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+12	Bred’ecan	orog	X	_	_
+13	tütär	tämä	X	_	_
+
+1	A	A	INTJ	_	_
+2	Lizavet	lihtedä	X	_	_
+3	Ivanouna	ina	X	_	_
+4	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+5	hätked	hätken	X	_	_
+6	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+7	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+8	miehele	miez	NOUN	_	Case=All|Number=Sing	_	_	_	_
+9	mäni	mäi	X	_	_
+10	da	da	CCONJ	_	_
+11	siit	siit	CCONJ	_	_
+12	tännä	tämä	X	_	_
+13	kačo	kaččoda	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VebForm=Fin	_	_	_	_
+14	D’emešinän	d’olma	X	_	_
+15	L’ošale	lihte	X	_	_
+16	mäni	mändä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+17	k	ku	X	_	_
+18	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+19	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+20	siit	siit	CCONJ	_	_
+21	rubeda	ruri	X	_	_
+22	tännä	tämä	X	_	_
+23	kävümäh	kävüdä	X	_	_
+24	siit	siit	CCONJ	_	_
+25	häntte	häi	X	_	_
+26	sinnä	sinnä	ADV	_	_
+27	pereidittih	pereh	X	_	_
+28	pereidittih	pereh	X	_	_
+29	perevedittih	pereh	X	_	_
+
+1	Siit	siit	CCONJ	_	_
+2	kučutah	kunna	X	_	_
+3	pogostan	pogost	X	_	_
+4	brihat	häi	X	_	_
+5	Hoi	häi	X	_	_
+6	tüö	tožl	X	_	_
+7	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+8	Ladvan	lahtedä	X	_	_
+9	kukuoit	kuolta	X	_	_
+10	piättömät	piätä	X	_	_
+11	kukuoit	kuolta	X	_	_
+
+1	Muga	muga	ADV	_	_
+2	meččekülä	mečče	NOUN	_	Case=Par|Number=Sing	_	_	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+5	ka	ka	PART	_	_
+
+1	pogostale	pogost	X	_	_
+2	piäi	piädä	X	_	_
+3	Krissan	karguda	X	_	_
+4	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+5	tožo	tožo	ADV	_	_
+6	mägel	mägi	X	_	_
+7	peldod	peldo	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+8	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+9	ül’en	h’h	X	_	_
+10	hüvät	hätkä	X	_	_
+
+1	On	olda	X	_	_
+2	enzimäižekse	enzimäine	X	_	_
+3	Mel’l’ičče	meö	X	_	_
+4	Mel’l’ičüöiden	müö	X	_	_
+5	külä	kunna	X	_	_
+6	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+7	d’üri	d’ori	X	_	_
+8	d’ärvi’randaz	d’ärvi	X	_	_
+9	eläu	enämbi	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	d’o	d’o	INTJ	_	_
+3	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+4	Siidniemes	siid	X	_	_
+5	proidiu	podi	X	_	_
+6	nu	Nu	INTJ	_	_
+7	еi	ii	X	_	_
+8	ole	olda	X	_	_
+9	pien’	pieni	X	_	_
+10	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+11	nu	Nu	INTJ	_	_
+12	puoli	polta	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+13	kilometrid	kilometr	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+14	olnou	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+15	välit’	väi	X	_	_
+16	Simaništo	sinnä	X	_	_
+
+1	Da	da	CCONJ	_	_
+2	ongele	oja	X	_	_
+3	kävüttih	kävüdä	X	_	_
+4	sügüzel	sygyz’	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	Kohtpeldo	koht	X	_	_
+4	Kuare	kur	X	_	_
+5	tožo	tožo	ADV	_	_
+6	d’ärvirandaižes	d’ärvi	X	_	_
+7	tožo	tožo	ADV	_	_
+8	muga	muga	ADV	_	_
+9	eletäh	elädä	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Kengi	kei	X	_	_
+2	bohatembi	hoht	X	_	_
+3	kengi	kei	X	_	_
+4	köuhembi	kuh	X	_	_
+5	köuhembe	kuheksi	X	_	_
+6	siid	siid	ADV	_	_
+7	burlakuoiččou	puolta	X	_	_
+8	da	da	CCONJ	_	_
+9	bohatuoile	hohne	X	_	_
+10	ruadau	ruda	X	_	_
+11	da	da	CCONJ	_	_
+
+1	Siid	siid	ADV	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	d’o	d’o	INTJ	_	_
+4	niemel	nimi	X	_	_
+5	sigä	siin	X	_	_
+6	Vašakke	vakke	X	_	_
+7	lähti	lähtedä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	kaksailepiäi	kai	X	_	_
+9	doro	dorog	X	_	_
+10	mi	mii	X	_	_
+11	neče	ne	X	_	_
+12	moine	moine	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+13	külä	kunna	X	_	_
+14	d’o	d’o	INTJ	_	_
+15	suuren	suuri	X	_	_
+16	d’ärver’randa	d’ärvi	X	_	_
+17	i	i	CCONJ	_	_
+18	Vašakan	vast	X	_	_
+19	gubah	guaga	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+3	su	se	X	_	_
+4	neče	ne	X	_	_
+5	Sürd’e	syri	X	_	_
+
+1	Ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+2	muut	muštada	X	_	_
+3	enämbi	enämbi	ADV	_	_
+4	külät	kunna	X	_	_
+5	siid	siid	ADV	_	_
+6	ül’en	h’h	X	_	_
+7	lähin	lähtedä	X	_	_
+8	iellu	ile	X	_	_
+9	meil	müö	PRON	_	Case=Ade|Number=Plur	_	_	_	_
+10	Pelduoižis	peldo	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	meid	müö	X	_	_
+3	vedätettih	ven	X	_	_
+4	sinnä	sinnä	ADV	_	_
+5	oigedid	otda	X	_	_
+6	doroguoid	dorog	X	_	_
+7	müoti	mändä	X	_	_
+
+1	Hedotištoz	hüö	X	_	_
+2	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+3	d’ärvi	d’ärvi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+4	nu	Nu	INTJ	_	_
+5	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+6	ülen	heh	X	_	_
+7	lähin	lähtedä	X	_	_
+8	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+9	palaine	pali	X	_	_
+10	kesked	kes	X	_	_
+11	oma	oma	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+12	d’ärvi	d’ärvi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+13	sigä	siin	X	_	_
+14	vrod’e	vodi	X	_	_
+15	kaku	kai	X	_	_
+16	lambi	nämbi	X	_	_
+
+1	Palatezd’ärvez	pala	X	_	_
+2	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+3	d’o	d’o	INTJ	_	_
+4	d’ärvi	d’ärvi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+5	oma	oma	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+6	ku	ku	X	_	_
+7	lambi	nämbi	X	_	_
+8	i	i	CCONJ	_	_
+9	taluoit	taluoi	X	_	_
+10	kuus	kunna	X	_	_
+11	seiččei	seiččei	NUM	_	_
+
+1	Siid	siid	ADV	_	_
+2	d’o	d’o	INTJ	_	_
+3	sinnä	sinnä	ADV	_	_
+4	müö	mändä	X	_	_
+5	nouziškanzimme	nozi	X	_	_
+6	kous	koun	X	_	_
+7	n’umaluoih	nu	X	_	_
+8	astuimme	aste	X	_	_
+9	ka	ka	PART	_	_
+10	siid	siid	ADV	_	_
+11	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+12	Palatezd’ärven	pala	X	_	_
+13	proidihui	podi	X	_	_
+14	Kikki	kii	X	_	_
+15	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Dorok	d’orož	X	_	_
+2	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	matkedorog	mändä	X	_	_
+4	mänou	mändä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+5	nu	Nu	INTJ	_	_
+6	t’el’ežnuoi	tel’loi	X	_	_
+7	kujo	kuolta	X	_	_
+8	ku	ku	X	_	_
+9	kujo	kuolta	X	_	_
+10	vot	vot	INTJ	_	_
+11	muga	muga	ADV	_	_
+12	dorok	dorož	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	a	A	INTJ	_	_
+3	vot	vot	INTJ	_	_
+4	siit	siit	CCONJ	_	_
+5	sinnä	sinnä	ADV	_	_
+6	lähtet	lähtedä	X	_	_
+7	nägimme	näime	X	_	_
+8	Kokkuoilas	kolne	X	_	_
+9	suurez	suuri	X	_	_
+10	ühtez	hez	X	_	_
+11	vai	vai	X	_	_
+12	proidiimme	poine	X	_	_
+13	a	A	INTJ	_	_
+14	toine	toine	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+15	pieni	pieni	ADJ	_	Case=Nom|Number=Sing	_	_	_	_
+16	Kokkoil	kolmu	X	_	_
+17	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+18	mägel	mägi	X	_	_
+19	ka	ka	PART	_	_
+20	siid	siid	ADV	_	_
+21	emme	edelleh	X	_	_
+22	nähnü	näh	X	_	_
+
+1	Suuri	suuri	ADJ	_	Case=Nom|Number=Sing	_	_	_	_
+2	Kokkuoile	kolme	X	_	_
+3	tože	tožo	X	_	_
+4	siiten	siit	X	_	_
+5	omad	oma	X	_	_
+6	d’ärved	d’ärvi	X	_	_
+7	ol’d’ih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Vot	vot	INTJ	_	_
+2	niilüöis	nimidä	X	_	_
+3	külis	kolmu	X	_	_
+4	proidiimme	poine	X	_	_
+5	müö	mändä	X	_	_
+6	siiriči	siid	X	_	_
+7	oigedas	oige	X	_	_
+8	čura	čuar	X	_	_
+9	oigedat	opa	X	_	_
+10	kättemüöti	kävüdä	X	_	_
+11	ka	ka	PART	_	_
+12	hüö	häglen	X	_	_
+13	d’iädìh	d’ärvi	X	_	_
+14	hurah	hüö	X	_	_
+15	čurah	čuri	X	_	_
+16	lam	lamta	X	_	_
+17	neče	ne	X	_	_
+18	d’ärvi	d’ärvi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+19	keskez	kes	X	_	_
+20	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+21	Robotän	ojä	X	_	_
+22	d’ärvi	d’ärvi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+23	Röbätän	niänä	X	_	_
+24	d’ärvi	d’ärvi	NOUN	_	Case=Ill|Number=Sing	_	_	_	_
+25	Röbätte	niäte	X	_	_
+26	da	da	CCONJ	_	_
+27	siit	siit	CCONJ	_	_
+28	Huabanou	hänu	X	_	_
+
+1	Tožo	tožo	ADV	_	_
+2	eläu	enämbi	X	_	_
+3	grežal	greža	X	_	_
+4	kodit	kodi	X	_	_
+5	hüvät	hätkä	X	_	_
+6	i	i	CCONJ	_	_
+7	d’ärvi	d’ärvi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+
+1	Ka	ka	PART	_	_
+2	küzüt	kuza	X	_	_
+3	Tämä	tämä	X	_	_
+4	mi	mii	X	_	_
+5	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Müö	mändä	X	_	_
+2	kävüimmePriäžäspiäi	kävüdä	X	_	_
+3	oi	oida	X	_	_
+4	lidnaspiäi	lidn	X	_	_
+5	ajelimme	amme	X	_	_
+6	muuruoih	muu	X	_	_
+7	ajelimme	amme	X	_	_
+
+1	I	i	CCONJ	_	_
+2	müö	mändä	X	_	_
+3	sigä	siin	X	_	_
+4	kävelimme	kävülče	X	_	_
+5	kävelimme	kävülče	X	_	_
+6	minä	minä	PRON	_	Case=Par|Number=Sing	_	_	_	_
+7	sanon	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+8	sille	siit	X	_	_
+9	Pavarickuoile	pavalouetr	X	_	_
+10	An’n’i	nimi	X	_	_
+11	Hoi	häi	X	_	_
+12	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+13	tännä	tämä	X	_	_
+14	pidä	pidädä	X	_	_
+15	mändä	mändä	X	_	_
+16	müö	mändä	X	_	_
+17	üöstümme	vyste	X	_	_
+
+1	Muga	muga	ADV	_	_
+2	lähtimme	lähtedä	X	_	_
+3	dai	da	X	_	_
+4	muuruoisuole	muutada	X	_	_
+5	puutuimme	puami	X	_	_
+
+1	Minull	minä	X	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	Kaškanas	kaks	X	_	_
+4	sizär	sizar	X	_	_
+5	miehel	miez	NOUN	_	Case=Ade|Number=Sing	_	_	_	_
+6	sinnä	sinnä	ADV	_	_
+7	tožo	tožo	ADV	_	_
+8	kävüin	kävüdä	X	_	_
+9	ajuoin	amnoi	X	_	_
+10	podvodad	podo	X	_	_
+11	dai	da	X	_	_
+12	mug	muga	X	_	_
+13	olin	olda	X	_	_
+14	pruaznikal	perzi	X	_	_
+
+1	Külän	kunna	X	_	_
+2	lähel	lähtedä	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	lähtemme	lähtedä	X	_	_
+3	nügü	gygy	X	_	_
+4	Petrofskuoihpiäi	perog	X	_	_
+5	mittumat	miit	X	_	_
+6	külät	kunna	X	_	_
+7	sinnäpiäi	sinnä	X	_	_
+8	oldih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Nu	Nu	INTJ	_	_
+
+1	Nel’tos	ne	X	_	_
+2	taluoid	taluoi	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	bohattad	hoht	X	_	_
+5	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+6	köuhät	kunna	X	_	_
+7	tožo	tožo	ADV	_	_
+
+1	Siit	siit	CCONJ	_	_
+2	viet	viet	X	_	_
+3	sinnä	sinnä	ADV	_	_
+4	rugiž	ruri	X	_	_
+5	d’auhotettavaks	d’uza	X	_	_
+6	libo	lidä	X	_	_
+7	pahmaks	pala	X	_	_
+8	libo	lidä	X	_	_
+9	midä	minä	X	_	_
+10	hüö	häglen	X	_	_
+11	sigä	siin	X	_	_
+12	survotettih	suoroi	X	_	_
+13	se	se	PRON	_	Case=Nom|Number=Sing	_	_	_	_
+14	Präkke	pääkke	X	_	_
+15	siit	siit	CCONJ	_	_
+16	Präkäspiäi	pänä	X	_	_
+17	d’o	d’o	INTJ	_	_
+18	Priäžäh	piänä	X	_	_
+19	viiš	viit	X	_	_
+20	kilometrit	kilometr	NOUN	_	Case=Par|Number=Sing	_	_	_	_
+21	mel’l’ičäd	müö	X	_	_
+22	ol’d’ih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Kaj	kai	X	_	_
+2	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+3	nenguoine	ne	X	_	_
+4	eläjäd	enämbi	X	_	_
+5	äika	häi	X	_	_
+6	siid	siid	ADV	_	_
+7	vuotat	vuolta	X	_	_
+8	sügüzel	sygyz’	X	_	_
+9	ku	ku	X	_	_
+10	nenn	nel’l’	X	_	_
+11	azutah	aza	X	_	_
+12	ka	ka	PART	_	_
+13	nedälin	nel’l’	X	_	_
+14	vuorot	vuolta	X	_	_
+15	vuotat	vuolta	X	_	_
+16	kous	koun	X	_	_
+
+1	A	A	INTJ	_	_
+2	sit	siit	X	_	_
+3	d’älgele	d’älgeh	X	_	_
+4	d’o	d’o	INTJ	_	_
+5	rodiiheze	roize	X	_	_
+6	parembe	pereh	X	_	_
+7	siid	siid	ADV	_	_
+8	omah	oma	X	_	_
+9	küläh	kunna	X	_	_
+10	meil	müö	PRON	_	Case=Ade|Number=Plur	_	_	_	_
+11	Pelduoižeh	peldo	X	_	_
+12	azuttih	azüdä	X	_	_
+13	mel’l’ičče	müö	X	_	_
+
+1	Seičaz	sei	X	_	_
+2	d’o	d’o	INTJ	_	_
+3	mel’l’išnikk	müö	X	_	_
+4	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	omas	oma	ADJ	_	Case=Ine|Number=Sing	_	_	_	_
+6	küläs	kunna	X	_	_
+7	Bohatterin	ohtedä	X	_	_
+8	Ol’eša-veikki	olda	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	siid	siid	ADV	_	_
+3	vie	vied	X	_	_
+4	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	Präkäz	pänä	X	_	_
+6	nouzet	nozz	X	_	_
+7	kaks	kaks	NUM	_	_
+8	kilometrit	kilometr	NOUN	_	Case=Par|Number=Sing	_	_	_	_
+9	poikki	poine	X	_	_
+10	d’oges	d’oge	X	_	_
+11	Login	nogi	X	_	_
+
+1	Präkäs	pänä	X	_	_
+2	tožo	tožo	ADV	_	_
+3	kač	kaččoda	X	_	_
+4	ku	ku	X	_	_
+5	olihäi	olda	X	_	_
+6	loitton	loptida	X	_	_
+7	d’ogi	d’ogi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+8	ielnu	ile	X	_	_
+
+1	Sigä	siin	X	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	d’ogi	d’ogi	X	_	_
+4	Pühä-d’ogi	päi	X	_	_
+5	siihäi	siid	X	_	_
+6	lambiz	nämbi	X	_	_
+7	matkaži	mändä	X	_	_
+8	Präkän	pänä	X	_	_
+9	d’ogi	d’ogi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+10	Präkäs	pänä	X	_	_
+11	kudai	kui	X	_	_
+12	mäni	mändä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+13	sih	siid	X	_	_
+14	lambih	nämbi	X	_	_
+15	sordui	sord	X	_	_
+16	siid	siid	ADV	_	_
+17	edelleh	edelleh	ADV	_	_
+18	sinnä	sinnä	ADV	_	_
+
+1	Gorile	odi	X	_	_
+2	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	neče	ne	X	_	_
+4	kuz	kuz	X	_	_
+5	otetah	ottada	X	_	_
+6	talvel	tal’v	X	_	_
+7	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+8	külmänü	kunna	X	_	_
+9	moine	moine	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+10	rodnikke	rodke	X	_	_
+11	siga	siga	X	_	_
+12	otettih	ottada	X	_	_
+13	a	A	INTJ	_	_
+14	tožo	tožo	ADV	_	_
+15	peze	pezel	X	_	_
+16	sobit	siit	X	_	_
+17	kustahto	kuolta	X	_	_
+18	kodis	kodi	X	_	_
+19	huuhto	hüö	X	_	_
+20	libo	lidä	X	_	_
+21	mäne	mändä	X	_	_
+22	hot’	hotä	X	_	_
+23	Šän’gimäh	sinnä	X	_	_
+24	libo	lidä	X	_	_
+25	kunn	kunna	X	_	_
+26	aja	aina	X	_	_
+27	vot	vot	INTJ	_	_
+28	mugomat	muga	X	_	_
+29	meččekülis	meö	X	_	_
+30	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Ende	edelleh	X	_	_
+2	Nuožarved	nervi	X	_	_
+3	om	oma	X	_	_
+4	Mange	mägi	X	_	_
+5	Mangall	maga	X	_	_
+6	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+7	d’ärvüt	d’ärvi	X	_	_
+8	kaide	kai	X	_	_
+9	da	da	CCONJ	_	_
+10	d’ogi	d’ogi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+11	oja	oja	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+12	matkadau	mändä	X	_	_
+
+1	Präkäz	pänä	X	_	_
+2	lähtet	lähtedä	X	_	_
+3	Priäže	pereloime	X	_	_
+4	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Vahne	vahne	X	_	_
+2	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	vahne	vahne	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+4	Priäž	penä	X	_	_
+5	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+6	moine	moine	ADJ	_	Case=Ade|Number=Sing	_	_	_	_
+7	külä	kunna	X	_	_
+8	pitke	pieks	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	siid	siid	ADV	_	_
+3	heill	hüö	X	_	_
+4	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	oja	oja	X	_	_
+6	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+7	matkadai	mändä	X	_	_
+8	silde	siid	X	_	_
+9	matke	munta	X	_	_
+10	dorok	dorož	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	Rogin	oogi	X	_	_
+4	taluoi	taluoi	X	_	_
+5	pieni	pieni	X	_	_
+6	kodiine	koine	X	_	_
+7	moine	moine	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+8	enzimäižeks	enzimäine	X	_	_
+9	mänet	mändä	X	_	_
+
+1	A	A	INTJ	_	_
+2	ku	ku	X	_	_
+3	tulethäi	tüö	X	_	_
+4	podvodad	podo	X	_	_
+5	ajuoimme	amme	X	_	_
+6	kous	koun	X	_	_
+7	tüötäh	tünä	X	_	_
+8	podvodah	poige	X	_	_
+9	tulet	tüö	X	_	_
+10	ka	ka	PART	_	_
+11	üöz	hyz’	X	_	_
+12	läbü	nändä	X	_	_
+13	tuli	tüö	X	_	_
+14	paluoi	paluoi	X	_	_
+15	lamppe	lapsi	X	_	_
+16	stolal	stolta	X	_	_
+17	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+18	sammutelttu	sanoda	X	_	_
+19	ni	ii	X	_	_
+20	vous’o	vodi	X	_	_
+
+1	Suoluz	suozi	X	_	_
+2	mägeh	mägi	X	_	_
+3	tulet	tüö	X	_	_
+4	siid	siid	ADV	_	_
+5	d’o	d’o	INTJ	_	_
+6	lidne	lidn	X	_	_
+
+1	Ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+2	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+3	ni	ii	X	_	_
+4	miitutte	miit	X	_	_
+5	külät	kunna	X	_	_
+
+1	Ed	edä	X	_	_
+2	ni	ii	X	_	_
+3	tiedäiš	timidä	X	_	_
+4	külit	kilometr	X	_	_
+5	ka	ka	PART	_	_
+6	nene	nel’l’	X	_	_
+7	ku	ku	X	_	_
+8	Pokrovuoile	porogetr	X	_	_
+9	kävüttih	kävüdä	X	_	_
+10	Viidanalpiäi	siid	X	_	_
+11	da	da	CCONJ	_	_
+12	Koskespiäi	kost	X	_	_
+13	ka	ka	PART	_	_
+14	net	ne	X	_	_
+15	saneltah	sane	X	_	_
+16	miittumat	miit	X	_	_
+17	küläd	kunna	X	_	_
+18	oldah	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	sit	siit	X	_	_
+3	hüö	häglen	X	_	_
+4	tännä	tämä	X	_	_
+5	Lohmuoižespiäi	nomne	X	_	_
+6	ku	ku	X	_	_
+7	lähtedih	lähtedä	X	_	_
+
+1	Da	da	CCONJ	_	_
+2	d’uodih	d’o	X	_	_
+3	viinat	viit	X	_	_
+4	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+5	sigä	siin	X	_	_
+6	butilkat	nu	X	_	_
+7	kaks	kaks	NUM	_	_
+8	vai	vai	X	_	_
+9	kolme	kolme	X	_	_
+10	da	da	CCONJ	_	_
+11	lähtedih	lähtedä	X	_	_
+12	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+13	vie	vied	X	_	_
+14	piäl	piäle	X	_	_
+15	täpütettih	täppi	X	_	_
+16	Moločče	moine	X	_	_
+17	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+18	poige	poige	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+19	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+20	meit	müö	X	_	_
+21	hüvin	häi	X	_	_
+22	gostitit	gostuine	X	_	_
+
+1	Ala-Viidan	lahtedä	X	_	_
+2	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+4	d’uuri	d’uri	X	_	_
+5	d’o	d’o	INTJ	_	_
+6	Priäzähpiäi	piädä	X	_	_
+7	loppu	loppi	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	a	A	INTJ	_	_
+3	siit	siit	CCONJ	_	_
+4	kačo	kaččoda	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VebForm=Fin	_	_	_	_
+5	se	se	PRON	_	Case=Nom|Number=Sing	_	_	_	_
+6	nouzou	nozi	X	_	_
+7	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+8	Ala-Viidan	lahtedä	X	_	_
+9	proidiu	podi	X	_	_
+10	en	ei	AUX	_	Mood=Ind|Number=Sing|Person=1|VebForm=Fin	_	_	_	_
+11	t’iä	tämä	X	_	_
+12	kilometrit	kilometr	NOUN	_	Case=Par|Number=Sing	_	_	_	_
+13	kolme	kolme	X	_	_
+14	vai	vai	X	_	_
+15	mi	mii	X	_	_
+16	enämbe	enämbi	X	_	_
+17	kolmet	kolme	X	_	_
+18	kuus	kunna	X	_	_
+19	seiččej	seiččei	X	_	_
+20	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+21	Šuojun	suozi	X	_	_
+22	d’ogi	d’ogi	X	_	_
+23	proidiu	podi	X	_	_
+24	tagači	taga	X	_	_
+25	Poštas	post	X	_	_
+
+1	Kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	mänöu	mändä	X	_	_
+3	oigedan	opa	X	_	_
+4	čuran	čuar	X	_	_
+5	lidnaspiäi	lidn	X	_	_
+6	oigedan	opa	X	_	_
+7	kädem	kevüdä	X	_	_
+8	mänöu	mändä	X	_	_
+9	neče	ne	X	_	_
+10	Pošte	poste	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+3	Paskuoi	palost	X	_	_
+4	guban	guab	X	_	_
+5	külä	kunna	X	_	_
+6	tožo	tožo	ADV	_	_
+7	seižuoime	se	X	_	_
+8	sit	siit	X	_	_
+9	Paskuoiz’gubas	paluz	X	_	_
+10	mašina	mändä	X	_	_
+11	d’ärvenrandas	d’ärvi	X	_	_
+12	eläu	enämbi	X	_	_
+
+1	Minä	minä	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	vie	vied	X	_	_
+3	küzelin	kuzilah	X	_	_
+4	Mibo	minä	X	_	_
+5	neče	ne	X	_	_
+6	doroguoid	dorog	X	_	_
+7	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Vohtozerah	vohz	X	_	_
+2	vot	vot	INTJ	_	_
+3	sinnä	sinnä	ADV	_	_
+
+1	muatuškan	muštada	X	_	_
+2	sizär	sizar	X	_	_
+3	lapset	lapsi	X	_	_
+4	kävüttih	kävüdä	X	_	_
+5	meile	müö	X	_	_
+6	sih	siid	X	_	_
+7	minud	minä	X	_	_
+8	enzivuoded	enzimäi	X	_	_
+9	ol’d’i	olda	X	_	_
+10	gostih	gost	X	_	_
+
+1	Sepinüöikse	seilosets	X	_	_
+2	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Pühärven	pärvheks	X	_	_
+2	Sürd’äz	siroz	X	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Trikuks	tožk	X	_	_
+5	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+6	tožo	tožo	ADV	_	_
+7	bedn’akat	pelä	X	_	_
+
+1	Muštadgo	muga	X	_	_
+2	kedä	ken	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	eli	elädä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Hedotištos	hüö	X	_	_
+
+1	Piiriččü	piid	X	_	_
+2	Mačakse	maste	X	_	_
+3	Mačakse	maste	X	_	_
+4	Mat’akse	muat	X	_	_
+5	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+6	tožo	tožo	ADV	_	_
+7	sid	siid	X	_	_
+8	eli	elädä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+9	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+10	Hedotištoz	hüö	X	_	_
+11	i	i	CCONJ	_	_
+12	Palatezd’ärvez	pala	X	_	_
+13	eli	elädä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+14	Palatezd’ärvez	pala	X	_	_
+15	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+16	kodavävünnü	kovv	X	_	_
+17	nu	Nu	INTJ	_	_
+18	a	A	INTJ	_	_
+19	nečiz	ne	X	_	_
+20	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+21	männü	mändä	X	_	_
+22	Hedotištospiäi	hüö	X	_	_
+
+1	Sepän	senämbi	X	_	_
+2	Vas’an	vast	X	_	_
+3	el’ettih	elädä	X	_	_
+4	hüö	häglen	X	_	_
+5	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+6	d’agettuhes	d’agedä	X	_	_
+7	üks	kuo	X	_	_
+8	taluoi	taluoi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+9	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+10	a	A	INTJ	_	_
+11	Paušin	paluoi	X	_	_
+12	d’agettiheze	d’agel	X	_	_
+
+1	Ke	ken	X	_	_
+2	Paušši	papsi	X	_	_
+3	Pavlovi	palvo	X	_	_
+4	vod	vodi	X	_	_
+5	zapomnila	otada	X	_	_
+6	Pavlovikse	pal’o	X	_	_
+7	sanottih	sanoda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+9	Paušin	paluoi	X	_	_
+10	Pavlovi	palvo	X	_	_
+11	nu	nu	X	_	_
+12	dai	da	X	_	_
+13	Iivanad	idädä	X	_	_
+14	dai	da	X	_	_
+15	kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+
+1	Da	da	CCONJ	_	_
+2	siid	siid	ADV	_	_
+3	Danilan	da	X	_	_
+4	Osippe	oppi	X	_	_
+5	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+6	da	da	CCONJ	_	_
+7	siid	siid	ADV	_	_
+8	Danilan	da	X	_	_
+9	Vas’a	vasta	X	_	_
+10	оli	olda	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	a	A	INTJ	_	_
+3	sit	siit	X	_	_
+4	tägä	tämä	X	_	_
+5	entiä	enämbi	X	_	_
+6	kedä	ken	PRON	_	Case=Par|Number=Sing	_	_	_	_
+7	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	Kohtpeldos	koht	X	_	_
+9	sigä	siin	X	_	_
+10	üks	kuo	X	_	_
+11	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+12	Vašakk	vakk	X	_	_
+13	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+14	ka	ka	PART	_	_
+15	Kohtpeldokse	kohte	X	_	_
+16	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Ned	ne	X	_	_
+2	d’o	d’o	INTJ	_	_
+3	minum	minä	X	_	_
+4	muštamah	muštada	X	_	_
+5	bohatad	hoht	X	_	_
+6	butto	puolta	X	_	_
+7	kaku	kai	X	_	_
+8	d’o	d’o	INTJ	_	_
+9	moižed	moine	X	_	_
+10	e	en	X	_	_
+11	keuhälištöd	ken	X	_	_
+12	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+13	ni	ii	X	_	_
+14	čitaittu	it	X	_	_
+15	ned	ne	PRON	_	Case=Par|Number=Plur	_	_	_	_
+16	bohatad	hoht	X	_	_
+
+1	Smislovad	siid	X	_	_
+2	ol’d’ii	olda	X	_	_
+3	siid	siid	ADV	_	_
+4	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	Lukin	nu	X	_	_
+6	D’oška	d’o	X	_	_
+7	siid	siid	ADV	_	_
+8	Ontuoin	ottada	X	_	_
+9	taluoi	taluoi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+10	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Siid	siid	ADV	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	L’evuoin	lihtedä	X	_	_
+4	taluoi	taluoi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+5	tožo	tožo	ADV	_	_
+6	kolme	kolme	NUM	_	_
+7	vel’l’est	vel’l’	X	_	_
+8	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+9	Semuoi	se	X	_	_
+10	D’uakuoi	d’uo	X	_	_
+11	Iivan	idä	X	_	_
+12	ol’d’ih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+2	äijad	väid	X	_	_
+3	ni	ii	X	_	_
+4	taluoid	taluoi	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+5	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+
+1	Suavuoin	suari	X	_	_
+2	taluoi	taluoi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	da	da	CCONJ	_	_
+5	siit	siit	CCONJ	_	_
+6	e	en	X	_	_
+7	nečen	nel’el	X	_	_
+8	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+9	Onekäks	oja	X	_	_
+10	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+11	emvoi	enämbi	X	_	_
+12	sidä	sinä	X	_	_
+13	Bajarid	oard	X	_	_
+14	Bajarid	oard	X	_	_
+15	ol’d’ih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+16	Kaškanas	kaks	X	_	_
+17	a	A	INTJ	_	_
+18	siid	siid	ADV	_	_
+19	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Ende	edelleh	X	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	kačo	kaččoda	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VebForm=Fin	_	_	_	_
+4	Hedotištos	hüö	X	_	_
+5	siid	siid	ADV	_	_
+6	rahvas	hah	X	_	_
+7	prostuoittavad	perodä	X	_	_
+8	ol’d’ih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+9	da	da	CCONJ	_	_
+10	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+11	tiettüni	tiit	X	_	_
+12	kunna	kunna	PRON	_	Case=Par|Number=Sing	_	_	_	_
+13	lidnah	lidn	NOUN	_	Case=Ill|Number=Sing	_	_	_	_
+14	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+15	kävüttü	kävüdä	X	_	_
+
+1	Kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	rahvaz	hah	X	_	_
+3	d’uostah	d’oga	X	_	_
+4	kenkunna	ken	PRON	_	Case=Par|Number=Sing	_	_	_	_
+5	puuttuu	puat	X	_	_
+6	kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+
+1	Kunna	kunna	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	mänemme	mändä	X	_	_
+
+1	Ka	ka	PART	_	_
+2	mibo	minä	X	_	_
+3	rodiihes	rodu	X	_	_
+4	sinun	sinnä	X	_	_
+5	kanduoile	kačče	X	_	_
+
+1	Kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	nel’l’udelttih	nel’l’	X	_	_
+
+1	Ainoz	ainos	X	_	_
+2	mušteltah	muštada	X	_	_
+3	kačo	kaččoda	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VebForm=Fin	_	_	_	_
+4	mäni	mändä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	brihačču	häi	X	_	_
+6	vedeh	veh	X	_	_
+
+1	Siit	siit	CCONJ	_	_
+2	kačo	kaččoda	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VebForm=Fin	_	_	_	_
+3	keuhe	ker	X	_	_
+4	da	da	CCONJ	_	_
+5	ülen	heh	X	_	_
+6	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+7	keuhe	ker	X	_	_
+8	pereh	pereh	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+9	ka	ka	PART	_	_
+10	lidnas	lidn	X	_	_
+11	kuharkuoiččih	kuroi	X	_	_
+
+1	Vot	vot	INTJ	_	_
+2	tožo	tožo	ADV	_	_
+3	kazvettih	kazüdä	X	_	_
+4	da	da	CCONJ	_	_
+5	pahuoin	paluoi	X	_	_
+6	nu	Nu	INTJ	_	_
+7	sii	siid	X	_	_
+8	paimettih	paiče	X	_	_
+9	da	da	CCONJ	_	_
+10	ol’d’ih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+11	da	da	CCONJ	_	_
+12	lapsit	lapti	X	_	_
+13	kačottih	kaččoda	X	_	_
+14	da	da	CCONJ	_	_
+15	kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+16	da	da	CCONJ	_	_
+17	siid	siid	ADV	_	_
+
+1	A	A	INTJ	_	_
+2	kedä	ken	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Kondnioin	kodi	X	_	_
+5	talos	taluoi	X	_	_
+
+1	Kondruoin	koune	X	_	_
+2	taluoiz	taluoi	X	_	_
+3	eli	elädä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Kondruoi	koun	X	_	_
+5	iče	iččei	X	_	_
+6	starikk	starikkö	X	_	_
+7	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Fed’a	pel	X	_	_
+2	nai	naida	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	uudessah	guu	X	_	_
+4	Lidžmil	lidn	X	_	_
+5	otti	ottada	X	_	_
+6	Sieni-korolin	siid	X	_	_
+7	tüttäreks	totke	X	_	_
+8	Sieni-koroliks	siid	X	_	_
+9	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Vot	vot	INTJ	_	_
+2	sit	siit	X	_	_
+3	Fed’as	pel	X	_	_
+4	nu	Nu	INTJ	_	_
+5	a	A	INTJ	_	_
+6	siiten	siit	X	_	_
+7	kač	kaččoda	X	_	_
+8	d’o	d’o	INTJ	_	_
+9	ned	ne	PRON	_	Case=Par|Number=Plur	_	_	_	_
+10	d’agettiheze	d’agel	X	_	_
+11	kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+12	heiden	hüö	PRON	_	Case=Gen|Number=Sing	_	_	_	_
+13	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+14	perelo	pereloimu	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	D’akku	d’ukk	X	_	_
+3	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+4	lähti	lähtedä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	Piit’erih	piit	X	_	_
+6	Piit’eriz	piit	X	_	_
+7	nai	naida	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Kondruoin	koune	X	_	_
+2	poige	poige	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+4	nuorembe	ne	X	_	_
+5	Madžun	muu	X	_	_
+6	d’o	d’o	INTJ	_	_
+7	Madžum	muža	X	_	_
+8	toižen	tožo	X	_	_
+9	akan	aks	X	_	_
+10	poige	poige	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+
+1	Na	naida	X	_	_
+2	a	A	INTJ	_	_
+3	emmušta	enzimäi	X	_	_
+4	sigä	siin	X	_	_
+5	miiččed	miiččei	X	_	_
+6	vuoded	vuozi	X	_	_
+7	ol’d’ih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+8	da	da	CCONJ	_	_
+9	kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+10	midä	minä	X	_	_
+11	hätkigo	häi	X	_	_
+12	ol’d’ih	olda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+13	vai	vai	X	_	_
+14	midä	minä	X	_	_
+
+1	Ni	i	X	_	_
+2	ole	olda	X	_	_
+3	ni	ii	X	_	_
+4	kedä	ken	PRON	_	Case=Par|Number=Sing	_	_	_	_
+5	heiden	hüö	X	_	_
+6	pereloimud	pereloimu	X	_	_
+7	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+8	lopittiheze	loppi	X	_	_
+
+1	Oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+2	vahnim	vahne	X	_	_
+3	poige	poige	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+4	hänel	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+5	D’eša	d’oa	X	_	_
+6	siid	siid	ADV	_	_
+7	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	Fed’a	pel	X	_	_
+9	siid	siid	ADV	_	_
+10	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+11	tütär	tämä	X	_	_
+12	Nastuoi	naid	X	_	_
+13	Priäžäz	penä	X	_	_
+14	miehel	miez	NOUN	_	Case=Ade|Number=Sing	_	_	_	_
+15	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+16	Anni	nimi	X	_	_
+17	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+18	Huabanovaz	hätz	X	_	_
+19	miehel	miez	NOUN	_	Case=Ade|Number=Sing	_	_	_	_
+
+1	Heil	hüö	PRON	_	Case=Ade|Number=Plur	_	_	_	_
+2	nel’l’	nel’l’	NUM	_	_
+3	vel’l’este	vel’l’	X	_	_
+4	se	se	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+5	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Midä	minä	X	_	_
+2	liennet	lieni	X	_	_
+3	küzünü	kuza	X	_	_
+4	sanonu	sanoda	X	_	_
+5	Ol’eša-diädö	olda	X	_	_
+
+1	Vot	vot	INTJ	_	_
+2	Il’l’an	il’o’	X	_	_
+3	D’akuz	d’uza	X	_	_
+4	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	kaks	kaks	NUM	_	_
+6	vel’l’este;	vel’l’	X	_	_
+7	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+8	Puavil	pevälte	X	_	_
+9	kačo	kaččoda	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VebForm=Fin	_	_	_	_
+10	lähti	lähtedä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+11	eriže	edelleh	X	_	_
+12	a	A	INTJ	_	_
+13	D’akku	d’ukk	X	_	_
+14	d’iäi	d’äi	X	_	_
+15	sih	siid	X	_	_
+
+1	D’eremän	d’ärvi	X	_	_
+2	D’ohoral	d’olta	X	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	üks	kuo	X	_	_
+5	akke	akke	X	_	_
+6	S’ergouna	sirguda	X	_	_
+7	omas	oma	ADJ	_	Case=Ine|Number=Sing	_	_	_	_
+8	küläs	kunna	X	_	_
+9	nainu	naida	X	_	_
+10	sikse	sii	X	_	_
+11	D’ohoraks	d’o	X	_	_
+12	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+13	eig	ei	X	_	_
+14	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+15	enämbi	enämbi	ADV	_	_
+16	tütartte	tüta	X	_	_
+17	eigo	ei	X	_	_
+18	poigat	poige	X	_	_
+19	eigoni	edi	X	_	_
+20	midä	minä	X	_	_
+21	siit	siit	CCONJ	_	_
+22	hänel	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+23	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Ka	ka	PART	_	_
+2	vikse	visoste	X	_	_
+3	sigä	siin	X	_	_
+4	ken	ken	X	_	_
+5	neččidä	ne	X	_	_
+6	tuskevui	tütikke	X	_	_
+7	muamo	muno	X	_	_
+8	vai	vai	X	_	_
+9	mid	midä	X	_	_
+10	entiä	enämbi	X	_	_
+11	midä	minä	X	_	_
+
+1	Sigä	siin	X	_	_
+2	tuli	tüö	X	_	_
+3	nečis	ne	X	_	_
+4	Pid’mozeraz	pidn	X	_	_
+5	da	da	CCONJ	_	_
+6	entiä	enämbi	X	_	_
+7	kuz	kuz	X	_	_
+8	ainos	ainos	ADV	_	_
+9	käveli	kävüdä	X	_	_
+10	üheksin	hedä	X	_	_
+11	vuozin	vuozi	X	_	_
+12	kodih	kodi	X	_	_
+13	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+14	kävünü	kävüdä	X	_	_
+
+1	Annikse	nimi	X	_	_
+2	kučui	kui	X	_	_
+3	Arhipovan	hüö	X	_	_
+4	Vas’an	vast	X	_	_
+5	poigal	poige	NOUN	_	Case=Ade|Number=Sing	_	_	_	_
+6	An’n’	nin’	X	_	_
+7	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	miehel	miez	NOUN	_	Case=Ade|Number=Sing	_	_	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	a	A	INTJ	_	_
+3	St’eppu	se	X	_	_
+4	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+5	loitokse	lopse	X	_	_
+6	ku	ku	X	_	_
+7	mäni	mändä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	Niimägeh	nimi	X	_	_
+9	miehele	miez	NOUN	_	Case=All|Number=Sing	_	_	_	_
+10	ka	ka	PART	_	_
+
+1	da	da	CCONJ	_	_
+2	viehäi	vihnä	X	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Hutun	hüö	X	_	_
+5	D’akun	d’unna	X	_	_
+6	Hutun	hüö	X	_	_
+7	nečen	nel’el	X	_	_
+8	D’oškan	d’o	X	_	_
+9	kodi	kodi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+10	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+11	siit	siit	CCONJ	_	_
+12	keskel	keskel	X	_	_
+
+1	Oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+2	tožo	tožo	ADV	_	_
+3	ukko	kuolta	X	_	_
+4	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+5	nemuoi	ne	X	_	_
+6	dai	da	X	_	_
+7	iče	iččei	X	_	_
+8	nemuoi	ne	X	_	_
+9	a	A	INTJ	_	_
+10	brihačun	hüö	X	_	_
+11	sanottih	sanoda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+12	suai	sii	X	_	_
+13	kani	kai	X	_	_
+14	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+15	sua	su	X	_	_
+16	sanoda	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+17	malttai	mändä	X	_	_
+18	miidne	miid	X	_	_
+19	čoma	ota	X	_	_
+20	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	a	A	INTJ	_	_
+3	Pešan	pela	X	_	_
+4	Mišan	minä	X	_	_
+5	pereh	pereh	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+
+1	Nel’l’	nel’l’	NUM	_	_
+2	poigat	poige	X	_	_
+3	viideš	viid	X	_	_
+4	tütär	tämä	X	_	_
+5	Huori	hüö	X	_	_
+6	muid	muu	ADJ	_	Case=Par|Number=Plur	_	_	_	_
+7	ni	ii	X	_	_
+8	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+9	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+10	heil	hüö	PRON	_	Case=Ade|Number=Plur	_	_	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	Puavil	pevälte	X	_	_
+3	nai	naida	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Varvuoikse	varoune	X	_	_
+2	kučuttih	kurguda	X	_	_
+3	Mikolajouna	minä	X	_	_
+4	Fal’uoim	naluoi	X	_	_
+5	Miikkulan	miituine	X	_	_
+6	tütär	tämä	X	_	_
+7	Varvuoi	vaht	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	a	A	INTJ	_	_
+3	siid	siid	ADV	_	_
+4	Miikkulall	miit	X	_	_
+5	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+6	pereh	pereh	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+7	tožo	tožo	ADV	_	_
+8	tobd’e	tožo	X	_	_
+9	poigad	poige	X	_	_
+10	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+11	se	se	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+12	kačo	kaččoda	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VebForm=Fin	_	_	_	_
+13	siit	siit	CCONJ	_	_
+14	äi	häi	X	_	_
+15	enzimäižed	enzimäine	X	_	_
+16	Ignuoi	irguda	X	_	_
+17	siid	siid	ADV	_	_
+18	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+19	D’aša	d’al	X	_	_
+20	siid	siid	ADV	_	_
+21	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+22	Nast’a	nai	X	_	_
+23	siid	siid	ADV	_	_
+24	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+25	Il’l’očka	ilos	X	_	_
+26	siid	siid	ADV	_	_
+27	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+28	Pol’a	polna	X	_	_
+
+1	Mačin	mändä	X	_	_
+2	Akiman	amma	X	_	_
+3	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Häi	häi	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	nainu	naida	X	_	_
+4	Sürd’äs	siro	X	_	_
+5	Omešas	oma	X	_	_
+6	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+7	Mikko	minä	X	_	_
+8	Mikko	minä	X	_	_
+9	hänen	häi	X	_	_
+10	sen	se	X	_	_
+11	Vas’an	vast	X	_	_
+12	poige	poige	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+
+1	Kačo	kaččoda	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VebForm=Fin	_	_	_	_
+2	minä	minä	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	sanuoin	sanoda	X	_	_
+4	sih	siid	X	_	_
+5	n’el’l’	nel’l’	NUM	_	_
+6	poigad	poige	X	_	_
+7	vie	vied	X	_	_
+8	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+9	heil	hüö	PRON	_	Case=Ade|Number=Plur	_	_	_	_
+10	Fed’a	pel	X	_	_
+11	viideiš	viid	X	_	_
+
+1	A	A	INTJ	_	_
+2	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	Mat’akse	muat	X	_	_
+4	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+6	kuoli	kuolta	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Muamah	mua	X	_	_
+2	tattah	talä	X	_	_
+3	tattah	talä	X	_	_
+4	tuattah	tüö	X	_	_
+5	kuol’t’t’ih	kuolta	X	_	_
+6	tožo	tožo	ADV	_	_
+7	eli	elädä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	eli	elädä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+9	eigo	ei	X	_	_
+10	nainu	naida	X	_	_
+11	eigo	ei	X	_	_
+12	dai	da	X	_	_
+13	ičegi	ii	X	_	_
+14	kuoli	kuolta	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Semuoi	se	X	_	_
+2	en	ei	AUX	_	Mood=Ind|Number=Sing|Person=1|VebForm=Fin	_	_	_	_
+3	tiä	tämä	X	_	_
+4	kunna	kunna	PRON	_	Case=Par|Number=Sing	_	_	_	_
+5	lähti	lähtedä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Vot	vot	INTJ	_	_
+2	siid	siid	ADV	_	_
+3	ainos	ainos	ADV	_	_
+4	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+5	sana	sanoda	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+6	tuli	tüö	X	_	_
+7	igäks	imi	X	_	_
+8	d’uohtuv	d’oga	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	kedä	ken	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Onuoin	ottada	X	_	_
+5	Fed’al	pel’l’	X	_	_
+
+1	Siid	siid	ADV	_	_
+2	e	en	X	_	_
+3	ntiä	nä	X	_	_
+4	kui	kui	ADV	_	_
+5	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+6	sigä	siin	X	_	_
+7	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	kui	kui	ADV	_	_
+9	sinnä	sinnä	ADV	_	_
+10	häi	häi	PRON	_	Case=Par|Number=Sing	_	_	_	_
+11	puutui	puuni	X	_	_
+12	da	da	CCONJ	_	_
+13	kuz	kuz	X	_	_
+14	znakomiiheze	edimoine	X	_	_
+15	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+16	Čuuniemez	muuzi	X	_	_
+17	nainnu	naida	X	_	_
+
+1	Se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	Nad’a	nu	X	_	_
+3	sih	siid	X	_	_
+4	omah	oma	X	_	_
+5	küläh	kunna	X	_	_
+6	i	i	CCONJ	_	_
+7	d’iäi	d’äi	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	siid	siid	ADV	_	_
+3	i	i	CCONJ	_	_
+4	Ivaanounagi	imai	X	_	_
+5	lopiiheze	lopzi	X	_	_
+6	siit	siit	CCONJ	_	_
+7	se	se	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+8	Okku	ku	X	_	_
+9	sih	siid	X	_	_
+10	vunukke	vunke	X	_	_
+11	d’iäi	d’äi	X	_	_
+12	sil’l’e	silnä	X	_	_
+13	pomestale	poine	X	_	_
+14	vunukke	vunke	X	_	_
+15	da	da	CCONJ	_	_
+16	neče	ne	X	_	_
+17	muidni	muu	X	_	_
+18	ked	ken	X	_	_
+19	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+20	d’iänü	d’älveh	X	_	_
+
+1	Kedä	ken	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	Bohatterim	ohtedä	X	_	_
+4	Miikkulan	miituine	X	_	_
+5	taluois	taluoi	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+
+1	Sii	siid	X	_	_
+2	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+3	nai	naida	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	Petrouskuoil	perodl	X	_	_
+5	Matr’ona	mändä	X	_	_
+6	Fedorouna	pero	X	_	_
+7	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+8	vot	vot	INTJ	_	_
+9	otettu	ottada	X	_	_
+
+1	Da	da	CCONJ	_	_
+2	nu	Nu	INTJ	_	_
+3	muid	muu	ADJ	_	Case=Par|Number=Plur	_	_	_	_
+4	ni	ii	X	_	_
+5	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+6	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+7	ni	ii	X	_	_
+8	tütärtte	tütär	X	_	_
+9	ni	ii	X	_	_
+10	poigad	poige	X	_	_
+11	ni	ii	X	_	_
+12	vous’oni	vodi	X	_	_
+13	ked	ken	X	_	_
+14	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+15	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+16	kahtei	kaheksi	X	_	_
+17	elettih	elädä	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+18	Matr’ounan	mändä	X	_	_
+19	kera	ker	X	_	_
+
+1	Ainuoi	ainuoi	X	_	_
+2	poige	poige	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	muid	muu	ADJ	_	Case=Par|Number=Plur	_	_	_	_
+4	ni	ii	X	_	_
+5	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+6	enämbi	enämbi	ADV	_	_
+7	ni	ii	X	_	_
+8	kedä	ken	PRON	_	Case=Par|Number=Sing	_	_	_	_
+9	heil	hüö	PRON	_	Case=Ade|Number=Plur	_	_	_	_
+10	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+
+1	Kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	heiden	hüö	X	_	_
+3	prikol’enii	pidäl	X	_	_
+
+1	Naverno	nama	X	_	_
+2	skoreeje	sorož	X	_	_
+3	Ignuoile	irgedä	X	_	_
+4	puututtih	puuni	X	_	_
+5	tožo	tožo	ADV	_	_
+6	sen	se	X	_	_
+7	Nast’an	napsi	X	_	_
+8	vel’l’ele	vel’l’	X	_	_
+9	hänen	häi	X	_	_
+10	kuldat	kunna	X	_	_
+
+1	Pl’emännikke	peläkke	X	_	_
+2	vel’l’en	vel’l’	X	_	_
+3	poige	poige	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+
+1	Da	da	CCONJ	_	_
+2	iče	iččei	X	_	_
+3	leuhki	ne	X	_	_
+
+1	Okšat-lambihpiäi	ota	X	_	_
+2	peld	peldo	X	_	_
+3	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+4	sinnä	sinnä	ADV	_	_
+
+1	Nämä	nämä	X	_	_
+2	voimme	vomme	X	_	_
+3	d’uoda	d’o	X	_	_
+4	pühän	pänä	X	_	_
+5	D’ürgin	d’orgi	X	_	_
+6	d’engad	d’oga	X	_	_
+7	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+
+1	Stokan	stalos	X	_	_
+2	stokanale	stalosetr	X	_	_
+3	d’älgeh	d’älgeh	X	_	_
+4	stokan	stalo	X	_	_
+5	stokanale	stalosetr	X	_	_
+6	d’älgeh	d’älgeh	X	_	_
+
+1	Siit	siit	CCONJ	_	_
+2	sordui	sord	X	_	_
+3	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+4	stola	stolta	X	_	_
+5	alle	aine	X	_	_
+6	vedettih	velädä	X	_	_
+7	vette	vel	X	_	_
+8	piäle	piäle	X	_	_
+9	pandih	paldo	X	_	_
+10	akat	A	X	_	_
+11	siit	siit	CCONJ	_	_
+12	tasuittih	taluoi	X	_	_
+
+1	Akkad	akk	X	_	_
+2	ielnu	ile	X	_	_
+3	k	ku	X	_	_
+4	üksin	kolta	X	_	_
+5	eli	elädä	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+6	kodin	kodi	X	_	_
+7	sen	se	X	_	_
+8	sroii	sodi	X	_	_
+9	häi	häi	PRON	_	Case=Par|Number=Sing	_	_	_	_
+10	kuni	kui	X	_	_
+11	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+12	akke	akke	X	_	_
+
+1	A	A	INTJ	_	_
+2	muud	muu	X	_	_
+3	lesked	lehtedä	X	_	_
+4	ielda	id	X	_	_
+5	hüvät	hätkä	X	_	_
+6	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+7	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+8	sua	su	X	_	_
+9	nad’ožat	noža	X	_	_
+10	pidäi	pidädä	X	_	_
+
+1	Em	en	X	_	_
+2	vuoi	vuolta	X	_	_
+3	dovarišat	dorvi	X	_	_
+4	seičaz	sei	X	_	_
+5	viinat	viit	X	_	_
+6	suada	sa	X	_	_
+
+1	Herremiehed	hüö	X	_	_
+2	olemme	ottada	X	_	_
+3	herremiehet	hüö	X	_	_
+
+1	Sig	siid	X	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	randal	rahd	X	_	_
+4	neččih	nelčeh	X	_	_
+5	Laurihpiäi	lähtedä	X	_	_
+6	Bohatterin	ohtedä	X	_	_
+7	Miikkulan	miituine	X	_	_
+8	kodi	kodi	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+9	a	A	INTJ	_	_
+10	sig	siid	X	_	_
+11	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+12	mečikkö	müö	X	_	_
+13	Kuziviidaks	kui	X	_	_
+14	kirguttih	kirguda	VERB	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+15	moine	moine	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+16	nu	Nu	INTJ	_	_
+17	lepikkö	nelkkö	X	_	_
+18	sigä	siin	X	_	_
+19	suo	suo	X	_	_
+20	da	da	CCONJ	_	_
+21	kai	kai	PRON	_	Case=Par|Number=Sing	_	_	_	_
+
+1	Häi	häi	PRON	_	Case=Par|Number=Sing	_	_	_	_
+2	sinnä	sinnä	ADV	_	_
+3	sidä	sinä	X	_	_
+4	Kuziviidad	kui	X	_	_
+5	müöti	müö	X	_	_
+6	lepoköz	nel’oz	X	_	_
+7	brodiheze	hoize	X	_	_
+8	brodiheze	hoize	X	_	_
+9	män	mändä	X	_	_
+10	e	en	X	_	_
+11	tiedä	timädä	X	_	_
+12	min	minä	X	_	_
+13	a	A	INTJ	_	_
+14	hüö	häglen	X	_	_
+15	doroguoid	dorog	X	_	_
+16	müöti	müö	X	_	_
+17	kirgutah	kirguda	X	_	_
+18	Ontuoi-diädö	ottada	X	_	_
+19	tule	tüö	X	_	_
+20	tännä	tämä	X	_	_
+
+1	D’älgele	d’älgeh	X	_	_
+2	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+3	Ka	ka	PART	_	_
+4	oi	oida	X	_	_
+5	tüö	tožl	X	_	_
+6	kehnolaižed	ken	X	_	_
+
+1	Kävelin	kävüdä	X	_	_
+2	kävelin	kävüdä	X	_	_
+3	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+4	kotat	kotta	X	_	_
+5	täuded	tämä	X	_	_
+6	luntte	nu	X	_	_
+7	tul’d’ih	tüö	X	_	_
+8	da	da	CCONJ	_	_
+9	väzüin	väi	X	_	_
+10	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+11	sigä	siin	X	_	_
+12	Kuziviidan	kui	X	_	_
+13	kaiken	kai	X	_	_
+14	proidiin	podi	X	_	_
+15	vai	vai	X	_	_
+16	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+17	urižou	ruoi	X	_	_
+18	kirgutah	kirguda	X	_	_
+19	Tule	tüö	X	_	_
+20	tännä	tämä	X	_	_
+21	tule	tüö	X	_	_
+22	tännä	tämä	X	_	_
+23	sinnä	sinnä	ADV	_	_
+24	sanou	sanoda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+25	minä	minä	PRON	_	Case=Par|Number=Sing	_	_	_	_
+26	i	i	CCONJ	_	_
+27	mänen	mändä	X	_	_
+
+1	Ühten	hedä	X	_	_
+2	kieran	kirguda	X	_	_
+3	purasti	puat	X	_	_
+4	purasti	puat	X	_	_
+5	ku	ku	X	_	_
+6	purastukseh	persh	X	_	_
+7	lähtegeh	lähtedä	X	_	_
+8	sordui	sord	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	a	A	INTJ	_	_
+3	siit	siit	CCONJ	_	_
+4	pl’emännikät	piäni	X	_	_
+5	sigä	siin	X	_	_
+6	vedettih	velädä	X	_	_
+7	kunnabo	kunna	X	_	_
+8	paned	paleh	X	_	_
+9	vahnan	vahne	X	_	_
+10	pidäu	pidädä	X	_	_
+11	ottada	ottada	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+12	iäre	iri	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	vot	vot	INTJ	_	_
+3	peščii	pei	X	_	_
+4	muga	muga	ADV	_	_
+5	keitetaa	ken	X	_	_
+6	i	i	CCONJ	_	_
+7	ende	edelleh	X	_	_
+8	že	en	X	_	_
+9	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+10	olnu	olda	VERB	_	PartForm=Past|VebForm=Part|Voice=Active	_	_	_	_
+11	mašinoit	mändä	X	_	_
+
+1	I	i	CCONJ	_	_
+2	vot	vot	INTJ	_	_
+3	šiit	siit	CCONJ	_	_
+4	kartas	kar	X	_	_
+5	dosk	d’o	X	_	_
+6	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+7	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Muga	muga	ADV	_	_
+2	st’eraidi	servi	X	_	_
+3	šill	sinnä	X	_	_
+4	kartas	kar	X	_	_
+
+1	Mänemme	mändä	X	_	_
+2	pristaninnu	pereloimu	X	_	_
+3	šiga	siga	X	_	_
+4	k’ülü	kunna	X	_	_
+5	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+
+1	Ende	edelleh	X	_	_
+2	muga	muga	ADV	_	_
+3	i	i	CCONJ	_	_
+4	na	naida	X	_	_
+5	meill	müö	X	_	_
+6	ainos	ainos	ADV	_	_
+7	sanota	sanoda	X	_	_
+8	pristan’	pereloi	X	_	_
+
+1	Kezrättii	ker	X	_	_
+2	akat	A	X	_	_
+
+1	Šig	siid	X	_	_
+2	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+3	dielod	d’el	X	_	_
+4	äi	häi	X	_	_
+5	ve	ve	X	_	_
+6	vie	vied	X	_	_
+7	langas	laga	X	_	_
+
+1	Hurščit	hüö	X	_	_
+2	santi	sanoda	X	_	_
+3	h	häi	X	_	_
+4	lat’t’aile	lähtedä	X	_	_
+5	pandaa	palda	X	_	_
+6	i	i	CCONJ	_	_
+7	što	se	X	_	_
+8	doroškat	dorož	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	kui	kui	ADV	_	_
+3	e	en	X	_	_
+4	kudottih	kuolta	X	_	_
+5	kangas	kaga	X	_	_
+
+1	Libo	lidä	X	_	_
+2	tulet	tüö	X	_	_
+3	lasketat	lahtedä	X	_	_
+4	maidot	mäidä	X	_	_
+
+1	Kandates	kaks	X	_	_
+2	maidos	mäid	X	_	_
+3	otetaa	ottada	X	_	_
+
+1	Ende	edelleh	X	_	_
+2	vit’	viit	X	_	_
+3	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+4	anttu	astuda	X	_	_
+5	voit	vot	X	_	_
+6	mugošte	muga	X	_	_
+7	ku	ku	X	_	_
+8	nügü	gygy	X	_	_
+9	müö	mändä	X	_	_
+10	dovol’no	d’olta	X	_	_
+11	šüömme	sylme	X	_	_
+12	ve	ve	X	_	_
+13	n’e	ne	X	_	_
+14	hočem	hotedr	X	_	_
+
+1	I	i	CCONJ	_	_
+2	lienov	lidn	X	_	_
+3	moine	moine	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+4	hüvä	häi	X	_	_
+5	hüvä	häi	X	_	_
+6	lienou	lidn	X	_	_
+
+1	Miä	minä	X	_	_
+2	postepenno	poste	X	_	_
+3	se	se	PRON	_	Case=Par|Number=Sing	_	_	_	_
+4	paremb	pereh	X	_	_
+5	lienov	lidn	X	_	_
+6	smetaa	se	X	_	_
+7	paremb	pereh	X	_	_
+8	kandatez	kai	X	_	_
+9	lienou	lidn	X	_	_
+
+1	Ruahto	nu	X	_	_
+2	rodizou	rodu	X	_	_
+3	prostokišas	peros	X	_	_
+
+1	Vot	vot	INTJ	_	_
+2	i	i	CCONJ	_	_
+3	rodizou	rodu	X	_	_
+4	prostokiš	peros	X	_	_
+
+1	Hero	hüö	X	_	_
+2	kiehaštetaa	kirgeda	X	_	_
+3	da	da	CCONJ	_	_
+4	i	i	CCONJ	_	_
+5	pandaa	palda	X	_	_
+6	päččih	päi	X	_	_
+7	šiga	siga	X	_	_
+8	piä	piä	X	_	_
+9	otat	ottada	X	_	_
+10	ka	ka	PART	_	_
+
+1	Häin	häi	X	_	_
+2	d’o	d’o	INTJ	_	_
+3	ruoht	ruoza	X	_	_
+4	lienou	lidn	X	_	_
+5	hüvä	häi	X	_	_
+
+1	Kui	kui	ADV	_	_
+2	santaa	sanoda	X	_	_
+3	erähit	edämi	X	_	_
+
+1	Kui	kui	ADV	_	_
+2	že	en	X	_	_
+
+1	A	A	INTJ	_	_
+2	podoi	poine	X	_	_
+3	meil	müö	PRON	_	Case=Ade|Number=Plur	_	_	_	_
+4	santii	sanoi	X	_	_
+5	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+
+1	E	en	X	_	_
+2	tämä	tämä	X	_	_
+3	viedr	vied	X	_	_
+4	toin’e	toine	X	_	_
+
+1	En’džma	edämbi	X	_	_
+2	otat	ottada	X	_	_
+3	muilad	muštada	X	_	_
+4	i	i	CCONJ	_	_
+5	veded	ved	X	_	_
+6	i	i	CCONJ	_	_
+7	käžipaikan	käi	X	_	_
+8	odel’no	oda	X	_	_
+
+1	Vieras	vier	X	_	_
+
+1	Da	da	CCONJ	_	_
+2	oma	oma	ADJ	_	Case=Ine|Number=Sing	_	_	_	_
+3	taba	tala	X	_	_
+
+1	A	A	INTJ	_	_
+2	meill	müö	X	_	_
+3	vast	vast	X	_	_
+4	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+5	diede	diel	X	_	_
+
+1	Šilloi	sinnä	X	_	_
+2	minä	minä	PRON	_	Case=Par|Number=Sing	_	_	_	_
+3	ruadospiä	ruoi	X	_	_
+4	tulin	tüö	X	_	_
+5	mindaa	midä	X	_	_
+6	kucutii	kui	X	_	_
+7	meidee	müö	X	_	_
+8	milla	minä	X	_	_
+9	maatuškal	mändä	X	_	_
+10	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+11	sizär’	sizar	X	_	_
+
+1	Tožo	tožo	ADV	_	_
+2	oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+3	l’öit	lidä	X	_	_
+4	postel’cat	poste	X	_	_
+5	t’ot’a	t’otka	X	_	_
+6	Nast’al	napsi	X	_	_
+7	da	da	CCONJ	_	_
+8	Oli	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VebForm=Fin	_	_	_	_
+9	vahne	vahne	ADJ	_	Case=Par|Number=Sing	_	_	_	_
+
+1	Hot’	hüö	X	_	_
+2	muaha	mua	X	_	_
+3	maid	mäid	X	_	_
+4	mängäh	mändä	X	_	_
+5	t’ämä	tämä	X	_	_
+6	maid	mäid	X	_	_
+7	s’orouno	siroda	X	_	_
+8	ed	edä	X	_	_
+9	ni	ii	X	_	_
+10	kunna	kunna	PRON	_	Case=Par|Number=Sing	_	_	_	_
+11	pane	paleh	X	_	_
+12	vit’	viit	X	_	_
+13	lapšel’e	lapsi	X	_	_
+14	ed	edä	X	_	_
+15	anda	A	X	_	_
+
+1	A	A	INTJ	_	_
+2	vaza	vaza	X	_	_
+3	olnov	olda	X	_	_
+4	vazale	vazalde	X	_	_
+
+1	Eigo	edi	X	_	_
+2	niä	nimäi	X	_	_
+3	a	A	INTJ	_	_
+4	enzimai	enzimäi	X	_	_
+5	vit’	viit	X	_	_
+6	n’uokaidav	nu	X	_	_
+7	konz	kouz	X	_	_
+8	mado	mändä	X	_	_
+9	ka	ka	PART	_	_
+10	häi	häi	PRON	_	Case=Ade|Number=Sing	_	_	_	_
+11	on	olda	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VebForm=Fin	_	_	_	_
+12	verel	ver	X	_	_
+
+1	Vai	vai	X	_	_
+2	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+3	pide	pieni	X	_	_
+4	kuivanutte	kui	X	_	_
+5	nügii	nigi	X	_	_
+
+1	Kuivan	kui	X	_	_
+2	e	en	X	_	_
+3	ende	edelleh	X	_	_
+
+1	Meihe	müö	X	_	_
+2	suoi	suoi	X	_	_
+3	d’o	d’o	INTJ	_	_
+
+1	Kuss	kusna	X	_	_
+2	roinito	rodä	X	_	_
+3	šiga	siga	X	_	_
+4	kuaržinaa	kurna	X	_	_
+
+1	I	i	CCONJ	_	_
+2	pandaa	palda	X	_	_
+
+1	Voi	voi	X	_	_
+2	azuttih	azüdä	X	_	_
+3	iče	iččei	X	_	_
+4	ičeh	iččei	X	_	_
+5	niškuoi	nimidä	X	_	_
+6	vai	vai	X	_	_
+7	müödih	mändä	X	_	_
+
+1	A	A	INTJ	_	_
+2	šiid	siid	ADV	_	_
+3	i	i	CCONJ	_	_
+4	kurnikad	kurna	X	_	_
+5	vähäižekš	väi	X	_	_
+6	šiid	siid	ADV	_	_
+7	otetaa	ottada	X	_	_
+
+1	A	A	INTJ	_	_
+2	šiid	siid	ADV	_	_
+3	vie	vied	X	_	_
+4	piiragoit	pirguda	X	_	_
+5	kuni	kui	X	_	_
+6	paštetaa	paste	X	_	_
+7	da	da	CCONJ	_	_
+8	toižed	toine	X	_	_
+9	da	da	CCONJ	_	_
+10	kosijoid	kodi	X	_	_
+11	da	da	CCONJ	_	_
+
+1	Opi	opi	X	_	_
+2	vai	vai	X	_	_
+3	d’oga	d’oga	X	_	_
+4	voida	vodu	X	_	_
+5	ka	ka	PART	_	_
+6	mii	miit	X	_	_
+7	mänoo	mändä	X	_	_
+
+1	Voi	voi	X	_	_
+2	hot’	hotä	X	_	_
+3	mit’t’ušt	minä	X	_	_
+4	kalat	kaččoda	X	_	_
+
+1	Nagrišt	nairi	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+
+1	Kui	kui	ADV	_	_
+2	še	se	X	_	_
+
+1	D’o	d’o	INTJ	_	_
+2	puhtahaz	pehaza	X	_	_
+3	zdaitaa	za	X	_	_
+4	kolhozaa	kolz	X	_	_
+
+1	Kui	kui	ADV	_	_
+2	tuulatettih	tuat	X	_	_
+3	riihes	riid	X	_	_
+4	sigä	siin	X	_	_
+5	ku	ku	X	_	_
+6	luödäh	luhtedä	X	_	_
+
+1	Nu	Nu	INTJ	_	_
+2	m’akinat	mändä	X	_	_
+
+1	Da	da	CCONJ	_	_
+2	štobi	se	X	_	_
+3	puhtas	puat	X	_	_
+4	puhtaz	puez	X	_	_
+5	oliiž	olda	X	_	_
+6	ni	ii	X	_	_
+7	mid	midä	X	_	_
+8	ei	ei	AUX	_	Mood=Ind|Number=Sing|Person=3|VebForm=Fin	_	_	_	_
+9	dieiš	dien	X	_	_
+

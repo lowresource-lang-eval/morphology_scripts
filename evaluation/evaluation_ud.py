@@ -5,9 +5,9 @@ __author__ = "gisly"
 import sys
 
 """
-drovoseq: please specify is_to_check_prev_num = False, is_to_use_original_sentences = False
-SPUMorph: please specify is_to_check_prev_num = False, is_to_use_original_sentences = True
-DeepPavlov: please specify is_to_check_prev_num = True, is_to_use_original_sentences = True
+drovoseq: please specify is_to_check_prev_num = False
+SPUMorph: please specify is_to_check_prev_num = False
+DeepPavlov: please specify is_to_check_prev_num = True
 """
 def evaluate_ud(filename_standard, filename_test, is_to_check_prev_num = False,
                 is_to_use_original_sentences = False):
@@ -261,15 +261,15 @@ def read_lines(filename):
 
 
 def main():
-    if len(sys.argv) < 5:
-        print('usage: evaluation_ud.py <gold.standard.filename> <predict.filename> <is_check_prev_num> <is_to_use_original_sentences>')
+    if len(sys.argv) < 4:
+        print('usage: evaluation_ud.py <gold.standard.filename> <predict.filename> <is_check_prev_num>')
         return
     filename_standard = sys.argv[1]
     filename_predict = sys.argv[2]
     is_check_prev_num = (sys.argv[3] == '1')
-    is_to_use_original_sentences = (sys.argv[4] == '1')
 
-    evaluate_ud(filename_standard, filename_predict, is_check_prev_num, is_to_use_original_sentences)
+
+    evaluate_ud(filename_standard, filename_predict, is_check_prev_num, True)
 
 if __name__ == '__main__':
     main()

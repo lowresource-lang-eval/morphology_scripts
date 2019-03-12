@@ -4,8 +4,14 @@ __author__ = "gisly"
 
 import sys
 
-def evaluate_ud(filename_standard, filename_test):
-    result = compare_files_ud(filename_standard, filename_test)
+"""
+drovoseq: please specify is_to_check_prev_num = False, is_to_use_original_sentences = False
+SPUMorph: please specify is_to_check_prev_num = False, is_to_use_original_sentences = True
+DeepPavlov: please specify is_to_check_prev_num = True, is_to_use_original_sentences = True
+"""
+def evaluate_ud(filename_standard, filename_test, is_to_check_prev_num = False,
+                is_to_use_original_sentences = False):
+    result = compare_files_ud(filename_standard, filename_test, is_to_check_prev_num, is_to_use_original_sentences)
     filename_result = filename_test + '_result_ud.txt'
     with open(filename_result, 'w', encoding='utf', newline='') as fout:
         if 'fatal' in result:
@@ -21,7 +27,7 @@ def evaluate_ud(filename_standard, filename_test):
             fout.write('Errors: ' + ','.join(result['errors']) + '\n')
     print('written results to %s' % filename_result)
 
-def compare_files_ud(filename_standard, filename_test):
+def compare_files_ud(filename_standard, filename_test, is_to_check_prev_num, is_to_use_original_sentences):
     standard_lines = read_lines(filename_standard)
     test_lines = read_lines(filename_test)
     i = 0
@@ -45,6 +51,7 @@ def compare_files_ud(filename_standard, filename_test):
 
     from_num = -1
     to_num = -1
+    prev_test_line_number = ''
 
     alternative_lemma = None
     alternative_pos = None
@@ -57,7 +64,10 @@ def compare_files_ud(filename_standard, filename_test):
 
 
             current_test_line = test_lines[j].strip()
+            if i >= len(standard_lines):
+                break
             current_standard_line = standard_lines[i].strip()
+
 
 
             if current_standard_line.startswith('#'):
@@ -67,21 +77,24 @@ def compare_files_ud(filename_standard, filename_test):
                 j += 1
                 continue
 
-            if current_test_line == '' and current_standard_line != '':
-                result['fatal'] = 'Fatal error: bad line #%s: expected non-empty line' % j
-                return result
-            if current_standard_line == '' and current_test_line != '':
-                result['fatal'] = 'Fatal error: bad line #%s: expected empty line' % j
-                return result
+            if current_test_line.strip() == "_	_	_	_":
+                current_test_line = ''
+                prev_test_line_number = ''
+
             #new sentence border
-            if current_test_line == '':
+            if current_test_line == '' and current_standard_line == '':
                 i += 1
                 j += 1
+                continue
+            if current_test_line == '':
+                j += 1
+                continue
 
+            if current_standard_line == '':
+                i += 1
                 continue
 
 
-            #print(i, j, current_standard_line, current_test_line)
             if '@' in current_standard_line:
                 alternative_lemma_pos = current_standard_line.split('@')[-1].split('\t')
                 current_standard_line = current_standard_line.split('@')[0]
@@ -111,26 +124,59 @@ def compare_files_ud(filename_standard, filename_test):
                     to_num = -1
                 continue
 
-            if current_standard_line_number.startswith('1'):
+            if is_to_check_prev_num and (current_test_line_number == prev_test_line_number):
+                j += 1
+                continue
+
+
+            if current_test_line_number == '1' and ((not is_to_check_prev_num) or (prev_test_line_number != '1')):
+                if is_sentence_lemma_correct:
+                    num_sentences_correct_lemma += 1
+                if is_sentence_pos_correct:
+                    num_sentences_correct_pos += 1
                 total_sentences += 1
-                is_sentence_lemma_correct = False
-                is_sentence_pos_correct = False
+                is_sentence_lemma_correct = True
+                is_sentence_pos_correct = True
                 alternative_lemma = None
                 alternative_pos = None
+
+            if is_to_use_original_sentences and current_standard_line_number == '1':
+                if is_sentence_lemma_correct:
+                    num_sentences_correct_lemma += 1
+                if is_sentence_pos_correct:
+                    num_sentences_correct_pos += 1
+                total_sentences += 1
+                is_sentence_lemma_correct = True
+                is_sentence_pos_correct = True
+                alternative_lemma = None
+                alternative_pos = None
+
+            prev_test_line_number = current_test_line_number
 
             total_words += 1
 
             current_test_line_wordform = current_test_line_parts[1]
             current_standard_line_wordform = current_standard_line_parts[1]
+
+
+            if(current_standard_line_wordform != current_test_line_wordform):
+                print(current_standard_line_wordform, current_test_line_wordform)
+
+
             current_test_line_lemma = current_test_line_parts[2]
             current_standard_line_lemma = current_standard_line_parts[2]
             current_test_line_pos = current_test_line_parts[3]
             current_standard_line_pos = current_standard_line_parts[3]
-            current_test_line_features = current_test_line_parts[5]
             current_standard_line_features = current_standard_line_parts[5]
+
+            if len(current_test_line_parts) > 5:
+                current_test_line_features = current_test_line_parts[5]
+            else:
+                current_test_line_features = []
 
 
             if current_test_line_wordform != current_standard_line_wordform:
+
                 errors.append('Error: bad line #%s: expected different wordform' % j)
             else:
                 #comparing lemma
@@ -138,24 +184,21 @@ def compare_files_ud(filename_standard, filename_test):
                         or (alternative_lemma is not None and
                                 is_lemma_equal(alternative_lemma, current_test_line_lemma)):
                     num_words_correct_lemma += 1
-                    if not is_sentence_lemma_correct:
-                        is_sentence_lemma_correct = True
-                        num_sentences_correct_lemma += 1
+                else:
+                    is_sentence_lemma_correct = False
                 #comparing pos
                 if is_pos_equal(current_standard_line_pos, current_test_line_pos) \
                         or (alternative_pos is not None and is_pos_equal(alternative_pos, current_test_line_pos)):
                     num_words_correct_pos += 1
-                    if not is_sentence_pos_correct:
-                        is_sentence_pos_correct = True
-                        num_sentences_correct_pos += 1
                 else:
-                    print(current_standard_line_pos, alternative_pos, current_test_line_pos)
+                    is_sentence_pos_correct = False
                 #comparing features
-                current_num_retr_relevant, current_num_retr, current_num_relevant = \
-                            compare_features(current_test_line_features, current_standard_line_features)
-                num_retr_relevant += current_num_retr_relevant
-                num_retr += current_num_retr
-                num_relevant += current_num_relevant
+                if current_test_line_features:
+                    current_num_retr_relevant, current_num_retr, current_num_relevant = \
+                                compare_features(current_test_line_features, current_standard_line_features)
+                    num_retr_relevant += current_num_retr_relevant
+                    num_retr += current_num_retr
+                    num_relevant += current_num_relevant
             i += 1
             j += 1
     result['errors'] = errors
@@ -216,13 +259,19 @@ def read_lines(filename):
                 lines.append(line.strip())
     return lines
 
+
 def main():
-    if len(sys.argv) < 3:
-        print('usage: evaluation_ud.py <gold.standard.filename> <predict.filename>')
+    if len(sys.argv) < 5:
+        print('usage: evaluation_ud.py <gold.standard.filename> <predict.filename> <is_check_prev_num> <is_to_use_original_sentences>')
         return
     filename_standard = sys.argv[1]
     filename_predict = sys.argv[2]
-    evaluate_ud(filename_standard, filename_predict)
+    is_check_prev_num = (sys.argv[3] == '1')
+    is_to_use_original_sentences = (sys.argv[4] == '1')
+
+    evaluate_ud(filename_standard, filename_predict, is_check_prev_num, is_to_use_original_sentences)
 
 if __name__ == '__main__':
     main()
+
+

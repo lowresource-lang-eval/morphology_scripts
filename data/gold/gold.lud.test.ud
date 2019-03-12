@@ -1,0 +1,2173 @@
+
+1	Pogostan	UNKN	_	_	_	_	_	_	_
+2	n’okaz	n’okke	NOUN	_	Number=Sing|Case=Ine	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Muale	UNKN	_	_	_	_	_	_	_
+5	Bohatterim	UNKN	_	_	_	_	_	_	_
+6	Miikkulassuai	UNKN	_	_	_	_	_	_	_
+7	siid	siid	ADV	_	_	_	_	_	_
+8	Bohatterim	UNKN	_	_	_	_	_	_	_
+9	Miikkulaspiäi	UNKN	_	_	_	_	_	_	_
+10	Sürd’e	UNKN	_	_	_	_	_	_	_
+11	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+12	Golovassuai	UNKN	_	_	_	_	_	_	_
+13	Golovaspiäi	UNKN	_	_	_	_	_	_	_
+14	L’evoskassuai	UNKN	_	_	_	_	_	_	_
+15	Haude	UNKN	_	_	_	_	_	_	_
+16	L’evoskaspiäi	UNKN	_	_	_	_	_	_	_
+17	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+18	agd’ah	UNKN	_	_	_	_	_	_	_
+19	Kažinagd’ah	UNKN	_	_	_	_	_	_	_
+20	Kažinagd’e	UNKN	_	_	_	_	_	_	_
+21	kučuttih	UNKN	_	_	_	_	_	_	_
+
+1	Ei	ei	AUX	_	_	_	_	_	_
+2	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+3	kač	UNKN	_	_	_	_	_	_	_
+4	ei	ei	AUX	_	_	_	_	_	_
+5	äijät	UNKN	_	_	_	_	_	_	_
+6	peldot	UNKN	_	_	_	_	_	_	_
+
+1	Vot	vot	INTJ	_	_	_	_	_	_
+2	embo	UNKN	_	_	_	_	_	_	_
+3	voi	UNKN	_	_	_	_	_	_	_
+4	sidä	UNKN	_	_	_	_	_	_	_
+5	sanoda	sanoda	VERB	_	_	_	_	_	_
+6	Sürd’e	UNKN	_	_	_	_	_	_	_
+7	vai	UNKN	_	_	_	_	_	_	_
+8	Muale	UNKN	_	_	_	_	_	_	_
+
+1	Pahn	UNKN	_	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	sidä	UNKN	_	_	_	_	_	_	_
+4	daže	UNKN	_	_	_	_	_	_	_
+5	pahnad	UNKN	_	_	_	_	_	_	_
+6	ei	ei	AUX	_	_	_	_	_	_
+7	voitu	UNKN	_	_	_	_	_	_	_
+8	ni	UNKN	_	_	_	_	_	_	_
+9	mil	UNKN	_	_	_	_	_	_	_
+10	täuttädä	täuttädä	VERB	_	_	_	_	_	_
+11	moin	UNKN	_	_	_	_	_	_	_
+12	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+13	durmi	durmi	NOUN	_	_	_	_	_	_
+14	kazvanu	UNKN	_	_	_	_	_	_	_
+15	ka	ka	PART	_	_	_	_	_	_
+16	ülähän	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	se	se	PRON	_	_	_	_	_	_@se	PRON
+3	pahne	UNKN	_	_	_	_	_	_	_
+4	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	kaku	UNKN	_	_	_	_	_	_	_
+6	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+7	tuli	UNKN	_	_	_	_	_	_	_
+8	vägipa	UNKN	_	_	_	_	_	_	_
+9	metrid	UNKN	_	_	_	_	_	_	_
+10	viiš	UNKN	_	_	_	_	_	_	_
+11	kuus	UNKN	_	_	_	_	_	_	_
+12	pidutt	UNKN	_	_	_	_	_	_	_
+13	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Mid	UNKN	_	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	sih	UNKN	_	_	_	_	_	_	_
+4	vedettu	UNKN	_	_	_	_	_	_	_
+5	Koččurimägi	UNKN	_	_	_	_	_	_	_
+6	i	i	CCONJ	_	_	_	_	_	_
+7	siid	siid	ADV	_	_	_	_	_	_
+8	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	vie	UNKN	_	_	_	_	_	_	_
+10	sil	UNKN	_	_	_	_	_	_	_
+11	Bohatterim	UNKN	_	_	_	_	_	_	_
+12	Мiikkulal	UNKN	_	_	_	_	_	_	_
+13	kaivettu	UNKN	_	_	_	_	_	_	_
+14	moine	moine	ADJ	_	_	_	_	_	_
+15	se	se	PRON	_	_	_	_	_	_@se	PRON
+16	pahne	UNKN	_	_	_	_	_	_	_
+17	metrid	UNKN	_	_	_	_	_	_	_
+18	naverno	UNKN	_	_	_	_	_	_	_
+19	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+20	pardez	UNKN	_	_	_	_	_	_	_
+21	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+22	azuttu	UNKN	_	_	_	_	_	_	_
+23	en	ei	AUX	_	Number=Sing|Person=1|VebForm=Fin|Mood=Ind	_	_	_	_
+24	tiä	UNKN	_	_	_	_	_	_	_
+25	mi	UNKN	_	_	_	_	_	_	_
+26	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+27	azuttu	UNKN	_	_	_	_	_	_	_
+
+1	moižed	UNKN	_	_	_	_	_	_	_
+2	nene	UNKN	_	_	_	_	_	_	_
+3	kaku	UNKN	_	_	_	_	_	_	_
+
+1	oliiž	UNKN	_	_	_	_	_	_	_
+2	häi	häi	PRON	_	_	_	_	_	_
+3	šlakkat	UNKN	_	_	_	_	_	_	_
+4	täz	UNKN	_	_	_	_	_	_	_
+5	vedetäh	UNKN	_	_	_	_	_	_	_
+6	ka	ka	PART	_	_	_	_	_	_
+7	vie	UNKN	_	_	_	_	_	_	_
+8	enämbl	UNKN	_	_	_	_	_	_	_
+9	sidä	UNKN	_	_	_	_	_	_	_
+10	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	koččurit	UNKN	_	_	_	_	_	_	_
+12	da	da	CCONJ	_	_	_	_	_	_
+13	šlakke	UNKN	_	_	_	_	_	_	_
+14	muguoin	UNKN	_	_	_	_	_	_	_
+15	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+16	šlak	UNKN	_	_	_	_	_	_	_
+17	a	A	INTJ	_	_	_	_	_	_
+18	siid	siid	ADV	_	_	_	_	_	_
+19	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+20	koččuri	koččuri	NOUN	_	_	_	_	_	_
+
+1	Ned	ne	PRON	_	Number=Plur|Case=Nom#Number=Sing|Case=Par	_	_	_	_
+2	d’o	d’o	INTJ	_	_	_	_	_	_
+3	Čarniemessuai	UNKN	_	_	_	_	_	_	_
+4	lopitah	loppida	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	a	A	INTJ	_	_	_	_	_	_
+6	siid	siid	ADV	_	_	_	_	_	_
+7	d’o	d’o	INTJ	_	_	_	_	_	_
+8	poikki	UNKN	_	_	_	_	_	_	_
+9	d’ärves	UNKN	_	_	_	_	_	_	_
+10	toižel	UNKN	_	_	_	_	_	_	_
+11	čural	UNKN	_	_	_	_	_	_	_
+12	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+13	Luučanniemi	UNKN	_	_	_	_	_	_	_
+14	siid	siid	ADV	_	_	_	_	_	_
+15	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+16	Häkinniemi	UNKN	_	_	_	_	_	_	_
+17	Mečojanniemi	UNKN	_	_	_	_	_	_	_
+18	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+19	sid	UNKN	_	_	_	_	_	_	_
+20	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+21	Kačojanniemi	UNKN	_	_	_	_	_	_	_
+22	siid	siid	ADV	_	_	_	_	_	_
+23	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+24	Niikuoinniemi	UNKN	_	_	_	_	_	_	_
+25	siid	siid	ADV	_	_	_	_	_	_
+26	d’o	d’o	INTJ	_	_	_	_	_	_
+27	tänne	UNKN	_	_	_	_	_	_	_
+28	d’ärven	UNKN	_	_	_	_	_	_	_
+29	čuppuh	UNKN	_	_	_	_	_	_	_
+30	rodih	UNKN	_	_	_	_	_	_	_
+31	Lanzinniemi	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	Čaunniemi	UNKN	_	_	_	_	_	_	_
+4	siid	siid	ADV	_	_	_	_	_	_
+5	d’	UNKN	_	_	_	_	_	_	_
+6	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+7	gubakse	UNKN	_	_	_	_	_	_	_
+8	sanotah	UNKN	_	_	_	_	_	_	_
+9	L’evoskan	UNKN	_	_	_	_	_	_	_
+
+1	I	i	CCONJ	_	_	_	_	_	_
+2	oldih	olda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	Ulangon	UNKN	_	_	_	_	_	_	_
+4	čupus	UNKN	_	_	_	_	_	_	_
+5	Pohjuoisuod	UNKN	_	_	_	_	_	_	_
+6	vaste	vaste	ADP	_	_	_	_	_	_
+7	niitut	UNKN	_	_	_	_	_	_	_
+
+1	Ülen	UNKN	_	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	d’ugei	UNKN	_	_	_	_	_	_	_
+4	ruata	UNKN	_	_	_	_	_	_	_
+5	heinät	UNKN	_	_	_	_	_	_	_
+
+1	Sürd’äm	UNKN	_	_	_	_	_	_	_
+2	peldod	peldo	NOUN	_	Number=Plur|Case=Nom	_	_	_	_
+3	zavoditaheze	UNKN	_	_	_	_	_	_	_
+4	Kuziviide	UNKN	_	_	_	_	_	_	_
+5	Kangas	UNKN	_	_	_	_	_	_	_
+6	Mägikujo	UNKN	_	_	_	_	_	_	_
+7	Miinuoimätäs	UNKN	_	_	_	_	_	_	_
+8	Sigloisüödü	UNKN	_	_	_	_	_	_	_
+9	Sigloisüödü	UNKN	_	_	_	_	_	_	_
+10	Siguoinsüödü	UNKN	_	_	_	_	_	_	_
+11	Siguoidensüödii	UNKN	_	_	_	_	_	_	_
+12	Zapol’kke	UNKN	_	_	_	_	_	_	_
+13	Mangantie	UNKN	_	_	_	_	_	_	_
+14	Bolotte	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	Ontuoi	UNKN	_	_	_	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Se	se	PRON	_	_	_	_	_	_@se	PRON
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	moine	moine	ADJ	_	_	_	_	_	_
+4	starikke	starikke	NOUN	_	_	_	_	_	_
+5	udaluoi	udaluoi	ADJ	_	_	_	_	_	_
+6	starikke	starikke	NOUN	_	_	_	_	_	_
+7	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Mänöu	UNKN	_	_	_	_	_	_	_
+2	kirikköh	kirikkö	NOUN	_	Number=Sing|Case=Ill	_	_	_	_
+3	časounah	časoune	NOUN	_	Number=Sing|Case=Ill	_	_	_	_
+4	zvoniu	UNKN	_	_	_	_	_	_	_
+5	siid	siid	ADV	_	_	_	_	_	_
+6	malittut	UNKN	_	_	_	_	_	_	_
+7	panou	UNKN	_	_	_	_	_	_	_
+8	sigä	UNKN	_	_	_	_	_	_	_
+9	miitutte	UNKN	_	_	_	_	_	_	_
+10	hänele	UNKN	_	_	_	_	_	_	_
+11	armiis	UNKN	_	_	_	_	_	_	_
+12	kous	UNKN	_	_	_	_	_	_	_
+13	sluužii	UNKN	_	_	_	_	_	_	_
+
+1	Opastettii	UNKN	_	_	_	_	_	_	_
+2	kird’ah	UNKN	_	_	_	_	_	_	_
+3	muud	UNKN	_	_	_	_	_	_	_
+4	nimidä	nimidä	PRON	_	_	_	_	_	_
+
+1	Sinnä	sinnä	ADV	_	_	_	_	_	_
+2	kai	kai	PRON	_	_	_	_	_	_
+3	lähtedih	UNKN	_	_	_	_	_	_	_
+
+1	Ždaanovaz	UNKN	_	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+2	Bred’ec	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	naverno	UNKN	_	_	_	_	_	_	_
+3	häi	häi	PRON	_	_	_	_	_	_
+4	tüöttih	UNKN	_	_	_	_	_	_	_
+5	što	UNKN	_	_	_	_	_	_	_
+6	kous	UNKN	_	_	_	_	_	_	_
+7	Mihal	UNKN	_	_	_	_	_	_	_
+8	Ol’ekśeič	UNKN	_	_	_	_	_	_	_
+9	lopii	UNKN	_	_	_	_	_	_	_
+
+1	Siit	siit	CCONJ	_	_	_	_	_	_
+2	se	se	PRON	_	_	_	_	_	_@se	PRON
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Bred’ec	UNKN	_	_	_	_	_	_	_
+5	siid	siid	ADV	_	_	_	_	_	_
+6	d’älgele	UNKN	_	_	_	_	_	_	_
+7	Bred’ecad	UNKN	_	_	_	_	_	_	_
+8	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	Lizaveta	UNKN	_	_	_	_	_	_	_
+10	Ivanouna	UNKN	_	_	_	_	_	_	_
+11	se	se	PRON	_	_	_	_	_	_@se	PRON
+12	Bred’ecan	UNKN	_	_	_	_	_	_	_
+13	tütär	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	Lizavet	UNKN	_	_	_	_	_	_	_
+3	Ivanouna	UNKN	_	_	_	_	_	_	_
+4	ei	ei	AUX	_	_	_	_	_	_
+5	hätked	UNKN	_	_	_	_	_	_	_
+6	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+7	häi	häi	PRON	_	_	_	_	_	_
+8	miehele	miez	NOUN	_	Number=Sing|Case=All	_	_	_	_
+9	mäni	mändä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+10	da	da	CCONJ	_	_	_	_	_	_
+11	siit	siit	CCONJ	_	_	_	_	_	_
+12	tännä	UNKN	_	_	_	_	_	_	_
+13	kačo	kaččoda	VERB	_	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos	_	_	_	_
+14	D’emešinän	UNKN	_	_	_	_	_	_	_
+15	L’ošale	UNKN	_	_	_	_	_	_	_
+16	mäni	mändä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+17	k	UNKN	_	_	_	_	_	_	_
+18	ei	ei	AUX	_	_	_	_	_	_
+19	häi	häi	PRON	_	_	_	_	_	_
+20	siit	siit	CCONJ	_	_	_	_	_	_
+21	rubeda	UNKN	_	_	_	_	_	_	_
+22	tännä	UNKN	_	_	_	_	_	_	_
+23	kävümäh	UNKN	_	_	_	_	_	_	_
+24	siit	siit	CCONJ	_	_	_	_	_	_
+25	häntte	UNKN	_	_	_	_	_	_	_
+26	sinnä	sinnä	ADV	_	_	_	_	_	_
+27	pereidittih	UNKN	_	_	_	_	_	_	_
+28	pereidittih	UNKN	_	_	_	_	_	_	_
+29	perevedittih	UNKN	_	_	_	_	_	_	_
+
+1	Siit	siit	CCONJ	_	_	_	_	_	_
+2	kučutah	UNKN	_	_	_	_	_	_	_
+3	pogostan	UNKN	_	_	_	_	_	_	_
+4	brihat	UNKN	_	_	_	_	_	_	_
+5	Hoi	UNKN	_	_	_	_	_	_	_
+6	tüö	UNKN	_	_	_	_	_	_	_
+7	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	Ladvan	UNKN	_	_	_	_	_	_	_
+9	kukuoit	UNKN	_	_	_	_	_	_	_
+10	piättömät	UNKN	_	_	_	_	_	_	_
+11	kukuoit	UNKN	_	_	_	_	_	_	_
+
+1	Muga	muga	ADV	_	_	_	_	_	_
+2	meččekülä	UNKN	_	_	_	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	häi	häi	PRON	_	_	_	_	_	_
+5	ka	ka	PART	_	_	_	_	_	_
+
+1	pogostale	UNKN	_	_	_	_	_	_	_
+2	piäi	UNKN	_	_	_	_	_	_	_
+3	Krissan	UNKN	_	_	_	_	_	_	_
+4	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	tožo	tožo	ADV	_	_	_	_	_	_
+6	mägel	UNKN	_	_	_	_	_	_	_
+7	peldod	peldo	NOUN	_	Number=Plur|Case=Nom	_	_	_	_
+8	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	ül’en	UNKN	_	_	_	_	_	_	_
+10	hüvät	UNKN	_	_	_	_	_	_	_
+
+1	On	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+2	enzimäižekse	UNKN	_	_	_	_	_	_	_
+3	Mel’l’ičče	UNKN	_	_	_	_	_	_	_
+4	Mel’l’ičüöiden	UNKN	_	_	_	_	_	_	_
+5	külä	UNKN	_	_	_	_	_	_	_
+6	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+7	d’üri	UNKN	_	_	_	_	_	_	_
+8	d’ärvi’randaz	UNKN	_	_	_	_	_	_	_
+9	eläu	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	d’o	d’o	INTJ	_	_	_	_	_	_
+3	se	se	PRON	_	_	_	_	_	_@se	PRON
+4	Siidniemes	UNKN	_	_	_	_	_	_	_
+5	proidiu	UNKN	_	_	_	_	_	_	_
+6	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+7	еi	UNKN	_	_	_	_	_	_	_
+8	ole	UNKN	_	_	_	_	_	_	_
+9	pien’	UNKN	_	_	_	_	_	_	_
+10	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+12	puoli	UNKN	_	_	_	_	_	_	_
+13	kilometrid	kilometr	NOUN	_	Number=Plur|Case=Nom	_	_	_	_
+14	olnou	UNKN	_	_	_	_	_	_	_
+15	välit’	UNKN	_	_	_	_	_	_	_
+16	Simaništo	UNKN	_	_	_	_	_	_	_
+
+1	Da	da	CCONJ	_	_	_	_	_	_
+2	ongele	UNKN	_	_	_	_	_	_	_
+3	kävüttih	UNKN	_	_	_	_	_	_	_
+4	sügüzel	sygyz’	NOUN	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	Kohtpeldo	UNKN	_	_	_	_	_	_	_
+4	Kuare	UNKN	_	_	_	_	_	_	_
+5	tožo	tožo	ADV	_	_	_	_	_	_
+6	d’ärvirandaižes	UNKN	_	_	_	_	_	_	_
+7	tožo	tožo	ADV	_	_	_	_	_	_
+8	muga	muga	ADV	_	_	_	_	_	_
+9	eletäh	elädä	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Kengi	UNKN	_	_	_	_	_	_	_
+2	bohatembi	UNKN	_	_	_	_	_	_	_
+3	kengi	UNKN	_	_	_	_	_	_	_
+4	köuhembi	UNKN	_	_	_	_	_	_	_
+5	köuhembe	UNKN	_	_	_	_	_	_	_
+6	siid	siid	ADV	_	_	_	_	_	_
+7	burlakuoiččou	UNKN	_	_	_	_	_	_	_
+8	da	da	CCONJ	_	_	_	_	_	_
+9	bohatuoile	UNKN	_	_	_	_	_	_	_
+10	ruadau	UNKN	_	_	_	_	_	_	_
+11	da	da	CCONJ	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	d’o	d’o	INTJ	_	_	_	_	_	_
+4	niemel	UNKN	_	_	_	_	_	_	_
+5	sigä	UNKN	_	_	_	_	_	_	_
+6	Vašakke	UNKN	_	_	_	_	_	_	_
+7	lähti	lähtedä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	kaksailepiäi	UNKN	_	_	_	_	_	_	_
+9	doro	UNKN	_	_	_	_	_	_	_
+10	mi	UNKN	_	_	_	_	_	_	_
+11	neče	UNKN	_	_	_	_	_	_	_
+12	moine	moine	ADJ	_	_	_	_	_	_
+13	külä	UNKN	_	_	_	_	_	_	_
+14	d’o	d’o	INTJ	_	_	_	_	_	_
+15	suuren	UNKN	_	_	_	_	_	_	_
+16	d’ärver’randa	UNKN	_	_	_	_	_	_	_
+17	i	i	CCONJ	_	_	_	_	_	_
+18	Vašakan	UNKN	_	_	_	_	_	_	_
+19	gubah	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	su	UNKN	_	_	_	_	_	_	_
+4	neče	UNKN	_	_	_	_	_	_	_
+5	Sürd’e	UNKN	_	_	_	_	_	_	_
+
+1	Ei	ei	AUX	_	_	_	_	_	_
+2	muut	UNKN	_	_	_	_	_	_	_
+3	enämbi	enämbi	ADV	_	_	_	_	_	_
+4	külät	UNKN	_	_	_	_	_	_	_
+5	siid	siid	ADV	_	_	_	_	_	_
+6	ül’en	UNKN	_	_	_	_	_	_	_
+7	lähin	UNKN	_	_	_	_	_	_	_
+8	iellu	UNKN	_	_	_	_	_	_	_
+9	meil	müö	PRON	_	Number=Plur|Case=Ade	_	_	_	_
+10	Pelduoižis	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	meid	UNKN	_	_	_	_	_	_	_
+3	vedätettih	UNKN	_	_	_	_	_	_	_
+4	sinnä	sinnä	ADV	_	_	_	_	_	_
+5	oigedid	UNKN	_	_	_	_	_	_	_
+6	doroguoid	UNKN	_	_	_	_	_	_	_
+7	müoti	UNKN	_	_	_	_	_	_	_
+
+1	Hedotištoz	UNKN	_	_	_	_	_	_	_
+2	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	d’ärvi	d’ärvi	NOUN	_	_	_	_	_	_
+4	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+5	ei	ei	AUX	_	_	_	_	_	_
+6	ülen	UNKN	_	_	_	_	_	_	_
+7	lähin	UNKN	_	_	_	_	_	_	_
+8	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+9	palaine	UNKN	_	_	_	_	_	_	_
+10	kesked	UNKN	_	_	_	_	_	_	_
+11	oma	oma	ADJ	_	_	_	_	_	_
+12	d’ärvi	d’ärvi	NOUN	_	_	_	_	_	_
+13	sigä	UNKN	_	_	_	_	_	_	_
+14	vrod’e	UNKN	_	_	_	_	_	_	_
+15	kaku	UNKN	_	_	_	_	_	_	_
+16	lambi	UNKN	_	_	_	_	_	_	_
+
+1	Palatezd’ärvez	UNKN	_	_	_	_	_	_	_
+2	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	d’o	d’o	INTJ	_	_	_	_	_	_
+4	d’ärvi	d’ärvi	NOUN	_	_	_	_	_	_
+5	oma	oma	ADJ	_	_	_	_	_	_
+6	ku	UNKN	_	_	_	_	_	_	_
+7	lambi	UNKN	_	_	_	_	_	_	_
+8	i	i	CCONJ	_	_	_	_	_	_
+9	taluoit	UNKN	_	_	_	_	_	_	_
+10	kuus	UNKN	_	_	_	_	_	_	_
+11	seiččei	seiččei	NUM	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	d’o	d’o	INTJ	_	_	_	_	_	_
+3	sinnä	sinnä	ADV	_	_	_	_	_	_
+4	müö	UNKN	_	_	_	_	_	_	_
+5	nouziškanzimme	UNKN	_	_	_	_	_	_	_
+6	kous	UNKN	_	_	_	_	_	_	_
+7	n’umaluoih	UNKN	_	_	_	_	_	_	_
+8	astuimme	astuda	VERB	_	Number=Plur|Tense=Imp|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	ka	ka	PART	_	_	_	_	_	_
+10	siid	siid	ADV	_	_	_	_	_	_
+11	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+12	Palatezd’ärven	UNKN	_	_	_	_	_	_	_
+13	proidihui	UNKN	_	_	_	_	_	_	_
+14	Kikki	UNKN	_	_	_	_	_	_	_
+15	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Dorok	UNKN	_	_	_	_	_	_	_
+2	se	se	PRON	_	_	_	_	_	_@se	PRON
+3	matkedorog	UNKN	_	_	_	_	_	_	_
+4	mänou	UNKN	_	_	_	_	_	_	_
+5	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+6	t’el’ežnuoi	UNKN	_	_	_	_	_	_	_
+7	kujo	kujo	NOUN	_	_	_	_	_	_@kujo	NOUN
+8	ku	UNKN	_	_	_	_	_	_	_
+9	kujo	kujo	NOUN	_	_	_	_	_	_@kujo	NOUN
+10	vot	vot	INTJ	_	_	_	_	_	_
+11	muga	muga	ADV	_	_	_	_	_	_
+12	dorok	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	a	A	INTJ	_	_	_	_	_	_
+3	vot	vot	INTJ	_	_	_	_	_	_
+4	siit	siit	CCONJ	_	_	_	_	_	_
+5	sinnä	sinnä	ADV	_	_	_	_	_	_
+6	lähtet	UNKN	_	_	_	_	_	_	_
+7	nägimme	UNKN	_	_	_	_	_	_	_
+8	Kokkuoilas	UNKN	_	_	_	_	_	_	_
+9	suurez	UNKN	_	_	_	_	_	_	_
+10	ühtez	UNKN	_	_	_	_	_	_	_
+11	vai	UNKN	_	_	_	_	_	_	_
+12	proidiimme	UNKN	_	_	_	_	_	_	_
+13	a	A	INTJ	_	_	_	_	_	_
+14	toine	toine	ADJ	_	_	_	_	_	_
+15	pieni	pieni	ADJ	_	_	_	_	_	_
+16	Kokkoil	UNKN	_	_	_	_	_	_	_
+17	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+18	mägel	UNKN	_	_	_	_	_	_	_
+19	ka	ka	PART	_	_	_	_	_	_
+20	siid	siid	ADV	_	_	_	_	_	_
+21	emme	UNKN	_	_	_	_	_	_	_
+22	nähnü	UNKN	_	_	_	_	_	_	_
+
+1	Suuri	suuri	ADJ	_	_	_	_	_	_
+2	Kokkuoile	UNKN	_	_	_	_	_	_	_
+3	tože	UNKN	_	_	_	_	_	_	_
+4	siiten	UNKN	_	_	_	_	_	_	_
+5	omad	UNKN	_	_	_	_	_	_	_
+6	d’ärved	UNKN	_	_	_	_	_	_	_
+7	ol’d’ih	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Vot	vot	INTJ	_	_	_	_	_	_
+2	niilüöis	UNKN	_	_	_	_	_	_	_
+3	külis	UNKN	_	_	_	_	_	_	_
+4	proidiimme	UNKN	_	_	_	_	_	_	_
+5	müö	UNKN	_	_	_	_	_	_	_
+6	siiriči	UNKN	_	_	_	_	_	_	_
+7	oigedas	UNKN	_	_	_	_	_	_	_
+8	čura	UNKN	_	_	_	_	_	_	_
+9	oigedat	UNKN	_	_	_	_	_	_	_
+10	kättemüöti	UNKN	_	_	_	_	_	_	_
+11	ka	ka	PART	_	_	_	_	_	_
+12	hüö	UNKN	_	_	_	_	_	_	_
+13	d’iädìh	UNKN	_	_	_	_	_	_	_
+14	hurah	UNKN	_	_	_	_	_	_	_
+15	čurah	UNKN	_	_	_	_	_	_	_
+16	lam	UNKN	_	_	_	_	_	_	_
+17	neče	UNKN	_	_	_	_	_	_	_
+18	d’ärvi	d’ärvi	NOUN	_	_	_	_	_	_
+19	keskez	UNKN	_	_	_	_	_	_	_
+20	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+21	Robotän	UNKN	_	_	_	_	_	_	_
+22	d’ärvi	d’ärvi	NOUN	_	_	_	_	_	_
+23	Röbätän	UNKN	_	_	_	_	_	_	_
+24	d’ärvi	d’ärvi	NOUN	_	_	_	_	_	_
+25	Röbätte	UNKN	_	_	_	_	_	_	_
+26	da	da	CCONJ	_	_	_	_	_	_
+27	siit	siit	CCONJ	_	_	_	_	_	_
+28	Huabanou	UNKN	_	_	_	_	_	_	_
+
+1	Tožo	tožo	ADV	_	_	_	_	_	_
+2	eläu	UNKN	_	_	_	_	_	_	_
+3	grežal	UNKN	_	_	_	_	_	_	_
+4	kodit	UNKN	_	_	_	_	_	_	_
+5	hüvät	UNKN	_	_	_	_	_	_	_
+6	i	i	CCONJ	_	_	_	_	_	_
+7	d’ärvi	d’ärvi	NOUN	_	_	_	_	_	_
+
+1	Ka	ka	PART	_	_	_	_	_	_
+2	küzüt	UNKN	_	_	_	_	_	_	_
+3	Tämä	tämä	PRON	_	_	_	_	_	_
+4	mi	UNKN	_	_	_	_	_	_	_
+5	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Müö	UNKN	_	_	_	_	_	_	_
+2	kävüimmePriäžäspiäi	UNKN	_	_	_	_	_	_	_
+3	oi	UNKN	_	_	_	_	_	_	_
+4	lidnaspiäi	UNKN	_	_	_	_	_	_	_
+5	ajelimme	UNKN	_	_	_	_	_	_	_
+6	muuruoih	UNKN	_	_	_	_	_	_	_
+7	ajelimme	UNKN	_	_	_	_	_	_	_
+
+1	I	i	CCONJ	_	_	_	_	_	_
+2	müö	UNKN	_	_	_	_	_	_	_
+3	sigä	UNKN	_	_	_	_	_	_	_
+4	kävelimme	UNKN	_	_	_	_	_	_	_
+5	kävelimme	UNKN	_	_	_	_	_	_	_
+6	minä	minä	PRON	_	_	_	_	_	_
+7	sanon	UNKN	_	_	_	_	_	_	_
+8	sille	UNKN	_	_	_	_	_	_	_
+9	Pavarickuoile	UNKN	_	_	_	_	_	_	_
+10	An’n’i	UNKN	_	_	_	_	_	_	_
+11	Hoi	UNKN	_	_	_	_	_	_	_
+12	ei	ei	AUX	_	_	_	_	_	_
+13	tännä	UNKN	_	_	_	_	_	_	_
+14	pidä	UNKN	_	_	_	_	_	_	_
+15	mändä	mändä	VERB	_	_	_	_	_	_
+16	müö	UNKN	_	_	_	_	_	_	_
+17	üöstümme	UNKN	_	_	_	_	_	_	_
+
+1	Muga	muga	ADV	_	_	_	_	_	_
+2	lähtimme	UNKN	_	_	_	_	_	_	_
+3	dai	UNKN	_	_	_	_	_	_	_
+4	muuruoisuole	UNKN	_	_	_	_	_	_	_
+5	puutuimme	UNKN	_	_	_	_	_	_	_
+
+1	Minull	UNKN	_	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	Kaškanas	UNKN	_	_	_	_	_	_	_
+4	sizär	sizar	NOUN	_	_	_	_	_	_
+5	miehel	miez	NOUN	_	Number=Sing|Case=Ade	_	_	_	_
+6	sinnä	sinnä	ADV	_	_	_	_	_	_
+7	tožo	tožo	ADV	_	_	_	_	_	_
+8	kävüin	UNKN	_	_	_	_	_	_	_
+9	ajuoin	UNKN	_	_	_	_	_	_	_
+10	podvodad	UNKN	_	_	_	_	_	_	_
+11	dai	UNKN	_	_	_	_	_	_	_
+12	mug	UNKN	_	_	_	_	_	_	_
+13	olin	UNKN	_	_	_	_	_	_	_
+14	pruaznikal	UNKN	_	_	_	_	_	_	_
+
+1	Külän	UNKN	_	_	_	_	_	_	_
+2	lähel	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	lähtemme	UNKN	_	_	_	_	_	_	_
+3	nügü	UNKN	_	_	_	_	_	_	_
+4	Petrofskuoihpiäi	UNKN	_	_	_	_	_	_	_
+5	mittumat	UNKN	_	_	_	_	_	_	_
+6	külät	UNKN	_	_	_	_	_	_	_
+7	sinnäpiäi	UNKN	_	_	_	_	_	_	_
+8	oldih	olda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+
+1	Nel’tos	UNKN	_	_	_	_	_	_	_
+2	taluoid	taluoi	NOUN	_	Number=Plur|Case=Nom	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	bohattad	UNKN	_	_	_	_	_	_	_
+5	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+6	köuhät	UNKN	_	_	_	_	_	_	_
+7	tožo	tožo	ADV	_	_	_	_	_	_
+
+1	Siit	siit	CCONJ	_	_	_	_	_	_
+2	viet	UNKN	_	_	_	_	_	_	_
+3	sinnä	sinnä	ADV	_	_	_	_	_	_
+4	rugiž	UNKN	_	_	_	_	_	_	_
+5	d’auhotettavaks	UNKN	_	_	_	_	_	_	_
+6	libo	UNKN	_	_	_	_	_	_	_
+7	pahmaks	UNKN	_	_	_	_	_	_	_
+8	libo	UNKN	_	_	_	_	_	_	_
+9	midä	UNKN	_	_	_	_	_	_	_
+10	hüö	UNKN	_	_	_	_	_	_	_
+11	sigä	UNKN	_	_	_	_	_	_	_
+12	survotettih	UNKN	_	_	_	_	_	_	_
+13	se	se	PRON	_	_	_	_	_	_@se	PRON
+14	Präkke	UNKN	_	_	_	_	_	_	_
+15	siit	siit	CCONJ	_	_	_	_	_	_
+16	Präkäspiäi	UNKN	_	_	_	_	_	_	_
+17	d’o	d’o	INTJ	_	_	_	_	_	_
+18	Priäžäh	UNKN	_	_	_	_	_	_	_
+19	viiš	UNKN	_	_	_	_	_	_	_
+20	kilometrit	kilometr	NOUN	_	Number=Sing|Case=Par	_	_	_	_
+21	mel’l’ičäd	UNKN	_	_	_	_	_	_	_
+22	ol’d’ih	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Kaj	UNKN	_	_	_	_	_	_	_
+2	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	nenguoine	UNKN	_	_	_	_	_	_	_
+4	eläjäd	UNKN	_	_	_	_	_	_	_
+5	äika	UNKN	_	_	_	_	_	_	_
+6	siid	siid	ADV	_	_	_	_	_	_
+7	vuotat	UNKN	_	_	_	_	_	_	_
+8	sügüzel	sygyz’	NOUN	_	_	_	_	_	_
+9	ku	UNKN	_	_	_	_	_	_	_
+10	nenn	UNKN	_	_	_	_	_	_	_
+11	azutah	UNKN	_	_	_	_	_	_	_
+12	ka	ka	PART	_	_	_	_	_	_
+13	nedälin	UNKN	_	_	_	_	_	_	_
+14	vuorot	UNKN	_	_	_	_	_	_	_
+15	vuotat	UNKN	_	_	_	_	_	_	_
+16	kous	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	sit	UNKN	_	_	_	_	_	_	_
+3	d’älgele	UNKN	_	_	_	_	_	_	_
+4	d’o	d’o	INTJ	_	_	_	_	_	_
+5	rodiiheze	UNKN	_	_	_	_	_	_	_
+6	parembe	UNKN	_	_	_	_	_	_	_
+7	siid	siid	ADV	_	_	_	_	_	_
+8	omah	UNKN	_	_	_	_	_	_	_
+9	küläh	UNKN	_	_	_	_	_	_	_
+10	meil	müö	PRON	_	Number=Plur|Case=Ade	_	_	_	_
+11	Pelduoižeh	UNKN	_	_	_	_	_	_	_
+12	azuttih	UNKN	_	_	_	_	_	_	_
+13	mel’l’ičče	UNKN	_	_	_	_	_	_	_
+
+1	Seičaz	UNKN	_	_	_	_	_	_	_
+2	d’o	d’o	INTJ	_	_	_	_	_	_
+3	mel’l’išnikk	UNKN	_	_	_	_	_	_	_
+4	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	omas	oma	ADJ	_	Number=Sing|Case=Ine	_	_	_	_
+6	küläs	UNKN	_	_	_	_	_	_	_
+7	Bohatterin	UNKN	_	_	_	_	_	_	_
+8	Ol’eša-veikki	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	siid	siid	ADV	_	_	_	_	_	_
+3	vie	UNKN	_	_	_	_	_	_	_
+4	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	Präkäz	UNKN	_	_	_	_	_	_	_
+6	nouzet	UNKN	_	_	_	_	_	_	_
+7	kaks	kaks	NUM	_	_	_	_	_	_
+8	kilometrit	kilometr	NOUN	_	Number=Sing|Case=Par	_	_	_	_
+9	poikki	UNKN	_	_	_	_	_	_	_
+10	d’oges	UNKN	_	_	_	_	_	_	_
+11	Login	UNKN	_	_	_	_	_	_	_
+
+1	Präkäs	UNKN	_	_	_	_	_	_	_
+2	tožo	tožo	ADV	_	_	_	_	_	_
+3	kač	UNKN	_	_	_	_	_	_	_
+4	ku	UNKN	_	_	_	_	_	_	_
+5	olihäi	UNKN	_	_	_	_	_	_	_
+6	loitton	UNKN	_	_	_	_	_	_	_
+7	d’ogi	d’ogi	NOUN	_	_	_	_	_	_
+8	ielnu	UNKN	_	_	_	_	_	_	_
+
+1	Sigä	UNKN	_	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	d’ogi	d’ogi	NOUN	_	_	_	_	_	_
+4	Pühä-d’ogi	UNKN	_	_	_	_	_	_	_
+5	siihäi	UNKN	_	_	_	_	_	_	_
+6	lambiz	UNKN	_	_	_	_	_	_	_
+7	matkaži	UNKN	_	_	_	_	_	_	_
+8	Präkän	UNKN	_	_	_	_	_	_	_
+9	d’ogi	d’ogi	NOUN	_	_	_	_	_	_
+10	Präkäs	UNKN	_	_	_	_	_	_	_
+11	kudai	UNKN	_	_	_	_	_	_	_
+12	mäni	mändä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+13	sih	UNKN	_	_	_	_	_	_	_
+14	lambih	UNKN	_	_	_	_	_	_	_
+15	sordui	UNKN	_	_	_	_	_	_	_
+16	siid	siid	ADV	_	_	_	_	_	_
+17	edelleh	edelleh	ADV	_	_	_	_	_	_
+18	sinnä	sinnä	ADV	_	_	_	_	_	_
+
+1	Gorile	UNKN	_	_	_	_	_	_	_
+2	se	se	PRON	_	_	_	_	_	_@se	PRON
+3	neče	UNKN	_	_	_	_	_	_	_
+4	kuz	UNKN	_	_	_	_	_	_	_
+5	otetah	UNKN	_	_	_	_	_	_	_
+6	talvel	tal’v	NOUN	_	_	_	_	_	_
+7	ei	ei	AUX	_	_	_	_	_	_
+8	külmänü	UNKN	_	_	_	_	_	_	_
+9	moine	moine	ADJ	_	_	_	_	_	_
+10	rodnikke	UNKN	_	_	_	_	_	_	_
+11	siga	UNKN	_	_	_	_	_	_	_
+12	otettih	UNKN	_	_	_	_	_	_	_
+13	a	A	INTJ	_	_	_	_	_	_
+14	tožo	tožo	ADV	_	_	_	_	_	_
+15	peze	UNKN	_	_	_	_	_	_	_
+16	sobit	UNKN	_	_	_	_	_	_	_
+17	kustahto	UNKN	_	_	_	_	_	_	_
+18	kodis	UNKN	_	_	_	_	_	_	_
+19	huuhto	UNKN	_	_	_	_	_	_	_
+20	libo	UNKN	_	_	_	_	_	_	_
+21	mäne	UNKN	_	_	_	_	_	_	_
+22	hot’	UNKN	_	_	_	_	_	_	_
+23	Šän’gimäh	UNKN	_	_	_	_	_	_	_
+24	libo	UNKN	_	_	_	_	_	_	_
+25	kunn	UNKN	_	_	_	_	_	_	_
+26	aja	UNKN	_	_	_	_	_	_	_
+27	vot	vot	INTJ	_	_	_	_	_	_
+28	mugomat	UNKN	_	_	_	_	_	_	_
+29	meččekülis	UNKN	_	_	_	_	_	_	_
+30	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Ende	UNKN	_	_	_	_	_	_	_
+2	Nuožarved	UNKN	_	_	_	_	_	_	_
+3	om	UNKN	_	_	_	_	_	_	_
+4	Mange	UNKN	_	_	_	_	_	_	_
+5	Mangall	UNKN	_	_	_	_	_	_	_
+6	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+7	d’ärvüt	UNKN	_	_	_	_	_	_	_
+8	kaide	UNKN	_	_	_	_	_	_	_
+9	da	da	CCONJ	_	_	_	_	_	_
+10	d’ogi	d’ogi	NOUN	_	_	_	_	_	_
+11	oja	oja	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+12	matkadau	UNKN	_	_	_	_	_	_	_
+
+1	Präkäz	UNKN	_	_	_	_	_	_	_
+2	lähtet	UNKN	_	_	_	_	_	_	_
+3	Priäže	UNKN	_	_	_	_	_	_	_
+4	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Vahne	vahne	ADJ	_	_	_	_	_	_
+2	se	se	PRON	_	_	_	_	_	_@se	PRON
+3	vahne	vahne	ADJ	_	_	_	_	_	_
+4	Priäž	UNKN	_	_	_	_	_	_	_
+5	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+6	moine	moine	ADJ	_	_	_	_	_	_
+7	külä	UNKN	_	_	_	_	_	_	_
+8	pitke	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	siid	siid	ADV	_	_	_	_	_	_
+3	heill	UNKN	_	_	_	_	_	_	_
+4	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	oja	oja	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+6	se	se	PRON	_	_	_	_	_	_@se	PRON
+7	matkadai	UNKN	_	_	_	_	_	_	_
+8	silde	UNKN	_	_	_	_	_	_	_
+9	matke	UNKN	_	_	_	_	_	_	_
+10	dorok	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	Rogin	UNKN	_	_	_	_	_	_	_
+4	taluoi	taluoi	NOUN	_	_	_	_	_	_
+5	pieni	pieni	ADJ	_	_	_	_	_	_
+6	kodiine	UNKN	_	_	_	_	_	_	_
+7	moine	moine	ADJ	_	_	_	_	_	_
+8	enzimäižeks	UNKN	_	_	_	_	_	_	_
+9	mänet	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	ku	UNKN	_	_	_	_	_	_	_
+3	tulethäi	UNKN	_	_	_	_	_	_	_
+4	podvodad	UNKN	_	_	_	_	_	_	_
+5	ajuoimme	UNKN	_	_	_	_	_	_	_
+6	kous	UNKN	_	_	_	_	_	_	_
+7	tüötäh	UNKN	_	_	_	_	_	_	_
+8	podvodah	UNKN	_	_	_	_	_	_	_
+9	tulet	UNKN	_	_	_	_	_	_	_
+10	ka	ka	PART	_	_	_	_	_	_
+11	üöz	UNKN	_	_	_	_	_	_	_
+12	läbü	UNKN	_	_	_	_	_	_	_
+13	tuli	UNKN	_	_	_	_	_	_	_
+14	paluoi	UNKN	_	_	_	_	_	_	_
+15	lamppe	UNKN	_	_	_	_	_	_	_
+16	stolal	UNKN	_	_	_	_	_	_	_
+17	ei	ei	AUX	_	_	_	_	_	_
+18	sammutelttu	UNKN	_	_	_	_	_	_	_
+19	ni	UNKN	_	_	_	_	_	_	_
+20	vous’o	UNKN	_	_	_	_	_	_	_
+
+1	Suoluz	UNKN	_	_	_	_	_	_	_
+2	mägeh	UNKN	_	_	_	_	_	_	_
+3	tulet	UNKN	_	_	_	_	_	_	_
+4	siid	siid	ADV	_	_	_	_	_	_
+5	d’o	d’o	INTJ	_	_	_	_	_	_
+6	lidne	UNKN	_	_	_	_	_	_	_
+
+1	Ei	ei	AUX	_	_	_	_	_	_
+2	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+3	ni	UNKN	_	_	_	_	_	_	_
+4	miitutte	UNKN	_	_	_	_	_	_	_
+5	külät	UNKN	_	_	_	_	_	_	_
+
+1	Ed	UNKN	_	_	_	_	_	_	_
+2	ni	UNKN	_	_	_	_	_	_	_
+3	tiedäiš	UNKN	_	_	_	_	_	_	_
+4	külit	UNKN	_	_	_	_	_	_	_
+5	ka	ka	PART	_	_	_	_	_	_
+6	nene	UNKN	_	_	_	_	_	_	_
+7	ku	UNKN	_	_	_	_	_	_	_
+8	Pokrovuoile	UNKN	_	_	_	_	_	_	_
+9	kävüttih	UNKN	_	_	_	_	_	_	_
+10	Viidanalpiäi	UNKN	_	_	_	_	_	_	_
+11	da	da	CCONJ	_	_	_	_	_	_
+12	Koskespiäi	UNKN	_	_	_	_	_	_	_
+13	ka	ka	PART	_	_	_	_	_	_
+14	net	UNKN	_	_	_	_	_	_	_
+15	saneltah	UNKN	_	_	_	_	_	_	_
+16	miittumat	UNKN	_	_	_	_	_	_	_
+17	küläd	UNKN	_	_	_	_	_	_	_
+18	oldah	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	sit	UNKN	_	_	_	_	_	_	_
+3	hüö	UNKN	_	_	_	_	_	_	_
+4	tännä	UNKN	_	_	_	_	_	_	_
+5	Lohmuoižespiäi	UNKN	_	_	_	_	_	_	_
+6	ku	UNKN	_	_	_	_	_	_	_
+7	lähtedih	UNKN	_	_	_	_	_	_	_
+
+1	Da	da	CCONJ	_	_	_	_	_	_
+2	d’uodih	UNKN	_	_	_	_	_	_	_
+3	viinat	UNKN	_	_	_	_	_	_	_
+4	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	sigä	UNKN	_	_	_	_	_	_	_
+6	butilkat	UNKN	_	_	_	_	_	_	_
+7	kaks	kaks	NUM	_	_	_	_	_	_
+8	vai	UNKN	_	_	_	_	_	_	_
+9	kolme	kolme	NUM	_	_	_	_	_	_
+10	da	da	CCONJ	_	_	_	_	_	_
+11	lähtedih	UNKN	_	_	_	_	_	_	_
+12	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+13	vie	UNKN	_	_	_	_	_	_	_
+14	piäl	UNKN	_	_	_	_	_	_	_
+15	täpütettih	UNKN	_	_	_	_	_	_	_
+16	Moločče	UNKN	_	_	_	_	_	_	_
+17	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+18	poige	poige	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+19	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+20	meit	UNKN	_	_	_	_	_	_	_
+21	hüvin	UNKN	_	_	_	_	_	_	_
+22	gostitit	UNKN	_	_	_	_	_	_	_
+
+1	Ala-Viidan	UNKN	_	_	_	_	_	_	_
+2	se	se	PRON	_	_	_	_	_	_@se	PRON
+3	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	d’uuri	UNKN	_	_	_	_	_	_	_
+5	d’o	d’o	INTJ	_	_	_	_	_	_
+6	Priäzähpiäi	UNKN	_	_	_	_	_	_	_
+7	loppu	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	a	A	INTJ	_	_	_	_	_	_
+3	siit	siit	CCONJ	_	_	_	_	_	_
+4	kačo	kaččoda	VERB	_	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos	_	_	_	_
+5	se	se	PRON	_	_	_	_	_	_@se	PRON
+6	nouzou	UNKN	_	_	_	_	_	_	_
+7	se	se	PRON	_	_	_	_	_	_@se	PRON
+8	Ala-Viidan	UNKN	_	_	_	_	_	_	_
+9	proidiu	UNKN	_	_	_	_	_	_	_
+10	en	ei	AUX	_	Number=Sing|Person=1|VebForm=Fin|Mood=Ind	_	_	_	_
+11	t’iä	UNKN	_	_	_	_	_	_	_
+12	kilometrit	kilometr	NOUN	_	Number=Sing|Case=Par	_	_	_	_
+13	kolme	kolme	NUM	_	_	_	_	_	_
+14	vai	UNKN	_	_	_	_	_	_	_
+15	mi	UNKN	_	_	_	_	_	_	_
+16	enämbe	UNKN	_	_	_	_	_	_	_
+17	kolmet	UNKN	_	_	_	_	_	_	_
+18	kuus	UNKN	_	_	_	_	_	_	_
+19	seiččej	UNKN	_	_	_	_	_	_	_
+20	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+21	Šuojun	UNKN	_	_	_	_	_	_	_
+22	d’ogi	d’ogi	NOUN	_	_	_	_	_	_
+23	proidiu	UNKN	_	_	_	_	_	_	_
+24	tagači	UNKN	_	_	_	_	_	_	_
+25	Poštas	UNKN	_	_	_	_	_	_	_
+
+1	Kai	kai	PRON	_	_	_	_	_	_
+2	mänöu	UNKN	_	_	_	_	_	_	_
+3	oigedan	UNKN	_	_	_	_	_	_	_
+4	čuran	UNKN	_	_	_	_	_	_	_
+5	lidnaspiäi	UNKN	_	_	_	_	_	_	_
+6	oigedan	UNKN	_	_	_	_	_	_	_
+7	kädem	UNKN	_	_	_	_	_	_	_
+8	mänöu	UNKN	_	_	_	_	_	_	_
+9	neče	UNKN	_	_	_	_	_	_	_
+10	Pošte	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	Paskuoi	UNKN	_	_	_	_	_	_	_
+4	guban	UNKN	_	_	_	_	_	_	_
+5	külä	UNKN	_	_	_	_	_	_	_
+6	tožo	tožo	ADV	_	_	_	_	_	_
+7	seižuoime	UNKN	_	_	_	_	_	_	_
+8	sit	UNKN	_	_	_	_	_	_	_
+9	Paskuoiz’gubas	UNKN	_	_	_	_	_	_	_
+10	mašina	UNKN	_	_	_	_	_	_	_
+11	d’ärvenrandas	UNKN	_	_	_	_	_	_	_
+12	eläu	UNKN	_	_	_	_	_	_	_
+
+1	Minä	minä	PRON	_	_	_	_	_	_
+2	vie	UNKN	_	_	_	_	_	_	_
+3	küzelin	UNKN	_	_	_	_	_	_	_
+4	Mibo	UNKN	_	_	_	_	_	_	_
+5	neče	UNKN	_	_	_	_	_	_	_
+6	doroguoid	UNKN	_	_	_	_	_	_	_
+7	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Vohtozerah	UNKN	_	_	_	_	_	_	_
+2	vot	vot	INTJ	_	_	_	_	_	_
+3	sinnä	sinnä	ADV	_	_	_	_	_	_
+
+1	muatuškan	UNKN	_	_	_	_	_	_	_
+2	sizär	sizar	NOUN	_	_	_	_	_	_
+3	lapset	lapsi	NOUN	_	Number=Plur|Case=Nom	_	_	_	_
+4	kävüttih	UNKN	_	_	_	_	_	_	_
+5	meile	UNKN	_	_	_	_	_	_	_
+6	sih	UNKN	_	_	_	_	_	_	_
+7	minud	UNKN	_	_	_	_	_	_	_
+8	enzivuoded	UNKN	_	_	_	_	_	_	_
+9	ol’d’i	UNKN	_	_	_	_	_	_	_
+10	gostih	UNKN	_	_	_	_	_	_	_
+
+1	Sepinüöikse	UNKN	_	_	_	_	_	_	_
+2	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Pühärven	UNKN	_	_	_	_	_	_	_
+2	Sürd’äz	UNKN	_	_	_	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Trikuks	UNKN	_	_	_	_	_	_	_
+5	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+6	tožo	tožo	ADV	_	_	_	_	_	_
+7	bedn’akat	UNKN	_	_	_	_	_	_	_
+
+1	Muštadgo	UNKN	_	_	_	_	_	_	_
+2	kedä	ken	PRON	_	Number=Sing|Case=Par	_	_	_	_
+3	eli	elädä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Hedotištos	UNKN	_	_	_	_	_	_	_
+
+1	Piiriččü	UNKN	_	_	_	_	_	_	_
+2	Mačakse	UNKN	_	_	_	_	_	_	_
+3	Mačakse	UNKN	_	_	_	_	_	_	_
+4	Mat’akse	UNKN	_	_	_	_	_	_	_
+5	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+6	tožo	tožo	ADV	_	_	_	_	_	_
+7	sid	UNKN	_	_	_	_	_	_	_
+8	eli	elädä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	häi	häi	PRON	_	_	_	_	_	_
+10	Hedotištoz	UNKN	_	_	_	_	_	_	_
+11	i	i	CCONJ	_	_	_	_	_	_
+12	Palatezd’ärvez	UNKN	_	_	_	_	_	_	_
+13	eli	elädä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+14	Palatezd’ärvez	UNKN	_	_	_	_	_	_	_
+15	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+16	kodavävünnü	UNKN	_	_	_	_	_	_	_
+17	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+18	a	A	INTJ	_	_	_	_	_	_
+19	nečiz	UNKN	_	_	_	_	_	_	_
+20	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+21	männü	UNKN	_	_	_	_	_	_	_
+22	Hedotištospiäi	UNKN	_	_	_	_	_	_	_
+
+1	Sepän	UNKN	_	_	_	_	_	_	_
+2	Vas’an	UNKN	_	_	_	_	_	_	_
+3	el’ettih	elädä	VERB	_	_	_	_	_	_
+4	hüö	UNKN	_	_	_	_	_	_	_
+5	ei	ei	AUX	_	_	_	_	_	_
+6	d’agettuhes	UNKN	_	_	_	_	_	_	_
+7	üks	UNKN	_	_	_	_	_	_	_
+8	taluoi	taluoi	NOUN	_	_	_	_	_	_
+9	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+10	a	A	INTJ	_	_	_	_	_	_
+11	Paušin	UNKN	_	_	_	_	_	_	_
+12	d’agettiheze	UNKN	_	_	_	_	_	_	_
+
+1	Ke	UNKN	_	_	_	_	_	_	_
+2	Paušši	UNKN	_	_	_	_	_	_	_
+3	Pavlovi	UNKN	_	_	_	_	_	_	_
+4	vod	UNKN	_	_	_	_	_	_	_
+5	zapomnila	UNKN	_	_	_	_	_	_	_
+6	Pavlovikse	UNKN	_	_	_	_	_	_	_
+7	sanottih	sanoda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	se	se	PRON	_	_	_	_	_	_@se	PRON
+9	Paušin	UNKN	_	_	_	_	_	_	_
+10	Pavlovi	UNKN	_	_	_	_	_	_	_
+11	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+12	dai	UNKN	_	_	_	_	_	_	_
+13	Iivanad	UNKN	_	_	_	_	_	_	_
+14	dai	UNKN	_	_	_	_	_	_	_
+15	kai	kai	PRON	_	_	_	_	_	_
+
+1	Da	da	CCONJ	_	_	_	_	_	_
+2	siid	siid	ADV	_	_	_	_	_	_
+3	Danilan	UNKN	_	_	_	_	_	_	_
+4	Osippe	UNKN	_	_	_	_	_	_	_
+5	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+6	da	da	CCONJ	_	_	_	_	_	_
+7	siid	siid	ADV	_	_	_	_	_	_
+8	Danilan	UNKN	_	_	_	_	_	_	_
+9	Vas’a	UNKN	_	_	_	_	_	_	_
+10	оli	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	a	A	INTJ	_	_	_	_	_	_
+3	sit	UNKN	_	_	_	_	_	_	_
+4	tägä	UNKN	_	_	_	_	_	_	_
+5	entiä	UNKN	_	_	_	_	_	_	_
+6	kedä	ken	PRON	_	Number=Sing|Case=Par	_	_	_	_
+7	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	Kohtpeldos	UNKN	_	_	_	_	_	_	_
+9	sigä	UNKN	_	_	_	_	_	_	_
+10	üks	UNKN	_	_	_	_	_	_	_
+11	se	se	PRON	_	_	_	_	_	_@se	PRON
+12	Vašakk	UNKN	_	_	_	_	_	_	_
+13	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+14	ka	ka	PART	_	_	_	_	_	_
+15	Kohtpeldokse	UNKN	_	_	_	_	_	_	_
+16	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Ned	ne	PRON	_	Number=Plur|Case=Nom#Number=Sing|Case=Par	_	_	_	_
+2	d’o	d’o	INTJ	_	_	_	_	_	_
+3	minum	UNKN	_	_	_	_	_	_	_
+4	muštamah	UNKN	_	_	_	_	_	_	_
+5	bohatad	UNKN	_	_	_	_	_	_	_
+6	butto	UNKN	_	_	_	_	_	_	_
+7	kaku	UNKN	_	_	_	_	_	_	_
+8	d’o	d’o	INTJ	_	_	_	_	_	_
+9	moižed	UNKN	_	_	_	_	_	_	_
+10	e	UNKN	_	_	_	_	_	_	_
+11	keuhälištöd	UNKN	_	_	_	_	_	_	_
+12	ei	ei	AUX	_	_	_	_	_	_
+13	ni	UNKN	_	_	_	_	_	_	_
+14	čitaittu	UNKN	_	_	_	_	_	_	_
+15	ned	ne	PRON	_	Number=Plur|Case=Nom#Number=Sing|Case=Par	_	_	_	_
+16	bohatad	UNKN	_	_	_	_	_	_	_
+
+1	Smislovad	UNKN	_	_	_	_	_	_	_
+2	ol’d’ii	UNKN	_	_	_	_	_	_	_
+3	siid	siid	ADV	_	_	_	_	_	_
+4	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	Lukin	UNKN	_	_	_	_	_	_	_
+6	D’oška	UNKN	_	_	_	_	_	_	_
+7	siid	siid	ADV	_	_	_	_	_	_
+8	Ontuoin	UNKN	_	_	_	_	_	_	_
+9	taluoi	taluoi	NOUN	_	_	_	_	_	_
+10	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	L’evuoin	UNKN	_	_	_	_	_	_	_
+4	taluoi	taluoi	NOUN	_	_	_	_	_	_
+5	tožo	tožo	ADV	_	_	_	_	_	_
+6	kolme	kolme	NUM	_	_	_	_	_	_
+7	vel’l’est	UNKN	_	_	_	_	_	_	_
+8	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	Semuoi	UNKN	_	_	_	_	_	_	_
+10	D’uakuoi	UNKN	_	_	_	_	_	_	_
+11	Iivan	UNKN	_	_	_	_	_	_	_
+12	ol’d’ih	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Ei	ei	AUX	_	_	_	_	_	_
+2	äijad	UNKN	_	_	_	_	_	_	_
+3	ni	UNKN	_	_	_	_	_	_	_
+4	taluoid	taluoi	NOUN	_	Number=Plur|Case=Nom	_	_	_	_
+5	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+
+1	Suavuoin	UNKN	_	_	_	_	_	_	_
+2	taluoi	taluoi	NOUN	_	_	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	da	da	CCONJ	_	_	_	_	_	_
+5	siit	siit	CCONJ	_	_	_	_	_	_
+6	e	UNKN	_	_	_	_	_	_	_
+7	nečen	UNKN	_	_	_	_	_	_	_
+8	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	Onekäks	UNKN	_	_	_	_	_	_	_
+10	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	emvoi	UNKN	_	_	_	_	_	_	_
+12	sidä	UNKN	_	_	_	_	_	_	_
+13	Bajarid	UNKN	_	_	_	_	_	_	_
+14	Bajarid	UNKN	_	_	_	_	_	_	_
+15	ol’d’ih	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+16	Kaškanas	UNKN	_	_	_	_	_	_	_
+17	a	A	INTJ	_	_	_	_	_	_
+18	siid	siid	ADV	_	_	_	_	_	_
+19	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Ende	UNKN	_	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	kačo	kaččoda	VERB	_	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos	_	_	_	_
+4	Hedotištos	UNKN	_	_	_	_	_	_	_
+5	siid	siid	ADV	_	_	_	_	_	_
+6	rahvas	UNKN	_	_	_	_	_	_	_
+7	prostuoittavad	UNKN	_	_	_	_	_	_	_
+8	ol’d’ih	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	da	da	CCONJ	_	_	_	_	_	_
+10	ei	ei	AUX	_	_	_	_	_	_
+11	tiettüni	UNKN	_	_	_	_	_	_	_
+12	kunna	kunna	PRON	_	_	_	_	_	_
+13	lidnah	lidn	NOUN	_	Number=Sing|Case=Ill	_	_	_	_
+14	ei	ei	AUX	_	_	_	_	_	_
+15	kävüttü	UNKN	_	_	_	_	_	_	_
+
+1	Kai	kai	PRON	_	_	_	_	_	_
+2	rahvaz	UNKN	_	_	_	_	_	_	_
+3	d’uostah	UNKN	_	_	_	_	_	_	_
+4	kenkunna	UNKN	_	_	_	_	_	_	_
+5	puuttuu	UNKN	_	_	_	_	_	_	_
+6	kai	kai	PRON	_	_	_	_	_	_
+
+1	Kunna	kunna	PRON	_	_	_	_	_	_
+2	mänemme	UNKN	_	_	_	_	_	_	_
+
+1	Ka	ka	PART	_	_	_	_	_	_
+2	mibo	UNKN	_	_	_	_	_	_	_
+3	rodiihes	UNKN	_	_	_	_	_	_	_
+4	sinun	UNKN	_	_	_	_	_	_	_
+5	kanduoile	UNKN	_	_	_	_	_	_	_
+
+1	Kai	kai	PRON	_	_	_	_	_	_
+2	nel’l’udelttih	UNKN	_	_	_	_	_	_	_
+
+1	Ainoz	UNKN	_	_	_	_	_	_	_
+2	mušteltah	UNKN	_	_	_	_	_	_	_
+3	kačo	kaččoda	VERB	_	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos	_	_	_	_
+4	mäni	mändä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	brihačču	UNKN	_	_	_	_	_	_	_
+6	vedeh	UNKN	_	_	_	_	_	_	_
+
+1	Siit	siit	CCONJ	_	_	_	_	_	_
+2	kačo	kaččoda	VERB	_	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos	_	_	_	_
+3	keuhe	UNKN	_	_	_	_	_	_	_
+4	da	da	CCONJ	_	_	_	_	_	_
+5	ülen	UNKN	_	_	_	_	_	_	_
+6	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+7	keuhe	UNKN	_	_	_	_	_	_	_
+8	pereh	pereh	NOUN	_	_	_	_	_	_
+9	ka	ka	PART	_	_	_	_	_	_
+10	lidnas	lidn	NOUN	_	Number=Sing|Case=Ine	_	_	_	_
+11	kuharkuoiččih	UNKN	_	_	_	_	_	_	_
+
+1	Vot	vot	INTJ	_	_	_	_	_	_
+2	tožo	tožo	ADV	_	_	_	_	_	_
+3	kazvettih	UNKN	_	_	_	_	_	_	_
+4	da	da	CCONJ	_	_	_	_	_	_
+5	pahuoin	UNKN	_	_	_	_	_	_	_
+6	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+7	sii	UNKN	_	_	_	_	_	_	_
+8	paimettih	UNKN	_	_	_	_	_	_	_
+9	da	da	CCONJ	_	_	_	_	_	_
+10	ol’d’ih	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	da	da	CCONJ	_	_	_	_	_	_
+12	lapsit	UNKN	_	_	_	_	_	_	_
+13	kačottih	UNKN	_	_	_	_	_	_	_
+14	da	da	CCONJ	_	_	_	_	_	_
+15	kai	kai	PRON	_	_	_	_	_	_
+16	da	da	CCONJ	_	_	_	_	_	_
+17	siid	siid	ADV	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	kedä	ken	PRON	_	Number=Sing|Case=Par	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Kondnioin	UNKN	_	_	_	_	_	_	_
+5	talos	UNKN	_	_	_	_	_	_	_
+
+1	Kondruoin	UNKN	_	_	_	_	_	_	_
+2	taluoiz	UNKN	_	_	_	_	_	_	_
+3	eli	elädä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Kondruoi	UNKN	_	_	_	_	_	_	_
+5	iče	UNKN	_	_	_	_	_	_	_
+6	starikk	UNKN	_	_	_	_	_	_	_
+7	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Fed’a	UNKN	_	_	_	_	_	_	_
+2	nai	naida	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	uudessah	UNKN	_	_	_	_	_	_	_
+4	Lidžmil	UNKN	_	_	_	_	_	_	_
+5	otti	UNKN	_	_	_	_	_	_	_
+6	Sieni-korolin	UNKN	_	_	_	_	_	_	_
+7	tüttäreks	UNKN	_	_	_	_	_	_	_
+8	Sieni-koroliks	UNKN	_	_	_	_	_	_	_
+9	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Vot	vot	INTJ	_	_	_	_	_	_
+2	sit	UNKN	_	_	_	_	_	_	_
+3	Fed’as	UNKN	_	_	_	_	_	_	_
+4	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+5	a	A	INTJ	_	_	_	_	_	_
+6	siiten	UNKN	_	_	_	_	_	_	_
+7	kač	UNKN	_	_	_	_	_	_	_
+8	d’o	d’o	INTJ	_	_	_	_	_	_
+9	ned	ne	PRON	_	Number=Plur|Case=Nom#Number=Sing|Case=Par	_	_	_	_
+10	d’agettiheze	UNKN	_	_	_	_	_	_	_
+11	kai	kai	PRON	_	_	_	_	_	_
+12	heiden	UNKN	_	_	_	_	_	_	_
+13	se	se	PRON	_	_	_	_	_	_@se	PRON
+14	perelo	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	D’akku	UNKN	_	_	_	_	_	_	_
+3	se	se	PRON	_	_	_	_	_	_@se	PRON
+4	lähti	lähtedä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	Piit’erih	UNKN	_	_	_	_	_	_	_
+6	Piit’eriz	UNKN	_	_	_	_	_	_	_
+7	nai	naida	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Kondruoin	UNKN	_	_	_	_	_	_	_
+2	poige	poige	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+3	se	se	PRON	_	_	_	_	_	_@se	PRON
+4	nuorembe	UNKN	_	_	_	_	_	_	_
+5	Madžun	UNKN	_	_	_	_	_	_	_
+6	d’o	d’o	INTJ	_	_	_	_	_	_
+7	Madžum	UNKN	_	_	_	_	_	_	_
+8	toižen	UNKN	_	_	_	_	_	_	_
+9	akan	UNKN	_	_	_	_	_	_	_
+10	poige	poige	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+
+1	Na	UNKN	_	_	_	_	_	_	_
+2	a	A	INTJ	_	_	_	_	_	_
+3	emmušta	UNKN	_	_	_	_	_	_	_
+4	sigä	UNKN	_	_	_	_	_	_	_
+5	miiččed	UNKN	_	_	_	_	_	_	_
+6	vuoded	UNKN	_	_	_	_	_	_	_
+7	ol’d’ih	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	da	da	CCONJ	_	_	_	_	_	_
+9	kai	kai	PRON	_	_	_	_	_	_
+10	midä	UNKN	_	_	_	_	_	_	_
+11	hätkigo	UNKN	_	_	_	_	_	_	_
+12	ol’d’ih	olda	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+13	vai	UNKN	_	_	_	_	_	_	_
+14	midä	UNKN	_	_	_	_	_	_	_
+
+1	Ni	UNKN	_	_	_	_	_	_	_
+2	ole	UNKN	_	_	_	_	_	_	_
+3	ni	UNKN	_	_	_	_	_	_	_
+4	kedä	ken	PRON	_	Number=Sing|Case=Par	_	_	_	_
+5	heiden	UNKN	_	_	_	_	_	_	_
+6	pereloimud	UNKN	_	_	_	_	_	_	_
+7	ei	ei	AUX	_	_	_	_	_	_
+8	lopittiheze	UNKN	_	_	_	_	_	_	_
+
+1	Oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+2	vahnim	UNKN	_	_	_	_	_	_	_
+3	poige	poige	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+4	hänel	häi	PRON	_	Number=Sing|Case=Ade	_	_	_	_
+5	D’eša	UNKN	_	_	_	_	_	_	_
+6	siid	siid	ADV	_	_	_	_	_	_
+7	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	Fed’a	UNKN	_	_	_	_	_	_	_
+9	siid	siid	ADV	_	_	_	_	_	_
+10	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	tütär	UNKN	_	_	_	_	_	_	_
+12	Nastuoi	UNKN	_	_	_	_	_	_	_
+13	Priäžäz	UNKN	_	_	_	_	_	_	_
+14	miehel	miez	NOUN	_	Number=Sing|Case=Ade	_	_	_	_
+15	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+16	Anni	UNKN	_	_	_	_	_	_	_
+17	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+18	Huabanovaz	UNKN	_	_	_	_	_	_	_
+19	miehel	miez	NOUN	_	Number=Sing|Case=Ade	_	_	_	_
+
+1	Heil	hüö	PRON	_	Number=Plur|Case=Ade	_	_	_	_
+2	nel’l’	nel’l’	NUM	_	_	_	_	_	_
+3	vel’l’este	UNKN	_	_	_	_	_	_	_
+4	se	se	PRON	_	_	_	_	_	_@se	PRON
+5	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Midä	UNKN	_	_	_	_	_	_	_
+2	liennet	UNKN	_	_	_	_	_	_	_
+3	küzünü	UNKN	_	_	_	_	_	_	_
+4	sanonu	sanoda	VERB	_	_	_	_	_	_
+5	Ol’eša-diädö	UNKN	_	_	_	_	_	_	_
+
+1	Vot	vot	INTJ	_	_	_	_	_	_
+2	Il’l’an	UNKN	_	_	_	_	_	_	_
+3	D’akuz	UNKN	_	_	_	_	_	_	_
+4	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	kaks	kaks	NUM	_	_	_	_	_	_
+6	vel’l’este;	UNKN	_	_	_	_	_	_	_
+7	se	se	PRON	_	_	_	_	_	_@se	PRON
+8	Puavil	UNKN	_	_	_	_	_	_	_
+9	kačo	kaččoda	VERB	_	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos	_	_	_	_
+10	lähti	lähtedä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	eriže	UNKN	_	_	_	_	_	_	_
+12	a	A	INTJ	_	_	_	_	_	_
+13	D’akku	UNKN	_	_	_	_	_	_	_
+14	d’iäi	UNKN	_	_	_	_	_	_	_
+15	sih	UNKN	_	_	_	_	_	_	_
+
+1	D’eremän	UNKN	_	_	_	_	_	_	_
+2	D’ohoral	UNKN	_	_	_	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	üks	UNKN	_	_	_	_	_	_	_
+5	akke	UNKN	_	_	_	_	_	_	_
+6	S’ergouna	UNKN	_	_	_	_	_	_	_
+7	omas	oma	ADJ	_	Number=Sing|Case=Ine	_	_	_	_
+8	küläs	UNKN	_	_	_	_	_	_	_
+9	nainu	UNKN	_	_	_	_	_	_	_
+10	sikse	UNKN	_	_	_	_	_	_	_
+11	D’ohoraks	UNKN	_	_	_	_	_	_	_
+12	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+13	eig	UNKN	_	_	_	_	_	_	_
+14	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+15	enämbi	enämbi	ADV	_	_	_	_	_	_
+16	tütartte	UNKN	_	_	_	_	_	_	_
+17	eigo	UNKN	_	_	_	_	_	_	_
+18	poigat	UNKN	_	_	_	_	_	_	_
+19	eigoni	UNKN	_	_	_	_	_	_	_
+20	midä	UNKN	_	_	_	_	_	_	_
+21	siit	siit	CCONJ	_	_	_	_	_	_
+22	hänel	häi	PRON	_	Number=Sing|Case=Ade	_	_	_	_
+23	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Ka	ka	PART	_	_	_	_	_	_
+2	vikse	UNKN	_	_	_	_	_	_	_
+3	sigä	UNKN	_	_	_	_	_	_	_
+4	ken	ken	PRON	_	_	_	_	_	_
+5	neččidä	UNKN	_	_	_	_	_	_	_
+6	tuskevui	UNKN	_	_	_	_	_	_	_
+7	muamo	UNKN	_	_	_	_	_	_	_
+8	vai	UNKN	_	_	_	_	_	_	_
+9	mid	UNKN	_	_	_	_	_	_	_
+10	entiä	UNKN	_	_	_	_	_	_	_
+11	midä	UNKN	_	_	_	_	_	_	_
+
+1	Sigä	UNKN	_	_	_	_	_	_	_
+2	tuli	UNKN	_	_	_	_	_	_	_
+3	nečis	UNKN	_	_	_	_	_	_	_
+4	Pid’mozeraz	UNKN	_	_	_	_	_	_	_
+5	da	da	CCONJ	_	_	_	_	_	_
+6	entiä	UNKN	_	_	_	_	_	_	_
+7	kuz	UNKN	_	_	_	_	_	_	_
+8	ainos	ainos	ADV	_	_	_	_	_	_
+9	käveli	UNKN	_	_	_	_	_	_	_
+10	üheksin	UNKN	_	_	_	_	_	_	_
+11	vuozin	UNKN	_	_	_	_	_	_	_
+12	kodih	UNKN	_	_	_	_	_	_	_
+13	ei	ei	AUX	_	_	_	_	_	_
+14	kävünü	UNKN	_	_	_	_	_	_	_
+
+1	Annikse	UNKN	_	_	_	_	_	_	_
+2	kučui	UNKN	_	_	_	_	_	_	_
+3	Arhipovan	UNKN	_	_	_	_	_	_	_
+4	Vas’an	UNKN	_	_	_	_	_	_	_
+5	poigal	poige	NOUN	_	Number=Sing|Case=Ade	_	_	_	_
+6	An’n’	UNKN	_	_	_	_	_	_	_
+7	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	miehel	miez	NOUN	_	Number=Sing|Case=Ade	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	a	A	INTJ	_	_	_	_	_	_
+3	St’eppu	UNKN	_	_	_	_	_	_	_
+4	se	se	PRON	_	_	_	_	_	_@se	PRON
+5	loitokse	UNKN	_	_	_	_	_	_	_
+6	ku	UNKN	_	_	_	_	_	_	_
+7	mäni	mändä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	Niimägeh	UNKN	_	_	_	_	_	_	_
+9	miehele	miez	NOUN	_	Number=Sing|Case=All	_	_	_	_
+10	ka	ka	PART	_	_	_	_	_	_
+
+1	da	da	CCONJ	_	_	_	_	_	_
+2	viehäi	UNKN	_	_	_	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Hutun	UNKN	_	_	_	_	_	_	_
+5	D’akun	UNKN	_	_	_	_	_	_	_
+6	Hutun	UNKN	_	_	_	_	_	_	_
+7	nečen	UNKN	_	_	_	_	_	_	_
+8	D’oškan	UNKN	_	_	_	_	_	_	_
+9	kodi	kodi	NOUN	_	_	_	_	_	_@kodi	NOUN
+10	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	siit	siit	CCONJ	_	_	_	_	_	_
+12	keskel	keskel	ADP	_	_	_	_	_	_
+
+1	Oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+2	tožo	tožo	ADV	_	_	_	_	_	_
+3	ukko	UNKN	_	_	_	_	_	_	_
+4	se	se	PRON	_	_	_	_	_	_@se	PRON
+5	nemuoi	UNKN	_	_	_	_	_	_	_
+6	dai	UNKN	_	_	_	_	_	_	_
+7	iče	UNKN	_	_	_	_	_	_	_
+8	nemuoi	UNKN	_	_	_	_	_	_	_
+9	a	A	INTJ	_	_	_	_	_	_
+10	brihačun	UNKN	_	_	_	_	_	_	_
+11	sanottih	sanoda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+12	suai	UNKN	_	_	_	_	_	_	_
+13	kani	UNKN	_	_	_	_	_	_	_
+14	ei	ei	AUX	_	_	_	_	_	_
+15	sua	UNKN	_	_	_	_	_	_	_
+16	sanoda	sanoda	VERB	_	_	_	_	_	_
+17	malttai	UNKN	_	_	_	_	_	_	_
+18	miidne	UNKN	_	_	_	_	_	_	_
+19	čoma	UNKN	_	_	_	_	_	_	_
+20	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	a	A	INTJ	_	_	_	_	_	_
+3	Pešan	UNKN	_	_	_	_	_	_	_
+4	Mišan	UNKN	_	_	_	_	_	_	_
+5	pereh	pereh	NOUN	_	_	_	_	_	_
+
+1	Nel’l’	nel’l’	NUM	_	_	_	_	_	_
+2	poigat	UNKN	_	_	_	_	_	_	_
+3	viideš	UNKN	_	_	_	_	_	_	_
+4	tütär	UNKN	_	_	_	_	_	_	_
+5	Huori	UNKN	_	_	_	_	_	_	_
+6	muid	muu	ADJ	_	Number=Plur|Case=Par	_	_	_	_
+7	ni	UNKN	_	_	_	_	_	_	_
+8	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+9	ei	ei	AUX	_	_	_	_	_	_
+10	heil	hüö	PRON	_	Number=Plur|Case=Ade	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	Puavil	UNKN	_	_	_	_	_	_	_
+3	nai	naida	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Varvuoikse	UNKN	_	_	_	_	_	_	_
+2	kučuttih	UNKN	_	_	_	_	_	_	_
+3	Mikolajouna	UNKN	_	_	_	_	_	_	_
+4	Fal’uoim	UNKN	_	_	_	_	_	_	_
+5	Miikkulan	UNKN	_	_	_	_	_	_	_
+6	tütär	UNKN	_	_	_	_	_	_	_
+7	Varvuoi	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	a	A	INTJ	_	_	_	_	_	_
+3	siid	siid	ADV	_	_	_	_	_	_
+4	Miikkulall	UNKN	_	_	_	_	_	_	_
+5	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+6	pereh	pereh	NOUN	_	_	_	_	_	_
+7	tožo	tožo	ADV	_	_	_	_	_	_
+8	tobd’e	UNKN	_	_	_	_	_	_	_
+9	poigad	UNKN	_	_	_	_	_	_	_
+10	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	se	se	PRON	_	_	_	_	_	_@se	PRON
+12	kačo	kaččoda	VERB	_	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos	_	_	_	_
+13	siit	siit	CCONJ	_	_	_	_	_	_
+14	äi	UNKN	_	_	_	_	_	_	_
+15	enzimäižed	UNKN	_	_	_	_	_	_	_
+16	Ignuoi	UNKN	_	_	_	_	_	_	_
+17	siid	siid	ADV	_	_	_	_	_	_
+18	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+19	D’aša	UNKN	_	_	_	_	_	_	_
+20	siid	siid	ADV	_	_	_	_	_	_
+21	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+22	Nast’a	UNKN	_	_	_	_	_	_	_
+23	siid	siid	ADV	_	_	_	_	_	_
+24	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+25	Il’l’očka	UNKN	_	_	_	_	_	_	_
+26	siid	siid	ADV	_	_	_	_	_	_
+27	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+28	Pol’a	UNKN	_	_	_	_	_	_	_
+
+1	Mačin	UNKN	_	_	_	_	_	_	_
+2	Akiman	UNKN	_	_	_	_	_	_	_
+3	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Häi	häi	PRON	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	nainu	UNKN	_	_	_	_	_	_	_
+4	Sürd’äs	UNKN	_	_	_	_	_	_	_
+5	Omešas	UNKN	_	_	_	_	_	_	_
+6	se	se	PRON	_	_	_	_	_	_@se	PRON
+7	Mikko	UNKN	_	_	_	_	_	_	_
+8	Mikko	UNKN	_	_	_	_	_	_	_
+9	hänen	UNKN	_	_	_	_	_	_	_
+10	sen	UNKN	_	_	_	_	_	_	_
+11	Vas’an	UNKN	_	_	_	_	_	_	_
+12	poige	poige	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+
+1	Kačo	kaččoda	VERB	_	Number=Sing|Person=2|VebForm=Fin|Mood=Imp|Polarity=Pos	_	_	_	_
+2	minä	minä	PRON	_	_	_	_	_	_
+3	sanuoin	UNKN	_	_	_	_	_	_	_
+4	sih	UNKN	_	_	_	_	_	_	_
+5	n’el’l’	nel’l’	NUM	_	_	_	_	_	_
+6	poigad	UNKN	_	_	_	_	_	_	_
+7	vie	UNKN	_	_	_	_	_	_	_
+8	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	heil	hüö	PRON	_	Number=Plur|Case=Ade	_	_	_	_
+10	Fed’a	UNKN	_	_	_	_	_	_	_
+11	viideiš	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	se	se	PRON	_	_	_	_	_	_@se	PRON
+3	Mat’akse	UNKN	_	_	_	_	_	_	_
+4	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	se	se	PRON	_	_	_	_	_	_@se	PRON
+6	kuoli	kuolta	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Muamah	UNKN	_	_	_	_	_	_	_
+2	tattah	UNKN	_	_	_	_	_	_	_
+3	tattah	UNKN	_	_	_	_	_	_	_
+4	tuattah	UNKN	_	_	_	_	_	_	_
+5	kuol’t’t’ih	UNKN	_	_	_	_	_	_	_
+6	tožo	tožo	ADV	_	_	_	_	_	_
+7	eli	elädä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	eli	elädä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	eigo	UNKN	_	_	_	_	_	_	_
+10	nainu	UNKN	_	_	_	_	_	_	_
+11	eigo	UNKN	_	_	_	_	_	_	_
+12	dai	UNKN	_	_	_	_	_	_	_
+13	ičegi	UNKN	_	_	_	_	_	_	_
+14	kuoli	kuolta	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Semuoi	UNKN	_	_	_	_	_	_	_
+2	en	ei	AUX	_	Number=Sing|Person=1|VebForm=Fin|Mood=Ind	_	_	_	_
+3	tiä	UNKN	_	_	_	_	_	_	_
+4	kunna	kunna	PRON	_	_	_	_	_	_
+5	lähti	lähtedä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Vot	vot	INTJ	_	_	_	_	_	_
+2	siid	siid	ADV	_	_	_	_	_	_
+3	ainos	ainos	ADV	_	_	_	_	_	_
+4	se	se	PRON	_	_	_	_	_	_@se	PRON
+5	sana	UNKN	_	_	_	_	_	_	_
+6	tuli	UNKN	_	_	_	_	_	_	_
+7	igäks	UNKN	_	_	_	_	_	_	_
+8	d’uohtuv	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	kedä	ken	PRON	_	Number=Sing|Case=Par	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Onuoin	UNKN	_	_	_	_	_	_	_
+5	Fed’al	UNKN	_	_	_	_	_	_	_
+
+1	Siid	siid	ADV	_	_	_	_	_	_
+2	e	UNKN	_	_	_	_	_	_	_
+3	ntiä	UNKN	_	_	_	_	_	_	_
+4	kui	kui	ADV	_	_	_	_	_	_
+5	häi	häi	PRON	_	_	_	_	_	_
+6	sigä	UNKN	_	_	_	_	_	_	_
+7	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	kui	kui	ADV	_	_	_	_	_	_
+9	sinnä	sinnä	ADV	_	_	_	_	_	_
+10	häi	häi	PRON	_	_	_	_	_	_
+11	puutui	UNKN	_	_	_	_	_	_	_
+12	da	da	CCONJ	_	_	_	_	_	_
+13	kuz	UNKN	_	_	_	_	_	_	_
+14	znakomiiheze	UNKN	_	_	_	_	_	_	_
+15	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+16	Čuuniemez	UNKN	_	_	_	_	_	_	_
+17	nainnu	UNKN	_	_	_	_	_	_	_
+
+1	Se	se	PRON	_	_	_	_	_	_@se	PRON
+2	Nad’a	UNKN	_	_	_	_	_	_	_
+3	sih	UNKN	_	_	_	_	_	_	_
+4	omah	UNKN	_	_	_	_	_	_	_
+5	küläh	UNKN	_	_	_	_	_	_	_
+6	i	i	CCONJ	_	_	_	_	_	_
+7	d’iäi	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	siid	siid	ADV	_	_	_	_	_	_
+3	i	i	CCONJ	_	_	_	_	_	_
+4	Ivaanounagi	UNKN	_	_	_	_	_	_	_
+5	lopiiheze	UNKN	_	_	_	_	_	_	_
+6	siit	siit	CCONJ	_	_	_	_	_	_
+7	se	se	PRON	_	_	_	_	_	_@se	PRON
+8	Okku	UNKN	_	_	_	_	_	_	_
+9	sih	UNKN	_	_	_	_	_	_	_
+10	vunukke	UNKN	_	_	_	_	_	_	_
+11	d’iäi	UNKN	_	_	_	_	_	_	_
+12	sil’l’e	UNKN	_	_	_	_	_	_	_
+13	pomestale	UNKN	_	_	_	_	_	_	_
+14	vunukke	UNKN	_	_	_	_	_	_	_
+15	da	da	CCONJ	_	_	_	_	_	_
+16	neče	UNKN	_	_	_	_	_	_	_
+17	muidni	UNKN	_	_	_	_	_	_	_
+18	ked	UNKN	_	_	_	_	_	_	_
+19	ei	ei	AUX	_	_	_	_	_	_
+20	d’iänü	UNKN	_	_	_	_	_	_	_
+
+1	Kedä	ken	PRON	_	Number=Sing|Case=Par	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	Bohatterim	UNKN	_	_	_	_	_	_	_
+4	Miikkulan	UNKN	_	_	_	_	_	_	_
+5	taluois	taluoi	NOUN	_	Number=Sing|Case=Ine	_	_	_	_
+
+1	Sii	UNKN	_	_	_	_	_	_	_
+2	häi	häi	PRON	_	_	_	_	_	_
+3	nai	naida	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	Petrouskuoil	UNKN	_	_	_	_	_	_	_
+5	Matr’ona	UNKN	_	_	_	_	_	_	_
+6	Fedorouna	UNKN	_	_	_	_	_	_	_
+7	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+8	vot	vot	INTJ	_	_	_	_	_	_
+9	otettu	ottada	VERB	_	Voice=Pass|VebForm=Part|PartForm=Past	_	_	_	_
+
+1	Da	da	CCONJ	_	_	_	_	_	_
+2	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+3	muid	muu	ADJ	_	Number=Plur|Case=Par	_	_	_	_
+4	ni	UNKN	_	_	_	_	_	_	_
+5	ei	ei	AUX	_	_	_	_	_	_
+6	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+7	ni	UNKN	_	_	_	_	_	_	_
+8	tütärtte	UNKN	_	_	_	_	_	_	_
+9	ni	UNKN	_	_	_	_	_	_	_
+10	poigad	UNKN	_	_	_	_	_	_	_
+11	ni	UNKN	_	_	_	_	_	_	_
+12	vous’oni	UNKN	_	_	_	_	_	_	_
+13	ked	UNKN	_	_	_	_	_	_	_
+14	ei	ei	AUX	_	_	_	_	_	_
+15	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+16	kahtei	UNKN	_	_	_	_	_	_	_
+17	elettih	elädä	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+18	Matr’ounan	UNKN	_	_	_	_	_	_	_
+19	kera	UNKN	_	_	_	_	_	_	_
+
+1	Ainuoi	ainuoi	ADJ	_	_	_	_	_	_
+2	poige	poige	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+3	muid	muu	ADJ	_	Number=Plur|Case=Par	_	_	_	_
+4	ni	UNKN	_	_	_	_	_	_	_
+5	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+6	enämbi	enämbi	ADV	_	_	_	_	_	_
+7	ni	UNKN	_	_	_	_	_	_	_
+8	kedä	ken	PRON	_	Number=Sing|Case=Par	_	_	_	_
+9	heil	hüö	PRON	_	Number=Plur|Case=Ade	_	_	_	_
+10	ei	ei	AUX	_	_	_	_	_	_
+
+1	Kai	kai	PRON	_	_	_	_	_	_
+2	heiden	UNKN	_	_	_	_	_	_	_
+3	prikol’enii	UNKN	_	_	_	_	_	_	_
+
+1	Naverno	UNKN	_	_	_	_	_	_	_
+2	skoreeje	UNKN	_	_	_	_	_	_	_
+3	Ignuoile	UNKN	_	_	_	_	_	_	_
+4	puututtih	UNKN	_	_	_	_	_	_	_
+5	tožo	tožo	ADV	_	_	_	_	_	_
+6	sen	UNKN	_	_	_	_	_	_	_
+7	Nast’an	UNKN	_	_	_	_	_	_	_
+8	vel’l’ele	UNKN	_	_	_	_	_	_	_
+9	hänen	UNKN	_	_	_	_	_	_	_
+10	kuldat	UNKN	_	_	_	_	_	_	_
+
+1	Pl’emännikke	UNKN	_	_	_	_	_	_	_
+2	vel’l’en	UNKN	_	_	_	_	_	_	_
+3	poige	poige	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
+
+1	Da	da	CCONJ	_	_	_	_	_	_
+2	iče	UNKN	_	_	_	_	_	_	_
+3	leuhki	UNKN	_	_	_	_	_	_	_
+
+1	Okšat-lambihpiäi	UNKN	_	_	_	_	_	_	_
+2	peld	UNKN	_	_	_	_	_	_	_
+3	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	sinnä	sinnä	ADV	_	_	_	_	_	_
+
+1	Nämä	UNKN	_	_	_	_	_	_	_
+2	voimme	UNKN	_	_	_	_	_	_	_
+3	d’uoda	UNKN	_	_	_	_	_	_	_
+4	pühän	UNKN	_	_	_	_	_	_	_
+5	D’ürgin	UNKN	_	_	_	_	_	_	_
+6	d’engad	UNKN	_	_	_	_	_	_	_
+7	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Stokan	UNKN	_	_	_	_	_	_	_
+2	stokanale	UNKN	_	_	_	_	_	_	_
+3	d’älgeh	d’älgeh	ADP	_	_	_	_	_	_
+4	stokan	UNKN	_	_	_	_	_	_	_
+5	stokanale	UNKN	_	_	_	_	_	_	_
+6	d’älgeh	d’älgeh	ADP	_	_	_	_	_	_
+
+1	Siit	siit	CCONJ	_	_	_	_	_	_
+2	sordui	UNKN	_	_	_	_	_	_	_
+3	häi	häi	PRON	_	_	_	_	_	_
+4	stola	UNKN	_	_	_	_	_	_	_
+5	alle	UNKN	_	_	_	_	_	_	_
+6	vedettih	UNKN	_	_	_	_	_	_	_
+7	vette	UNKN	_	_	_	_	_	_	_
+8	piäle	piäle	ADP	_	_	_	_	_	_
+9	pandih	UNKN	_	_	_	_	_	_	_
+10	akat	UNKN	_	_	_	_	_	_	_
+11	siit	siit	CCONJ	_	_	_	_	_	_
+12	tasuittih	UNKN	_	_	_	_	_	_	_
+
+1	Akkad	UNKN	_	_	_	_	_	_	_
+2	ielnu	UNKN	_	_	_	_	_	_	_
+3	k	UNKN	_	_	_	_	_	_	_
+4	üksin	UNKN	_	_	_	_	_	_	_
+5	eli	elädä	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+6	kodin	kodi	NOUN	_	Number=Sing|Case=Gen	_	_	_	_
+7	sen	UNKN	_	_	_	_	_	_	_
+8	sroii	UNKN	_	_	_	_	_	_	_
+9	häi	häi	PRON	_	_	_	_	_	_
+10	kuni	UNKN	_	_	_	_	_	_	_
+11	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+12	akke	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	muud	UNKN	_	_	_	_	_	_	_
+3	lesked	UNKN	_	_	_	_	_	_	_
+4	ielda	UNKN	_	_	_	_	_	_	_
+5	hüvät	UNKN	_	_	_	_	_	_	_
+6	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+7	ei	ei	AUX	_	_	_	_	_	_
+8	sua	UNKN	_	_	_	_	_	_	_
+9	nad’ožat	UNKN	_	_	_	_	_	_	_
+10	pidäi	UNKN	_	_	_	_	_	_	_
+
+1	Em	UNKN	_	_	_	_	_	_	_
+2	vuoi	UNKN	_	_	_	_	_	_	_
+3	dovarišat	UNKN	_	_	_	_	_	_	_
+4	seičaz	UNKN	_	_	_	_	_	_	_
+5	viinat	UNKN	_	_	_	_	_	_	_
+6	suada	UNKN	_	_	_	_	_	_	_
+
+1	Herremiehed	UNKN	_	_	_	_	_	_	_
+2	olemme	UNKN	_	_	_	_	_	_	_
+3	herremiehet	UNKN	_	_	_	_	_	_	_
+
+1	Sig	UNKN	_	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	randal	UNKN	_	_	_	_	_	_	_
+4	neččih	UNKN	_	_	_	_	_	_	_
+5	Laurihpiäi	UNKN	_	_	_	_	_	_	_
+6	Bohatterin	UNKN	_	_	_	_	_	_	_
+7	Miikkulan	UNKN	_	_	_	_	_	_	_
+8	kodi	kodi	NOUN	_	_	_	_	_	_@kodi	NOUN
+9	a	A	INTJ	_	_	_	_	_	_
+10	sig	UNKN	_	_	_	_	_	_	_
+11	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+12	mečikkö	UNKN	_	_	_	_	_	_	_
+13	Kuziviidaks	UNKN	_	_	_	_	_	_	_
+14	kirguttih	kirguda	VERB	_	Number=Plur|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+15	moine	moine	ADJ	_	_	_	_	_	_
+16	nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+17	lepikkö	UNKN	_	_	_	_	_	_	_
+18	sigä	UNKN	_	_	_	_	_	_	_
+19	suo	UNKN	_	_	_	_	_	_	_
+20	da	da	CCONJ	_	_	_	_	_	_
+21	kai	kai	PRON	_	_	_	_	_	_
+
+1	Häi	häi	PRON	_	_	_	_	_	_
+2	sinnä	sinnä	ADV	_	_	_	_	_	_
+3	sidä	UNKN	_	_	_	_	_	_	_
+4	Kuziviidad	UNKN	_	_	_	_	_	_	_
+5	müöti	UNKN	_	_	_	_	_	_	_
+6	lepoköz	UNKN	_	_	_	_	_	_	_
+7	brodiheze	UNKN	_	_	_	_	_	_	_
+8	brodiheze	UNKN	_	_	_	_	_	_	_
+9	män	UNKN	_	_	_	_	_	_	_
+10	e	UNKN	_	_	_	_	_	_	_
+11	tiedä	UNKN	_	_	_	_	_	_	_
+12	min	UNKN	_	_	_	_	_	_	_
+13	a	A	INTJ	_	_	_	_	_	_
+14	hüö	UNKN	_	_	_	_	_	_	_
+15	doroguoid	UNKN	_	_	_	_	_	_	_
+16	müöti	UNKN	_	_	_	_	_	_	_
+17	kirgutah	UNKN	_	_	_	_	_	_	_
+18	Ontuoi-diädö	UNKN	_	_	_	_	_	_	_
+19	tule	UNKN	_	_	_	_	_	_	_
+20	tännä	UNKN	_	_	_	_	_	_	_
+
+1	D’älgele	UNKN	_	_	_	_	_	_	_
+2	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	Ka	ka	PART	_	_	_	_	_	_
+4	oi	UNKN	_	_	_	_	_	_	_
+5	tüö	UNKN	_	_	_	_	_	_	_
+6	kehnolaižed	UNKN	_	_	_	_	_	_	_
+
+1	Kävelin	UNKN	_	_	_	_	_	_	_
+2	kävelin	UNKN	_	_	_	_	_	_	_
+3	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+4	kotat	UNKN	_	_	_	_	_	_	_
+5	täuded	UNKN	_	_	_	_	_	_	_
+6	luntte	UNKN	_	_	_	_	_	_	_
+7	tul’d’ih	UNKN	_	_	_	_	_	_	_
+8	da	da	CCONJ	_	_	_	_	_	_
+9	väzüin	UNKN	_	_	_	_	_	_	_
+10	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	sigä	UNKN	_	_	_	_	_	_	_
+12	Kuziviidan	UNKN	_	_	_	_	_	_	_
+13	kaiken	UNKN	_	_	_	_	_	_	_
+14	proidiin	UNKN	_	_	_	_	_	_	_
+15	vai	UNKN	_	_	_	_	_	_	_
+16	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+17	urižou	UNKN	_	_	_	_	_	_	_
+18	kirgutah	UNKN	_	_	_	_	_	_	_
+19	Tule	UNKN	_	_	_	_	_	_	_
+20	tännä	UNKN	_	_	_	_	_	_	_
+21	tule	UNKN	_	_	_	_	_	_	_
+22	tännä	UNKN	_	_	_	_	_	_	_
+23	sinnä	sinnä	ADV	_	_	_	_	_	_
+24	sanou	sanoda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+25	minä	minä	PRON	_	_	_	_	_	_
+26	i	i	CCONJ	_	_	_	_	_	_
+27	mänen	UNKN	_	_	_	_	_	_	_
+
+1	Ühten	UNKN	_	_	_	_	_	_	_
+2	kieran	UNKN	_	_	_	_	_	_	_
+3	purasti	UNKN	_	_	_	_	_	_	_
+4	purasti	UNKN	_	_	_	_	_	_	_
+5	ku	UNKN	_	_	_	_	_	_	_
+6	purastukseh	UNKN	_	_	_	_	_	_	_
+7	lähtegeh	UNKN	_	_	_	_	_	_	_
+8	sordui	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	a	A	INTJ	_	_	_	_	_	_
+3	siit	siit	CCONJ	_	_	_	_	_	_
+4	pl’emännikät	UNKN	_	_	_	_	_	_	_
+5	sigä	UNKN	_	_	_	_	_	_	_
+6	vedettih	UNKN	_	_	_	_	_	_	_
+7	kunnabo	UNKN	_	_	_	_	_	_	_
+8	paned	UNKN	_	_	_	_	_	_	_
+9	vahnan	UNKN	_	_	_	_	_	_	_
+10	pidäu	UNKN	_	_	_	_	_	_	_
+11	ottada	ottada	VERB	_	_	_	_	_	_
+12	iäre	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	vot	vot	INTJ	_	_	_	_	_	_
+3	peščii	UNKN	_	_	_	_	_	_	_
+4	muga	muga	ADV	_	_	_	_	_	_
+5	keitetaa	UNKN	_	_	_	_	_	_	_
+6	i	i	CCONJ	_	_	_	_	_	_
+7	ende	UNKN	_	_	_	_	_	_	_
+8	že	UNKN	_	_	_	_	_	_	_
+9	ei	ei	AUX	_	_	_	_	_	_
+10	olnu	olda	VERB	_	Voice=Active|VebForm=Part|PartForm=Past	_	_	_	_
+11	mašinoit	UNKN	_	_	_	_	_	_	_
+
+1	I	i	CCONJ	_	_	_	_	_	_
+2	vot	vot	INTJ	_	_	_	_	_	_
+3	šiit	siit	CCONJ	_	_	_	_	_	_
+4	kartas	UNKN	_	_	_	_	_	_	_
+5	dosk	UNKN	_	_	_	_	_	_	_
+6	se	se	PRON	_	_	_	_	_	_@se	PRON
+7	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Muga	muga	ADV	_	_	_	_	_	_
+2	st’eraidi	UNKN	_	_	_	_	_	_	_
+3	šill	UNKN	_	_	_	_	_	_	_
+4	kartas	UNKN	_	_	_	_	_	_	_
+
+1	Mänemme	UNKN	_	_	_	_	_	_	_
+2	pristaninnu	UNKN	_	_	_	_	_	_	_
+3	šiga	UNKN	_	_	_	_	_	_	_
+4	k’ülü	UNKN	_	_	_	_	_	_	_
+5	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+
+1	Ende	UNKN	_	_	_	_	_	_	_
+2	muga	muga	ADV	_	_	_	_	_	_
+3	i	i	CCONJ	_	_	_	_	_	_
+4	na	UNKN	_	_	_	_	_	_	_
+5	meill	UNKN	_	_	_	_	_	_	_
+6	ainos	ainos	ADV	_	_	_	_	_	_
+7	sanota	UNKN	_	_	_	_	_	_	_
+8	pristan’	UNKN	_	_	_	_	_	_	_
+
+1	Kezrättii	UNKN	_	_	_	_	_	_	_
+2	akat	UNKN	_	_	_	_	_	_	_
+
+1	Šig	UNKN	_	_	_	_	_	_	_
+2	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	dielod	UNKN	_	_	_	_	_	_	_
+4	äi	UNKN	_	_	_	_	_	_	_
+5	ve	UNKN	_	_	_	_	_	_	_
+6	vie	UNKN	_	_	_	_	_	_	_
+7	langas	UNKN	_	_	_	_	_	_	_
+
+1	Hurščit	UNKN	_	_	_	_	_	_	_
+2	santi	UNKN	_	_	_	_	_	_	_
+3	h	UNKN	_	_	_	_	_	_	_
+4	lat’t’aile	UNKN	_	_	_	_	_	_	_
+5	pandaa	UNKN	_	_	_	_	_	_	_
+6	i	i	CCONJ	_	_	_	_	_	_
+7	što	UNKN	_	_	_	_	_	_	_
+8	doroškat	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	kui	kui	ADV	_	_	_	_	_	_
+3	e	UNKN	_	_	_	_	_	_	_
+4	kudottih	UNKN	_	_	_	_	_	_	_
+5	kangas	UNKN	_	_	_	_	_	_	_
+
+1	Libo	UNKN	_	_	_	_	_	_	_
+2	tulet	UNKN	_	_	_	_	_	_	_
+3	lasketat	UNKN	_	_	_	_	_	_	_
+4	maidot	UNKN	_	_	_	_	_	_	_
+
+1	Kandates	UNKN	_	_	_	_	_	_	_
+2	maidos	UNKN	_	_	_	_	_	_	_
+3	otetaa	UNKN	_	_	_	_	_	_	_
+
+1	Ende	UNKN	_	_	_	_	_	_	_
+2	vit’	UNKN	_	_	_	_	_	_	_
+3	ei	ei	AUX	_	_	_	_	_	_
+4	anttu	UNKN	_	_	_	_	_	_	_
+5	voit	UNKN	_	_	_	_	_	_	_
+6	mugošte	UNKN	_	_	_	_	_	_	_
+7	ku	UNKN	_	_	_	_	_	_	_
+8	nügü	UNKN	_	_	_	_	_	_	_
+9	müö	UNKN	_	_	_	_	_	_	_
+10	dovol’no	UNKN	_	_	_	_	_	_	_
+11	šüömme	UNKN	_	_	_	_	_	_	_
+12	ve	UNKN	_	_	_	_	_	_	_
+13	n’e	ne	PRON	_	_	_	_	_	_
+14	hočem	UNKN	_	_	_	_	_	_	_
+
+1	I	i	CCONJ	_	_	_	_	_	_
+2	lienov	UNKN	_	_	_	_	_	_	_
+3	moine	moine	ADJ	_	_	_	_	_	_
+4	hüvä	UNKN	_	_	_	_	_	_	_
+5	hüvä	UNKN	_	_	_	_	_	_	_
+6	lienou	UNKN	_	_	_	_	_	_	_
+
+1	Miä	UNKN	_	_	_	_	_	_	_
+2	postepenno	UNKN	_	_	_	_	_	_	_
+3	se	se	PRON	_	_	_	_	_	_@se	PRON
+4	paremb	UNKN	_	_	_	_	_	_	_
+5	lienov	UNKN	_	_	_	_	_	_	_
+6	smetaa	UNKN	_	_	_	_	_	_	_
+7	paremb	UNKN	_	_	_	_	_	_	_
+8	kandatez	UNKN	_	_	_	_	_	_	_
+9	lienou	UNKN	_	_	_	_	_	_	_
+
+1	Ruahto	UNKN	_	_	_	_	_	_	_
+2	rodizou	UNKN	_	_	_	_	_	_	_
+3	prostokišas	UNKN	_	_	_	_	_	_	_
+
+1	Vot	vot	INTJ	_	_	_	_	_	_
+2	i	i	CCONJ	_	_	_	_	_	_
+3	rodizou	UNKN	_	_	_	_	_	_	_
+4	prostokiš	UNKN	_	_	_	_	_	_	_
+
+1	Hero	UNKN	_	_	_	_	_	_	_
+2	kiehaštetaa	UNKN	_	_	_	_	_	_	_
+3	da	da	CCONJ	_	_	_	_	_	_
+4	i	i	CCONJ	_	_	_	_	_	_
+5	pandaa	UNKN	_	_	_	_	_	_	_
+6	päččih	UNKN	_	_	_	_	_	_	_
+7	šiga	UNKN	_	_	_	_	_	_	_
+8	piä	UNKN	_	_	_	_	_	_	_
+9	otat	UNKN	_	_	_	_	_	_	_
+10	ka	ka	PART	_	_	_	_	_	_
+
+1	Häin	UNKN	_	_	_	_	_	_	_
+2	d’o	d’o	INTJ	_	_	_	_	_	_
+3	ruoht	UNKN	_	_	_	_	_	_	_
+4	lienou	UNKN	_	_	_	_	_	_	_
+5	hüvä	UNKN	_	_	_	_	_	_	_
+
+1	Kui	kui	ADV	_	_	_	_	_	_
+2	santaa	UNKN	_	_	_	_	_	_	_
+3	erähit	UNKN	_	_	_	_	_	_	_
+
+1	Kui	kui	ADV	_	_	_	_	_	_
+2	že	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	podoi	UNKN	_	_	_	_	_	_	_
+3	meil	müö	PRON	_	Number=Plur|Case=Ade	_	_	_	_
+4	santii	UNKN	_	_	_	_	_	_	_
+5	ei	ei	AUX	_	_	_	_	_	_
+
+1	E	UNKN	_	_	_	_	_	_	_
+2	tämä	tämä	PRON	_	_	_	_	_	_
+3	viedr	UNKN	_	_	_	_	_	_	_
+4	toin’e	toine	ADJ	_	_	_	_	_	_
+
+1	En’džma	UNKN	_	_	_	_	_	_	_
+2	otat	UNKN	_	_	_	_	_	_	_
+3	muilad	UNKN	_	_	_	_	_	_	_
+4	i	i	CCONJ	_	_	_	_	_	_
+5	veded	UNKN	_	_	_	_	_	_	_
+6	i	i	CCONJ	_	_	_	_	_	_
+7	käžipaikan	UNKN	_	_	_	_	_	_	_
+8	odel’no	UNKN	_	_	_	_	_	_	_
+
+1	Vieras	UNKN	_	_	_	_	_	_	_
+
+1	Da	da	CCONJ	_	_	_	_	_	_
+2	oma	oma	ADJ	_	_	_	_	_	_
+3	taba	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	meill	UNKN	_	_	_	_	_	_	_
+3	vast	UNKN	_	_	_	_	_	_	_
+4	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+5	diede	UNKN	_	_	_	_	_	_	_
+
+1	Šilloi	UNKN	_	_	_	_	_	_	_
+2	minä	minä	PRON	_	_	_	_	_	_
+3	ruadospiä	UNKN	_	_	_	_	_	_	_
+4	tulin	UNKN	_	_	_	_	_	_	_
+5	mindaa	UNKN	_	_	_	_	_	_	_
+6	kucutii	UNKN	_	_	_	_	_	_	_
+7	meidee	UNKN	_	_	_	_	_	_	_
+8	milla	UNKN	_	_	_	_	_	_	_
+9	maatuškal	UNKN	_	_	_	_	_	_	_
+10	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+11	sizär’	sizar	NOUN	_	_	_	_	_	_
+
+1	Tožo	tožo	ADV	_	_	_	_	_	_
+2	oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+3	l’öit	UNKN	_	_	_	_	_	_	_
+4	postel’cat	UNKN	_	_	_	_	_	_	_
+5	t’ot’a	UNKN	_	_	_	_	_	_	_
+6	Nast’al	UNKN	_	_	_	_	_	_	_
+7	da	da	CCONJ	_	_	_	_	_	_
+8	Oli	olda	VERB	_	Number=Sing|Tense=Imp|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+9	vahne	vahne	ADJ	_	_	_	_	_	_
+
+1	Hot’	UNKN	_	_	_	_	_	_	_
+2	muaha	UNKN	_	_	_	_	_	_	_
+3	maid	UNKN	_	_	_	_	_	_	_
+4	mängäh	UNKN	_	_	_	_	_	_	_
+5	t’ämä	tämä	PRON	_	_	_	_	_	_
+6	maid	UNKN	_	_	_	_	_	_	_
+7	s’orouno	UNKN	_	_	_	_	_	_	_
+8	ed	UNKN	_	_	_	_	_	_	_
+9	ni	UNKN	_	_	_	_	_	_	_
+10	kunna	kunna	PRON	_	_	_	_	_	_
+11	pane	UNKN	_	_	_	_	_	_	_
+12	vit’	UNKN	_	_	_	_	_	_	_
+13	lapšel’e	UNKN	_	_	_	_	_	_	_
+14	ed	UNKN	_	_	_	_	_	_	_
+15	anda	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	vaza	UNKN	_	_	_	_	_	_	_
+3	olnov	UNKN	_	_	_	_	_	_	_
+4	vazale	UNKN	_	_	_	_	_	_	_
+
+1	Eigo	UNKN	_	_	_	_	_	_	_
+2	niä	UNKN	_	_	_	_	_	_	_
+3	a	A	INTJ	_	_	_	_	_	_
+4	enzimai	enzimäi	ADV	_	_	_	_	_	_
+5	vit’	UNKN	_	_	_	_	_	_	_
+6	n’uokaidav	UNKN	_	_	_	_	_	_	_
+7	konz	UNKN	_	_	_	_	_	_	_
+8	mado	UNKN	_	_	_	_	_	_	_
+9	ka	ka	PART	_	_	_	_	_	_
+10	häi	häi	PRON	_	_	_	_	_	_
+11	on	olda	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
+12	verel	UNKN	_	_	_	_	_	_	_
+
+1	Vai	UNKN	_	_	_	_	_	_	_
+2	ei	ei	AUX	_	_	_	_	_	_
+3	pide	UNKN	_	_	_	_	_	_	_
+4	kuivanutte	UNKN	_	_	_	_	_	_	_
+5	nügii	UNKN	_	_	_	_	_	_	_
+
+1	Kuivan	UNKN	_	_	_	_	_	_	_
+2	e	UNKN	_	_	_	_	_	_	_
+3	ende	UNKN	_	_	_	_	_	_	_
+
+1	Meihe	UNKN	_	_	_	_	_	_	_
+2	suoi	UNKN	_	_	_	_	_	_	_
+3	d’o	d’o	INTJ	_	_	_	_	_	_
+
+1	Kuss	UNKN	_	_	_	_	_	_	_
+2	roinito	UNKN	_	_	_	_	_	_	_
+3	šiga	UNKN	_	_	_	_	_	_	_
+4	kuaržinaa	UNKN	_	_	_	_	_	_	_
+
+1	I	i	CCONJ	_	_	_	_	_	_
+2	pandaa	UNKN	_	_	_	_	_	_	_
+
+1	Voi	UNKN	_	_	_	_	_	_	_
+2	azuttih	UNKN	_	_	_	_	_	_	_
+3	iče	UNKN	_	_	_	_	_	_	_
+4	ičeh	UNKN	_	_	_	_	_	_	_
+5	niškuoi	UNKN	_	_	_	_	_	_	_
+6	vai	UNKN	_	_	_	_	_	_	_
+7	müödih	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	šiid	siid	ADV	_	_	_	_	_	_
+3	i	i	CCONJ	_	_	_	_	_	_
+4	kurnikad	UNKN	_	_	_	_	_	_	_
+5	vähäižekš	UNKN	_	_	_	_	_	_	_
+6	šiid	siid	ADV	_	_	_	_	_	_
+7	otetaa	UNKN	_	_	_	_	_	_	_
+
+1	A	A	INTJ	_	_	_	_	_	_
+2	šiid	siid	ADV	_	_	_	_	_	_
+3	vie	UNKN	_	_	_	_	_	_	_
+4	piiragoit	UNKN	_	_	_	_	_	_	_
+5	kuni	UNKN	_	_	_	_	_	_	_
+6	paštetaa	UNKN	_	_	_	_	_	_	_
+7	da	da	CCONJ	_	_	_	_	_	_
+8	toižed	UNKN	_	_	_	_	_	_	_
+9	da	da	CCONJ	_	_	_	_	_	_
+10	kosijoid	UNKN	_	_	_	_	_	_	_
+11	da	da	CCONJ	_	_	_	_	_	_
+
+1	Opi	UNKN	_	_	_	_	_	_	_
+2	vai	UNKN	_	_	_	_	_	_	_
+3	d’oga	d’oga	PRON	_	_	_	_	_	_
+4	voida	UNKN	_	_	_	_	_	_	_
+5	ka	ka	PART	_	_	_	_	_	_
+6	mii	UNKN	_	_	_	_	_	_	_
+7	mänoo	UNKN	_	_	_	_	_	_	_
+
+1	Voi	UNKN	_	_	_	_	_	_	_
+2	hot’	UNKN	_	_	_	_	_	_	_
+3	mit’t’ušt	UNKN	_	_	_	_	_	_	_
+4	kalat	UNKN	_	_	_	_	_	_	_
+
+1	Nagrišt	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+
+1	Kui	kui	ADV	_	_	_	_	_	_
+2	še	se	PRON	_	_	_	_	_	_@se	PRON
+
+1	D’o	d’o	INTJ	_	_	_	_	_	_
+2	puhtahaz	UNKN	_	_	_	_	_	_	_
+3	zdaitaa	UNKN	_	_	_	_	_	_	_
+4	kolhozaa	UNKN	_	_	_	_	_	_	_
+
+1	Kui	kui	ADV	_	_	_	_	_	_
+2	tuulatettih	UNKN	_	_	_	_	_	_	_
+3	riihes	UNKN	_	_	_	_	_	_	_
+4	sigä	UNKN	_	_	_	_	_	_	_
+5	ku	UNKN	_	_	_	_	_	_	_
+6	luödäh	UNKN	_	_	_	_	_	_	_
+
+1	Nu	nu	INTJ	_	_	_	_	_	_@Nu	INTJ
+2	m’akinat	UNKN	_	_	_	_	_	_	_
+
+1	Da	da	CCONJ	_	_	_	_	_	_
+2	štobi	UNKN	_	_	_	_	_	_	_
+3	puhtas	UNKN	_	_	_	_	_	_	_
+4	puhtaz	UNKN	_	_	_	_	_	_	_
+5	oliiž	UNKN	_	_	_	_	_	_	_
+6	ni	UNKN	_	_	_	_	_	_	_
+7	mid	UNKN	_	_	_	_	_	_	_
+8	ei	ei	AUX	_	_	_	_	_	_
+9	dieiš	UNKN	_	_	_	_	_	_	_
+

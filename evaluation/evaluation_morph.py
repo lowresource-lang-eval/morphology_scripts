@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*
-__author__ = "gisly"
 #Created by https://github.com/flying-bear/practice
 import os
 from collections import OrderedDict

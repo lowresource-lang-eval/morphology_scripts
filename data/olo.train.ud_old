@@ -763,7 +763,7 @@
 6	täytty	täyzi	ADJ	_	Number=Sing|Case=Par	_	_	_	_
 7	päiviä	päivy	NOUN	_	Number=Sing|Case=Par	_	_	_	_
 
-# text_id = 1422
+# text_id = 1421
 # sent_id = 1422-2
 # text = Kolmes vuvves se on jo kuvves teatran suavutus.
 1	Kolmes	UNKN	_	_	_	_	_	_	_
@@ -2414,7 +2414,7 @@
 2	on	olla	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
 3	tiä	tiä	ADV	_	_	_	_	_	_
 
-# text_id = 1429
+# text_id = 1423
 # sent_id = 1429-1
 # text = Tartu kynäh -rubriekku jatkuu.
 1	Tartu	UNKN	_	_	_	_	_	_	_
@@ -9571,7 +9571,7 @@
 9	dovariššu	dovariššu	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
 10	l’öwdüi	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1509
+# text_id = 1508
 # sent_id = 1509-1
 # text = – Tules, dušoi, bes’odažeh!
 # text_ru = – Приходи, милый, на беседу!
@@ -20809,7 +20809,7 @@
 27	nämmih	UNKN	_	_	_	_	_	_	_
 28	kohtažih	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1531
+# text_id = 1530
 # sent_id = 1531-3
 # text = Ečikkiättö jo minun(i) hel’ein hengüžen(i)  Matkuandan aijoikse kaijat tuomidorogažet,  Kazvatelkua jo kuldažed(i) koivužed(i),  Čuran-toižen(i) dorogažii hobjažed(i) l’ehtüät  Minun hel’evien(i) hengüžien(i) matkuandan aijoikse.
 # text_ru = Найдите же на время прихода моей светлой душеньки  Узенькие дороженьки, обсаженные черемухами, Вырастите же к этому времечку золотые березоньки  С серебряными листочками по обеим сторонам дороженьки  На времечко, когда моя светлая душа будет идти на тот свет.
@@ -20987,7 +20987,7 @@
 9	i	i	CCONJ	_	_	_	_	_	_
 10	lunnastella	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1532
+# text_id = 1531
 # sent_id = 1532-1
 # text = Kasken ajoimmo, sen keviäl vieriimmö, poltiimmo ül’en äijäl kandožet teräväkse, štobi tuhkua enämbi rodiaš: nagriš roih karjembi.
 # text_ru = Пожог мы вырубали, весной его палили, сжигали очень сильно, чтобы пеньки оставались острые, чтобы образовалось больше золы: репа будет крупнее.
@@ -22838,7 +22838,7 @@
 6	kuh	UNKN	_	_	_	_	_	_	_
 7	kuolen	kuolta	VERB	_	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
 
-# text_id = 1535
+# text_id = 1534
 # sent_id = 1535-1
 # text = A meččäh kaheksandel l’ähtiin...
 # text_ru = А в лес на восьмом году я пошёл...
@@ -24406,7 +24406,7 @@
 # text = 24.
 # text_ru = 24.
 
-# text_id = 1538
+# text_id = 1537
 # sent_id = 1538-1
 # text = 1.
 # text_ru = 1.
@@ -25908,7 +25908,7 @@
 16	savvoimel	UNKN	_	_	_	_	_	_	_
 17	püwtäh	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1540
+# text_id = 1539
 # sent_id = 1540-1
 # text = Täs nügöi keviäl, maajal, on ezmäžikse jürrinpäivü pruazniekku.
 # text_ru = Тут теперь весной, в мае, во-первых, наступает Георгиев (‘Юрьев’) день.
@@ -26602,7 +26602,7 @@
 2	minuw	minä	PRON	_	_	_	_	_	_
 3	orjakse	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1544
+# text_id = 1543
 # sent_id = 1544-2
 # text = – Muan-taivahan keskes.
 # text_ru = – Между небом и землёй.
@@ -28855,7 +28855,7 @@
 18	on	olla	VERB	_	Number=Sing|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
 19	mustu	mustu	ADJ	_	Number=Sing|Case=Nom	_	_	_	_
 
-# text_id = 1547
+# text_id = 1546
 # sent_id = 1547-1
 # text = Päivät virun, üöt virun, ainos ühtel bokal.
 # text_ru = Целые дни лежу, ночи лежу, всё на одном боку.
@@ -32190,7 +32190,7 @@
 7	matkua	matku	NOUN	_	Number=Sing|Case=Par	_	_	_	_
 8	kodih	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1551
+# text_id = 1550
 # sent_id = 1551-1
 # text = Hospodi blahoslovi, hristos.
 # text_ru = Господи, благослови, Христос.
@@ -32872,7 +32872,7 @@
 8	L’enin	UNKN	_	_	_	_	_	_	_
 9	sanoi	sana	NOUN	_	Number=Plur|Case=Par	_	_	_	_
 
-# text_id = 1554
+# text_id = 1553
 # sent_id = 1554-2
 # text = Kožownas nahkua luajittih puoli vuottu.
 # text_ru = В кожевне кожу выделывали полгода.
@@ -35431,7 +35431,7 @@
 13	meijän	myö	PRON	_	Number=Sing|Case=Gen	_	_	_	_
 14	poijat	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1557
+# text_id = 1556
 # sent_id = 1557-1
 # text = Oli sie kowme vel’l’estü.
 # text_ru = Было там три брата.
@@ -38793,7 +38793,7 @@
 6	pörhöttee	UNKN	_	_	_	_	_	_	_
 7	Heinüregi	heinyregi	NOUN	_	_	_	_	_	_
 
-# text_id = 1568
+# text_id = 1565
 # sent_id = 1568-1
 # text = Jovensun melliččee minä kačoin kaheksatostu vuottu.
 # text_ru = За гилкожской мельницей я смотрел восемнадцать лет.
@@ -41079,7 +41079,7 @@
 7	dai	dai	CCONJ	_	_	_	_	_	_
 8	por’adn’oiččow	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1575
+# text_id = 1573
 # sent_id = 1575-1
 # text = Enne oldih pruazn’iekat prestol’n’oit, kačo sanottih, prestol’n’oikse.
 # text_ru = Раньше праздники были престольные, видишь ли, так их называли.
@@ -42406,7 +42406,7 @@
 8	tapettih	UNKN	_	_	_	_	_	_	_
 9	iškiettih	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1577
+# text_id = 1576
 # sent_id = 1577-1
 # text = Oli sie Kindahan mužikoil orožu.
 # text_ru = Было там у киндасовских мужиков ружьё.
@@ -43890,7 +43890,7 @@
 13	nagrehen	nagris	NOUN	_	Number=Sing|Case=Gen	_	_	_	_
 14	puhuo	puhuo	VERB	_	VebForm=Inf|InfForm=1	_	_	_	_
 
-# text_id = 1583
+# text_id = 1582
 # sent_id = 1583-2
 # text = A nügöi ku vahnanin, ga ewlo moine musto.
 # text_ru = А теперь, как состарилась, память уже не такая.
@@ -51648,7 +51648,7 @@
 21	ženihiä	ženihy	NOUN	_	Number=Sing|Case=Par	_	_	_	_
 22	oli	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1590
+# text_id = 1589
 # sent_id = 1590-1
 # text = Kizua: kadreli, länsi, ristukondru.
 # text_ru = Из танцев [танцевали] кадриль, ланей, ристукондру.
@@ -57656,7 +57656,7 @@
 6	Vepsän-karjalkielizeh	UNKN	_	_	_	_	_	_	_
 7	avvokorpussah	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1629
+# text_id = 1616
 # sent_id = 1629-1
 # text = Perindö pruaznuija Karjalan tazavallan päiviä eri piirilöis oli pandu alguh nelli vuottu tagaperin.
 1	Perindö	perindö	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
@@ -60020,7 +60020,7 @@
 9	da	da	PART	_	_	_	_	_	_
 10	kuunnella	kuunnella	VERB	_	VebForm=Inf|InfForm=1	_	_	_	_
 
-# text_id = 1650
+# text_id = 1647
 # sent_id = 1650-1
 # text = Vähä ken tänäpäi tiedäy Risto Bogdanovua, ga Karjalan 100-vuozipäivän lähestyjes tahtozimmo suaja endizeh kundoh oigienmugažus da mustella karjalan rahvahan arvokkahan poijan nimie, kudai oli Karjalan tazavallan filolougizen tiedoalan allus.
 1	Vähä	vaha	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
@@ -64903,7 +64903,7 @@
 8	Pölyzen	UNKN	_	_	_	_	_	_	_
 9	šeikkailut	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1665
+# text_id = 1659
 # sent_id = 1665-2
 # text = Yliopiston tiedokirjaston seinis 21.
 1	Yliopiston	yliopisto	NOUN	_	Number=Sing|Case=Gen	_	_	_	_
@@ -66683,7 +66683,7 @@
 1	Passibo	passibo	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
 2	Lidija	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1672
+# text_id = 1671
 # sent_id = 1672-1
 # text = Tämä kuva kirjutuksenke oli painettu “Oman Muan” erähäs noumeras vuvvennu 2010.
 1	Tämä	tämä	PRON	_	Number=Sing|Case=Nom	_	_	_	_
@@ -67207,7 +67207,7 @@
 7	školas	UNKN	_	_	_	_	_	_	_
 8	opastajannu	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1676
+# text_id = 1675
 # sent_id = 1676-1
 # text = Minun tytär Svetlana on nuori, čoma, näbei naine.
 1	Minun	minä	PRON	_	Number=Sing|Case=Gen	_	_	_	_
@@ -67901,7 +67901,7 @@
 6	kaminan	kamin	NOUN	_	Number=Sing|Case=Gen	_	_	_	_
 7	valgiekse	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1683
+# text_id = 1682
 # sent_id = 1683-1
 # text = Ven’an Duumu ei hyväksynnyh zakonanprojektua, kuduan mugah virguniekoile da valdivoherroile pandas štruafuu rahvahien sanal satatukses.
 1	Ven’an	Ven’a	PROPN	_	Number=Sing|Case=Gen	_	_	_	_
@@ -68639,7 +68639,7 @@
 9	endisty	endine	NOUN	_	Number=Sing|Case=Par	_	_	_	_
 10	enämbi	enämbi	ADV	_	_	_	_	_	_
 
-# text_id = 1693
+# text_id = 1691
 # sent_id = 1693-1
 # text = Petroskois 12.-14.
 1	Petroskois	UNKN	_	_	_	_	_	_	_
@@ -70638,7 +70638,7 @@
 5	mual	UNKN	_	_	_	_	_	_	_
 6	elän	eliä	VERB	_	Number=Sing|Tense=Pres|Person=1|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
 
-# text_id = 1702
+# text_id = 1700
 # sent_id = 1702-1
 # text = Konzu ajat loitton kyläspäi Unis ainos olet omal rannal.
 1	Konzu	konzu	ADV	_	_	_	_	_	_
@@ -72001,7 +72001,7 @@
 10	kudai	kudai	PRON	_	Number=Sing|Case=Nom	_	_	_	_
 11	pietäh	pidiä	VERB	_	Number=Plur|Tense=Pres|Person=3|VebForm=Fin|Mood=Ind|Polarity=Pos	_	_	_	_
 
-# text_id = 1715
+# text_id = 1711
 # sent_id = 1715-1
 # text = Suomelas-ugrilazen školan enzimäzen kluasan opastujat kučuttih gostih Kipinä-žurnualan ruadajii.
 1	Suomelas-ugrilazen	UNKN	_	_	_	_	_	_	_
@@ -72288,7 +72288,7 @@
 15	oraskuun	oraskuu	NOUN	_	Number=Sing|Case=Gen	_	_	_	_
 16	noumeras	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1717
+# text_id = 1715
 # sent_id = 1717-2
 # text = Tahtozin sanella sih nähte kaikile “Oman Muan” lugijoile.
 1	Tahtozin	UNKN	_	_	_	_	_	_	_
@@ -81195,7 +81195,7 @@
 5	ruadamah	UNKN	_	_	_	_	_	_	_
 6	oraskuun	oraskuu	NOUN	_	Number=Sing|Case=Gen	_	_	_	_
 
-# text_id = 1744
+# text_id = 1742
 # sent_id = 1744-1
 # text = Teroin Tol’a havačui huondeksel.
 1	Teroin	UNKN	_	_	_	_	_	_	_
@@ -81862,7 +81862,7 @@
 6	dai	dai	CCONJ	_	_	_	_	_	_
 7	itket	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1745
+# text_id = 1744
 # sent_id = 1745-1
 # text = *** Pakkaskuu loppih, tuhukuu algoi – panen vetty čainiekkah.
 1	Pakkaskuu	pakkaskuu	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
@@ -81935,7 +81935,7 @@
 8	ken	ken	PRON	_	Number=Sing|Case=Nom	_	_	_	_
 9	kusgi	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1746
+# text_id = 1745
 # sent_id = 1746-1
 # text = Mihbo sellitä, anna nevvotah, Mittumah pluat’t’ah.
 1	Mihbo	mihbo	ADV	_	_	_	_	_	_
@@ -84499,7 +84499,7 @@
 16	mies	mies	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
 16	mies	mies	NOUN	_	_	_	_	_	_
 
-# text_id = 1762
+# text_id = 1760
 # sent_id = 1762-2
 # text = Kul’tuurutaloin kirjastoh kerävyi läs kahtukymmendy hengie.
 1	Kul’tuurutaloin	UNKN	_	_	_	_	_	_	_
@@ -85973,7 +85973,7 @@
 17	Karhumäin	UNKN	_	_	_	_	_	_	_
 18	rajonoispäi	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1771
+# text_id = 1770
 # sent_id = 1771-1
 # text = Tänävuon Karjalan tazavallan kirjastot yhtytäh Biblioyö-aktsieh jo kuvvettu kerdua.
 1	Tänävuon	tänävuon	ADV	_	_	_	_	_	_
@@ -86769,7 +86769,7 @@
 24	Valentina	UNKN	_	_	_	_	_	_	_
 25	Saburova	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1782
+# text_id = 1776
 # sent_id = 1782-2
 # text = Myö, kaččojat, aiven kannatammo kižuajii, kiirrummo oigieloi kirjaimii da sanoi kižuajile divanal istujes, rounoku hyö meidy kuultah.
 1	Myö	myö	PRON	_	Number=Sing|Case=Nom	_	_	_	_
@@ -89871,7 +89871,7 @@
 5	hyviä	hyvä	UNKN	_	Number=Sing|Case=Par	_	_	_	_
 6	dovariššua	dovariššu	NOUN	_	Number=Sing|Case=Par	_	_	_	_
 
-# text_id = 1804
+# text_id = 1803
 # sent_id = 1804-1
 # text = Pitky, märgy da tuuline on talvi Karjalas.
 1	Pitky	pitky	ADJ	_	Number=Sing|Case=Nom	_	_	_	_
@@ -91279,7 +91279,7 @@
 5	da	da	PART	_	_	_	_	_	_
 6	čomat	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1814
+# text_id = 1813
 # sent_id = 1814-1
 # text = Talvi jatkuu, on jo sulakuu…
 1	Talvi	talvi	NOUN	_	Number=Sing|Case=Nom	_	_	_	_
@@ -91791,7 +91791,7 @@
 15	Karjal	Karjal	PROPN	_	Number=Sing|Case=Nom	_	_	_	_
 16	-kniigu	UNKN	_	_	_	_	_	_	_
 
-# text_id = 1818
+# text_id = 1817
 # sent_id = 1818-1
 # text = Sulakuun 23.
 1	Sulakuun	sulakuu	NOUN	_	Number=Sing|Case=Gen	_	_	_	_
